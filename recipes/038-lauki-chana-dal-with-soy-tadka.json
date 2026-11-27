@@ -59,5 +59,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
   "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
-  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Lauki Chana Dal",
+      "url": "https://www.vegrecipesofindia.com/lauki-chana-dal-curry-recipe/",
+      "note": "Bottle-gourd and chana-dal pairing, soaking and pressure-cooker/pan method; soy tadka is our original variation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
