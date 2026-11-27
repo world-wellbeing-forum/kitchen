@@ -36,5 +36,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Bhurji Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-bhurji-scrambled-cottage-cheese-with-spices/",
+      "note": "Crumbled-protein texture and quick onion-tomato bhurji technique; tofu is used in our distinct egg-free recipe.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
