@@ -36,5 +36,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Paratha Recipe (Methi ke Parathe)",
+      "url": "https://www.vegrecipesofindia.com/methi-paratha/",
+      "note": "Fresh methi handling, dough mixing and tawa-roasting technique; tofu-stuffed adaptation is original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
