@@ -33,5 +33,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sattu Drink Recipe (Sattu Sharbat)",
+      "url": "https://www.vegrecipesofindia.com/sattu-drink-recipe-sattu-sharbat/",
+      "note": "Bihari sattu beverage tradition, mixing technique and black-salt/lemon flavour profile; our savoury protein-forward formulation is distinct.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
