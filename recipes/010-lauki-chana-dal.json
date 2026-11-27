@@ -60,5 +60,14 @@
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageStatus": "licensed-commons-remote-local-copy-pending",
+  "imageAttribution": {
+    "creator": "Neha Sonal",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lauki_and_Chana_Dal_Curry.jpg",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "match": "exact"
+  }
 }

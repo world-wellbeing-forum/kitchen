@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "updatedOn": "2026-11-27",
+  "policy": "Only individually checked Wikimedia Commons file pages are included in this reviewed batch. filePath is null until the remote image can be mirrored into assets/images/recipes/; no local file is claimed.",
+  "records": [
+    {
+      "recipeId": 6,
+      "filePath": null,
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG/960px-Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Mdsmds0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceTitle": "Pumpkin Curry (Kaddu Ki Sabzi)",
+      "match": "exact",
+      "status": "verified-remote-local-copy-pending",
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "recipeId": 10,
+      "filePath": null,
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Neha Sonal",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lauki_and_Chana_Dal_Curry.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceTitle": "Lauki and Chana Dal Curry",
+      "match": "exact",
+      "status": "verified-remote-local-copy-pending",
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "recipeId": 13,
+      "filePath": null,
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chana_Ko_Dal.jpg/960px-Chana_Ko_Dal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "Gaurav Dhwaj Khadka",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chana_Ko_Dal.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceTitle": "Chana Ko Dal",
+      "match": "exact",
+      "status": "verified-remote-local-copy-pending",
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "recipeId": 14,
+      "filePath": null,
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chakra_Palak_Tofu.jpg/960px-Chakra_Palak_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "creator": "JIP",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chakra_Palak_Tofu.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceTitle": "Chakra Palak Tofu",
+      "match": "exact",
+      "status": "verified-remote-local-copy-pending",
+      "verifiedOn": "2026-11-27"
+    },
+    {
+      "recipeId": 21,
+      "filePath": null,
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rajma_Masala_%2832081557778%29.jpg/960px-Rajma_Masala_%2832081557778%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "creator": "Gaurav Nemade",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceTitle": "Rajma Masala (32081557778)",
+      "match": "exact",
+      "status": "verified-remote-local-copy-pending",
+      "verifiedOn": "2026-11-27"
+    }
+  ]
+}

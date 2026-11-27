@@ -29,7 +29,7 @@ const COLLECTIONS=[
  {slug:'seasonal-greens',title:'Seasonal Winter Greens',group:'everyday',range:[301,301],blurb:'Winter greens and pulses inspired by regional home cooking, adapted with measured oil and added plant protein.',tile:'linear-gradient(135deg,#3d6350,#8ca77a)',glyph:'✿'}
 ];
 const GROUPS={everyday:['Everyday Indian cooking','From the home kitchens of India, rebuilt for steady energy and plenty of plant protein.'],modern:['The modern kitchen','The same flavours, cooked the way many of us cook today: oven, air fryer and microwave.'],beyond:['Beyond the thali','Dishes from elsewhere, and a few sweet things.']};
-for(const r of recipes){const c=COLLECTIONS.find(c=>r.id>=c.range[0]&&r.id<=c.range[1]);r.collection=c;r.slug=slugify(r.name);const im=images[r.id];if(im)r.photo=im}
+for(const r of recipes){const c=COLLECTIONS.find(c=>r.id>=c.range[0]&&r.id<=c.range[1]);r.collection=c;r.slug=slugify(r.name);const im=images[r.id];if(im||r.image){r.photo={...(im||{}),url:r.imagePath||r.image||(im&&im.url)}}}
 const bySlug={};recipes.forEach(r=>{if(bySlug[r.slug])throw new Error('duplicate slug '+r.slug);bySlug[r.slug]=r});
 COLLECTIONS.forEach(c=>c.items=recipes.filter(r=>r.collection===c));
 
