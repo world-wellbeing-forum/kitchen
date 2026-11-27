@@ -1,0 +1,49 @@
+const baseRecipeReferences={
+26:[["Moong Dal Chilla – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/moong-dal-chilla-recipe/","Reference for soaked moong batter and skillet technique; spinach and serving details are our adaptation."]],
+27:[["Tadke Bina Zaika – FSSAI","https://www.fssai.gov.in/upload/knowledge_hub/9582262a819e8764cdBook_Tadke_bina_Zaika_14_06_2022.pdf","Official cookbook reference for besan-based cheela; our vegetable quantities and method are adapted."]],
+28:[["Oats Upma – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/oats-upma-recipe/","Reference for toasted oats and vegetable upma technique; our seed and vegetable mix differs."]],
+29:[["Poha Upma – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/poha-upma-recipe/","Reference for rinsing poha and tempering; our peas and seed additions are adapted."]],
+30:[["Ragi Dosa – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/ragi-dosa-recipe/","Reference for ragi dosa batter and tawa cooking; this is an instant soy-yogurt variation, not the fermented original."]],
+31:[["Tofu Bhurji – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/tofu-bhurji-scrambled-tofu/","Reference for tofu bhurji seasoning and cooking technique; spinach is our variation."]],
+32:[["Sprouts Chaat – Tata 1mg","https://www.1mg.com/articles/protein-rich-breakfast-recipes-for-vegetarians-that-take-under-15-minutes/","Reference for sprouts-based breakfast bowls; the soy-yogurt dressing and seeds are our adaptation."]],
+33:[["Idli – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/","Reference for idli preparation and steaming; this entry is a vegetable masala-idli adaptation."]],
+34:[["Sattu Drink – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/sattu-drink-recipe-sattu-sharbat/","Reference for traditional sattu drink; our savoury cucumber-herb version omits sweetener."]],
+35:[["Paneer Bhurji – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/paneer-bhurji-scrambled-cottage-cheese-with-spices/","Reference for paneer bhurji seasoning; spinach wrap format is our adaptation."]],
+36:[["Paneer Paratha – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/paneer-paratha-punjabi-paneer-paratha/","Reference for whole-wheat dough and stuffed paratha technique; tofu-methi filling is our variation."]],
+37:[["Soya Keema Breakfast Ideas – Nutribox","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for soy as a breakfast protein; our oats-and-soy combination is an adaptation."]],
+38:[["Moong Dal Khichdi – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/moong-dal-khichdi-recipe/","Reference for lentil-grain khichdi ratios and simmering; broken-wheat breakfast version is adapted."]],
+39:[["Chana Dal Pancakes / Adai – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/adai-recipe/","Reference for soaked lentil batter and skillet pancake technique; lauki is our variation."]],
+40:[["Tofu Bhurji – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/tofu-bhurji-scrambled-tofu/","Reference for tofu scramble; toast presentation and tomato-spinach mix are our adaptation."]],
+41:[["Rava Idli – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/rava-idli-recipe/","Reference for semolina idli and steaming; soy-yogurt vegan substitution is our adaptation."]],
+42:[["Little Millet Pongal – Orggu","https://www.orggu.com/recipes/little-millet-pongal/","Reference for millet and moong-dal pongal technique; this collection's version is nut-free."]],
+43:[["Sundal – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/kala-chana-sundal-recipe/","Reference for South Indian kala-chana sundal tempering; our lighter lemon version is adapted."]],
+44:[["Besan Chilla – Swasthi’s Recipes","https://www.indianhealthyrecipes.com/cheela-recipe/","Reference for chickpea-flour pancake batter; sweet potato is our variation."]],
+45:[["High-Protein Vegetarian Breakfast Ideas – Pod Nutrition","https://podnutrition.in/blogs/learn/high-protein-vegetarian-breakfast-indian","Reference for soy yogurt, seeds and protein-forward breakfast bowl composition; our savoury bowl is an adaptation."]],
+
+46:[["Pesarattu Recipe – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/moong-dal-dosa-pesarattu-a-cripsy-dosa-made-from-moong-dal/","Traditional whole-green-moong dosa; our seasoning and serving quantities are adapted."]],
+47:[["Besan Chilla with Paneer – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for pairing chickpea-flour chilla with paneer; this spinach filling and method are our adaptation."]],
+48:[["Soya Keema and Soya Breakfast Ideas – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for soy keema as a vegetarian breakfast protein; our wrap recipe is an adaptation."]],
+49:[["Hung Curd / Greek Yogurt Breakfast Bowl – Pod Nutrition","https://podnutrition.in/blogs/learn/high-protein-vegetarian-breakfast-indian","Reference for high-protein yogurt bowls; our chickpea and vegetable composition is an adaptation."]],
+50:[["Tofu Akuri – Calibrate high-protein Indian breakfast guide","https://calibrate.co.in/guides/high-protein-indian-breakfast-recipes","Reference for egg-free tofu akuri concept; our method and seasoning are adapted."]],
+51:[["Soya Chunk Upma – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for adding soya to upma; our ingredient proportions and steps are an adaptation."]],
+52:[["Millet Pongal – Orggu","https://www.orggu.com/recipes/little-millet-pongal/","Reference for millet and moong-dal pongal technique; this version uses quinoa."]],
+53:[["Paneer Paratha Recipe – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/paneer-paratha-punjabi-paneer-paratha/","Reference for stuffed paratha dough and filling technique; this version combines paneer and peas."]],
+54:[["Sprouts Chaat – Tata 1mg vegetarian breakfast collection","https://www.1mg.com/articles/protein-rich-breakfast-recipes-for-vegetarians-that-take-under-15-minutes/","Reference for sprouts chaat as a vegetarian breakfast; tofu is our added protein variation."]],
+55:[["Dhokla – FSSAI, Tadke Bina Zaika","https://www.fssai.gov.in/upload/knowledge_hub/9582262a819e8764cdBook_Tadke_bina_Zaika_14_06_2022.pdf","FSSAI cookbook reference for dhokla technique; soy-yogurt and chana-dal flour changes are our vegan adaptation."]],
+56:[["Adai – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/adai-recipe/","Reference for mixed-lentil adai batter and tawa cooking; spinach is our variation."]],
+57:[["Overnight Oats – Fitlives vegetarian breakfast guide","https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905","Reference for overnight oats as a protein-rich breakfast; this savoury soy-based version is our adaptation."]],
+58:[["Tofu and Chickpea Breakfast Ideas – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for combining tofu and chickpeas; sandwich format and seasoning are our adaptation."]],
+59:[["Ragi Dosa – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/ragi-dosa-recipe/","Reference for ragi batter and griddle technique; tofu uttapam is our adaptation."]],
+60:[["Kala Chana Breakfast Bowl – WellBeingMora high-protein Indian breakfast ideas","https://wellbeingmora.in/blogs/wellbeingmora-blogs/high-protein-indian-breakfast-ideas","Reference for kala chana breakfast bowls; sweet potato variation is ours."]],
+61:[["Paneer Bhurji Sandwich – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/paneer-bhurji-sandwich-recipe/","Reference for paneer bhurji sandwich filling; our capsicum toastie is adapted."]],
+62:[["Sattu Drink – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/sattu-drink-recipe-sattu-sharbat/","Reference for savoury sattu drink preparation; chickpea bowl presentation is our adaptation."]],
+63:[["Idli and Sambar – Dassana’s Veg Recipes","https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/","Reference for idli steaming and sambar pairing; this instant moong-based batter is our variation."]],
+64:[["Tofu and Mushroom Breakfast Ideas – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for tofu as a vegetarian breakfast protein; quesadilla format is our fusion adaptation."]],
+65:[["Overnight Oats – Fitlives vegetarian breakfast guide","https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905","Reference for overnight oats and yogurt combination; soy yogurt and apple variation is our adaptation."]]
+};
+const recipeReferences={...baseRecipeReferences,
+
+
+const $=id=>document.getElementById(id);
+function nav(tab){document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("active",b.dataset.tab===tab));document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===tab));if(tab==="shopping")renderShopping();}
+document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>nav(b.dataset.tab)));
