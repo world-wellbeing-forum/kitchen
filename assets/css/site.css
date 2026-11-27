@@ -9,3 +9,4 @@ main{max-width:1120px;margin:auto;padding:30px 20px 70px}.section{display:none}.
 @media(max-width:540px){main{padding:22px 14px 55px}.grid{grid-template-columns:1fr}.planner{grid-template-columns:1fr}.recipe-layout{grid-template-columns:1fr}.shopping-list{columns:1}.section-head{display:block}.stats{gap:18px}.hero h1{font-size:46px}}
 @media print{nav,header,.toolbar,.chips,.card-actions,.footer,.no-print{display:none!important}body{background:white}.section{display:none!important}#recipes.active{display:block!important}.card{break-inside:avoid;box-shadow:none}.grid{grid-template-columns:repeat(2,1fr)}}
 nav button:not([data-tab="recipes"]){display:none!important}#planner,#shopping,#tracker{display:none!important}
+.photo-pending{height:180px;display:grid;place-items:center;background:#e7eadf;color:#526653;font:600 13px system-ui;letter-spacing:.04em;text-align:center;padding:16px}
