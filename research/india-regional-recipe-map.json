@@ -1,0 +1,226 @@
+{
+  "title": "World Wellbeing Kitchen — India regional recipe development map",
+  "editorial_scope": "300 individually authored vegetarian and vegan recipes representing all 28 Indian states and 8 union territories, with additional city and regional collections for Hyderabad, Bengaluru, Delhi and other food centres.",
+  "dietary_rules": [
+    "No meat or fish",
+    "No eggs",
+    "No nuts or nut-derived ingredients",
+    "Clearly label dairy-containing vegetarian recipes and fully vegan recipes",
+    "Offer practical substitutions and check packaged ingredients for hidden allergens"
+  ],
+  "allocation_policy": "Build a balanced national collection rather than assigning identical quotas mechanically. Ensure every state and union territory has multiple authentic regional recipes; allocate more entries to regions with broader vegetarian culinary traditions and strong dish diversity. Do not claim a dish is traditionally vegan if the traditional version contains dairy or ghee; label the adapted version clearly.",
+  "recipe_requirements": [
+    "One standalone JSON file per recipe",
+    "Specific regional origin and state or union territory",
+    "Dish-specific photograph with cleared usage rights and attribution",
+    "Measured ingredients and serving yield",
+    "Preparation, cooking and total time",
+    "Detailed tested stovetop method",
+    "Microwave, conventional oven and air-fryer adaptations where suitable; state when a method is unsuitable",
+    "Vegetarian or vegan label; egg-free and nut-free checks",
+    "Estimated nutrition with calculation basis and uncertainty",
+    "Source references for traditional context and method, plus notes identifying adaptations"
+  ],
+  "city_collections": [
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "focus": "Hyderabadi vegetarian cuisine and Deccan influences"
+    },
+    {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "focus": "Kannada home cooking, Udupi traditions and modern city favourites"
+    },
+    {
+      "city": "Delhi",
+      "state_or_territory": "Delhi",
+      "focus": "Punjabi, Mughlai-influenced vegetarian, Old Delhi and street-food traditions"
+    }
+  ],
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "focus": "Andhra meals, pesarattu, gutti vankaya, pulihora, pappu, gongura-inspired dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "focus": "Thukpa, momos, bamboo-shoot vegetable dishes, millet and local greens",
+      "coverage": "planned"
+    },
+    {
+      "name": "Assam",
+      "focus": "Khar-inspired vegetable dishes, aloo pitika, xaak bhaji, tenga-style vegetable curry, pitha",
+      "coverage": "planned"
+    },
+    {
+      "name": "Bihar",
+      "focus": "Litti-chokha, sattu paratha, dal pitha, chokha, ghugni",
+      "coverage": "planned"
+    },
+    {
+      "name": "Chhattisgarh",
+      "focus": "Chila, fara, muthia, dubki kadhi, rice-based dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Goa",
+      "focus": "Vegetable xacuti, mushroom cafreal, sannas, patal bhaji, vegetarian vindaloo-style curry",
+      "coverage": "planned"
+    },
+    {
+      "name": "Gujarat",
+      "focus": "Undhiyu, Gujarati dal, handvo, dhokla, thepla, ringan no olo",
+      "coverage": "planned"
+    },
+    {
+      "name": "Haryana",
+      "focus": "Bajra roti, hara chana, kadhi, bathua dishes, besan masala roti",
+      "coverage": "planned"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "focus": "Madra, siddu, chana dal, dham-style rajma, babru",
+      "coverage": "planned"
+    },
+    {
+      "name": "Jharkhand",
+      "focus": "Dhuska, chilka roti, rugra-style mushroom curry, pittha, saag",
+      "coverage": "planned"
+    },
+    {
+      "name": "Karnataka",
+      "focus": "Bisi bele bath, ragi mudde, akki rotti, kosambari, saaru, Mysore masala dosa",
+      "coverage": "planned"
+    },
+    {
+      "name": "Kerala",
+      "focus": "Avial, olan, thoran, puttu-kadala, appam with vegetable stew, olan",
+      "coverage": "planned"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "focus": "Poha-jalebi inspired breakfast, bhutte ka kees, dal bafla, bhutte ki sabzi",
+      "coverage": "planned"
+    },
+    {
+      "name": "Maharashtra",
+      "focus": "Misal, bharli vangi, pithla-bhakri, usal, thalipeeth, kanda poha",
+      "coverage": "planned"
+    },
+    {
+      "name": "Manipur",
+      "focus": "Eromba-style vegetable mash, singju, kangshoi, chak-hao accompaniments",
+      "coverage": "planned"
+    },
+    {
+      "name": "Meghalaya",
+      "focus": "Jadoh-inspired vegetarian rice, tungrymbai-style beans, dohneiiong-inspired mushroom dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Mizoram",
+      "focus": "Bai vegetable stew, sawhchiar-style rice and vegetables, bamboo-shoot dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Nagaland",
+      "focus": "Axone-inspired beans and vegetables, smoked vegetable preparations, squash and greens",
+      "coverage": "planned"
+    },
+    {
+      "name": "Odisha",
+      "focus": "Dalma, santula, chakuli pitha, besara vegetables, poda pitha",
+      "coverage": "planned"
+    },
+    {
+      "name": "Punjab",
+      "focus": "Sarson da saag, makki di roti, chole, rajma, kadhi pakora, Amritsari kulcha",
+      "coverage": "planned"
+    },
+    {
+      "name": "Rajasthan",
+      "focus": "Dal baati, gatte ki sabzi, ker sangri, panchmel dal, bajra khichdi",
+      "coverage": "planned"
+    },
+    {
+      "name": "Sikkim",
+      "focus": "Vegetable momos, thukpa, phagshapa-inspired radish and mushroom stew, kinema dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Tamil Nadu",
+      "focus": "Idli, dosa, sambar, keerai kootu, lemon rice, ven pongal, kuzhambu",
+      "coverage": "planned"
+    },
+    {
+      "name": "Telangana",
+      "focus": "Hyderabadi bagara baingan, mirchi ka salan, vegetable biryani, sarva pindi, pesarattu",
+      "coverage": "planned"
+    },
+    {
+      "name": "Tripura",
+      "focus": "Mui borok-inspired vegetable dishes, gudok, mosdeng serma-style chutney, rice preparations",
+      "coverage": "planned"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "focus": "Awadhi tehri, Banarasi tamatar chaat, nimona, bedmi-aloo, dal kachori, arbi masala",
+      "coverage": "planned"
+    },
+    {
+      "name": "Uttarakhand",
+      "focus": "Kafuli, chainsoo, phanu, aloo ke gutke, mandua roti",
+      "coverage": "planned"
+    },
+    {
+      "name": "West Bengal",
+      "focus": "Shukto, aloo posto, chholar dal, luchi, dhokar dalna, vegetable chop",
+      "coverage": "planned"
+    }
+  ],
+  "union_territories": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "focus": "Coconut-based vegetable curries, local greens, rice dishes and coastal-inspired vegetarian preparations",
+      "coverage": "planned"
+    },
+    {
+      "name": "Chandigarh",
+      "focus": "Punjabi chole, rajma chawal, parathas, kadhi and North Indian tiffin dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "focus": "Gujarati-Portuguese-influenced vegetable curries, dal, rotli and seasonal produce",
+      "coverage": "planned"
+    },
+    {
+      "name": "Delhi",
+      "focus": "Chole bhature, rajma chawal, bedmi-aloo, stuffed parathas, street-style chaat",
+      "coverage": "planned"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "focus": "Kashmiri dum aloo, haak saag, nadru yakhni, rajma, modur pulao",
+      "coverage": "planned"
+    },
+    {
+      "name": "Ladakh",
+      "focus": "Skyu, thukpa, khambir, tsampa and barley-based vegetable dishes",
+      "coverage": "planned"
+    },
+    {
+      "name": "Lakshadweep",
+      "focus": "Coconut, curry-leaf and spice-led vegetable dishes with rice and local produce",
+      "coverage": "planned"
+    },
+    {
+      "name": "Puducherry",
+      "focus": "Tamil-French-influenced vegetable stew, idli, dosa, coconut curry and baked savouries",
+      "coverage": "planned"
+    }
+  ],
+  "editorial_note": "Dish names are research directions, not proof that an individual recipe has been completed or source-verified. Every recipe must be independently researched, written and reviewed before publication."
+}
