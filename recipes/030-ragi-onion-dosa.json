@@ -35,5 +35,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Dosa (Finger Millet Dosa Recipe)",
+      "url": "https://www.vegrecipesofindia.com/ragi-dosa-recipe/",
+      "note": "Finger-millet batter composition, fermentation and crisp dosa technique; onion variation is our adaptation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
