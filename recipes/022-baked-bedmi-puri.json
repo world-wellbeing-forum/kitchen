@@ -1,0 +1,30 @@
+{
+  "id": 22,
+  "name": "Baked Bedmi Puri",
+  "category": "Protein specials",
+  "protein": 12,
+  "cal": 230,
+  "carbs": 34,
+  "fiber": 6,
+  "fat": 6,
+  "mins": 45,
+  "ingredients": [
+    "½ cup whole-wheat flour",
+    "½ cup soaked and ground urad dal",
+    "Ajwain, hing, chilli and coriander",
+    "Water and 1 tsp oil for the batch"
+  ],
+  "steps": [
+    "Mix flour, ground dal and spices.",
+    "Knead into a firm dough.",
+    "Roll into small puris and brush lightly with oil.",
+    "Bake at 200°C / 400°F until cooked, turning once."
+  ],
+  "note": "Baking reduces oil versus deep-frying, but it remains carbohydrate-rich.",
+  "image": "/assets/images/recipes/022.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

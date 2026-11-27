@@ -1,0 +1,30 @@
+{
+  "id": 20,
+  "name": "Heart-friendly Chole",
+  "category": "Dal & Beans",
+  "protein": 13,
+  "cal": 230,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 6,
+  "mins": 40,
+  "ingredients": [
+    "1½ cups cooked chickpeas",
+    "1 tomato and ½ onion",
+    "Ginger, garlic and green chilli",
+    "Chole masala, amchur and 1 tsp oil"
+  ],
+  "steps": [
+    "Soak chickpeas overnight and cook until completely soft.",
+    "Prepare onion-tomato masala with minimal oil.",
+    "Add chickpeas and cooking water.",
+    "Mash a few chickpeas; simmer and finish with amchur."
+  ],
+  "note": "Serve with one small roti rather than bhature for a more balanced meal.",
+  "image": "/assets/images/recipes/020.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

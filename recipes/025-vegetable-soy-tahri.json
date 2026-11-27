@@ -1,0 +1,31 @@
+{
+  "id": 25,
+  "name": "Vegetable Soy Tahri",
+  "category": "Protein specials",
+  "protein": 20,
+  "cal": 310,
+  "carbs": 43,
+  "fiber": 7,
+  "fat": 7,
+  "mins": 40,
+  "ingredients": [
+    "½ cup dry brown basmati rice",
+    "50 g dry soy chunks",
+    "½ cup peas",
+    "½ cup cauliflower and carrots",
+    "Jeera, bay leaf, turmeric and 1 tsp oil"
+  ],
+  "steps": [
+    "Wash and soak brown rice.",
+    "Boil soy chunks, squeeze dry and cut.",
+    "Heat oil with jeera and whole spices.",
+    "Add vegetables, soy and rice; add water and cook until tender."
+  ],
+  "note": "Measure the rice; brown rice still contributes carbohydrate.",
+  "image": "/assets/images/recipes/025.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

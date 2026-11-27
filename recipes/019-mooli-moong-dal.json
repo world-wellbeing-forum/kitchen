@@ -1,0 +1,30 @@
+{
+  "id": 19,
+  "name": "Mooli Moong Dal",
+  "category": "Dal & Beans",
+  "protein": 15,
+  "cal": 190,
+  "carbs": 25,
+  "fiber": 7,
+  "fat": 4,
+  "mins": 35,
+  "ingredients": [
+    "250 g radish",
+    "½ cup dry yellow moong dal",
+    "Radish leaves if available",
+    "Ginger, jeera, hing, turmeric and 1 tsp oil"
+  ],
+  "steps": [
+    "Wash and soak moong dal.",
+    "Chop radish and leaves.",
+    "Pressure-cook with dal and turmeric.",
+    "Add a light ginger-jeera tempering; finish with lemon."
+  ],
+  "note": "A lighter lentil meal with vegetables and fibre.",
+  "image": "/assets/images/recipes/019.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

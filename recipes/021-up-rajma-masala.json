@@ -1,0 +1,30 @@
+{
+  "id": 21,
+  "name": "UP Rajma Masala",
+  "category": "Dal & Beans",
+  "protein": 13,
+  "cal": 225,
+  "carbs": 35,
+  "fiber": 9,
+  "fat": 5,
+  "mins": 45,
+  "ingredients": [
+    "1½ cups cooked rajma",
+    "1 tomato and ½ onion",
+    "Ginger, garlic, jeera and 1 tsp oil",
+    "Dhania and garam masala"
+  ],
+  "steps": [
+    "Soak rajma overnight.",
+    "Pressure-cook thoroughly until completely soft.",
+    "Prepare tomato-onion masala.",
+    "Add rajma and cooking liquid; simmer 15 minutes."
+  ],
+  "note": "Pair with a measured portion of brown basmati rice and vegetables.",
+  "image": "/assets/images/recipes/021.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

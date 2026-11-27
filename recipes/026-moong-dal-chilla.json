@@ -1,0 +1,47 @@
+{
+  "id": 26,
+  "name": "Moong Dal Chilla",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 18,
+  "cal": 285,
+  "carbs": 34,
+  "fiber": 8,
+  "fat": 7,
+  "mins": 35,
+  "prep": 20,
+  "cook": 15,
+  "ingredients": [
+    "¾ cup split yellow moong dal, rinsed and soaked 3–4 hours",
+    "¼ cup water, plus more as needed",
+    "½ cup finely chopped spinach",
+    "¼ small onion, finely chopped",
+    "1 green chilli, minced (optional)",
+    "½ tsp grated ginger",
+    "¼ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "2 tsp neutral oil, divided",
+    "2 tbsp chopped coriander",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Drain the soaked dal. Blend with ¼ cup water, ginger, turmeric and salt to a smooth, thick pourable batter.",
+    "Fold in spinach, onion, chilli, cumin and coriander. Rest 5 minutes; add a spoonful of water only if the batter is too thick to spread.",
+    "Heat a non-stick skillet over medium heat and brush with a little oil. Pour half the batter and spread into a 15–16 cm circle.",
+    "Cook 2–3 minutes until the top looks set and the underside is golden. Flip, brush the edge with a little oil and cook 1–2 minutes more.",
+    "Repeat with the remaining batter. Serve hot with coriander chutney and plain soy yogurt."
+  ],
+  "note": "Soaking softens the dal for blending. Keep the batter thick so the chillas turn easily. Nutrition is an estimate for the full two-chilla serving.",
+  "vegan": true,
+  "image": "/assets/images/recipes/026.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [
+    [
+      "Moong Dal Chilla – Dassana’s Veg Recipes",
+      "https://www.vegrecipesofindia.com/moong-dal-chilla-recipe/",
+      "Reference for soaked moong batter and skillet technique; spinach and serving details are our adaptation."
+    ]
+  ],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

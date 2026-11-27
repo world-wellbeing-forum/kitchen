@@ -1,0 +1,30 @@
+{
+  "id": 23,
+  "name": "Dubki Wale Aloo Chana",
+  "category": "Dal & Beans",
+  "protein": 11,
+  "cal": 185,
+  "carbs": 29,
+  "fiber": 7,
+  "fat": 4,
+  "mins": 25,
+  "ingredients": [
+    "1 small potato",
+    "1 cup cooked kala chana",
+    "1 tomato",
+    "Ginger, jeera, hing and ½ tsp oil"
+  ],
+  "steps": [
+    "Prepare a thin tomato-ginger gravy.",
+    "Add boiled potato and kala chana.",
+    "Mash some potato and chana into the gravy.",
+    "Add water, simmer and garnish."
+  ],
+  "note": "Use more kala chana and less potato.",
+  "image": "/assets/images/recipes/023.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

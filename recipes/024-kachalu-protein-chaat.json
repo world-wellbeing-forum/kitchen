@@ -1,0 +1,30 @@
+{
+  "id": 24,
+  "name": "Kachalu Protein Chaat",
+  "category": "Snacks",
+  "protein": 11,
+  "cal": 195,
+  "carbs": 30,
+  "fiber": 8,
+  "fat": 4,
+  "mins": 20,
+  "ingredients": [
+    "150 g boiled kachalu (taro)",
+    "¾ cup cooked kala chana",
+    "Cucumber and tomato",
+    "Lemon, roasted jeera, amchur and coriander"
+  ],
+  "steps": [
+    "Boil kachalu until tender and cool.",
+    "Cut into cubes.",
+    "Add kala chana, cucumber and tomato.",
+    "Season with lemon, jeera and amchur; mix gently."
+  ],
+  "note": "Taro is starchy; keep the portion moderate and combine with chana.",
+  "image": "/assets/images/recipes/024.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 27,
+  "name": "Besan Vegetable Cheela",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 16,
+  "cal": 275,
+  "carbs": 31,
+  "fiber": 7,
+  "fat": 9,
+  "mins": 25,
+  "prep": 10,
+  "cook": 15,
+  "ingredients": [
+    "¾ cup besan (chickpea flour)",
+    "½ cup water, approximately",
+    "¼ cup grated carrot",
+    "¼ cup finely chopped capsicum",
+    "2 tbsp chopped onion",
+    "1 tbsp chopped coriander",
+    "¼ tsp ajwain",
+    "¼ tsp turmeric",
+    "¼ tsp ground cumin",
+    "2 tsp oil",
+    "Salt and chilli to taste"
+  ],
+  "steps": [
+    "Whisk besan, water, turmeric, cumin, ajwain and salt until smooth; rest 5 minutes.",
+    "Stir in carrot, capsicum, onion and coriander. The batter should fall slowly from a spoon; adjust with a little water.",
+    "Heat a non-stick pan over medium. Lightly oil, pour half the batter and spread to a thin 15 cm round.",
+    "Cook 2–3 minutes until the edges lift and the base is golden. Flip and cook another 2 minutes.",
+    "Cook the second cheela. Serve with mint-coriander chutney; avoid adding sugary sauces."
+  ],
+  "note": "Use a well-heated non-stick pan and spread the batter evenly for a tender centre and crisp edges.",
+  "vegan": true,
+  "image": "/assets/images/recipes/027.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [
+    [
+      "Tadke Bina Zaika – FSSAI",
+      "https://www.fssai.gov.in/upload/knowledge_hub/9582262a819e8764cdBook_Tadke_bina_Zaika_14_06_2022.pdf",
+      "Official cookbook reference for besan-based cheela; our vegetable quantities and method are adapted."
+    ]
+  ],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}

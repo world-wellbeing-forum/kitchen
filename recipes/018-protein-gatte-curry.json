@@ -1,0 +1,30 @@
+{
+  "id": 18,
+  "name": "Protein Gatte Curry",
+  "category": "Protein specials",
+  "protein": 17,
+  "cal": 235,
+  "carbs": 24,
+  "fiber": 5,
+  "fat": 9,
+  "mins": 45,
+  "ingredients": [
+    "½ cup besan",
+    "½ cup plain low-fat Greek yogurt",
+    "100 g mashed tofu",
+    "Ajwain, turmeric, chilli and ½ tsp oil"
+  ],
+  "steps": [
+    "Mix besan, tofu and spices into firm dough.",
+    "Shape into rolls and boil until cooked.",
+    "Slice the gatte.",
+    "Whisk yogurt with water and spices; simmer gatte gently."
+  ],
+  "note": "Use plain unsweetened yogurt; this is a protein-enhanced regional adaptation.",
+  "image": "/assets/images/recipes/018.webp",
+  "imageStatus": "image-not-yet-created",
+  "editorialStatus": "draft-requires-recipe-and-source-review",
+  "sourceReferences": [],
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-methods-require-testing"
+}
