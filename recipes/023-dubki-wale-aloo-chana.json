@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mathura ke Dubki wale Aloo",
+      "url": "https://www.vegrecipesofindia.com/mathura-ke-dubki-wale-aloo-recipe/",
+      "note": "Mathura-style thin, spiced potato gravy and serving tradition; chickpea addition is original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
