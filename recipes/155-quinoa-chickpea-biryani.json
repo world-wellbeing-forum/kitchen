@@ -1,0 +1,50 @@
+{
+  "id": 155,
+  "name": "Quinoa Chickpea Biryani",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 290,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 7,
+  "prep": 20,
+  "cook": 30,
+  "mins": 50,
+  "ingredients": [
+    "¼ cup quinoa, rinsed",
+    "1 cup cooked chickpeas",
+    "1 onion, sliced",
+    "1 tomato, chopped",
+    "3 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-garlic paste",
+    "2 tsp oil",
+    "1 bay leaf, 2 cardamom pods and 2 cloves",
+    "1 tsp biryani masala and ½ tsp chilli powder",
+    "Mint, coriander, lemon juice and salt",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil and brown the onion for 8 minutes with the whole spices.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add ginger-garlic paste, tomato, masala and chilli and cook for 5 minutes.",
+    "Add the chickpeas and soy yogurt and cook for 4 minutes.",
+    "Add the quinoa and ¾ cup water. Cover and cook on low for 12 minutes.",
+    "Rest 5 minutes. Fluff and finish with mint, coriander and lemon."
+  ],
+  "note": "A one-pot biryani; quinoa cooks quickly and keeps the dish light.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chole Biryani Recipe Chana Biryani",
+      "url": "https://www.vegrecipesofindia.com/chole-biryani-recipe-chana-biryani/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": 186,
+  "name": "Baked Methi Muthia",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 215,
+  "carbs": 30,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 20,
+  "cook": 30,
+  "mins": 50,
+  "ingredients": [
+    "½ cup (50 g) besan (gram flour)",
+    "¼ cup whole-wheat flour",
+    "1 cup fresh methi leaves, finely chopped",
+    "2 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-green chilli paste",
+    "½ tsp each turmeric, coriander powder and ajwain",
+    "2 tsp oil, divided",
+    "½ tsp mustard seeds and 1 tsp sesame seeds (omit sesame for seed allergies)",
+    "Salt and 1 tsp lemon juice"
+  ],
+  "steps": [
+    "Mix the besan, wheat flour, methi, yogurt, paste, spices, 1 tsp oil, lemon and salt into a soft dough, adding a few tablespoons of water if needed.",
+    "Shape into two logs and steam for 15 minutes until firm. Cool, then cut into slices.",
+    "Arrange the slices on a tray and bake at 200°C for 12 minutes.",
+    "Heat the remaining oil, crackle the mustard seeds, and toss the muthia in it for 2 minutes.",
+    "Serve with green chutney."
+  ],
+  "note": "A Gujarati snack that is normally fried; steaming and baking keep it light.",
+  "methodLabel": "Steaming and oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Muthia Steamed Methi Muthia Fried",
+      "url": "https://www.vegrecipesofindia.com/methi-muthia-steamed-methi-muthia-fried/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

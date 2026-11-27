@@ -1,0 +1,45 @@
+{
+  "id": 278,
+  "name": "Stovetop Ratatouille with Puy Lentils",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 275,
+  "carbs": 40,
+  "fiber": 14,
+  "fat": 6,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "½ cup (100 g) Puy or green lentils, cooked",
+    "1 small eggplant and 1 zucchini, diced",
+    "1 red bell pepper and 1 onion, diced",
+    "3 tomatoes, chopped, and 1 tbsp tomato paste",
+    "3 garlic cloves",
+    "2 tsp olive oil",
+    "1 tsp dried thyme and 1 tsp herbes de Provence",
+    "Fresh basil, salt and pepper"
+  ],
+  "steps": [
+    "Heat 1 tsp oil and brown the eggplant for 6 minutes; set aside.",
+    "Heat the remaining oil and cook the onion and pepper for 5 minutes. Add the garlic and herbs.",
+    "Add the zucchini, tomatoes, tomato paste and ½ cup water and simmer for 15 minutes.",
+    "Return the eggplant and stir in the lentils; simmer for 8 minutes.",
+    "Season and top with basil."
+  ],
+  "note": "Lentils turn the vegetable stew into a complete meal.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Ratatouille",
+      "url": "https://en.wikipedia.org/wiki/Ratatouille",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

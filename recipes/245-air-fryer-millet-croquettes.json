@@ -1,0 +1,46 @@
+{
+  "id": 245,
+  "name": "Air-Fryer Millet Croquettes",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 225,
+  "carbs": 34,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 20,
+  "cook": 18,
+  "mins": 38,
+  "ingredients": [
+    "½ cup cooked foxtail millet (from ¼ cup dry)",
+    "½ cup cooked chickpeas, mashed",
+    "½ cup grated carrot and zucchini, squeezed dry",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each cumin and garam masala",
+    "1 tsp oil for brushing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix the millet, chickpeas, vegetables, besan, chilli, ginger, spices and salt into a firm mixture.",
+    "Shape into 8 croquettes and chill for 15 minutes.",
+    "Preheat the air fryer to 190°C. Brush the croquettes lightly with oil.",
+    "Cook for 14–16 minutes, turning halfway, until crisp and golden.",
+    "Serve with chutney."
+  ],
+  "note": "A gluten-free alternative to potato croquettes with more fibre.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Croquette",
+      "url": "https://en.wikipedia.org/wiki/Croquette",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

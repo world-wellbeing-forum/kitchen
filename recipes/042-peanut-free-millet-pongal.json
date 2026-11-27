@@ -1,0 +1,71 @@
+{
+  "id": 42,
+  "name": "Peanut-Free Millet Pongal",
+  "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 320,
+  "carbs": 47,
+  "fiber": 8,
+  "fat": 8,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "½ cup little millet, rinsed",
+    "¼ cup split yellow moong dal, rinsed",
+    "3 cups water",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp crushed black pepper",
+    "½ tsp grated ginger",
+    "8 curry leaves",
+    "¼ tsp turmeric",
+    "Salt"
+  ],
+  "steps": [
+    "Dry-toast moong dal in a saucepan for 2 minutes until aromatic; do not brown deeply.",
+    "Add rinsed millet, water, turmeric and salt. Bring to a boil.",
+    "Cover and simmer 18–20 minutes, stirring once or twice, until millet and dal are soft. Add hot water if needed.",
+    "Warm oil in a small pan. Add cumin, pepper, ginger and curry leaves; sizzle briefly.",
+    "Pour tempering over pongal and stir. Serve soft and hot with sambar."
+  ],
+  "note": "A nut-free, dairy-free pongal. Millet cooking times vary; follow the package if it differs.",
+  "inspirationReferences": [
+    {
+      "site": "orggu.com",
+      "title": "Little Millet Pongal (Samai Pongal) Recipe | Orggu",
+      "url": "https://www.orggu.com/recipes/little-millet-pongal/",
+      "note": "Reference for millet and moong-dal pongal technique; this collection's version is nut-free.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "organicmandya.com",
+      "title": "Little Millet Pongal Recipe – Saame Pongal",
+      "url": "https://organicmandya.com/blogs/recipes/millet-pongal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "tpnmillets.com",
+      "title": "Millet Pongal Recipe - Ven & Sakkarai Pongal",
+      "url": "https://tpnmillets.com/recipes/millet-pongal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "thetastesofindia.com",
+      "title": "Little Millet Pongal Recipe | Samai Pongal | Millet Pongal",
+      "url": "https://thetastesofindia.com/little-millet-pongal-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 282,
+  "name": "Peruvian Quinoa Vegetable Stew",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 280,
+  "carbs": 44,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "¼ cup quinoa, rinsed",
+    "1 small potato (100 g) and 1 carrot, diced",
+    "½ cup sweet corn and ½ cup green peas",
+    "¾ cup cooked white beans",
+    "1 onion and 3 garlic cloves, chopped",
+    "1 tsp oil",
+    "1 tsp cumin and 1 tsp paprika",
+    "1 tsp aji amarillo paste or mild chilli",
+    "3 cups vegetable stock",
+    "Lime juice, coriander, salt"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion and garlic for 5 minutes. Add the spices and chilli paste.",
+    "Add the potato, carrot and stock and simmer for 8 minutes.",
+    "Add the quinoa, corn and beans and simmer for 12 minutes.",
+    "Add the peas and cook for 3 minutes.",
+    "Finish with lime juice, coriander and salt."
+  ],
+  "note": "Quinoa and beans together provide a complete protein with a lot of fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Quinoa",
+      "url": "https://en.wikipedia.org/wiki/Quinoa",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

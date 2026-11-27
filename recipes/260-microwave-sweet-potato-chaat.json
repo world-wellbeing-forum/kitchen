@@ -1,0 +1,53 @@
+{
+  "id": 260,
+  "name": "Microwave Sweet Potato Chaat",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 245,
+  "carbs": 44,
+  "fiber": 10,
+  "fat": 3,
+  "prep": 10,
+  "cook": 10,
+  "mins": 20,
+  "ingredients": [
+    "250 g sweet potato, pricked or cubed",
+    "½ cup cooked chickpeas",
+    "1 small onion and 1 tomato, chopped",
+    "Juice of 1 lemon",
+    "½ tsp each chaat masala and roasted cumin",
+    "¼ tsp chilli powder and black salt",
+    "Coriander and pomegranate seeds"
+  ],
+  "steps": [
+    "Microwave the whole sweet potato for 5–6 minutes (or cubes covered for 4 minutes), turning once, until tender.",
+    "Peel and cube the sweet potato.",
+    "Warm the chickpeas for 1 minute.",
+    "Toss everything with the onion, tomato, lemon juice and spices.",
+    "Top with coriander and pomegranate."
+  ],
+  "note": "The fastest version of this chaat; it needs no oil at all.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sweet Potato Chaat Recipe",
+      "url": "https://www.vegrecipesofindia.com/sweet-potato-chaat-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sweet Potato Halwa Shakarkandi Halwa",
+      "url": "https://www.vegrecipesofindia.com/sweet-potato-halwa-shakarkandi-halwa/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

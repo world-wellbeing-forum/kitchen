@@ -1,0 +1,46 @@
+{
+  "id": 167,
+  "name": "Roasted Sweet Potato Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 325,
+  "carbs": 46,
+  "fiber": 12,
+  "fat": 8,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "1 medium sweet potato (about 200 g), cubed",
+    "1 cup cooked chickpeas",
+    "½ cup cooked quinoa",
+    "2 cups baby spinach or kale",
+    "100 g firm tofu, cubed",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp smoked paprika",
+    "Dressing: juice of 1 lime, 2 tbsp plain unsweetened soy yogurt, salt, pepper"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Toss the sweet potato, chickpeas and tofu with the oil and spices.",
+    "Roast for 25–30 minutes, turning once, until the sweet potato is tender and the chickpeas crisp.",
+    "Whisk the dressing.",
+    "Divide the spinach and quinoa between two bowls.",
+    "Top with the roasted mixture and drizzle with the dressing."
+  ],
+  "note": "Sweet potato has a moderate glycaemic load; pairing it with legumes, tofu and fibre slows the rise.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Buddha bowl",
+      "url": "https://en.wikipedia.org/wiki/Buddha_bowl",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

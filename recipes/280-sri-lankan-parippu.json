@@ -1,0 +1,70 @@
+{
+  "id": 280,
+  "name": "Sri Lankan Parippu",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 245,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 6,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "½ cup (100 g) red lentils, rinsed",
+    "1 small onion and 2 garlic cloves, sliced",
+    "1 green chilli and 6 curry leaves",
+    "1 tomato, chopped",
+    "¼ tsp turmeric",
+    "2 tbsp light coconut milk",
+    "1 tsp oil, ½ tsp mustard seeds and ½ tsp cumin seeds",
+    "2 cups water",
+    "Salt and lime juice"
+  ],
+  "steps": [
+    "Boil the lentils with the turmeric, tomato and water for 15 minutes until soft.",
+    "Heat the oil, crackle the mustard and cumin, then cook the onion, garlic, chilli and curry leaves for 5 minutes.",
+    "Add the tempering to the lentils with salt.",
+    "Stir in the coconut milk and simmer for 3 minutes.",
+    "Finish with lime juice."
+  ],
+  "note": "A Sri Lankan staple; the small amount of coconut milk gives richness without much saturated fat.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Lauki Chana Dal | Dudhi Chana Dal",
+      "url": "https://www.vegrecipesofindia.com/lauki-chana-dal-curry-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Nishamadhulika",
+      "title": "Chana Dal with Lauki Curry Recipe | Nisha Madhulika",
+      "url": "https://www.nishamadhulika.com/en/1146-chana-dal-with-lauki-curry-recipe.html",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "notoutofthebox.in",
+      "title": "Lauki Chana Dal/Bottle Gourd Chana Dal Curry | Not Out of the Box",
+      "url": "https://notoutofthebox.in/2017/07/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Green Moong Dal (Green Gram Curry)",
+      "url": "https://www.vegrecipesofindia.com/whole-green-moong-dal-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

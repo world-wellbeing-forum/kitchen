@@ -1,0 +1,69 @@
+{
+  "id": 237,
+  "name": "Air-Fryer Soya Nuggets",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 26,
+  "cal": 220,
+  "carbs": 22,
+  "fiber": 6,
+  "fat": 3,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "60 g dry soy chunks (mini or large)",
+    "2 tbsp besan and 1 tbsp cornflour",
+    "2 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-garlic paste",
+    "1 tsp chilli powder, ½ tsp each garam masala and cumin",
+    "1 tsp oil, plus spray",
+    "Salt and lemon"
+  ],
+  "steps": [
+    "Soak the soy chunks in hot salted water for 10 minutes, rinse and squeeze very dry.",
+    "Mix the yogurt, besan, cornflour, ginger-garlic paste, spices and salt; coat the soy chunks.",
+    "Preheat the air fryer to 190°C and spray the basket.",
+    "Cook in a single layer for 14–16 minutes, shaking halfway, until crisp.",
+    "Serve with lemon and mint chutney."
+  ],
+  "note": "Soy chunks are among the most protein-dense plant foods; squeezing them dry removes the beany flavour and allows crisping.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Soya Roast Recipe | Kerala Style Soya Chunks Dry Roasted",
+      "url": "https://hebbarskitchen.com/SOYA-ROAST-RECIPE-KERALA-STYLE/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "soya keema recipe | soybean keema | how to make soya chunks keema",
+      "url": "https://hebbarskitchen.com/soya-keema-recipe-soybean-keema/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Meal Maker Curry | Soya Chunks Curry",
+      "url": "https://www.vegrecipesofindia.com/soya-chunks-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Soya Chunks Fry (Kerala Style Meal Maker Fry)",
+      "url": "https://www.vegrecipesofindia.com/soya-chunks-fry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

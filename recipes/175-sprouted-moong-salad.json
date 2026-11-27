@@ -1,0 +1,70 @@
+{
+  "id": 175,
+  "name": "Sprouted Moong Salad",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": false,
+  "protein": 15,
+  "cal": 190,
+  "carbs": 26,
+  "fiber": 10,
+  "fat": 3,
+  "prep": 15,
+  "cook": 5,
+  "mins": 20,
+  "ingredients": [
+    "1½ cups sprouted moong beans",
+    "1 cucumber and 1 tomato, diced",
+    "½ onion, finely chopped",
+    "¼ cup pomegranate seeds",
+    "100 g firm tofu or paneer, cubed",
+    "½ cup chopped coriander",
+    "Juice of 1 lemon",
+    "½ tsp chaat masala and a pinch of black salt",
+    "1 green chilli, minced"
+  ],
+  "steps": [
+    "Steam the sprouts for 4–5 minutes and cool.",
+    "Combine with the cucumber, tomato, onion and coriander.",
+    "Add the tofu or paneer and pomegranate.",
+    "Dress with lemon juice, chaat masala, black salt and chilli.",
+    "Serve straight away."
+  ],
+  "note": "Light, high in fibre and protein, and low in fat.",
+  "inspirationReferences": [
+    {
+      "site": "spicingyourlife.com",
+      "title": "Moong Sprouts Salad",
+      "url": "https://www.spicingyourlife.com/moong-sprouts-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "foodtopia.co.in",
+      "title": "Sprouted Moong Salad - foodtopia",
+      "url": "https://foodtopia.co.in/veg-recipes/salad-recipes/sprouted-moong-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "vegaura.in",
+      "title": "Sprouted Moong Salad Recipe | VegAura",
+      "url": "https://www.vegaura.in/recipes/sprouted-moong-salad",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "friendspantry.com",
+      "title": "Sprouted Moong Salad — Indian Recipe · FriendsPantry",
+      "url": "https://friendspantry.com/recipes/sprouted-moong-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

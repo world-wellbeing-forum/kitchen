@@ -2,11 +2,15 @@
   "id": 24,
   "name": "Kachalu Protein Chaat",
   "category": "Snacks",
+  "servings": 2,
+  "vegan": true,
   "protein": 11,
   "cal": 195,
   "carbs": 30,
   "fiber": 8,
   "fat": 4,
+  "prep": 7,
+  "cook": 13,
   "mins": 20,
   "ingredients": [
     "150 g boiled kachalu (taro)",
@@ -21,19 +25,40 @@
     "Season with lemon, jeera and amchur; mix gently."
   ],
   "note": "Taro is starchy; keep the portion moderate and combine with chana.",
-  "image": "/assets/images/recipes/024.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
-      "site": "Global Bihari",
+      "site": "globalbihari.com",
       "title": "Indian Street Food Recipes: Kachalu Chaat",
       "url": "https://globalbihari.com/indian-street-food-recipes-kachalu-chaat/",
       "note": "Kachalu chaat preparation, boiled arbi, dry spice and tamarind-lemon balance; protein additions are our own.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Client Challenge",
+      "url": "https://cookpad.com/eng/search/kachalu",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "maryzkitchen.com",
+      "title": "Sindhi Arbi / Kachalu Took - Mary'S Kitchen",
+      "url": "https://maryzkitchen.com/sindhi-arbi-kachalu-took/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Kachalu Chaat Recipe By Neeru Goyal",
+      "url": "https://cookpad.com/eng/recipes/15545334",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

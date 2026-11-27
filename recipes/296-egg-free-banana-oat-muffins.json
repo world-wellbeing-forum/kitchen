@@ -1,0 +1,54 @@
+{
+  "id": 296,
+  "name": "Egg-Free Banana Oat Muffins",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 235,
+  "carbs": 38,
+  "fiber": 6,
+  "fat": 5,
+  "prep": 15,
+  "cook": 22,
+  "mins": 37,
+  "ingredients": [
+    "2 ripe bananas, mashed",
+    "1 cup rolled oats, ground into flour",
+    "2 tbsp ground flaxseed mixed with 5 tbsp water (flax egg)",
+    "¼ cup plain unsweetened soy yogurt",
+    "1 tsp baking powder and ½ tsp cinnamon",
+    "1 tsp oil",
+    "½ tsp vanilla",
+    "Pinch of salt"
+  ],
+  "steps": [
+    "Heat the oven to 180°C and line 4 muffin cups.",
+    "Stir the flaxseed with water and rest for 5 minutes until gelled.",
+    "Mix the bananas, flax egg, yogurt, oil and vanilla; fold in the oat flour, baking powder, cinnamon and salt.",
+    "Divide between the cups.",
+    "Bake for 20–22 minutes until a skewer comes out clean. Cool for 10 minutes."
+  ],
+  "note": "Sweetened only with bananas; makes 4 muffins, so 2 per serving.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Eggless Orange Muffins Recipe",
+      "url": "https://www.vegrecipesofindia.com/eggless-orange-muffins-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Eggless Blueberry Muffins Recipe",
+      "url": "https://www.vegrecipesofindia.com/eggless-blueberry-muffins-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 243,
+  "name": "Air-Fryer Paneer Popcorn",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": false,
+  "protein": 26,
+  "cal": 260,
+  "carbs": 12,
+  "fiber": 2,
+  "fat": 12,
+  "prep": 15,
+  "cook": 10,
+  "mins": 25,
+  "ingredients": [
+    "150 g low-fat paneer, cut in small cubes",
+    "2 tbsp besan and 1 tbsp cornflour",
+    "½ tsp each chilli powder, garlic powder and chaat masala",
+    "1 tbsp water, to bind",
+    "1 tsp oil, plus spray",
+    "Salt and lemon"
+  ],
+  "steps": [
+    "Toss the paneer cubes with the spices and salt.",
+    "Add the besan, cornflour and water to coat lightly.",
+    "Preheat the air fryer to 190°C and spray the basket.",
+    "Cook for 8–10 minutes, shaking halfway, until crisp and golden.",
+    "Serve with mint chutney and lemon."
+  ],
+  "note": "Over 25 g protein from about 150 g of paneer.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Popcorn Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-popcorn-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Paneer Popcorn Recipe Paneer Snacks",
+      "url": "https://hebbarskitchen.com/paneer-popcorn-recipe-paneer-snacks/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 126,
+  "name": "Masoor Dal Tadka",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 220,
+  "carbs": 33,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "½ cup (100 g) whole or split red lentils (masoor), rinsed",
+    "2 cups water",
+    "¼ tsp turmeric",
+    "1 small tomato, chopped",
+    "Tadka: 1 tsp oil, ½ tsp cumin seeds, 2 garlic cloves (sliced), 1 dried red chilli, pinch of hing",
+    "½ tsp Kashmiri chilli powder",
+    "Lemon juice, coriander and salt"
+  ],
+  "steps": [
+    "Boil the lentils with turmeric, tomato and water for 15–18 minutes until completely soft. Whisk lightly.",
+    "Add salt and adjust the consistency with hot water.",
+    "For the tadka, heat the oil, crackle the cumin, then add garlic, chilli and hing until the garlic turns golden.",
+    "Stir in the chilli powder, then pour the tadka over the dal.",
+    "Finish with lemon juice and coriander."
+  ],
+  "note": "Red lentils cook quickly without soaking.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Recipe (Yellow Moong Dal Tadka)",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-tadka/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Masoor Dal Easy Masoor Dal",
+      "url": "https://www.vegrecipesofindia.com/masoor-dal-easy-masoor-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Lasooni Dal Tadka Recipe Dal Lasooni",
+      "url": "https://hebbarskitchen.com/lasooni-dal-tadka-recipe-dal-lasooni/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dal Tadka Recipe Yellow Dal Tadka",
+      "url": "https://hebbarskitchen.com/dal-tadka-recipe-yellow-dal-tadka/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

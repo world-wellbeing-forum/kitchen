@@ -1,0 +1,47 @@
+{
+  "id": 284,
+  "name": "Vegetarian Mapo Tofu",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 220,
+  "carbs": 12,
+  "fiber": 4,
+  "fat": 10,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "300 g soft or medium-firm tofu, cubed",
+    "100 g mushrooms, finely minced",
+    "3 garlic cloves and 2.5 cm ginger, minced",
+    "1 tbsp doubanjiang (chilli bean paste; check the label)",
+    "1 tsp oil",
+    "1 tbsp soy sauce",
+    "1 cup vegetable stock",
+    "1 tsp cornflour mixed with 2 tbsp water",
+    "½ tsp ground Sichuan pepper",
+    "Spring onion"
+  ],
+  "steps": [
+    "Simmer the tofu cubes in lightly salted water for 3 minutes to firm them; drain gently.",
+    "Heat the oil and dry-fry the mushrooms for 5 minutes until browned.",
+    "Add the garlic, ginger and doubanjiang and stir for 1 minute.",
+    "Pour in the stock and soy sauce, add the tofu and simmer for 5 minutes.",
+    "Stir in the cornflour paste to thicken; finish with Sichuan pepper and spring onion."
+  ],
+  "note": "Minced mushrooms replace the pork in the traditional dish; doubanjiang is salty, so no other salt is needed.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Mapo tofu",
+      "url": "https://en.wikipedia.org/wiki/Mapo_tofu",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

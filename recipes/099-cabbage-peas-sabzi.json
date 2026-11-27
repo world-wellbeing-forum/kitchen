@@ -1,0 +1,47 @@
+{
+  "id": 99,
+  "name": "Cabbage Peas Sabzi",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 175,
+  "carbs": 25,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "300 g cabbage, shredded",
+    "1 cup green peas",
+    "1 small potato, diced small",
+    "100 g firm tofu, crumbled",
+    "1 tsp oil",
+    "1 tsp mustard seeds and ½ tsp cumin seeds",
+    "1 green chilli and 1 tsp ginger, minced",
+    "¼ tsp turmeric",
+    "½ tsp coriander powder",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Heat the oil and crackle the mustard and cumin. Add chilli and ginger.",
+    "Add the potato and turmeric with 2 tbsp water, cover and cook for 5 minutes.",
+    "Add the cabbage, peas and coriander powder and stir-fry on medium-high for 6 minutes.",
+    "Add the crumbled tofu and cook for 3 minutes.",
+    "Season with salt and finish with lemon juice."
+  ],
+  "note": "A quick dry sabzi; do not add water to the cabbage or it will stew.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Patta Gobhi Matar (Cabbage Peas)",
+      "url": "https://www.vegrecipesofindia.com/bandh-gobi-matar-recipe-patta-gobhi-matar/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 240,
+  "name": "Air-Fryer Lauki Methi Muthiya",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 190,
+  "carbs": 26,
+  "fiber": 7,
+  "fat": 4,
+  "prep": 20,
+  "cook": 22,
+  "mins": 42,
+  "ingredients": [
+    "250 g lauki (bottle gourd), grated and lightly squeezed",
+    "½ cup chopped methi",
+    "¼ cup besan and ¼ cup whole-wheat flour",
+    "1 tsp ginger-chilli paste",
+    "½ tsp each turmeric, ajwain and coriander powder",
+    "1 tsp oil, plus spray",
+    "½ tsp mustard seeds",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Mix the lauki, methi, besan, flour, paste, spices, salt and lemon to a soft dough; add a spoon of flour if too wet.",
+    "Shape into 2 logs and steam for 15 minutes; cool and slice.",
+    "Preheat the air fryer to 190°C, spray the slices and cook for 10 minutes, turning once, until crisp.",
+    "Heat the oil, crackle the mustard seeds and toss the muthiya in it briefly."
+  ],
+  "note": "Steaming first sets the muthiya; the air fryer then crisps the outside.",
+  "methodLabel": "Steaming and air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Muthia Steamed Methi Muthia Fried",
+      "url": "https://www.vegrecipesofindia.com/methi-muthia-steamed-methi-muthia-fried/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

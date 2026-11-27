@@ -1,0 +1,44 @@
+{
+  "id": 125,
+  "name": "Grilled Paneer Millet Bowl",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 24,
+  "cal": 350,
+  "carbs": 34,
+  "fiber": 6,
+  "fat": 13,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "120 g low-fat paneer, in slabs",
+    "½ cup uncooked foxtail millet, cooked (1½ cups cooked)",
+    "1 small zucchini and 1 tomato, sliced",
+    "1 tsp olive oil",
+    "Dressing: 1 tsp olive oil, juice of ½ lemon, ½ tsp each oregano and chilli flakes",
+    "1 tbsp pumpkin seeds, optional (omit for seed allergies)",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Cook the millet in 1½ cups water for 12–15 minutes, drain, and fluff.",
+    "Brush the paneer and zucchini with the olive oil and grill in a hot pan for 3 minutes per side.",
+    "Whisk the dressing.",
+    "Divide the millet between two bowls; add the paneer, zucchini and tomato.",
+    "Drizzle with the dressing and season."
+  ],
+  "note": "Millets add fibre and a lower glycaemic load than polished rice; half the grain portion keeps carbohydrates moderate.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "paneer sandwich recipe | how to make grilled paneer sandwich recipe",
+      "url": "https://hebbarskitchen.com/grilled-paneer-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

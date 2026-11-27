@@ -1,0 +1,70 @@
+{
+  "id": 203,
+  "name": "Tofu Frankie Roll",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 24,
+  "cal": 355,
+  "carbs": 42,
+  "fiber": 8,
+  "fat": 10,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "150 g firm tofu, crumbled",
+    "2 whole-wheat rotis",
+    "1 small onion, sliced",
+    "1 capsicum, sliced",
+    "1 tsp oil",
+    "1 tsp frankie masala or ½ tsp each garam masala, chaat masala and chilli powder",
+    "1 tsp lemon juice",
+    "Mint chutney",
+    "Shredded cabbage and sliced onion, to serve"
+  ],
+  "steps": [
+    "Heat the oil, add the onion and capsicum and cook for 3 minutes.",
+    "Add the tofu and spices and cook for 5 minutes until dry and well coated. Finish with lemon juice.",
+    "Warm the rotis. Spread each with mint chutney.",
+    "Fill with the tofu mixture, cabbage and onion.",
+    "Roll up tightly and serve warm."
+  ],
+  "note": "About 24 g protein per roll with whole-wheat wrap fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Kathi Roll Recipe (Easy Paneer Wrap)",
+      "url": "https://www.vegrecipesofindia.com/paneer-kathi-roll-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Kathi Roll Recipe",
+      "url": "https://www.vegrecipesofindia.com/veg-kathi-roll-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Noodles Frankie Recipe Kathi Roll",
+      "url": "https://hebbarskitchen.com/noodles-frankie-recipe-kathi-roll/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "पनीर फ्रैंकी रेसिपी | paneer frankie in hindi | पनीर काठी रोल | पनीर रैप रेसिपी",
+      "url": "https://hebbarskitchen.com/paneer-frankie-recipe-paneer-kathi-roll/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

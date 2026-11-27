@@ -1,0 +1,65 @@
+{
+  "id": 92,
+  "name": "Low-Oil Bhindi Masala",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 180,
+  "carbs": 18,
+  "fiber": 7,
+  "fat": 7,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "250 g okra, washed, dried and cut in rings",
+    "1 onion, sliced",
+    "2 tomatoes, chopped",
+    "1 tbsp besan (gram flour)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder, ¼ tsp turmeric and ½ tsp red chilli powder",
+    "1 tsp amchur (dry mango powder)",
+    "Salt to taste",
+    "100 g firm tofu, crumbled"
+  ],
+  "steps": [
+    "Dry okra thoroughly (wet okra turns slimy). Heat the oil in a wide non-stick pan and cook the okra on medium heat for 8 minutes, stirring now and then, until the stickiness is gone. Set aside.",
+    "In the same pan, crackle the cumin and cook the onion for 5 minutes.",
+    "Add the tomatoes and spices and cook for 5 minutes until thick.",
+    "Return the okra, sprinkle in the besan and toss for 3 minutes.",
+    "Add the crumbled tofu with the besan and toss until golden.",
+    "Finish with amchur and salt."
+  ],
+  "note": "Cooking the okra uncovered and dry keeps it from going slimy without deep-frying.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bhindi Masala Recipe (Restaurant Style Okra Masala)",
+      "url": "https://www.vegrecipesofindia.com/bhindi-masala/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ladies Finger Curry | Bhindi Curry",
+      "url": "https://www.vegrecipesofindia.com/bhindi-masala-gravy-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "bhindi curry recipe | shahi bhindi masala gravy | shahi bhindi sabzi",
+      "url": "https://hebbarskitchen.com/bhindi-curry-shahi-bhindi-masala-gravy/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

@@ -2,14 +2,16 @@
   "id": 33,
   "name": "Masala Vegetable Idli",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 12,
-  "cal": 245,
+  "cal": 260,
   "carbs": 42,
   "fiber": 5,
   "fat": 5,
-  "mins": 25,
   "prep": 10,
   "cook": 15,
+  "mins": 25,
   "ingredients": [
     "6 small prepared idlis (about 250 g)",
     "½ cup finely chopped mixed vegetables",
@@ -30,20 +32,40 @@
     "Finish with coriander and lemon. Serve with sambar for extra protein and fibre."
   ],
   "note": "Use fermented, egg-free idlis. For a higher-protein plate, serve with a generous bowl of lentil-rich sambar.",
-  "vegan": true,
-  "servings": 2,
-  "image": "/assets/images/recipes/033.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Idli Recipe (How to Make Soft Idlis)",
+      "title": "Soft Idli Recipe & Idli Batter Tips & Tricks",
       "url": "https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/",
       "note": "Fermented idli batter and steaming method as a base; vegetable masala treatment is our adaptation.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "awesomecuisine.com",
+      "title": "Vegetable Idli Recipe - Awesome Cuisine",
+      "url": "https://www.awesomecuisine.com/recipes/1569/vegetable-idli/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "blessmyfoodbypayal.com",
+      "title": "Masala idli recipe with vegetables",
+      "url": "https://blessmyfoodbypayal.com/masala-idli-recipe-with-vegetables/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "traditionallymodernfood.com",
+      "title": "Masala Idli - Traditionally Modern Food",
+      "url": "https://traditionallymodernfood.com/masala-idli/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

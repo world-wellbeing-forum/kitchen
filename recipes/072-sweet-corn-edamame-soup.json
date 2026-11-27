@@ -1,0 +1,55 @@
+{
+  "id": 72,
+  "name": "Sweet Corn Edamame Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 210,
+  "carbs": 30,
+  "fiber": 7,
+  "fat": 5,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "1 cup sweet corn kernels",
+    "½ cup shelled edamame",
+    "1 small onion, finely chopped",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "3 cups low-sodium vegetable stock",
+    "1 tsp cornflour mixed with 2 tbsp water",
+    "½ tsp black pepper",
+    "2 spring onions, sliced",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion and garlic for 3 minutes without browning.",
+    "Add the corn and edamame and stir for 2 minutes.",
+    "Add the stock and simmer for 10 minutes.",
+    "Blend half the soup, leaving the rest chunky, and return to the pot.",
+    "Stir in the cornflour paste, simmer for 2 minutes, then add pepper, salt and spring onions."
+  ],
+  "note": "Edamame lifts the protein to around 11 g per bowl.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sweet Corn Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/sweet-corn-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಸ್ವೀಟ್ ಕಾರ್ನ್ ಸೂಪ್ ರೆಸಿಪಿ | sweet corn soup in kannada",
+      "url": "https://hebbarskitchen.com/easy-sweet-corn-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

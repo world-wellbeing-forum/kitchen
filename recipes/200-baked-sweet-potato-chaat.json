@@ -1,0 +1,47 @@
+{
+  "id": 200,
+  "name": "Baked Sweet Potato Chaat",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 245,
+  "carbs": 44,
+  "fiber": 10,
+  "fat": 3,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "250 g sweet potato, cubed",
+    "½ cup cooked chickpeas",
+    "1 tsp oil",
+    "½ tsp each cumin and chilli powder",
+    "1 small onion, chopped",
+    "1 tomato, chopped",
+    "Juice of 1 lemon",
+    "½ tsp chaat masala and ¼ tsp black salt",
+    "Coriander and pomegranate seeds"
+  ],
+  "steps": [
+    "Toss the sweet potato with the oil, cumin and chilli powder.",
+    "Roast at 220°C for 20–25 minutes, turning once, until tender and lightly charred.",
+    "Warm the chickpeas for 1 minute.",
+    "Toss the sweet potato and chickpeas with the onion, tomato and lemon juice.",
+    "Season with chaat masala and black salt, then top with coriander and pomegranate."
+  ],
+  "note": "A fasting-friendly snack that is naturally sweet with no added sugar.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sweet Potato Chaat Recipe",
+      "url": "https://www.vegrecipesofindia.com/sweet-potato-chaat-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

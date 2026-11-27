@@ -1,0 +1,61 @@
+{
+  "id": 239,
+  "name": "Air-Fryer Stuffed Parwal",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 175,
+  "carbs": 16,
+  "fiber": 6,
+  "fat": 6,
+  "prep": 25,
+  "cook": 18,
+  "mins": 43,
+  "ingredients": [
+    "8 small parwal (pointed gourd), scraped and slit lengthways",
+    "Filling: 100 g firm tofu, crumbled",
+    "2 tbsp besan, dry-roasted",
+    "1 small onion, finely chopped",
+    "½ tsp each fennel, coriander powder, amchur and chilli powder",
+    "¼ tsp turmeric",
+    "1 tsp oil",
+    "Salt"
+  ],
+  "steps": [
+    "Par-boil the parwal for 3 minutes; drain and cool.",
+    "Heat half the oil, cook the onion for 3 minutes, then add the tofu, besan and spices and cook 4 minutes. Cool.",
+    "Stuff each parwal and tie with thread or press closed.",
+    "Preheat the air fryer to 180°C, brush the parwal with the remaining oil and cook for 15–18 minutes, turning halfway, until tender and browned."
+  ],
+  "note": "A UP classic; the tofu and besan filling replaces the traditional fried potato filling.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "magictadka.com",
+      "title": "Parwal Bharwa Recipe - Magic Tadka",
+      "url": "https://magictadka.com/recipe/parwal-bharwa/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Parwal Ki Bharwa Recipe by Neha Ranjan - Cookpad",
+      "url": "https://cookpad.com/eng/recipes/12356519",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "भरवां परवल (bharwa parwal recipe in Hindi) रेसिपी बनाने की विधि in Hindi by Madhvi Dwivedi - Cookpad",
+      "url": "https://cookpad.com/in-hi/recipes/16263171",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

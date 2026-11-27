@@ -1,0 +1,70 @@
+{
+  "id": 204,
+  "name": "Vegetable Idli Fry",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 275,
+  "carbs": 44,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "6 small idlis (about 300 g), cut into cubes",
+    "½ cup cooked chickpeas",
+    "1 capsicum and 1 onion, diced",
+    "1 tsp oil",
+    "½ tsp each mustard seeds and cumin seeds",
+    "8 curry leaves",
+    "1 tsp sambar powder or ½ tsp chilli powder",
+    "¼ tsp turmeric",
+    "Salt, lemon juice and coriander"
+  ],
+  "steps": [
+    "Heat the oil in a wide pan and crackle the mustard and cumin. Add the curry leaves.",
+    "Add the onion and capsicum and cook for 4 minutes.",
+    "Add the spices, chickpeas and idli cubes.",
+    "Toss on medium-high heat for 5 minutes until the idli edges are lightly crisp.",
+    "Finish with lemon juice and coriander."
+  ],
+  "note": "A good way to use leftover idli; chickpeas add the protein idli lacks.",
+  "inspirationReferences": [
+    {
+      "site": "blessmyfoodbypayal.com",
+      "title": "Masala idli recipe with vegetables",
+      "url": "https://blessmyfoodbypayal.com/masala-idli-recipe-with-vegetables/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "traditionallymodernfood.com",
+      "title": "Masala Idli - Traditionally Modern Food",
+      "url": "https://traditionallymodernfood.com/masala-idli/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "oetker.in",
+      "title": "Masala Mayo Idli Recipe | Dr. Oetker",
+      "url": "https://www.oetker.in/recipes/r/masala-mayo-idli",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Fried Idli | Idli Fry",
+      "url": "https://www.vegrecipesofindia.com/idli-fry-recipe-idli-recipes/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -2,11 +2,15 @@
   "id": 20,
   "name": "Heart-friendly Chole",
   "category": "Dal & Beans",
+  "servings": 2,
+  "vegan": true,
   "protein": 13,
   "cal": 230,
   "carbs": 34,
   "fiber": 9,
   "fat": 6,
+  "prep": 14,
+  "cook": 26,
   "mins": 40,
   "ingredients": [
     "1½ cups cooked chickpeas",
@@ -21,19 +25,32 @@
     "Mash a few chickpeas; simmer and finish with amchur."
   ],
   "note": "Serve with one small roti rather than bhature for a more balanced meal.",
-  "image": "/assets/images/recipes/020.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Chole Recipe (Punjabi Chole Masala)",
+      "title": "Chole Recipe (Authentic Punjabi Chole Masala)",
       "url": "https://www.vegrecipesofindia.com/punjabi-chole-chickpeas-in-a-spicy-gravy/",
       "note": "Punjabi chickpea soaking, pressure-cooking and roasted spice blend; our heart-conscious measured-oil formulation is original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Chole Recipe (Aloo Chana Sabji)",
+      "url": "https://www.vegrecipesofindia.com/aloo-chole-masala-aloo-chana/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "chana masala recipe | chickpea masala | chana masala curry | chana curry",
+      "url": "https://hebbarskitchen.com/chana-masala-recipe-chickpea-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

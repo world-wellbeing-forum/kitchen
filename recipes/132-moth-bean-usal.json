@@ -1,0 +1,62 @@
+{
+  "id": 132,
+  "name": "Moth Bean Usal",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 210,
+  "carbs": 30,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "1½ cups sprouted moth beans (matki)",
+    "1 onion and 1 tomato, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp each mustard seeds and cumin seeds",
+    "1 tsp goda masala or garam masala",
+    "¼ tsp turmeric and ½ tsp chilli powder",
+    "1 tsp tamarind pulp or lemon juice",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil and crackle the mustard and cumin. Add the onion, ginger and garlic and cook for 5 minutes.",
+    "Add the tomato and spices and cook for 4 minutes.",
+    "Add the sprouts and 1 cup water, cover, and simmer for 15 minutes until tender.",
+    "Stir in the tamarind and salt; simmer 3 minutes.",
+    "Finish with coriander."
+  ],
+  "note": "A Maharashtrian sprout curry and the base for misal. Sprouting raises vitamin content and aids digestion.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chawli Usal",
+      "url": "https://www.vegrecipesofindia.com/chawli-usal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Usal Recipe Maharashtrian Usal Recipe",
+      "url": "https://www.vegrecipesofindia.com/usal-recipe-maharashtrian-usal-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "mugachi usal recipe | sprouted moong dal curry | spicy moong sprout sabzi",
+      "url": "https://hebbarskitchen.com/mugachi-usal-recipe-sprouted-moong-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

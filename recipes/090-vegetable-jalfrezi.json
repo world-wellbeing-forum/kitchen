@@ -1,0 +1,56 @@
+{
+  "id": 90,
+  "name": "Vegetable Jalfrezi",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 215,
+  "carbs": 18,
+  "fiber": 5,
+  "fat": 9,
+  "prep": 12,
+  "cook": 15,
+  "mins": 27,
+  "ingredients": [
+    "150 g firm tofu, cubed",
+    "1 capsicum, 1 carrot and 6 green beans, cut in strips",
+    "1 onion, cut in wedges",
+    "2 tomatoes, chopped",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "1 tsp cumin seeds",
+    "½ tsp turmeric and 1 tsp coriander powder",
+    "½ tsp red chilli powder",
+    "1 tsp vinegar or lemon juice",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Sear the tofu in a non-stick pan with half the oil until golden; set aside.",
+    "Heat the remaining oil, crackle the cumin, then add the garlic and tomatoes with the spices. Cook for 6 minutes into a thick masala.",
+    "Add the carrot and beans and stir-fry for 3 minutes. Add the onion and capsicum.",
+    "Toss on high heat for 3 minutes so the vegetables stay crunchy.",
+    "Return the tofu, add vinegar and salt, and finish with coriander."
+  ],
+  "note": "A stir-fried dry-masala dish; keep the vegetables crisp rather than stewed.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baby Corn Jalfrezi",
+      "url": "https://www.vegrecipesofindia.com/baby-corn-jalfrezi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "वेज जलफ्रेज़ी रेसिपी | veg jalfrezi in hindi | वेजिटेबल जलफ्रेज़ी",
+      "url": "https://hebbarskitchen.com/veg-jalfrezi-recipe-vegetable-jalfrezi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

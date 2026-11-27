@@ -1,0 +1,71 @@
+{
+  "id": 50,
+  "name": "Tofu Akuri with Tomato and Coriander",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 285,
+  "carbs": 18,
+  "fiber": 5,
+  "fat": 15,
+  "prep": 7,
+  "cook": 11,
+  "mins": 18,
+  "ingredients": [
+    "200 g firm tofu, drained and crumbled",
+    "¼ onion, finely chopped",
+    "1 small tomato, finely chopped",
+    "½ green chilli, minced",
+    "½ tsp grated ginger",
+    "¼ tsp turmeric",
+    "¼ tsp cumin seeds",
+    "¼ tsp ground coriander",
+    "1 tsp oil",
+    "2 tbsp coriander leaves and lemon"
+  ],
+  "steps": [
+    "Press tofu between paper towels for 5 minutes and crumble roughly.",
+    "Heat oil in a skillet. Add cumin, onion, ginger and chilli; cook 2 minutes.",
+    "Add tomato, turmeric and ground coriander. Cook until tomato softens.",
+    "Fold in tofu and cook 4–5 minutes, stirring gently until hot and lightly dry.",
+    "Finish with coriander and lemon. Serve with whole-grain toast or roti."
+  ],
+  "note": "A plant-based adaptation of the softly scrambled Parsi-style akuri idea; no eggs or dairy are used.",
+  "inspirationReferences": [
+    {
+      "site": "calibrate.co.in",
+      "title": "High Protein Indian Breakfast: 12 Recipes with Macros | Calibrate",
+      "url": "https://calibrate.co.in/guides/high-protein-indian-breakfast-recipes",
+      "note": "Reference for egg-free tofu akuri concept; our method and seasoning are adapted.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "tofit.in",
+      "title": "Everyday Tofu Bhurji | TOFIT",
+      "url": "https://tofit.in/recipes/tofu-bhurji/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "veganuary.com",
+      "title": "Tofu Bhurji (Indian Scrambled Tofu) - Veganuary",
+      "url": "https://veganuary.com/en-in/recipes/tofu-bhurji-indian-scrambled-tofu/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Swasthi's Recipes",
+      "title": "Tofu Bhurji - Swasthi's Recipes",
+      "url": "https://www.indianhealthyrecipes.com/tofu-bhurji/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

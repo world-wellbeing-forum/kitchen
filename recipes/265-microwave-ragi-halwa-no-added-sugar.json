@@ -1,0 +1,61 @@
+{
+  "id": 265,
+  "name": "Microwave Ragi Halwa (No Added Sugar)",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 220,
+  "carbs": 34,
+  "fiber": 6,
+  "fat": 4,
+  "prep": 5,
+  "cook": 8,
+  "mins": 13,
+  "ingredients": [
+    "3 tbsp ragi flour",
+    "2 tbsp roasted chana (besan) flour",
+    "1 cup unsweetened soy milk",
+    "½ ripe banana, mashed",
+    "¼ tsp cardamom powder",
+    "1 tsp oil",
+    "Pinch of salt",
+    "Cinnamon, to finish"
+  ],
+  "steps": [
+    "Mix the ragi flour and besan with the soy milk in a large bowl until no lumps remain.",
+    "Add the banana, cardamom, oil and salt.",
+    "Microwave on high for 2 minutes, stir well, then microwave for 2 more minutes in 1-minute bursts, stirring each time, until thick and glossy.",
+    "Serve warm, dusted with cinnamon."
+  ],
+  "note": "Sweetened only by banana. Ragi is rich in calcium; keep the portion modest if you are watching carbohydrates.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Malt | Ragi Java | Ragi Porridge",
+      "url": "https://www.vegrecipesofindia.com/ragi-malt/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Halwa | Nachni Halwa",
+      "url": "https://www.vegrecipesofindia.com/ragi-halwa-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Ragi Malt Recipe Ragi Porridge Recipe",
+      "url": "https://hebbarskitchen.com/ragi-malt-recipe-ragi-porridge-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

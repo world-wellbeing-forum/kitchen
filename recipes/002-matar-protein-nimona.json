@@ -1,6 +1,9 @@
 {
-  "path": "recipes/002-matar-protein-nimona.json",
+  "id": 2,
   "name": "UP Matar Nimona with Tofu and Soy",
+  "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "vegan": true,
   "protein": 24,
   "carbs": 31,
   "fiber": 9,
@@ -34,48 +37,42 @@
     "Finish with coriander and lemon. Adjust consistency with water; avoid adding cream or ghee."
   ],
   "note": "A protein-boosted interpretation of the seasonal UP matar nimona. Peas contain carbohydrate as well as protein, so count them as part of the carbohydrate portion when planning meals. Serve with a small measured portion of whole-grain roti or millet and plenty of non-starchy vegetables. Vegan.",
-  "sourceReferences": [
-    [
-      "USDA FoodData Central",
-      "https://fdc.nal.usda.gov/",
-      "Nutrition data reference; use brand-specific tofu and soy values."
-    ],
-    [
-      "2026 ACC/AHA Dyslipidemia Guideline",
-      "https://www.jacc.org/doi/10.1016/j.jacc.2025.11.016",
-      "Supports plant protein, legumes, fibre and replacement of saturated fat."
-    ],
-    [
-      "American Diabetes Association – Diabetes Plate",
-      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
-      "Peas and legumes contribute carbohydrate; balance with non-starchy vegetables and protein."
-    ]
-  ],
-  "id": 2,
-  "category": "UP Classics · Protein-Forward",
-  "servings": 2,
-  "image": "/assets/images/recipes/002.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "researched-recipe-draft-nutrition-and-kitchen-testing-pending",
-  "nutritionStatus": "rough-estimate-not-lab-tested",
-  "methodStatus": "stovetop-developed-other-appliance-adaptations-pending",
-  "vegan": true,
-  "calories": 285,
-  "totalTime": 35,
-  "nutritionPerServing": {
-    "calories": 285,
-    "protein_g": 24,
-    "carbohydrate_g": 31,
-    "fibre_g": 9,
-    "fat_g": 8
-  },
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Matar ka Nimona Recipe",
       "url": "https://www.vegrecipesofindia.com/matar-ka-nimona-recipe/",
       "note": "Uttar Pradesh winter-pea dish, coarse pea paste, onion-tomato masala and simmered gravy; our protein additions are original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "batterupwithsujata.com",
+      "title": "Matar Nimona - Batter Up With Sujata",
+      "url": "https://batterupwithsujata.com/2020/01/matar-nimona/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Rachna Cooks",
+      "title": "Matar Ka Nimona Recipe - Rachna Cooks",
+      "url": "https://rachnacooks.com/matar-ka-nimona/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "somascookbook.com",
+      "title": "Matar Nimona Recipe - Soma's cookbook",
+      "url": "https://somascookbook.com/matar-nimona-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "cal": 290,
+  "mins": 35
 }

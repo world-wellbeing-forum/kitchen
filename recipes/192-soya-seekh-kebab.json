@@ -1,0 +1,47 @@
+{
+  "id": 192,
+  "name": "Soya Seekh Kebab",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 220,
+  "carbs": 22,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 25,
+  "cook": 20,
+  "mins": 45,
+  "ingredients": [
+    "50 g dry soy granules, soaked in hot water for 15 minutes and squeezed dry",
+    "½ cup cooked chickpeas, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 small onion, finely grated and squeezed",
+    "1 tsp ginger-garlic paste and 1 green chilli, minced",
+    "1 tsp each coriander powder and garam masala",
+    "½ tsp red chilli powder and 1 tsp kasuri methi",
+    "2 tbsp chopped coriander and mint",
+    "1 tsp oil, salt"
+  ],
+  "steps": [
+    "Mix all the ingredients except the oil to a firm, sticky mixture. Rest for 15 minutes.",
+    "Wet your hands and mould the mixture around skewers or into long fingers, making 8.",
+    "Brush with oil.",
+    "Cook on a hot grill pan for 8 minutes, turning, or bake at 200°C for 20 minutes.",
+    "Serve with onion rings, lemon and mint chutney."
+  ],
+  "note": "Over 20 g protein per serving; soy granules give a convincing, kebab-like texture.",
+  "methodLabel": "Grill-pan or oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Seekh kebab",
+      "url": "https://en.wikipedia.org/wiki/Seekh_kebab",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

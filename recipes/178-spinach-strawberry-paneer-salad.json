@@ -1,0 +1,34 @@
+{
+  "id": 178,
+  "name": "Spinach Strawberry Paneer Salad",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": false,
+  "protein": 19,
+  "cal": 255,
+  "carbs": 18,
+  "fiber": 6,
+  "fat": 12,
+  "prep": 10,
+  "cook": 5,
+  "mins": 15,
+  "ingredients": [
+    "100 g baby spinach",
+    "8 strawberries, sliced",
+    "100 g low-fat paneer, cubed and pan-toasted",
+    "½ cup cooked chickpeas",
+    "½ cucumber, sliced",
+    "Dressing: 1 tbsp balsamic vinegar, 2 tsp olive oil, 1 tsp mustard, black pepper"
+  ],
+  "steps": [
+    "Pan-toast the paneer cubes in a dry non-stick pan for 4 minutes until golden; cool.",
+    "Whisk the dressing.",
+    "Arrange the spinach, strawberries, cucumber and chickpeas in two bowls.",
+    "Top with the paneer and drizzle with the dressing."
+  ],
+  "note": "Fruit-sweetened with no added sugar; chickpeas bring extra protein and fibre.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

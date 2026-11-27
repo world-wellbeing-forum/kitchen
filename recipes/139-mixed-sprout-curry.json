@@ -1,0 +1,59 @@
+{
+  "id": 139,
+  "name": "Mixed Sprout Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 230,
+  "carbs": 34,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "1½ cups mixed sprouts (moong, matki, chana)",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ¼ tsp turmeric, ½ tsp chilli powder and ½ tsp garam masala",
+    "Lemon juice, salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion, ginger and garlic for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes.",
+    "Add the sprouts and 1 cup water; cover and simmer for 15 minutes until tender.",
+    "Finish with garam masala, lemon juice, salt and coriander."
+  ],
+  "note": "Cook sprouts thoroughly rather than eating them raw, particularly for children, older people and pregnancy.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sprouts Curry Recipe",
+      "url": "https://www.vegrecipesofindia.com/mixed-sprouts-curry-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mixed Bean Sprouts Mixed Sprouts",
+      "url": "https://www.vegrecipesofindia.com/mixed-bean-sprouts-mixed-sprouts/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "स्प्राउट्स करी रेसिपी | sprouts curry in hindi | अंकुरित मूंग की सब्जी",
+      "url": "https://hebbarskitchen.com/sprouts-curry-recipe-moong-sprouts-sabzi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

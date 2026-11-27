@@ -1,0 +1,44 @@
+{
+  "id": 297,
+  "name": "Pumpkin Custard",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 9,
+  "cal": 190,
+  "carbs": 30,
+  "fiber": 6,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "250 g pumpkin puree (steamed, mashed)",
+    "1 cup unsweetened soy milk",
+    "2 tbsp cornflour",
+    "1 tsp cinnamon and ¼ tsp each nutmeg and ginger",
+    "½ tsp vanilla",
+    "1 tsp oil",
+    "1 tbsp unsweetened desiccated coconut"
+  ],
+  "steps": [
+    "Whisk the cornflour into 3 tbsp of the soy milk to a smooth paste.",
+    "Heat the remaining soy milk with the pumpkin, spices and oil, stirring.",
+    "Add the cornflour paste and cook for 4–5 minutes, stirring, until thick.",
+    "Stir in the vanilla and pour into two bowls.",
+    "Chill for 1 hour and top with coconut."
+  ],
+  "note": "Pumpkin is naturally sweet and low in glycaemic load when eaten with its fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pumpkin Pie",
+      "url": "https://www.vegrecipesofindia.com/pumpkin-pie/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

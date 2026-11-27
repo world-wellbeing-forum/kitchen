@@ -1,0 +1,70 @@
+{
+  "id": 68,
+  "name": "Spinach Moong Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 225,
+  "carbs": 32,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "½ cup (100 g) split yellow moong dal, rinsed",
+    "200 g spinach, washed and chopped",
+    "1 small onion, chopped",
+    "3 garlic cloves, chopped",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "4 cups water",
+    "Lemon juice, salt and black pepper"
+  ],
+  "steps": [
+    "Pressure-cook or simmer the moong dal with turmeric and the water for 15–20 minutes until completely soft.",
+    "In a separate pot, heat the oil, add cumin and garlic and let them sizzle for 30 seconds.",
+    "Add the onion and cook until translucent, then add the spinach and wilt for 2 minutes.",
+    "Combine with the dal and blend until smooth.",
+    "Reheat, adjust the thickness with hot water, and finish with lemon juice, salt and pepper."
+  ],
+  "note": "Moong dal is among the easiest pulses to digest, which makes this a gentle high-protein soup.",
+  "inspirationReferences": [
+    {
+      "site": "subbuskitchen.com",
+      "title": "Moong Dal Cheela | Moong Dal Chilla | Moong Dal Cheela With Palak |Spinach Moong Crepes - Subbus Kitchen",
+      "url": "https://www.subbuskitchen.com/palak-moong-dal-cheela-spinach-moong/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "foodsandflavorsbyshilpi.com",
+      "title": "Moong Dal Palak Cheela Recipe | Healthy Breakfast Cheela made with Moong Dal & Spinach - Foods And Flavors",
+      "url": "https://foodsandflavorsbyshilpi.com/2017/11/21/moong-dal-palak-cheela-recipe-moong-dal-cheela-spinach-spinach-moong-dal-cheella/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Soup Or Spinach Soup",
+      "url": "https://www.vegrecipesofindia.com/palak-soup-or-spinach-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Palak Soup Recipe | Healthy Cream Of Spinach Soup",
+      "url": "https://hebbarskitchen.com/palak-soup-cream-spinach-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

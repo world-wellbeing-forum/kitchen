@@ -1,0 +1,51 @@
+{
+  "id": 185,
+  "name": "Cabbage Carrot Slaw",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": false,
+  "protein": 15,
+  "cal": 200,
+  "carbs": 22,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 15,
+  "cook": 0,
+  "mins": 15,
+  "ingredients": [
+    "2 cups shredded cabbage",
+    "1 large carrot, grated",
+    "1 cup shelled edamame, cooked and cooled",
+    "100 g firm tofu, cubed (optional)",
+    "2 spring onions, sliced",
+    "Dressing: 3 tbsp plain low-fat yogurt or soy yogurt, 1 tsp mustard, juice of 1 lemon, black pepper, salt"
+  ],
+  "steps": [
+    "Cook the edamame for 4 minutes; drain and cool.",
+    "Whisk the dressing.",
+    "Toss the cabbage, carrot, edamame, spring onion and tofu in a large bowl.",
+    "Add the dressing and mix well.",
+    "Chill for 10 minutes and serve."
+  ],
+  "note": "A crunchy slaw with no sugar or mayonnaise; the edamame lifts the protein.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Cabbage Coleslaw",
+      "url": "https://www.vegrecipesofindia.com/cabbage-coleslaw/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Coleslaw Sandwich Recipe",
+      "url": "https://www.vegrecipesofindia.com/veg-coleslaw-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

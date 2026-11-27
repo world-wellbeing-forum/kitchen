@@ -1,0 +1,43 @@
+{
+  "id": 295,
+  "name": "Stewed Plum Cinnamon Bowl",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 180,
+  "carbs": 28,
+  "fiber": 6,
+  "fat": 3,
+  "prep": 5,
+  "cook": 15,
+  "mins": 20,
+  "ingredients": [
+    "4 ripe plums, halved and stoned",
+    "1 cinnamon stick and 1 star anise",
+    "Zest and juice of ½ orange",
+    "1 cup plain unsweetened high-protein soy yogurt",
+    "2 tbsp rolled oats, toasted",
+    "Pinch of ground cardamom"
+  ],
+  "steps": [
+    "Place the plums, cinnamon, star anise, orange zest and juice and 3 tbsp water in a pan.",
+    "Simmer covered on low for 10–12 minutes until the plums are soft; remove the spices.",
+    "Toast the oats in a dry pan for 3 minutes.",
+    "Divide the yogurt into two bowls and spoon over the plums and their juice.",
+    "Top with the oats and cardamom."
+  ],
+  "note": "Ripe plums need no sugar; cooking brings out their natural sweetness.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Compote",
+      "url": "https://en.wikipedia.org/wiki/Compote",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

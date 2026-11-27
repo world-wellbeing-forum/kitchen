@@ -1,0 +1,44 @@
+{
+  "id": 283,
+  "name": "Middle Eastern Falafel Bowl",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": false,
+  "protein": 20,
+  "cal": 330,
+  "carbs": 44,
+  "fiber": 12,
+  "fat": 8,
+  "prep": 25,
+  "cook": 30,
+  "mins": 55,
+  "ingredients": [
+    "4 baked falafel patties (made from ½ cup dry chickpeas, see Baked Falafel)",
+    "¼ cup cooked quinoa",
+    "1 cucumber, 1 tomato and ¼ red onion, diced",
+    "1 cup mixed leaves",
+    "Sauce: ¼ cup plain low-fat yogurt, juice of 1 lemon, 1 garlic clove (grated), mint",
+    "Parsley, paprika and salt"
+  ],
+  "steps": [
+    "Prepare the falafel mixture as in Baked Falafel with Yogurt Dip and bake 4 patties at 200°C for 25 minutes, turning once.",
+    "Mix the sauce ingredients.",
+    "Toss the cucumber, tomato, onion and leaves with a squeeze of lemon and salt.",
+    "Divide the quinoa and salad between two bowls.",
+    "Top with the falafel and drizzle with the sauce."
+  ],
+  "note": "A complete bowl; bake the falafel in advance and it reheats well.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Falafel",
+      "url": "https://en.wikipedia.org/wiki/Falafel",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "methodLabel": "Oven method"
+}

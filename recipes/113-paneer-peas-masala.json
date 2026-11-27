@@ -1,0 +1,63 @@
+{
+  "id": 113,
+  "name": "Paneer Peas Masala",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 22,
+  "cal": 285,
+  "carbs": 24,
+  "fiber": 7,
+  "fat": 11,
+  "prep": 12,
+  "cook": 18,
+  "mins": 30,
+  "ingredients": [
+    "150 g low-fat paneer, cubed",
+    "1 cup green peas",
+    "1 onion, chopped",
+    "2 tomatoes, pureed",
+    "2 garlic cloves and 1 tsp ginger, minced",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp each coriander powder and garam masala",
+    "¼ tsp turmeric and ½ tsp chilli powder",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion for 5 minutes. Add ginger and garlic.",
+    "Add the tomato purée and spices and cook for 6 minutes until the oil separates.",
+    "Add the peas and ¾ cup water and simmer for 6 minutes.",
+    "Add the paneer and simmer for 3 minutes.",
+    "Finish with garam masala and coriander."
+  ],
+  "note": "Peas and paneer together give about 22 g protein per serving.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Matar Paneer Recipe (Mutter Paneer)",
+      "url": "https://www.vegrecipesofindia.com/matar-paneer/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Matar Paneer Recipe",
+      "url": "https://www.vegrecipesofindia.com/aloo-matar-paneer-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Matar Paneer Recipe Restaurant Style",
+      "url": "https://hebbarskitchen.com/matar-paneer-recipe-restaurant-style/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

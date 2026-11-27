@@ -1,0 +1,39 @@
+{
+  "id": 98,
+  "name": "Tinda Masala",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 260,
+  "carbs": 38,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "300 g tinda (apple gourd), peeled and quartered",
+    "1 cup cooked chickpeas",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "1 tsp oil",
+    "½ tsp each cumin seeds and fennel seeds",
+    "½ tsp coriander powder, ¼ tsp turmeric and ½ tsp chilli powder",
+    "1 tsp amchur",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil and crackle the cumin and fennel seeds. Add the onion and cook for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes into a thick masala.",
+    "Add the tinda and ¼ cup water, cover and cook for 10 minutes until just tender.",
+    "Add the chickpeas and cook uncovered for 3 minutes.",
+    "Finish with amchur, salt and coriander."
+  ],
+  "note": "Chickpeas turn a light gourd side dish into a more filling meal.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true,
+  "originalDevelopment": true
+}

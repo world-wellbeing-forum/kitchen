@@ -1,0 +1,39 @@
+{
+  "id": 225,
+  "name": "Vegetable Millet Casserole",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 18,
+  "cal": 295,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 6,
+  "prep": 20,
+  "cook": 45,
+  "mins": 65,
+  "ingredients": [
+    "⅓ cup foxtail millet, rinsed",
+    "1 cup cooked white beans",
+    "1 carrot, 1 zucchini and 1 cup spinach, chopped",
+    "1 small onion and 2 garlic cloves",
+    "1 cup unsweetened soy milk, 1 cup vegetable stock",
+    "1 tsp olive oil",
+    "1 tsp dried thyme",
+    "1 tbsp nutritional yeast",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 190°C.",
+    "Sauté the onion, garlic and carrot in the oil for 5 minutes.",
+    "Mix with the millet, beans, zucchini, spinach, thyme, nutritional yeast and seasoning in a baking dish.",
+    "Pour in the soy milk and stock and cover with foil.",
+    "Bake for 40 minutes until the millet is tender and the liquid absorbed."
+  ],
+  "note": "Millets keep this casserole higher in fibre than a rice-based bake.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

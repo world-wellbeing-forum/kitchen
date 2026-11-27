@@ -1,0 +1,45 @@
+{
+  "id": 65,
+  "name": "Cinnamon Soy Yogurt Oat Bowl",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 325,
+  "carbs": 42,
+  "fiber": 8,
+  "fat": 9,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "¾ cup plain unsweetened high-protein soy yogurt",
+    "⅓ cup rolled oats",
+    "½ cup diced apple",
+    "1 tbsp chia seeds",
+    "1 tbsp pumpkin seeds",
+    "½ tsp cinnamon",
+    "1 tsp lemon juice",
+    "2–3 tbsp unsweetened soy milk"
+  ],
+  "steps": [
+    "Stir oats, soy yogurt and soy milk together in a bowl.",
+    "Fold in chia and cinnamon; rest 5 minutes to soften the oats.",
+    "Add diced apple tossed with lemon juice.",
+    "Top with pumpkin seeds and serve, or refrigerate overnight for a softer texture.",
+    "Keep chilled until serving."
+  ],
+  "note": "Choose unsweetened soy yogurt with a protein-rich label. No nuts, dairy or added sugar.",
+  "inspirationReferences": [
+    {
+      "site": "fitlives.in",
+      "title": "High-Protein Vegetarian Indian Breakfast Ideas | fitlives",
+      "url": "https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905",
+      "note": "Reference for overnight oats and yogurt combination; soy yogurt and apple variation is our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

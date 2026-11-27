@@ -1,0 +1,47 @@
+{
+  "id": 272,
+  "name": "Moroccan Chickpea Tagine",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 265,
+  "carbs": 40,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "1½ cups cooked chickpeas",
+    "2 carrots and 1 zucchini, chunked",
+    "1 onion and 3 garlic cloves, chopped",
+    "1½ cups chopped tomatoes",
+    "1 tsp olive oil",
+    "1 tsp each cumin, coriander powder and paprika",
+    "½ tsp cinnamon and ½ tsp turmeric",
+    "1 cup vegetable stock",
+    "2 tbsp lemon juice, parsley and coriander",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion for 5 minutes. Add the garlic and spices and stir for 1 minute.",
+    "Add the carrots, tomatoes and stock; cover and simmer for 12 minutes.",
+    "Add the zucchini and chickpeas and simmer for 10 minutes uncovered.",
+    "Season and finish with lemon juice and fresh herbs.",
+    "Serve with a small portion of whole-wheat couscous if desired."
+  ],
+  "note": "No dried fruit or honey is added, which keeps the sugar low.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Tagine",
+      "url": "https://en.wikipedia.org/wiki/Tagine",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

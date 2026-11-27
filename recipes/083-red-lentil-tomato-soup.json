@@ -1,0 +1,46 @@
+{
+  "id": 83,
+  "name": "Red Lentil Tomato Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 250,
+  "carbs": 40,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "½ cup (100 g) red lentils (masoor dal), rinsed",
+    "3 tomatoes, chopped",
+    "1 onion, chopped",
+    "2 garlic cloves and 2.5 cm ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "3½ cups water",
+    "Salt, black pepper and coriander"
+  ],
+  "steps": [
+    "Boil the lentils, tomatoes, turmeric and water for 15 minutes until soft.",
+    "Blend until smooth and return to the pot.",
+    "In a small pan heat the oil, crackle the cumin, then cook onion, garlic and ginger for 5 minutes.",
+    "Stir the tempering into the soup and simmer for 5 minutes.",
+    "Season with salt and pepper and top with coriander."
+  ],
+  "note": "Indian-spiced and tempered, unlike the smoky roasted version (see Roasted Tomato Lentil Soup).",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Dal",
+      "url": "https://en.wikipedia.org/wiki/Dal",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

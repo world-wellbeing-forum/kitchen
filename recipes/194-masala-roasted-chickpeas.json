@@ -1,0 +1,59 @@
+{
+  "id": 194,
+  "name": "Masala Roasted Chickpeas",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 190,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "1½ cups cooked chickpeas, drained and patted very dry",
+    "1 tsp oil",
+    "½ tsp each chilli powder, cumin powder and amchur",
+    "¼ tsp turmeric",
+    "¼ tsp black salt and ½ tsp chaat masala",
+    "Lemon juice, to finish"
+  ],
+  "steps": [
+    "Heat the oven to 200°C.",
+    "Toss the chickpeas with the oil, spices and salt.",
+    "Spread on a tray and roast for 30 minutes, shaking every 10 minutes, until crisp.",
+    "Finish with chaat masala and lemon juice. Cool for 10 minutes; they crisp further as they cool."
+  ],
+  "note": "A crunchy high-fibre snack that replaces fried namkeen. Store airtight and eat within 3 days.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Chole Recipe (Aloo Chana Sabji)",
+      "url": "https://www.vegrecipesofindia.com/aloo-chole-masala-aloo-chana/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chana Masala Recipe (Authentic North Indian Style)",
+      "url": "https://www.vegrecipesofindia.com/chana-masala-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "chana masala recipe | chickpea masala | chana masala curry | chana curry",
+      "url": "https://hebbarskitchen.com/chana-masala-recipe-chickpea-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 103,
+  "name": "Vegetable Kolhapuri",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 220,
+  "carbs": 24,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 20,
+  "cook": 25,
+  "mins": 45,
+  "ingredients": [
+    "2 cups mixed vegetables (cauliflower, carrot, beans, peas)",
+    "100 g firm tofu, cubed",
+    "1 onion and 2 tomatoes",
+    "2 tbsp desiccated coconut",
+    "1 tbsp coriander seeds and 3 dried red chillies",
+    "1 tsp each cumin seeds and ginger-garlic paste",
+    "1 tsp oil",
+    "½ tsp turmeric and ½ tsp garam masala",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Dry-roast the coriander seeds, chillies and coconut for 2 minutes and grind with a little water to a paste.",
+    "Heat the oil and cook the onion with ginger-garlic paste for 6 minutes. Add the tomatoes and cook for 5 minutes.",
+    "Add the Kolhapuri paste and turmeric and cook for 3 minutes.",
+    "Add the vegetables and 1½ cups water and simmer for 12 minutes. Add the tofu for the last 4 minutes.",
+    "Finish with garam masala, salt and coriander."
+  ],
+  "note": "A fiery Maharashtrian curry; reduce the red chillies to make it milder.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Kolhapuri Recipe",
+      "url": "https://www.vegrecipesofindia.com/veg-kolhapuri-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Kolhapuri Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-kolhapuri-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Spicy Paneer Kolhapuri Recipe Gravy",
+      "url": "https://hebbarskitchen.com/spicy-paneer-kolhapuri-recipe-gravy/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

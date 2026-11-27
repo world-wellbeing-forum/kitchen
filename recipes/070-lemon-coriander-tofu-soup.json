@@ -1,0 +1,57 @@
+{
+  "id": 70,
+  "name": "Lemon Coriander Tofu Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 145,
+  "carbs": 12,
+  "fiber": 3,
+  "fat": 6,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "150 g firm tofu, cut into small cubes",
+    "1 carrot, finely diced",
+    "½ cup shredded cabbage",
+    "4 spring onions, sliced",
+    "2.5 cm ginger, grated",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "4 cups low-sodium vegetable stock",
+    "2 tbsp lemon juice",
+    "½ cup chopped coriander, stems and leaves",
+    "1 tsp cornflour mixed with 2 tbsp water",
+    "Black pepper and salt"
+  ],
+  "steps": [
+    "Heat the oil and cook ginger, garlic and spring-onion whites for 1 minute.",
+    "Add carrot and cabbage and stir for 2 minutes.",
+    "Pour in the stock and simmer for 6 minutes. Add the tofu and simmer 3 minutes more.",
+    "Stir in the cornflour paste and cook for 2 minutes until the broth turns lightly glossy.",
+    "Off the heat, add lemon juice, coriander, spring-onion greens, pepper and salt."
+  ],
+  "note": "A light, clear broth with tofu for protein; add the lemon only after taking it off the heat to keep it fresh.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Lemon Coriander Soup",
+      "url": "https://www.vegrecipesofindia.com/lemon-coriander-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "lemon coriander soup recipe | veg lemon and coriander soup",
+      "url": "https://hebbarskitchen.com/lemon-coriander-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

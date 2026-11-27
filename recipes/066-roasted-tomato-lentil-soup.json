@@ -1,0 +1,47 @@
+{
+  "id": 66,
+  "name": "Roasted Tomato Lentil Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 255,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "500 g ripe tomatoes, halved",
+    "1 small onion, quartered",
+    "4 garlic cloves, unpeeled",
+    "1 tsp olive oil",
+    "½ cup (100 g) red lentils, rinsed",
+    "½ tsp cumin seeds",
+    "½ tsp smoked paprika",
+    "3 cups water or low-sodium vegetable stock",
+    "Salt and black pepper",
+    "2 tbsp chopped coriander or basil"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Toss the tomatoes, onion and garlic with the oil on a tray and roast for 25 minutes until the edges are charred.",
+    "Squeeze the garlic from its skins. Add everything from the tray to a pot with the lentils, cumin, paprika and water.",
+    "Bring to a boil, then simmer for 12 minutes until the lentils are completely soft.",
+    "Blend until smooth, adding hot water if too thick. Season with salt and pepper.",
+    "Serve in bowls topped with fresh coriander or basil."
+  ],
+  "note": "High in fibre and plant protein; red lentils thicken the soup without cream.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Roasted Tomato Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/roasted-tomato-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

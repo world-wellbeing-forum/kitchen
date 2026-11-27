@@ -1,0 +1,53 @@
+{
+  "id": 195,
+  "name": "Corn and Sprout Chaat",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 210,
+  "carbs": 34,
+  "fiber": 10,
+  "fat": 3,
+  "prep": 10,
+  "cook": 8,
+  "mins": 18,
+  "ingredients": [
+    "½ cup sweet corn kernels, boiled",
+    "1 cup sprouted moong, steamed",
+    "½ cup cooked chickpeas",
+    "1 small onion and 1 tomato, chopped",
+    "2 tbsp chopped coriander",
+    "Juice of 1 lemon",
+    "½ tsp chaat masala and ¼ tsp chilli powder",
+    "1 tsp mint chutney, optional"
+  ],
+  "steps": [
+    "Boil the corn for 6 minutes and steam the sprouts for 4 minutes; drain and cool slightly.",
+    "Combine with the chickpeas, onion, tomato and coriander.",
+    "Add the lemon juice, chaat masala, chilli powder and chutney.",
+    "Toss and serve immediately."
+  ],
+  "note": "Using sprouts and chickpeas alongside the corn keeps protein up and the carbohydrate load moderate.",
+  "methodLabel": "No-cook method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Corn Chaat Or Masala Corn",
+      "url": "https://www.vegrecipesofindia.com/corn-chaat-or-masala-corn/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Corn Chaat Recipe Masala Corn Recipe",
+      "url": "https://hebbarskitchen.com/corn-chaat-recipe-masala-corn-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

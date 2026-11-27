@@ -1,0 +1,45 @@
+{
+  "id": 169,
+  "name": "Warm Lentil Beet Salad",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 280,
+  "carbs": 40,
+  "fiber": 13,
+  "fat": 6,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "½ cup (100 g) brown or green lentils",
+    "200 g beetroot, scrubbed and cubed",
+    "2 cups rocket or spinach",
+    "100 g firm tofu, cubed",
+    "1 tsp olive oil",
+    "Dressing: 2 tsp olive oil, 1 tbsp apple cider vinegar, 1 tsp mustard, black pepper",
+    "Salt and chopped parsley"
+  ],
+  "steps": [
+    "Roast the beetroot with the oil at 200°C for 30 minutes until tender.",
+    "Simmer the lentils in plenty of water for 20 minutes until tender but not mushy; drain.",
+    "Pan-toast the tofu until golden.",
+    "Whisk the dressing and toss it with the warm lentils.",
+    "Layer the greens with the lentils, beetroot and tofu. Finish with parsley and salt."
+  ],
+  "note": "Lentils hold their shape and give about 17 g protein with high fibre per serving.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [
+    {
+      "site": "sachfoods.com",
+      "title": "Roasted Caulilini, Paneer, Mixed Lentil Salad – Sach Foods",
+      "url": "https://sachfoods.com/blogs/paneerrecipes/roasted-caulilini-paneer-mixed-lentil-salad",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 128,
+  "name": "Panchmel Dal",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 235,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "½ cup mixed dals (toor, chana, moong, masoor and urad, about 2 tbsp each), rinsed and soaked 30 minutes",
+    "2½ cups water and ¼ tsp turmeric",
+    "1 tomato, chopped",
+    "Tadka: 1 tsp oil, ½ tsp panch phoran (or cumin, mustard, fennel), 2 dried red chillies, 2 garlic cloves, pinch of hing",
+    "1 tsp lemon juice or amchur",
+    "½ tsp garam masala",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the dals with turmeric, tomato and water for 4 whistles until soft.",
+    "Mash lightly and add salt.",
+    "Heat the oil for the tadka and crackle the spices; add the chillies, garlic and hing.",
+    "Pour the tadka into the dal, add garam masala and simmer for 3 minutes.",
+    "Finish with lemon juice and coriander."
+  ],
+  "note": "A Rajasthani classic that blends five dals for a broader amino-acid profile.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Panchmel Dal Panchratna Dal Rajasthani Dal",
+      "url": "https://www.vegrecipesofindia.com/panchmel-dal-panchratna-dal-rajasthani-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Panchmel Dal Recipe Pancharatna Dal",
+      "url": "https://hebbarskitchen.com/panchmel-dal-recipe-pancharatna-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

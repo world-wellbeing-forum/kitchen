@@ -1,0 +1,47 @@
+{
+  "id": 209,
+  "name": "Baked Tofu Fajita Tray",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 26,
+  "cal": 390,
+  "carbs": 44,
+  "fiber": 10,
+  "fat": 12,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "250 g extra-firm tofu, cut in strips",
+    "2 bell peppers and 1 onion, sliced",
+    "1 tsp oil",
+    "1 tsp each cumin, smoked paprika and garlic powder",
+    "½ tsp chilli powder and juice of 1 lime",
+    "2 whole-wheat tortillas",
+    "½ cup cooked black beans",
+    "¼ avocado and coriander, to serve",
+    "Salsa, optional"
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Toss the tofu, peppers and onion with the oil, spices, lime juice and salt on a large tray.",
+    "Roast for 25–30 minutes, turning once, until the tofu is golden and the vegetables charred.",
+    "Warm the beans and tortillas.",
+    "Fill the tortillas with the tofu mixture and beans.",
+    "Top with avocado, coriander and salsa."
+  ],
+  "note": "A one-tray dinner with about 26 g protein per serving.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Fajita",
+      "url": "https://en.wikipedia.org/wiki/Fajita",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

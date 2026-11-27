@@ -1,0 +1,71 @@
+{
+  "id": 252,
+  "name": "Microwave Vegetable Upma",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 245,
+  "carbs": 36,
+  "fiber": 6,
+  "fat": 5,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "⅓ cup dalia (broken wheat) or whole-wheat semolina",
+    "100 g firm tofu, crumbled",
+    "1 cup mixed vegetables (carrot, peas, beans), diced",
+    "1 small onion, chopped",
+    "1 tsp oil",
+    "½ tsp each mustard seeds and urad dal",
+    "1 green chilli and 6 curry leaves",
+    "1¼ cups hot water",
+    "Salt, lemon juice and coriander"
+  ],
+  "steps": [
+    "Microwave the dalia in a dry bowl for 2 minutes; set aside.",
+    "In a large bowl, microwave the oil, mustard seeds, urad dal, chilli and curry leaves for 1½ minutes.",
+    "Add the onion and vegetables and microwave covered for 3 minutes.",
+    "Add the dalia, tofu, hot water and salt; cover and microwave for 5 minutes, then stand for 3 minutes.",
+    "Fluff and finish with lemon juice and coriander."
+  ],
+  "note": "A speedy breakfast with extra protein from crumbled tofu.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Archana's Kitchen",
+      "title": "Vegetable Oats Upma Recipe",
+      "url": "https://www.archanaskitchen.com/recipe/vegetable-oats-upma",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "vasusvegkitchen.blogspot.com",
+      "title": "Vasusvegkitchen: Vegetable oats upma - Diabetic friendly oats recipe",
+      "url": "https://vasusvegkitchen.blogspot.com/2025/02/vegetable-oats-upma-diabetic-friendly.html",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "notbroken.io",
+      "title": "Vegetable Oats Upma — Recipe & Video | Notbroken",
+      "url": "https://notbroken.io/eat/vegetable-oats-upma/index.html",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dalia Upma Recipe Broken Wheat Upma",
+      "url": "https://hebbarskitchen.com/dalia-upma-recipe-broken-wheat-upma/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

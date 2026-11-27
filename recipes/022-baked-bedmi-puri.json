@@ -2,11 +2,15 @@
   "id": 22,
   "name": "Baked Bedmi Puri",
   "category": "Protein specials",
+  "servings": 2,
+  "vegan": true,
   "protein": 12,
   "cal": 230,
   "carbs": 34,
   "fiber": 6,
   "fat": 6,
+  "prep": 16,
+  "cook": 29,
   "mins": 45,
   "ingredients": [
     "½ cup whole-wheat flour",
@@ -21,19 +25,25 @@
     "Bake at 200°C / 400°F until cooked, turning once."
   ],
   "note": "Baking reduces oil versus deep-frying, but it remains carbohydrate-rich.",
-  "image": "/assets/images/recipes/022.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Bedmi Puri Recipe (Delhi Style Urad Dal Poori)",
+      "title": "Bedmi Puri Recipe (Delhi Style Dal Poori)",
       "url": "https://www.vegrecipesofindia.com/bedmi-puri-recipe/",
       "note": "Uttar Pradesh/Delhi bedmi dough tradition and urad-dal-spice flavour; our baked method is an adaptation and needs testing.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Bedmi Puri Recipe | Crispy Bedmi Poori & Aloo ki sabzi | Urad Dal poori",
+      "url": "https://hebbarskitchen.com/bedmi-puri-recipe-crispy-bedmi-poori/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "methodLabel": "Oven method"
 }

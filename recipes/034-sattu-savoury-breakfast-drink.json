@@ -2,14 +2,16 @@
   "id": 34,
   "name": "Sattu Savoury Breakfast Drink",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 18,
   "cal": 235,
   "carbs": 29,
   "fiber": 8,
   "fat": 6,
-  "mins": 8,
   "prep": 8,
   "cook": 0,
+  "mins": 8,
   "ingredients": [
     "½ cup roasted chana sattu",
     "1½ cups chilled water",
@@ -27,20 +29,40 @@
     "Taste and adjust lemon and seasoning. Serve immediately over ice if desired."
   ],
   "note": "A no-cook option. Check the sattu label for cross-contact warnings if preparing for someone with food allergies.",
-  "vegan": true,
-  "servings": 2,
-  "image": "/assets/images/recipes/034.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Sattu Drink Recipe (Sattu Sharbat)",
       "url": "https://www.vegrecipesofindia.com/sattu-drink-recipe-sattu-sharbat/",
       "note": "Bihari sattu beverage tradition, mixing technique and black-salt/lemon flavour profile; our savoury protein-forward formulation is distinct.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "milesnmeals.com",
+      "title": "Sattu/Sattu Drink recipe/ Sattu Benefits - MilesnMeals",
+      "url": "https://milesnmeals.com/sattu-sattu-drink-recipe-sattu-benefits/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "friendspantry.com",
+      "title": "Sattu Sharbat — Indian Recipe · FriendsPantry",
+      "url": "https://friendspantry.com/recipes/sattu-sharbat/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "cookwithambarish.com",
+      "title": "Sattu Drink - Cook with Ambarish",
+      "url": "https://www.cookwithambarish.com/recipes/sattu-drink",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

@@ -1,0 +1,45 @@
+{
+  "id": 242,
+  "name": "Air-Fryer Eggplant Slices with Tofu Dip",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 210,
+  "carbs": 30,
+  "fiber": 12,
+  "fat": 4,
+  "prep": 15,
+  "cook": 18,
+  "mins": 33,
+  "ingredients": [
+    "1 large eggplant (about 350 g), cut in 1 cm rounds",
+    "2 tbsp besan mixed with 3 tbsp water",
+    "3 tbsp whole-wheat breadcrumbs",
+    "½ tsp each paprika, garlic powder and oregano",
+    "1 tsp oil, plus spray",
+    "Dip: 100 g silken tofu, 1 garlic clove, juice of ½ lemon, 1 tsp olive oil, salt, mint",
+    "Salt"
+  ],
+  "steps": [
+    "Salt the eggplant and rest for 10 minutes; pat dry.",
+    "Dip in the besan batter, then in the breadcrumbs mixed with the spices.",
+    "Preheat the air fryer to 190°C and spray the basket.",
+    "Cook for 12–15 minutes, turning halfway, until golden.",
+    "Blend the dip ingredients and serve with the eggplant."
+  ],
+  "note": "Eggplant absorbs oil like a sponge when fried; the air fryer avoids that.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baingan Fry Baingan Bhaja Eggplant Fries",
+      "url": "https://www.vegrecipesofindia.com/baingan-fry-baingan-bhaja-eggplant-fries/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

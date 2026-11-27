@@ -1,0 +1,46 @@
+{
+  "id": 235,
+  "name": "Air-Fryer Zucchini Coins",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": false,
+  "protein": 12,
+  "cal": 170,
+  "carbs": 22,
+  "fiber": 5,
+  "fat": 4,
+  "prep": 15,
+  "cook": 12,
+  "mins": 27,
+  "ingredients": [
+    "2 medium zucchini, cut in 1 cm coins",
+    "3 tbsp besan mixed with 3 tbsp water",
+    "3 tbsp whole-wheat breadcrumbs",
+    "1 tbsp nutritional yeast",
+    "½ tsp each garlic powder, paprika and oregano",
+    "1 tsp oil, plus spray",
+    "Salt and pepper",
+    "Dip: ½ cup plain low-fat yogurt with garlic and mint"
+  ],
+  "steps": [
+    "Season the zucchini coins with salt and let them sit for 5 minutes; pat dry.",
+    "Dip in the besan batter, then in the mixed breadcrumbs, nutritional yeast and spices.",
+    "Preheat the air fryer to 190°C and spray the basket.",
+    "Cook in a single layer for 10–12 minutes, turning halfway, until golden.",
+    "Serve with the yogurt dip."
+  ],
+  "note": "Low-carbohydrate; the yogurt dip adds protein.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Zucchini Fritters",
+      "url": "https://www.vegrecipesofindia.com/zucchini-fritters/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

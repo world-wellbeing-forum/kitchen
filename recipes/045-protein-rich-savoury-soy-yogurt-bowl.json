@@ -1,0 +1,46 @@
+{
+  "id": 45,
+  "name": "Protein-Rich Savoury Soy Yogurt Bowl",
+  "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 265,
+  "carbs": 27,
+  "fiber": 8,
+  "fat": 8,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "1 cup plain unsweetened high-protein soy yogurt",
+    "½ cup cooked chickpeas, rinsed and drained",
+    "½ cup diced cucumber",
+    "¼ cup grated carrot",
+    "1 tbsp pumpkin seeds",
+    "½ tsp roasted cumin powder",
+    "1 tbsp lemon juice",
+    "2 tbsp chopped mint and coriander",
+    "Black pepper and salt"
+  ],
+  "steps": [
+    "Spoon soy yogurt into two serving bowls and whisk until creamy.",
+    "Pat chickpeas dry and season with cumin, pepper and a little salt.",
+    "Top yogurt with chickpeas, cucumber and carrot.",
+    "Add pumpkin seeds, herbs and lemon juice.",
+    "Serve immediately; keep chilled until serving."
+  ],
+  "note": "Choose unsweetened soy yogurt with a higher protein content; brands vary considerably.",
+  "inspirationReferences": [
+    {
+      "site": "podnutrition.in",
+      "title": "12 High-Protein Vegetarian Indian Breakfast Ideas | Pod Nutrition",
+      "url": "https://podnutrition.in/blogs/learn/high-protein-vegetarian-breakfast-indian",
+      "note": "Reference for soy yogurt, seeds and protein-forward breakfast bowl composition; our savoury bowl is an adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

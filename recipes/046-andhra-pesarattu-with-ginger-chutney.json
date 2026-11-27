@@ -1,0 +1,54 @@
+{
+  "id": 46,
+  "name": "Andhra Pesarattu with Ginger Chutney",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 290,
+  "carbs": 43,
+  "fiber": 9,
+  "fat": 6,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "1 cup whole green moong, rinsed and soaked 4–6 hours",
+    "2 tbsp rice (optional)",
+    "1 inch ginger, chopped",
+    "1 green chilli",
+    "½ tsp cumin seeds",
+    "2 tbsp coriander leaves",
+    "½ small onion, finely chopped",
+    "2 tsp oil",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Drain soaked moong and rice. Blend with ginger, chilli, cumin, coriander, salt and enough water to make a smooth, pourable batter.",
+    "Heat a seasoned tawa over medium-high. Lightly wipe with oil.",
+    "Pour a ladle of batter and spread into a thin circle. Sprinkle with chopped onion.",
+    "Cook until the underside is crisp and the top looks dry, about 2–3 minutes. Flip briefly if needed.",
+    "Repeat with remaining batter. Serve with ginger chutney; omit ghee to keep it vegan."
+  ],
+  "note": "Traditional Andhra-style green gram dosa. Soaking time is not included in the active preparation estimate.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pesarattu Recipe (Green Gram Dosa)",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-dosa-pesarattu-a-cripsy-dosa-made-from-moong-dal/",
+      "note": "Traditional whole-green-moong dosa; our seasoning and serving quantities are adapted.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Pesarattu Recipe | Green Moong Dal Dosa - High Protein Dosa",
+      "url": "https://hebbarskitchen.com/pesarattu-recipe-moong-dal-dosa-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

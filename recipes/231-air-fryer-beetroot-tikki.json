@@ -1,0 +1,54 @@
+{
+  "id": 231,
+  "name": "Air-Fryer Beetroot Tikki",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 195,
+  "carbs": 30,
+  "fiber": 8,
+  "fat": 3,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "1 medium beetroot (150 g), grated and squeezed dry",
+    "½ cup cooked chickpeas, mashed",
+    "½ boiled potato, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each cumin, garam masala and amchur",
+    "1 tsp oil for brushing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix the beetroot, chickpeas, potato, besan, chilli, ginger, spices and salt into a firm mixture.",
+    "Shape into 6 flat patties and chill for 10 minutes.",
+    "Preheat the air fryer to 180°C. Brush the tikkis lightly with oil.",
+    "Cook for 14 minutes, turning halfway, until firm and crisp at the edges.",
+    "Serve with mint chutney."
+  ],
+  "note": "Squeeze the grated beetroot dry or the tikkis will be too wet to hold.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Beetroot Tikki",
+      "url": "https://www.vegrecipesofindia.com/beetroot-tikki/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Beetroot Cutlet Recipe Beetroot Tikki",
+      "url": "https://hebbarskitchen.com/beetroot-cutlet-recipe-beetroot-tikki/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

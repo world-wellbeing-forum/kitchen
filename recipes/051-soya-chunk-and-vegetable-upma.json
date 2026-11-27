@@ -1,0 +1,71 @@
+{
+  "id": 51,
+  "name": "Soya Chunk and Vegetable Upma",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 23,
+  "cal": 315,
+  "carbs": 42,
+  "fiber": 8,
+  "fat": 7,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "25 g dry soy chunks, finely chopped after soaking",
+    "½ cup semolina (rava)",
+    "½ cup diced carrot, peas and beans",
+    "2 tbsp chopped onion",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "½ tsp urad dal",
+    "6 curry leaves",
+    "2 cups hot water",
+    "Ginger, lemon and salt"
+  ],
+  "steps": [
+    "Soak soy chunks in boiling water 10 minutes. Drain, rinse, squeeze dry and chop finely.",
+    "Dry-roast semolina in a pan for 3 minutes; transfer to a plate.",
+    "Heat oil; add mustard seeds, urad dal and curry leaves. Add onion, ginger and vegetables; cook 3 minutes.",
+    "Add chopped soy and stir for 2 minutes. Pour in hot water and bring to a simmer.",
+    "Rain in semolina while stirring. Cover and cook on low 4–5 minutes until fluffy. Finish with lemon."
+  ],
+  "note": "Contains wheat and soy. Stir semolina in gradually to avoid lumps.",
+  "inspirationReferences": [
+    {
+      "site": "nutribox.in",
+      "title": "55 High-Protein Indian Breakfast Recipes (Vegetarian) – Nutribox",
+      "url": "https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian",
+      "note": "Reference for adding soya to upma; our ingredient proportions and steps are an adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Soya Roast Recipe | Kerala Style Soya Chunks Dry Roasted",
+      "url": "https://hebbarskitchen.com/SOYA-ROAST-RECIPE-KERALA-STYLE/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "soya keema recipe | soybean keema | how to make soya chunks keema",
+      "url": "https://hebbarskitchen.com/soya-keema-recipe-soybean-keema/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Meal Maker Curry | Soya Chunks Curry",
+      "url": "https://www.vegrecipesofindia.com/soya-chunks-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

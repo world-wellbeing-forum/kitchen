@@ -1,0 +1,62 @@
+{
+  "id": 53,
+  "name": "Paneer and Peas Breakfast Paratha",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": false,
+  "protein": 23,
+  "cal": 390,
+  "carbs": 43,
+  "fiber": 7,
+  "fat": 13,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "1 cup whole-wheat flour",
+    "100 g low-fat paneer, crumbled",
+    "½ cup green peas, cooked and mashed",
+    "½ tsp cumin powder",
+    "¼ tsp amchur",
+    "¼ tsp chilli powder",
+    "2 tbsp chopped coriander",
+    "2 tsp oil for cooking",
+    "Water and salt"
+  ],
+  "steps": [
+    "Knead flour with a pinch of salt and enough water into a soft dough. Cover and rest 10 minutes.",
+    "Mix paneer, mashed peas, cumin, amchur, chilli and coriander. Season lightly.",
+    "Divide dough into four balls. Roll two into small discs.",
+    "Place filling on one disc, cover with another and seal edges; dust lightly with flour.",
+    "Roll gently and cook on a hot tawa, brushing each side with a little oil, until golden and cooked through."
+  ],
+  "note": "Vegetarian, not vegan. Makes two generously stuffed parathas; serve with plain yogurt if desired.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Paratha Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-paratha-punjabi-paneer-paratha/",
+      "note": "Reference for stuffed paratha dough and filling technique; this version combines paneer and peas.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "पनीर पराठा रेसिपी | paneer paratha in hindi | पनीर पराठा बनाने की विधि",
+      "url": "https://hebbarskitchen.com/paneer-paratha-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Matar Paratha (Peas Paratha)",
+      "url": "https://www.vegrecipesofindia.com/peas-paratha-recipe-matar-paratha/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

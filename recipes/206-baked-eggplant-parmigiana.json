@@ -1,0 +1,48 @@
+{
+  "id": 206,
+  "name": "Baked Eggplant Parmigiana",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 290,
+  "carbs": 36,
+  "fiber": 12,
+  "fat": 8,
+  "prep": 25,
+  "cook": 40,
+  "mins": 65,
+  "ingredients": [
+    "1 large eggplant (about 400 g), cut in 1 cm slices",
+    "1 cup white beans, cooked",
+    "1½ cups tomato passata",
+    "3 garlic cloves, minced",
+    "2 tbsp besan mixed with 3 tbsp water (egg-free binder)",
+    "3 tbsp whole-wheat breadcrumbs",
+    "1 tsp olive oil",
+    "1 tsp dried oregano",
+    "40 g low-fat mozzarella, grated",
+    "Fresh basil, salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Dip the eggplant slices in the besan mixture, then breadcrumbs, and arrange on a lined tray. Bake for 20 minutes, turning once, until golden.",
+    "Heat the oil and cook the garlic for 30 seconds. Add the passata, beans and oregano and simmer for 10 minutes. Season.",
+    "Spoon a layer of sauce into a baking dish, add half the eggplant, then more sauce; repeat.",
+    "Top with the mozzarella and bake for 15 minutes until bubbling.",
+    "Finish with basil."
+  ],
+  "note": "The besan binder keeps it egg-free; the white beans in the sauce add protein and fibre.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Eggplant Parmigiana Recipe",
+      "url": "https://www.vegrecipesofindia.com/eggplant-parmigiana-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

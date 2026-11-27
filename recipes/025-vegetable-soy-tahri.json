@@ -2,11 +2,15 @@
   "id": 25,
   "name": "Vegetable Soy Tahri",
   "category": "Protein specials",
+  "servings": 2,
+  "vegan": true,
   "protein": 20,
   "cal": 310,
   "carbs": 43,
   "fiber": 7,
   "fat": 7,
+  "prep": 14,
+  "cook": 26,
   "mins": 40,
   "ingredients": [
     "½ cup dry brown basmati rice",
@@ -22,19 +26,24 @@
     "Add vegetables, soy and rice; add water and cook until tender."
   ],
   "note": "Measure the rice; brown rice still contributes carbohydrate.",
-  "image": "/assets/images/recipes/025.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Tehri Recipe | Tahari Dish (Yellow Vegetable Rice)",
+      "title": "Tehri Recipe | Tahari Dish",
       "url": "https://www.vegrecipesofindia.com/vegetable-tahiri-recipe-tehri-recipe/",
       "note": "Awadhi/UP one-pot rice, whole-spice tempering and dum-style absorption; soy addition and portion design are original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "तेहरी रेसिपी | tahari recipe in hindi | वेज टेहरी | शाकाहारी तेहरि रेसिपी",
+      "url": "https://hebbarskitchen.com/tahari-recipe-veg-tehri-veg-tahiri-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

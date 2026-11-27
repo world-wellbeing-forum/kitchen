@@ -1,0 +1,68 @@
+{
+  "id": 300,
+  "name": "Baked Whole-Wheat Gujiya",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": false,
+  "protein": 11,
+  "cal": 260,
+  "carbs": 36,
+  "fiber": 6,
+  "fat": 8,
+  "prep": 40,
+  "cook": 25,
+  "mins": 65,
+  "ingredients": [
+    "Dough: ½ cup whole-wheat flour, 1 tsp oil, pinch of salt, water",
+    "Filling: 60 g low-fat paneer, crumbled",
+    "2 tbsp unsweetened desiccated coconut",
+    "1 ripe banana, mashed",
+    "¼ tsp cardamom powder",
+    "1 tsp oil for brushing"
+  ],
+  "steps": [
+    "Knead the flour, oil and salt with water into a firm dough; rest for 20 minutes.",
+    "Mix the paneer, coconut, banana and cardamom into a thick filling.",
+    "Divide the dough into 6 balls, roll into thin circles, fill, fold into half-moons and seal the edges with a fork.",
+    "Place on a lined tray and brush with oil.",
+    "Bake at 180°C for 22–25 minutes, turning once, until golden."
+  ],
+  "note": "Traditionally deep-fried with sugar and nut-filled khoya; this version is baked, whole-wheat, nut-free and sweetened with banana. Enjoy 2 as an occasional treat.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Karanji Recipe",
+      "url": "https://hebbarskitchen.com/karanji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Karanji Recipe Maharashtrian Karanji Recipe",
+      "url": "https://www.vegrecipesofindia.com/karanji-recipe-maharashtrian-karanji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Karanji Recipe Gujiya Recipe",
+      "url": "https://hebbarskitchen.com/karanji-recipe-gujiya-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Gujiya Recipe Fried Baked Gujiya",
+      "url": "https://www.vegrecipesofindia.com/gujiya-recipe-fried-baked-gujiya/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

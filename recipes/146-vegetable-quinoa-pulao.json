@@ -1,0 +1,46 @@
+{
+  "id": 146,
+  "name": "Vegetable Quinoa Pulao",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 265,
+  "carbs": 42,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "½ cup (90 g) quinoa, rinsed well",
+    "1 cup mixed vegetables (carrot, beans, peas)",
+    "1 small onion, sliced",
+    "1 tsp oil",
+    "1 bay leaf, 2 cloves, 1 small cinnamon stick and ½ tsp cumin seeds",
+    "1 tsp ginger-garlic paste",
+    "¼ tsp turmeric and ½ tsp garam masala",
+    "1 cup water",
+    "Salt, lemon juice and coriander"
+  ],
+  "steps": [
+    "Heat the oil and crackle the whole spices. Add the onion and cook for 4 minutes.",
+    "Add the ginger-garlic paste, vegetables, turmeric and garam masala and cook for 3 minutes.",
+    "Add the quinoa, water and salt. Bring to a boil.",
+    "Cover and cook on low for 12 minutes until the water is absorbed.",
+    "Rest for 5 minutes, fluff, and finish with lemon juice and coriander."
+  ],
+  "note": "Quinoa is a complete protein; rinsing removes its natural bitter coating.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Pilaf",
+      "url": "https://en.wikipedia.org/wiki/Pilaf",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

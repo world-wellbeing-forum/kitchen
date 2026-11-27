@@ -1,0 +1,45 @@
+{
+  "id": 275,
+  "name": "Lebanese Mujadara with Yogurt Salad",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": false,
+  "protein": 17,
+  "cal": 290,
+  "carbs": 44,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 15,
+  "cook": 40,
+  "mins": 55,
+  "ingredients": [
+    "½ cup (100 g) brown lentils, rinsed",
+    "¼ cup brown rice, rinsed",
+    "2 onions, thinly sliced",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp allspice",
+    "2½ cups water",
+    "Salt and black pepper",
+    "Salad: 1 cucumber, 1 tomato, ½ cup plain low-fat yogurt, lemon, mint"
+  ],
+  "steps": [
+    "Cook the onions in the oil slowly for 20 minutes, stirring often, until deeply caramelised; set half aside.",
+    "Add the lentils, rice, spices, water and salt to the pot with the remaining onions.",
+    "Cover and simmer for 30 minutes until the lentils and rice are tender and the water is absorbed.",
+    "Dice the cucumber and tomato and mix with the yogurt, lemon and mint.",
+    "Top the mujadara with the reserved onions and serve with the salad."
+  ],
+  "note": "A cornerstone of Levantine home cooking; the lentil to rice ratio is deliberately high for protein.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Mujaddara",
+      "url": "https://en.wikipedia.org/wiki/Mujaddara",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

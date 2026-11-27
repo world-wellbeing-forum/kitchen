@@ -1,0 +1,64 @@
+{
+  "id": 216,
+  "name": "Lentil Stuffed Peppers",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 275,
+  "carbs": 40,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 25,
+  "cook": 40,
+  "mins": 65,
+  "ingredients": [
+    "2 large bell peppers, halved and deseeded",
+    "½ cup cooked brown lentils",
+    "¼ cup cooked quinoa",
+    "1 small onion and 1 tomato, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp smoked paprika",
+    "½ cup tomato passata",
+    "2 tbsp chopped parsley",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 200°C.",
+    "Heat the oil and cook the onion and garlic for 4 minutes. Add the tomato and spices and cook for 3 minutes.",
+    "Stir in the lentils, quinoa, half the passata, parsley and seasoning.",
+    "Fill the peppers and stand them in a baking dish with the remaining passata around them.",
+    "Cover with foil and bake for 30 minutes; uncover and bake for 10 more."
+  ],
+  "note": "Lentils and quinoa together give a complete protein; the filling can be made a day ahead.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Stuffed Capsicum Recipe | Bharwa Shimla Mirch",
+      "url": "https://www.vegrecipesofindia.com/stuffed-capsicum-recipe-bharwan-shimla-mirch/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Stuffed Capsicum Recipe Bharwa Capsicum",
+      "url": "https://hebbarskitchen.com/stuffed-capsicum-recipe-bharwa-capsicum/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Stuffed Capsicum Bajji Recipe",
+      "url": "https://hebbarskitchen.com/stuffed-capsicum-bajji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

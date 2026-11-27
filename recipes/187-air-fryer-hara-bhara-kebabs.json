@@ -1,0 +1,55 @@
+{
+  "id": 187,
+  "name": "Air-Fryer Hara Bhara Kebabs",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 200,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "150 g spinach, blanched and squeezed dry",
+    "½ cup green peas, boiled and mashed",
+    "1 small boiled potato, mashed",
+    "¼ cup cooked chickpeas, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each garam masala and chaat masala",
+    "1 tsp oil for brushing",
+    "Salt"
+  ],
+  "steps": [
+    "Mix the spinach, peas, potato, chickpeas, besan, chilli, ginger, spices and salt.",
+    "Shape into 8 flat patties and chill for 10 minutes.",
+    "Preheat the air fryer to 180°C. Brush the patties lightly with oil.",
+    "Air-fry in a single layer for 12 minutes, turning halfway, until firm and lightly crisp.",
+    "Serve with mint chutney."
+  ],
+  "note": "The chickpeas and besan raise the protein above that of a standard potato-based kebab.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Hara Bhara Kabab",
+      "url": "https://www.vegrecipesofindia.com/hara-bhara-kabab/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Veg Hara Bhara Kabab Recipe Veg Kabab",
+      "url": "https://hebbarskitchen.com/veg-hara-bhara-kabab-recipe-veg-kabab/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

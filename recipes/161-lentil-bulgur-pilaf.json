@@ -1,0 +1,46 @@
+{
+  "id": 161,
+  "name": "Lentil Bulgur Pilaf",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 270,
+  "carbs": 46,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "¼ cup (50 g) brown lentils, rinsed",
+    "¼ cup coarse bulgur",
+    "1 onion, thinly sliced",
+    "1 tsp olive oil",
+    "1 tsp cumin seeds",
+    "½ tsp ground coriander",
+    "1½ cups water",
+    "Salt, black pepper and lemon juice",
+    "Yogurt or cucumber to serve (optional)"
+  ],
+  "steps": [
+    "Simmer the lentils in 1½ cups water for 12 minutes.",
+    "Meanwhile, cook half the onion slowly in the oil for 12 minutes until deeply golden; set aside for topping.",
+    "Add the remaining onion, cumin and coriander to the pot with the lentils, then the bulgur and salt.",
+    "Cover and simmer on low for 12 minutes until the water is absorbed.",
+    "Rest 5 minutes. Top with the golden onion and a squeeze of lemon."
+  ],
+  "note": "A simple Middle Eastern combination; lentils and grain together give a complete protein.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Mujaddara",
+      "url": "https://en.wikipedia.org/wiki/Mujaddara",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

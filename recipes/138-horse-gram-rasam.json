@@ -1,0 +1,44 @@
+{
+  "id": 138,
+  "name": "Horse Gram Rasam",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 165,
+  "carbs": 24,
+  "fiber": 8,
+  "fat": 3,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "¼ cup (50 g) horse gram (kulthi), soaked overnight",
+    "2 tomatoes, chopped",
+    "1 tbsp tamarind pulp",
+    "1 tsp rasam powder",
+    "Tadka: 1 tsp oil, ½ tsp mustard seeds, ½ tsp cumin seeds, 6 curry leaves, 2 garlic cloves, 1 dried chilli",
+    "¼ tsp turmeric and pinch of hing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the horse gram with 2 cups water for 6 whistles until soft. Mash lightly and keep the cooking water.",
+    "Boil the tomatoes with the tamarind, rasam powder, turmeric and salt for 6 minutes.",
+    "Add the horse gram and its water and simmer for 8 minutes.",
+    "Heat the oil and crackle the mustard and cumin; add curry leaves, garlic, chilli and hing, then pour over the rasam.",
+    "Finish with coriander."
+  ],
+  "note": "A traditional South Indian protein-rich broth; horse gram is among the highest-protein pulses.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Kollu Rasam Recipe Kollu Soup Recipe",
+      "url": "https://hebbarskitchen.com/kollu-rasam-recipe-kollu-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 152,
+  "name": "Amaranth Khichdi",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 260,
+  "carbs": 39,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "⅓ cup amaranth grain, rinsed",
+    "¼ cup split moong dal, rinsed",
+    "1 cup vegetables (carrot, peas, spinach)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp ginger and 1 green chilli, minced",
+    "¼ tsp turmeric",
+    "2½ cups water",
+    "Salt and lemon juice",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin and add ginger and chilli.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the amaranth, moong dal, vegetables, turmeric and salt.",
+    "Add the water, cover and simmer for 20–25 minutes, stirring occasionally, until soft and porridge-like.",
+    "Mash lightly.",
+    "Finish with lemon juice."
+  ],
+  "note": "Amaranth is a gluten-free pseudo-grain with more protein than most cereals.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rajgira Paratha Recipe",
+      "url": "https://www.vegrecipesofindia.com/rajgira-paratha-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rajgira Ki Poori Amaranth Poori",
+      "url": "https://www.vegrecipesofindia.com/rajgira-ki-poori-amaranth-poori/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

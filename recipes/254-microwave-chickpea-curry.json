@@ -1,0 +1,62 @@
+{
+  "id": 254,
+  "name": "Microwave Chickpea Curry",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 255,
+  "carbs": 38,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "1½ cups cooked chickpeas",
+    "1 small onion and 2 tomatoes, finely chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ½ tsp chilli powder, ¼ tsp turmeric",
+    "½ tsp garam masala",
+    "Salt, lemon and coriander"
+  ],
+  "steps": [
+    "In a large bowl, microwave the oil, cumin, onion, garlic and ginger covered for 3 minutes.",
+    "Add the tomatoes and spices, cover and microwave for 4 minutes until pulpy.",
+    "Stir in the chickpeas and ½ cup water, cover and microwave for 5 minutes.",
+    "Mash a few chickpeas to thicken, then stand for 2 minutes.",
+    "Finish with garam masala, lemon and coriander."
+  ],
+  "note": "Made with canned or pre-cooked chickpeas, this takes under 15 minutes.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kala Chana Recipe (Black Chickpea Curry)",
+      "url": "https://www.vegrecipesofindia.com/kala-chana-curry-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Chole Recipe (Aloo Chana Sabji)",
+      "url": "https://www.vegrecipesofindia.com/aloo-chole-masala-aloo-chana/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "chana masala recipe | chickpea masala | chana masala curry | chana curry",
+      "url": "https://hebbarskitchen.com/chana-masala-recipe-chickpea-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

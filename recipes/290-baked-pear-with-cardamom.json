@@ -1,0 +1,45 @@
+{
+  "id": 290,
+  "name": "Baked Pear with Cardamom",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 9,
+  "cal": 215,
+  "carbs": 38,
+  "fiber": 9,
+  "fat": 3,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "2 ripe pears, halved and cored",
+    "2 tbsp rolled oats",
+    "½ tsp cardamom powder and ½ tsp cinnamon",
+    "1 tsp oil",
+    "1 cup plain unsweetened high-protein soy yogurt",
+    "Zest of ½ orange",
+    "Pinch of salt"
+  ],
+  "steps": [
+    "Heat the oven to 180°C.",
+    "Mix the oats, spices, oil, orange zest and salt.",
+    "Place the pears cut-side up in a baking dish and press the oat mixture into the hollows.",
+    "Add 3 tbsp water to the dish and bake for 25 minutes until tender.",
+    "Serve warm with the soy yogurt."
+  ],
+  "note": "Pears provide natural sweetness; the high-protein soy yogurt adds protein.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Baked apple",
+      "url": "https://en.wikipedia.org/wiki/Baked_apple",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

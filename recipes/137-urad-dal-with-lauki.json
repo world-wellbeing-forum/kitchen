@@ -1,0 +1,69 @@
+{
+  "id": 137,
+  "name": "Urad Dal with Lauki",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 200,
+  "carbs": 30,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "¼ cup (50 g) split urad dal (dhuli), rinsed",
+    "250 g lauki, peeled and cubed",
+    "1 tomato, chopped",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "2 garlic cloves and 1 tsp ginger",
+    "¼ tsp turmeric and ½ tsp coriander powder",
+    "Lemon juice, salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the urad dal with the lauki, turmeric and 2 cups water for 3 whistles until soft.",
+    "Heat the oil, crackle the cumin, then cook garlic and ginger for 1 minute.",
+    "Add the tomato and coriander powder and cook for 4 minutes.",
+    "Stir in the dal and lauki, mash lightly, and simmer for 5 minutes.",
+    "Finish with lemon juice, salt and coriander."
+  ],
+  "note": "Lauki adds volume and moisture, so you can use less dal per serving.",
+  "inspirationReferences": [
+    {
+      "site": "abhasbiharichowka.wordpress.com",
+      "title": "Lauki Chana Dal | Biharirasoi",
+      "url": "https://abhasbiharichowka.wordpress.com/2012/01/31/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "juntoplan.com",
+      "title": "Lauki chana dal · JuntoPlan recipe",
+      "url": "https://juntoplan.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookwithambarish.com",
+      "title": "Lauki Chana Dal - Cook with Ambarish",
+      "url": "https://www.cookwithambarish.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Whisk Affair",
+      "title": "Lauki Chana Dal Recipe - Whisk Affair",
+      "url": "https://www.whiskaffair.com/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

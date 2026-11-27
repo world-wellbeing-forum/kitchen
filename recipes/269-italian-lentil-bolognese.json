@@ -1,0 +1,46 @@
+{
+  "id": 269,
+  "name": "Italian Lentil Bolognese",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 295,
+  "carbs": 43,
+  "fiber": 13,
+  "fat": 5,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "½ cup (100 g) brown lentils, cooked (about 1½ cups)",
+    "40 g whole-wheat spaghetti",
+    "1 zucchini, spiralised or grated",
+    "150 g mushrooms and 1 carrot, finely chopped",
+    "1 onion and 3 garlic cloves, minced",
+    "1 tsp olive oil",
+    "1½ cups tomato passata and 1 tbsp tomato paste",
+    "1 tsp each dried oregano and basil",
+    "Black pepper, salt and basil leaves"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion, carrot and mushrooms for 8 minutes until the mushrooms brown.",
+    "Add the garlic and herbs, then the tomato paste, passata and lentils. Simmer for 20 minutes, adding water if it thickens too much.",
+    "Cook the spaghetti for 1 minute less than the pack says; add the zucchini for the last 30 seconds. Drain.",
+    "Season the sauce with salt and pepper.",
+    "Toss with the spaghetti and zucchini and top with basil."
+  ],
+  "note": "Half the pasta is replaced by zucchini noodles, which lowers carbohydrate; lentils give a meaty texture.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Bolognese sauce",
+      "url": "https://en.wikipedia.org/wiki/Bolognese_sauce",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 84,
+  "name": "Cabbage Ginger Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 140,
+  "carbs": 14,
+  "fiber": 5,
+  "fat": 5,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "300 g cabbage, thinly sliced",
+    "1 carrot, grated",
+    "100 g firm tofu, crumbled",
+    "2.5 cm ginger, grated",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "4 cups vegetable stock",
+    "1 tbsp soy sauce",
+    "½ tsp black pepper",
+    "Spring onion to finish"
+  ],
+  "steps": [
+    "Heat the oil and cook ginger and garlic for 1 minute.",
+    "Add cabbage and carrot and stir for 3 minutes.",
+    "Pour in the stock and soy sauce and simmer for 8 minutes.",
+    "Add the crumbled tofu and cook for 3 minutes.",
+    "Season with pepper and finish with spring onion."
+  ],
+  "note": "Low in calories and high in volume; the tofu keeps it filling.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "cabbage soup recipe | vegetable soup with cabbage | cabbage soup diet",
+      "url": "https://hebbarskitchen.com/cabbage-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

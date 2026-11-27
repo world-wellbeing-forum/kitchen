@@ -1,0 +1,51 @@
+{
+  "id": 97,
+  "name": "Mixed Vegetable Korma",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 245,
+  "carbs": 25,
+  "fiber": 7,
+  "fat": 10,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "2 cups mixed vegetables (carrot, beans, cauliflower, peas)",
+    "1 onion, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tomato, chopped",
+    "3 tbsp light coconut milk",
+    "¼ cup (60 g) silken tofu",
+    "1 tsp oil",
+    "1 bay leaf, 2 cardamom pods and 2 cloves",
+    "1 tsp coriander powder and ¼ tsp turmeric",
+    "½ tsp garam masala",
+    "Salt and coriander",
+    "100 g firm tofu, cubed"
+  ],
+  "steps": [
+    "Heat the oil, add the whole spices, then the onion, and cook for 5 minutes until golden.",
+    "Add ginger, garlic and tomato and cook 4 minutes. Blend this base with the silken tofu to a smooth paste.",
+    "Return to the pan, add coriander powder, turmeric, the vegetables and 1 cup water.",
+    "Simmer covered for 12 minutes until the vegetables are tender.",
+    "Add the tofu cubes for the last 5 minutes of simmering.",
+    "Stir in the coconut milk and garam masala, simmer 2 minutes, and finish with coriander."
+  ],
+  "note": "A nut-free korma: the tofu and a little coconut milk replace the usual cashew and cream.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Korma",
+      "url": "https://en.wikipedia.org/wiki/Korma",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

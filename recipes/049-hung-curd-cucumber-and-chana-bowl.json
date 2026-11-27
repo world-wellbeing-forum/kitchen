@@ -1,0 +1,46 @@
+{
+  "id": 49,
+  "name": "Hung Curd Cucumber and Chana Bowl",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": false,
+  "protein": 22,
+  "cal": 295,
+  "carbs": 32,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "200 g plain low-fat Greek yogurt or hung curd",
+    "½ cup cooked chickpeas, drained",
+    "½ cup diced cucumber",
+    "¼ cup grated carrot",
+    "½ tsp roasted cumin powder",
+    "1 tbsp lemon juice",
+    "2 tbsp mint and coriander",
+    "1 tbsp pumpkin seeds",
+    "Black pepper and salt"
+  ],
+  "steps": [
+    "Whisk yogurt until smooth with lemon juice, cumin, pepper and salt.",
+    "Pat chickpeas dry and toss with a little cumin and chopped herbs.",
+    "Divide yogurt between two bowls. Top with chickpeas, cucumber and carrot.",
+    "Sprinkle with pumpkin seeds and remaining herbs.",
+    "Serve chilled. Keep refrigerated until serving."
+  ],
+  "note": "Vegetarian, not vegan. Use plain unsweetened yogurt; protein content varies significantly between Greek-yogurt brands.",
+  "inspirationReferences": [
+    {
+      "site": "podnutrition.in",
+      "title": "12 High-Protein Vegetarian Indian Breakfast Ideas | Pod Nutrition",
+      "url": "https://podnutrition.in/blogs/learn/high-protein-vegetarian-breakfast-indian",
+      "note": "Reference for high-protein yogurt bowls; our chickpea and vegetable composition is an adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

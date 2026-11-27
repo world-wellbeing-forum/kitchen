@@ -1,0 +1,69 @@
+{
+  "id": 41,
+  "name": "Rava Vegetable Idli",
+  "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 270,
+  "carbs": 43,
+  "fiber": 5,
+  "fat": 6,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "1 cup fine semolina (rava)",
+    "½ cup plain unsweetened soy yogurt",
+    "¼–½ cup water",
+    "½ cup grated carrot and peas",
+    "½ tsp mustard seeds",
+    "½ tsp oil",
+    "¼ tsp baking soda or ½ tsp fruit salt",
+    "Curry leaves, coriander and salt"
+  ],
+  "steps": [
+    "Dry-roast semolina over low heat for 3–4 minutes; cool completely.",
+    "Mix soy yogurt, semolina, vegetables, salt and enough water to make a thick spoonable batter. Rest 8 minutes.",
+    "Prepare a steamer and lightly grease idli moulds. Just before steaming, fold in baking soda or fruit salt.",
+    "Fill moulds two-thirds full and steam 10–12 minutes, until a skewer comes out clean.",
+    "Rest 2 minutes before unmoulding. Serve with sambar or coconut chutney."
+  ],
+  "note": "This vegan adaptation uses soy yogurt. Traditional rava idli often contains dairy; check the semolina and raising-agent labels.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rava Idli Recipe",
+      "url": "https://www.vegrecipesofindia.com/rava-idli-recipe/",
+      "note": "Reference for semolina idli and steaming; soy-yogurt vegan substitution is our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rava Idli Recipe",
+      "url": "https://www.vegrecipesofindia.com/rava-idli-recipe-quick-rava-idli/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "NDTV Food",
+      "title": "Masala Rava Idli Recipe by Niru Gupta - NDTV Food",
+      "url": "https://food.ndtv.com/recipe-masala-rava-idli-219430",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "इडली रेसिपी | idli in hindi | इडली बनाने की विधि | नरम इडली रेसिपी",
+      "url": "https://hebbarskitchen.com/idli-recipe-soft-idli-idli-rava/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

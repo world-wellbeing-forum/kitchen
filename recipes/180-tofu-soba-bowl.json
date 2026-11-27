@@ -1,0 +1,45 @@
+{
+  "id": 180,
+  "name": "Tofu Soba Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 26,
+  "cal": 360,
+  "carbs": 44,
+  "fiber": 7,
+  "fat": 9,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "60 g dry soba noodles (check they are 100% buckwheat if gluten-free)",
+    "200 g firm tofu, cubed",
+    "1 cup broccoli florets",
+    "1 carrot, julienned",
+    "1 cup shredded cabbage",
+    "1 tsp oil",
+    "Dressing: 1 tbsp soy sauce, 1 tsp rice vinegar, 1 tsp grated ginger, 1 garlic clove (grated), juice of ½ lime",
+    "Spring onion and chilli flakes"
+  ],
+  "steps": [
+    "Cook the soba in boiling water for 5 minutes; drain, rinse under cold water and drain again.",
+    "Sear the tofu in the oil for 8 minutes until golden.",
+    "Steam the broccoli and carrot for 3 minutes.",
+    "Whisk the dressing and toss with the noodles, cabbage and vegetables.",
+    "Top with the tofu, spring onion and chilli flakes."
+  ],
+  "note": "Soba has more protein and fibre than regular wheat noodles; keep the portion to about 30 g dry per person.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Soba",
+      "url": "https://en.wikipedia.org/wiki/Soba",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

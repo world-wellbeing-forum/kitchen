@@ -1,0 +1,46 @@
+{
+  "id": 271,
+  "name": "Mexican Black Bean Tacos",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 18,
+  "cal": 310,
+  "carbs": 44,
+  "fiber": 14,
+  "fat": 7,
+  "prep": 15,
+  "cook": 10,
+  "mins": 25,
+  "ingredients": [
+    "4 small corn tortillas (6-inch)",
+    "1 cup cooked black beans",
+    "100 g firm tofu, crumbled and spiced",
+    "1 cup shredded cabbage",
+    "½ tomato and ¼ onion, diced",
+    "¼ avocado, sliced",
+    "1 tsp oil",
+    "1 tsp cumin, ½ tsp paprika, ¼ tsp chilli powder",
+    "Lime juice, coriander and salsa"
+  ],
+  "steps": [
+    "Pan-toast the tofu with the oil, half the spices and salt for 5 minutes until dry and golden.",
+    "Warm the beans with the remaining spices and 2 tbsp water for 4 minutes; mash lightly.",
+    "Warm the tortillas in a dry pan for 20 seconds per side.",
+    "Fill with beans, tofu, cabbage, tomato, onion and avocado.",
+    "Finish with lime juice, coriander and salsa."
+  ],
+  "note": "Corn tortillas are lower in carbohydrate than flour ones; beans and tofu carry the protein.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Taco",
+      "url": "https://en.wikipedia.org/wiki/Taco",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

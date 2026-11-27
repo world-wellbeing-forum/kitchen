@@ -1,0 +1,46 @@
+{
+  "id": 217,
+  "name": "Baked Ratatouille with White Beans",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 260,
+  "carbs": 38,
+  "fiber": 13,
+  "fat": 6,
+  "prep": 25,
+  "cook": 45,
+  "mins": 70,
+  "ingredients": [
+    "1 small eggplant, 1 zucchini and 2 bell peppers, diced",
+    "3 tomatoes, chopped",
+    "1 onion and 3 garlic cloves",
+    "1 cup cooked white beans",
+    "2 tsp olive oil",
+    "1 tsp dried thyme and 1 tsp dried basil",
+    "1 tbsp tomato paste",
+    "Salt, pepper and fresh basil"
+  ],
+  "steps": [
+    "Heat the oven to 190°C.",
+    "Toss the eggplant, zucchini, peppers and onion with the oil, garlic, herbs and seasoning.",
+    "Mix with the tomatoes, tomato paste and white beans in a baking dish.",
+    "Cover with foil and bake for 30 minutes; uncover and bake for 15 minutes more, stirring once.",
+    "Finish with fresh basil."
+  ],
+  "note": "Adding white beans turns a vegetable side dish into a main meal with extra fibre.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Ratatouille",
+      "url": "https://en.wikipedia.org/wiki/Ratatouille",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

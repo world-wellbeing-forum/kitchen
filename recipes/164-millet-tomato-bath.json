@@ -1,0 +1,74 @@
+{
+  "id": 164,
+  "name": "Millet Tomato Bath",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 260,
+  "carbs": 45,
+  "fiber": 7,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "⅓ cup little millet, rinsed",
+    "2 tomatoes and 1 onion, chopped",
+    "1 tsp oil",
+    "½ tsp each mustard seeds and urad dal",
+    "1 tsp ginger-garlic paste",
+    "1 green chilli and 8 curry leaves",
+    "1 tsp bisibele bath or sambar powder",
+    "¼ tsp turmeric",
+    "1½ cups water",
+    "Salt and coriander",
+    "¼ cup split moong dal, rinsed"
+  ],
+  "steps": [
+    "Heat the oil, crackle the mustard, and fry the urad dal until golden. Add curry leaves and chilli.",
+    "Add the onion and ginger-garlic paste and cook for 4 minutes. Add the tomatoes, turmeric and masala and cook for 5 minutes.",
+    "Add the millet, water and salt.",
+    "Cover and cook on low for 15 minutes until soft and slightly mushy.",
+    "Cook the moong dal together with the millet.",
+    "Finish with coriander."
+  ],
+  "note": "A Karnataka-style one-pot dish with a soft, porridge-like texture.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tomato Rice Recipe",
+      "url": "https://www.vegrecipesofindia.com/tomato-rice-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tomato Rice Recipe Easy Tomato Rice",
+      "url": "https://www.vegrecipesofindia.com/tomato-rice-recipe-easy-tomato-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Tomato Chitranna Recipe Tomato Rice",
+      "url": "https://hebbarskitchen.com/tomato-chitranna-recipe-tomato-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Tomato Rice Recipe Thakali Rice",
+      "url": "https://hebbarskitchen.com/tomato-rice-recipe-thakali-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": 135,
+  "name": "Black-Eyed Pea Stew",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 245,
+  "carbs": 38,
+  "fiber": 12,
+  "fat": 4,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "1½ cups cooked black-eyed peas",
+    "1 carrot and 1 celery stalk, diced",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1 cup chopped tomatoes",
+    "100 g kale or spinach, chopped",
+    "1 tsp smoked paprika and ½ tsp dried thyme",
+    "2 cups low-sodium vegetable stock",
+    "Black pepper, salt and a splash of vinegar"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion, carrot and celery for 6 minutes. Add garlic and spices.",
+    "Add the tomatoes and cook for 4 minutes.",
+    "Add the peas and stock and simmer for 15 minutes.",
+    "Stir in the kale and cook for 5 minutes.",
+    "Finish with vinegar, pepper and salt."
+  ],
+  "note": "A Southern-style stew: smoked paprika provides the smoky note without any meat.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Alasanda Vada Recipe Black Eyed Peas",
+      "url": "https://hebbarskitchen.com/alasanda-vada-recipe-black-eyed-peas/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

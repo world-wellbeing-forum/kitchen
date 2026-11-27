@@ -2,11 +2,15 @@
   "id": 18,
   "name": "Protein Gatte Curry",
   "category": "Protein specials",
+  "servings": 2,
+  "vegan": false,
   "protein": 17,
   "cal": 235,
   "carbs": 24,
   "fiber": 5,
   "fat": 9,
+  "prep": 16,
+  "cook": 29,
   "mins": 45,
   "ingredients": [
     "½ cup besan",
@@ -21,19 +25,24 @@
     "Whisk yogurt with water and spices; simmer gatte gently."
   ],
   "note": "Use plain unsweetened yogurt; this is a protein-enhanced regional adaptation.",
-  "image": "/assets/images/recipes/018.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Gatte Ki Sabji Recipe (Besan Ki Sabji)",
       "url": "https://www.vegrecipesofindia.com/gatte-ki-sabji-recipe/",
       "note": "Rajasthani besan dumpling shaping, boiling until set and simmering in curry; our protein-forward gravy variation is original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "gatte ki sabji recipe | gatte ki sabzi recipe | besan ke gatte recipe",
+      "url": "https://hebbarskitchen.com/gatte-ki-sabji-recipe-gatte-ki-sabzi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

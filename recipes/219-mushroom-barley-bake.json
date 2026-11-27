@@ -1,0 +1,39 @@
+{
+  "id": 219,
+  "name": "Mushroom Barley Bake",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 280,
+  "carbs": 42,
+  "fiber": 10,
+  "fat": 5,
+  "prep": 15,
+  "cook": 55,
+  "mins": 70,
+  "ingredients": [
+    "⅓ cup pearl barley, rinsed",
+    "250 g mushrooms, sliced",
+    "100 g firm tofu, cubed",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1½ cups hot vegetable stock",
+    "1 tsp dried thyme and 1 tbsp soy sauce",
+    "Black pepper and parsley"
+  ],
+  "steps": [
+    "Heat the oven to 190°C.",
+    "Sauté the onion, garlic and mushrooms in the oil for 6 minutes.",
+    "Mix with the barley, tofu, thyme, soy sauce and pepper in a deep baking dish.",
+    "Pour in the hot stock and cover tightly with foil.",
+    "Bake for 50 minutes, until the barley is tender and the liquid absorbed. Finish with parsley."
+  ],
+  "note": "An easy hands-off bake; barley supplies soluble fibre.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

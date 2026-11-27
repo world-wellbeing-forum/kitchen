@@ -1,0 +1,46 @@
+{
+  "id": 279,
+  "name": "Indonesian Tempeh Stir-Fry",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 27,
+  "cal": 280,
+  "carbs": 18,
+  "fiber": 7,
+  "fat": 11,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "150 g tempeh, cut in thin strips",
+    "1 cup green beans, cut in 3 cm pieces",
+    "1 cup shredded cabbage",
+    "3 shallots or 1 small onion, sliced",
+    "3 garlic cloves and 2 red chillies, sliced",
+    "1 tsp oil",
+    "1½ tbsp soy sauce and juice of ½ lime",
+    "½ tsp ground coriander",
+    "Basil or coriander"
+  ],
+  "steps": [
+    "Steam the tempeh for 5 minutes to remove bitterness; pat dry.",
+    "Pan-sear the tempeh in the oil for 5 minutes until golden; set aside.",
+    "Stir-fry the shallots, garlic and chillies for 1 minute, then add the beans and cabbage for 4 minutes.",
+    "Return the tempeh with the soy sauce and coriander and toss for 2 minutes.",
+    "Finish with lime juice and basil."
+  ],
+  "note": "Tempeh is fermented soy and a complete protein; it is nut-free, but check labels for peanut cross-contact.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Tempeh",
+      "url": "https://en.wikipedia.org/wiki/Tempeh",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

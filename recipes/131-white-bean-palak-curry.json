@@ -1,0 +1,38 @@
+{
+  "id": 131,
+  "name": "White Bean Palak Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 250,
+  "carbs": 38,
+  "fiber": 13,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "1½ cups cooked white beans (cannellini or navy)",
+    "200 g spinach, chopped",
+    "1 onion and 1 tomato, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder, ¼ tsp turmeric and ¼ tsp chilli powder",
+    "½ tsp garam masala",
+    "Lemon juice and salt"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion for 5 minutes. Add ginger and garlic.",
+    "Add the tomato and spices and cook for 5 minutes.",
+    "Add the spinach and cook for 4 minutes until wilted.",
+    "Add the beans and ½ cup water and simmer for 8 minutes; mash a few beans to thicken.",
+    "Finish with garam masala, lemon juice and salt."
+  ],
+  "note": "Canned beans work well: rinse them thoroughly to remove excess sodium.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

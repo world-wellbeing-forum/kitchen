@@ -1,0 +1,46 @@
+{
+  "id": 107,
+  "name": "Air-Fryer Tofu Tikka",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 210,
+  "carbs": 11,
+  "fiber": 3,
+  "fat": 10,
+  "prep": 20,
+  "cook": 12,
+  "mins": 32,
+  "ingredients": [
+    "250 g extra-firm tofu, pressed for 15 minutes and cubed",
+    "1 capsicum, cut in squares",
+    "3 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-garlic paste",
+    "1 tsp tikka masala",
+    "½ tsp each chilli powder and ajwain",
+    "1 tsp oil",
+    "Juice of ½ lemon",
+    "Salt and chaat masala"
+  ],
+  "steps": [
+    "Mix the soy yogurt, ginger-garlic paste, spices, oil, lemon and salt. Coat the tofu and capsicum and rest for 30 minutes.",
+    "Preheat the air fryer to 190°C.",
+    "Arrange the tofu and capsicum in a single layer, and cook for 12 minutes, shaking the basket at 6 minutes.",
+    "Finish with chaat masala and lemon."
+  ],
+  "note": "Pressing the tofu removes water so it browns and turns firm rather than steaming.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Tikka",
+      "url": "https://en.wikipedia.org/wiki/Tikka",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

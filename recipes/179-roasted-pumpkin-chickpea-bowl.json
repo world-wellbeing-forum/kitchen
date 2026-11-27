@@ -1,0 +1,46 @@
+{
+  "id": 179,
+  "name": "Roasted Pumpkin Chickpea Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 305,
+  "carbs": 44,
+  "fiber": 12,
+  "fat": 7,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "250 g pumpkin, cubed",
+    "1 cup cooked chickpeas",
+    "½ cup cooked millet or quinoa",
+    "2 cups kale or spinach",
+    "100 g firm tofu, cubed",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp chilli powder",
+    "Dressing: juice of 1 lemon, 2 tbsp plain soy yogurt, salt"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Toss the pumpkin, chickpeas and tofu with the oil and spices.",
+    "Roast for 25 minutes, turning once.",
+    "Wilt the kale briefly in a hot pan or leave raw.",
+    "Divide the grain and kale between bowls and top with the roast mixture.",
+    "Drizzle with the lemon-yogurt dressing."
+  ],
+  "note": "Pumpkin is lower in carbohydrate than sweet potato; the legumes and tofu keep protein high.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Buddha bowl",
+      "url": "https://en.wikipedia.org/wiki/Buddha_bowl",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

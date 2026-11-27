@@ -1,0 +1,47 @@
+{
+  "id": 298,
+  "name": "Cocoa Chickpea Brownies",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 215,
+  "carbs": 30,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "1 cup cooked chickpeas, rinsed and well drained",
+    "1 ripe banana",
+    "2 tbsp unsweetened cocoa powder",
+    "2 tbsp oat flour",
+    "1 tsp baking powder and 1 tsp vanilla",
+    "2 tbsp unsweetened soy milk",
+    "20 g dark chocolate (85%), chopped",
+    "1 tsp oil",
+    "Pinch of salt"
+  ],
+  "steps": [
+    "Heat the oven to 180°C and line a small tin.",
+    "Blend the chickpeas, banana, cocoa, oat flour, baking powder, vanilla, soy milk, oil and salt until completely smooth.",
+    "Fold in the chopped chocolate.",
+    "Spread in the tin and bake for 22–25 minutes until set.",
+    "Cool fully before cutting into 4 squares; they firm as they cool."
+  ],
+  "note": "Chickpeas give protein and fibre; the sweetness comes from banana and a small amount of dark chocolate.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Brownie",
+      "url": "https://en.wikipedia.org/wiki/Brownie",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

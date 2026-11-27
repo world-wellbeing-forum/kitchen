@@ -1,0 +1,37 @@
+{
+  "id": 174,
+  "name": "Roasted Cauliflower Grain Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 300,
+  "carbs": 40,
+  "fiber": 12,
+  "fat": 8,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "300 g cauliflower florets",
+    "1 cup cooked chickpeas",
+    "½ cup cooked bulgur or quinoa",
+    "2 cups spinach",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp turmeric",
+    "Dressing: ¼ cup plain unsweetened soy yogurt, juice of 1 lemon, 1 garlic clove (grated), salt, parsley"
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Toss the cauliflower and chickpeas with the oil, cumin, turmeric and salt.",
+    "Roast for 25 minutes, turning once, until charred at the edges.",
+    "Whisk the dressing.",
+    "Divide the grain and spinach between two bowls.",
+    "Top with the roasted mixture and drizzle with the dressing."
+  ],
+  "note": "A nut-free, tahini-free bowl; the soy yogurt-lemon dressing gives the creamy tang.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

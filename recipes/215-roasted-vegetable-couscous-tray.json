@@ -1,0 +1,45 @@
+{
+  "id": 215,
+  "name": "Roasted Vegetable Couscous Tray",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 325,
+  "carbs": 46,
+  "fiber": 12,
+  "fat": 7,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "⅓ cup whole-wheat couscous",
+    "1 cup cooked chickpeas",
+    "1 zucchini, 1 bell pepper and 1 red onion, chunked",
+    "100 g firm tofu, cubed",
+    "1 tsp olive oil",
+    "1 tsp ras el hanout or cumin and coriander",
+    "½ cup hot vegetable stock",
+    "Juice of 1 lemon, parsley, salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Toss the vegetables, chickpeas and tofu with the oil, spices and salt on a tray.",
+    "Roast for 25 minutes, turning once.",
+    "Place the couscous in a bowl, pour over the hot stock and cover for 5 minutes. Fluff with a fork.",
+    "Toss the couscous with the roasted mixture, lemon juice and parsley."
+  ],
+  "note": "The chickpeas and tofu bring the protein up so the dish is a full meal on one tray.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Couscous",
+      "url": "https://en.wikipedia.org/wiki/Couscous",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

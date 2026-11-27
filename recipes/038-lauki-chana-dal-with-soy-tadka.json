@@ -2,15 +2,16 @@
   "id": 38,
   "name": "Lauki Chana Dal with Soy Tadka",
   "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "vegan": true,
   "protein": 23,
-  "cal": 285,
+  "cal": 300,
   "carbs": 39,
   "fiber": 11,
   "fat": 6,
-  "mins": 45,
   "prep": 15,
   "cook": 30,
-  "vegan": true,
+  "mins": 45,
   "ingredients": [
     "½ cup (100 g) dry chana dal, rinsed and soaked 30 minutes",
     "3 cups (360 g) peeled lauki, diced",
@@ -37,36 +38,40 @@
     "Finish with coriander and lemon. Taste before adding salt. Serve with a measured portion of whole-wheat roti and extra non-starchy vegetables."
   ],
   "note": "Inspired by everyday lauki-chana dal. Soy granules add protein without relying on cream or ghee. Chana dal is both a protein and carbohydrate source; include its carbohydrate in meal planning. Approximate nutrition only; not a treatment for LDL or A1C.",
-  "sourceReferences": [
-    [
-      "Indian Express – Lauki Chane ki Daal",
-      "https://indianexpress.com/article/lifestyle/food-wine/express-recipes-how-to-make-lauki-chane-ki-daal/lite/",
-      "Culinary reference for the lauki and chana dal combination and pressure-cooking method; this soy-enriched recipe is an adaptation."
-    ],
-    [
-      "Sanjeev Kapoor – Lauki Chana Dal",
-      "https://www.sanjeevkapoor.com/Recipe/lauki-chana-dal-8918657",
-      "Additional culinary reference for the traditional preparation; quantities and lower-oil method adapted."
-    ],
-    [
-      "USDA FoodData Central",
-      "https://fdc.nal.usda.gov/",
-      "Ingredient-level nutrition reference; brand-specific soy values still need calculation."
-    ]
-  ],
-  "servings": 2,
-  "image": "/assets/images/recipes/038.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
-  "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
-  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Lauki Chana Dal",
+      "title": "Lauki Chana Dal | Dudhi Chana Dal",
       "url": "https://www.vegrecipesofindia.com/lauki-chana-dal-curry-recipe/",
       "note": "Bottle-gourd and chana-dal pairing, soaking and pressure-cooker/pan method; soy tadka is our original variation.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "abhasbiharichowka.wordpress.com",
+      "title": "Lauki Chana Dal | Biharirasoi",
+      "url": "https://abhasbiharichowka.wordpress.com/2012/01/31/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "juntoplan.com",
+      "title": "Lauki chana dal · JuntoPlan recipe",
+      "url": "https://juntoplan.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookwithambarish.com",
+      "title": "Lauki Chana Dal - Cook with Ambarish",
+      "url": "https://www.cookwithambarish.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

@@ -1,0 +1,54 @@
+{
+  "id": 199,
+  "name": "Light Dahi Papdi Chaat",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": false,
+  "protein": 17,
+  "cal": 255,
+  "carbs": 38,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "Papdi: ½ cup whole-wheat flour, ¼ tsp ajwain, 1 tsp oil, salt, water",
+    "1 cup plain low-fat yogurt, whisked until smooth",
+    "1 cup boiled chickpeas",
+    "1 small potato, boiled and diced",
+    "1 small onion and 1 tomato, finely chopped",
+    "Mint chutney and 1 tsp tamarind pulp (no added sugar)",
+    "½ tsp each roasted cumin and chaat masala",
+    "Coriander and pomegranate seeds"
+  ],
+  "steps": [
+    "Knead the papdi dough, roll thin, cut into rounds and prick with a fork. Bake at 200°C for 12 minutes until crisp; cool.",
+    "Mix the chickpeas, potato, onion and tomato.",
+    "Arrange the papdi on plates, top with the chickpea mix and spoon over the yogurt.",
+    "Drizzle with mint chutney and tamarind pulp.",
+    "Sprinkle with cumin, chaat masala, coriander and pomegranate."
+  ],
+  "note": "Baked whole-wheat papdi, no sweet chutney and a chickpea topping make this a higher-protein version.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dahi Papdi Chaat",
+      "url": "https://www.vegrecipesofindia.com/dahi-papdi-chaat-recipe-chaat-recipes/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dahi Papdi Chaat Recipe Dahi Bhalla",
+      "url": "https://hebbarskitchen.com/dahi-papdi-chaat-recipe-dahi-bhalla/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

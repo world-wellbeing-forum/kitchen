@@ -1,0 +1,48 @@
+{
+  "id": 78,
+  "name": "Tuscan Bean Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 250,
+  "carbs": 40,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "1 cup cooked cannellini beans",
+    "1 carrot, diced",
+    "1 celery stalk, diced",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1 tsp olive oil",
+    "½ cup chopped tomatoes",
+    "100 g kale or spinach, chopped",
+    "1 tsp dried Italian herbs",
+    "3 cups low-sodium vegetable stock",
+    "Black pepper and salt"
+  ],
+  "steps": [
+    "Heat the oil and cook onion, carrot and celery for 6 minutes. Add garlic and herbs.",
+    "Add tomatoes and cook for 3 minutes.",
+    "Add the beans and stock and simmer for 15 minutes.",
+    "Mash a few beans against the side of the pot to thicken the broth.",
+    "Add the greens and cook for 5 minutes. Season with salt and pepper."
+  ],
+  "note": "A rustic Tuscan-style soup; no cheese rind is used, so it stays vegan.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Ribollita",
+      "url": "https://en.wikipedia.org/wiki/Ribollita",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

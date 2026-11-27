@@ -1,0 +1,46 @@
+{
+  "id": 136,
+  "name": "Chickpea Spinach Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 265,
+  "carbs": 38,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "1½ cups cooked chickpeas",
+    "200 g spinach, chopped",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ¼ tsp turmeric, ½ tsp chilli powder",
+    "½ tsp garam masala",
+    "Lemon juice and salt"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion for 5 minutes. Add ginger and garlic.",
+    "Add the tomatoes and spices and cook for 6 minutes.",
+    "Add the spinach and cook until wilted, about 3 minutes.",
+    "Add the chickpeas and ½ cup water and simmer for 8 minutes, mashing a few to thicken.",
+    "Finish with garam masala, lemon juice and salt."
+  ],
+  "note": "A quick weeknight curry using canned or pre-cooked chickpeas.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Chole Recipe Palak Chole",
+      "url": "https://www.vegrecipesofindia.com/palak-chole-recipe-palak-chole/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

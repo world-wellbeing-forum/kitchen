@@ -1,6 +1,9 @@
 {
-  "path": "recipes/003-aloo-methi.json",
+  "id": 3,
   "name": "Aloo Methi with Tofu and Roasted Chana",
+  "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "vegan": true,
   "protein": 21,
   "carbs": 28,
   "fiber": 8,
@@ -31,48 +34,26 @@
     "Turn off heat. Add crushed roasted chana, amchur and lemon. Taste and season modestly."
   ],
   "note": "Keeps the familiar aloo-methi flavour but increases methi and adds tofu. Potato still contributes carbohydrate; keep the serving measured and pair with another non-starchy vegetable. Roasted chana adds crunch and fibre but also carbohydrate. Vegetarian; vegan if no dairy garnish is added.",
-  "sourceReferences": [
-    [
-      "USDA FoodData Central",
-      "https://fdc.nal.usda.gov/",
-      "Ingredient nutrition reference; estimates require final recipe calculation."
-    ],
-    [
-      "2026 ACC/AHA Dyslipidemia Guideline",
-      "https://www.jacc.org/doi/10.1016/j.jacc.2025.11.016",
-      "Supports legumes, fibre and unsaturated fats in an LDL-conscious eating pattern."
-    ],
-    [
-      "American Diabetes Association – Diabetes Plate",
-      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
-      "Guides balancing starchy vegetables, protein and non-starchy vegetables."
-    ]
-  ],
-  "id": 3,
-  "category": "UP Classics · Protein-Forward",
-  "servings": 2,
-  "image": "/assets/images/recipes/003.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "researched-recipe-draft-nutrition-and-kitchen-testing-pending",
-  "nutritionStatus": "rough-estimate-not-lab-tested",
-  "methodStatus": "stovetop-developed-other-appliance-adaptations-pending",
-  "vegan": false,
-  "calories": 275,
-  "totalTime": 30,
-  "nutritionPerServing": {
-    "calories": 275,
-    "protein_g": 21,
-    "carbohydrate_g": 28,
-    "fibre_g": 8,
-    "fat_g": 8
-  },
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Aloo Methi Recipe (Potato & Fenugreek Leaves Sabzi)",
+      "title": "Aloo Methi Recipe",
       "url": "https://www.vegrecipesofindia.com/aloo-methi-recipe-dry-aloo-methi-recipe/",
       "note": "Punjabi dry-sabzi technique and balance of potato with fresh methi; our tofu and roasted-chana additions are original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "आलू मेथी रेसिपी | aloo methi in hindi | मेथी आलू | सूखी आलू मेथी करी",
+      "url": "https://hebbarskitchen.com/aloo-methi-recipe-alu-methi-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "cal": 270,
+  "mins": 30
 }

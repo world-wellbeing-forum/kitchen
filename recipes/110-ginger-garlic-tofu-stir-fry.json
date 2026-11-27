@@ -1,0 +1,39 @@
+{
+  "id": 110,
+  "name": "Ginger Garlic Tofu Stir-Fry",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 230,
+  "carbs": 14,
+  "fiber": 5,
+  "fat": 10,
+  "prep": 15,
+  "cook": 12,
+  "mins": 27,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "1 cup broccoli florets",
+    "1 carrot, thinly sliced",
+    "1 red bell pepper, sliced",
+    "1 tbsp each minced ginger and garlic",
+    "1 tsp oil",
+    "1 tbsp soy sauce",
+    "1 tsp rice vinegar",
+    "½ tsp black pepper",
+    "1 tsp cornflour mixed with 2 tbsp water"
+  ],
+  "steps": [
+    "Sear the tofu in a non-stick pan with half the oil until golden on all sides. Set aside.",
+    "Heat the remaining oil on high; stir-fry ginger and garlic for 20 seconds.",
+    "Add the carrot and broccoli and stir-fry for 3 minutes, then the pepper for 1 minute.",
+    "Return the tofu with the soy sauce, vinegar, pepper and 2 tbsp water.",
+    "Stir in the cornflour mixture and toss for 1 minute until glossy."
+  ],
+  "note": "A quick weeknight stir-fry with no sesame oil or nuts.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

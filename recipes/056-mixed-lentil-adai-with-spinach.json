@@ -1,0 +1,54 @@
+{
+  "id": 56,
+  "name": "Mixed Lentil Adai with Spinach",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 320,
+  "carbs": 43,
+  "fiber": 10,
+  "fat": 8,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "¼ cup each chana dal, toor dal and split yellow moong dal",
+    "2 tbsp rice",
+    "1 dried red chilli",
+    "½ tsp cumin seeds",
+    "½ cup finely chopped spinach",
+    "2 tbsp chopped coriander",
+    "¼ tsp hing (check gluten-free label if needed)",
+    "2 tsp oil",
+    "Salt and water"
+  ],
+  "steps": [
+    "Rinse dals and rice. Soak with dried chilli for 3–4 hours, then drain.",
+    "Grind coarsely with cumin, hing, salt and enough water to make a thick spreadable batter.",
+    "Stir in spinach and coriander. Rest 5 minutes.",
+    "Heat a tawa, brush with oil and spread a ladle of batter into a thick 15 cm disc. Make a small hole in the centre for even cooking.",
+    "Cook 3–4 minutes per side until golden and cooked through. Repeat with remaining batter."
+  ],
+  "note": "Naturally vegan when cooked with oil. Soaking time is additional to the active preparation estimate.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Adai Recipe | How to make Adai Dosa",
+      "url": "https://www.vegrecipesofindia.com/adai-recipe/",
+      "note": "Reference for mixed-lentil adai batter and tawa cooking; spinach is our variation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಅಡೈ ರೆಸಿಪಿ | adai in kannada | ಅಡೈ ದೋಸೆ ಮಾಡುವುದು ಹೇಗೆ",
+      "url": "https://hebbarskitchen.com/adai-recipe-make-adai-dosa-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

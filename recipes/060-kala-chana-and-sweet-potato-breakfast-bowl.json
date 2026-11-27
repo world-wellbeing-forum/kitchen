@@ -1,0 +1,71 @@
+{
+  "id": 60,
+  "name": "Kala Chana and Sweet Potato Breakfast Bowl",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 315,
+  "carbs": 49,
+  "fiber": 11,
+  "fat": 7,
+  "prep": 8,
+  "cook": 12,
+  "mins": 20,
+  "ingredients": [
+    "1 cup cooked kala chana",
+    "150 g sweet potato, cubed and steamed",
+    "½ cup diced cucumber",
+    "¼ cup diced tomato",
+    "1 tbsp lemon juice",
+    "½ tsp roasted cumin powder",
+    "¼ tsp chaat masala",
+    "2 tbsp coriander",
+    "1 tbsp pumpkin seeds",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Steam sweet potato cubes until just tender, about 8–10 minutes; cool slightly.",
+    "Warm cooked kala chana in a small pan with a splash of water, cumin and chaat masala.",
+    "Divide chana and sweet potato between two bowls.",
+    "Add cucumber, tomato, lemon and coriander.",
+    "Top with pumpkin seeds and serve warm or at room temperature."
+  ],
+  "note": "Cooked kala chana can be batch-prepared and refrigerated promptly. No nuts or dairy.",
+  "inspirationReferences": [
+    {
+      "site": "wellbeingmora.in",
+      "title": "High-Protein Indian Breakfast: 20 Healthy Ideas – Plant Based & Whole Food Supplements India | WellBeingMora",
+      "url": "https://wellbeingmora.in/blogs/wellbeingmora-blogs/high-protein-indian-breakfast-ideas",
+      "note": "Reference for kala chana breakfast bowls; sweet potato variation is ours.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kala Chana Chaat (Black Chickpeas Chaat)",
+      "url": "https://www.vegrecipesofindia.com/kala-chana-chaat/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kala Chana Recipe (Black Chickpea Curry)",
+      "url": "https://www.vegrecipesofindia.com/kala-chana-curry-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "sweet potato chutney recipe | genasina chutney recipe",
+      "url": "https://hebbarskitchen.com/sweet-potato-chutney-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

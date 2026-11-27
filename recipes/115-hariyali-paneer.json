@@ -1,0 +1,55 @@
+{
+  "id": 115,
+  "name": "Hariyali Paneer",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 21,
+  "cal": 230,
+  "carbs": 9,
+  "fiber": 3,
+  "fat": 12,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "150 g low-fat paneer, cubed",
+    "1 cup spinach leaves",
+    "½ cup each coriander and mint leaves",
+    "2 green chillies",
+    "2 garlic cloves and 1 tsp ginger",
+    "2 tbsp plain low-fat yogurt",
+    "1 tsp oil",
+    "1 onion, sliced",
+    "½ tsp cumin seeds and ½ tsp garam masala",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Blend the spinach, coriander, mint, chillies, garlic and ginger with a little water to a smooth green purée.",
+    "Heat the oil, crackle the cumin, and cook the onion for 5 minutes.",
+    "Add the purée and cook on medium heat for 5 minutes. Take off the heat and whisk in the yogurt.",
+    "Return to low heat, add the paneer and ¼ cup water, and simmer for 3 minutes.",
+    "Finish with garam masala, salt and lemon juice."
+  ],
+  "note": "The green purée is rich in iron and folate; do not boil after adding the yogurt.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Hariyali Paneer Tikka Paneer Hariyali",
+      "url": "https://hebbarskitchen.com/hariyali-paneer-tikka-paneer-hariyali/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Hariyali Paneer Tikka Recipe",
+      "url": "https://www.vegrecipesofindia.com/hariyali-paneer-tikka-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

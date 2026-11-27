@@ -1,0 +1,61 @@
+{
+  "id": 291,
+  "name": "Dark Chocolate Tofu Mousse",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 225,
+  "carbs": 19,
+  "fiber": 4,
+  "fat": 11,
+  "prep": 10,
+  "cook": 5,
+  "mins": 15,
+  "ingredients": [
+    "200 g silken tofu",
+    "40 g dark chocolate (85% cocoa or higher), melted",
+    "2 tbsp unsweetened cocoa powder",
+    "½ ripe banana",
+    "½ tsp vanilla extract",
+    "Pinch of salt",
+    "Raspberries, to serve"
+  ],
+  "steps": [
+    "Melt the chocolate gently in the microwave in 20-second bursts, stirring each time; cool slightly.",
+    "Blend the tofu, melted chocolate, cocoa, banana, vanilla and salt until completely smooth.",
+    "Spoon into two glasses.",
+    "Chill for at least 1 hour.",
+    "Top with raspberries."
+  ],
+  "note": "High-cocoa chocolate has little sugar; the tofu provides protein and a creamy texture.",
+  "methodLabel": "No-bake method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Eggless Chocolate Mousse Recipe",
+      "url": "https://www.vegrecipesofindia.com/eggless-chocolate-mousse-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dark Chocolate Avocado Mousse",
+      "url": "https://www.vegrecipesofindia.com/dark-chocolate-avocado-mousse/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Eggless Chocolate Mousse Recipe",
+      "url": "https://hebbarskitchen.com/eggless-chocolate-mousse-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

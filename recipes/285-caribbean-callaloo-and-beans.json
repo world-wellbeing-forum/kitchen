@@ -1,0 +1,47 @@
+{
+  "id": 285,
+  "name": "Caribbean Callaloo and Beans",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 235,
+  "carbs": 30,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "200 g spinach or amaranth leaves, chopped",
+    "¾ cup cooked red kidney beans",
+    "100 g okra, sliced",
+    "1 small onion and 2 garlic cloves, chopped",
+    "2 spring onions and 1 sprig fresh thyme",
+    "1 small green chilli, whole",
+    "1 tsp oil",
+    "3 tbsp light coconut milk",
+    "1 cup vegetable stock",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion, garlic and spring onions for 4 minutes.",
+    "Add the okra, thyme, whole chilli and stock and simmer for 8 minutes.",
+    "Add the greens and beans and simmer for 8 minutes until the greens collapse.",
+    "Stir in the coconut milk, remove the chilli, and season.",
+    "Serve hot."
+  ],
+  "note": "Callaloo is a leafy green stew; amaranth leaves are the closest authentic option if available.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Callaloo",
+      "url": "https://en.wikipedia.org/wiki/Callaloo",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

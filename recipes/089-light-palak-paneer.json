@@ -1,0 +1,71 @@
+{
+  "id": 89,
+  "name": "Light Palak Paneer",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": false,
+  "protein": 19,
+  "cal": 225,
+  "carbs": 13,
+  "fiber": 5,
+  "fat": 11,
+  "prep": 12,
+  "cook": 18,
+  "mins": 30,
+  "ingredients": [
+    "300 g spinach, washed",
+    "150 g low-fat paneer, cubed",
+    "1 onion, chopped",
+    "1 tomato, chopped",
+    "3 garlic cloves and 2.5 cm ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp garam masala",
+    "2 tbsp silken tofu",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Blanch the spinach in boiling water for 1 minute, plunge into cold water, drain, and blend to a smooth purée.",
+    "Heat the oil, crackle the cumin, then cook onion, garlic and ginger for 5 minutes. Add the tomato and cook for 4 minutes.",
+    "Add the spinach purée and ¼ cup water and simmer for 5 minutes.",
+    "Stir in the silken tofu and garam masala.",
+    "Add the paneer and simmer for 3 minutes. Season with salt."
+  ],
+  "note": "Blanching and cooling the spinach keeps it bright green. Uses no butter or cream.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Jain Palak Paneer",
+      "url": "https://www.vegrecipesofindia.com/jain-palak-paneer/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "prabhatkhabar.com",
+      "title": "Palak Paneer Chilla Recipe: ब्रेकफास्ट में कुछ डिफरेंट खाने के लिए ट्राई करें पालक पनीर चीला, फटाफट नोट करें र",
+      "url": "https://www.prabhatkhabar.com/life-and-style/homemade-palak-paneer-chilla-recipe-in-hindi",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Paneer Bhurji",
+      "url": "https://www.vegrecipesofindia.com/palak-paneer-bhurji-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "पालक पनीर रेसिपी | palak paneer in hindi | रेस्टोरेंट स्टाइल पालक पनीर बनाने की विधि",
+      "url": "https://hebbarskitchen.com/palak-paneer-recipe-restaurant-style/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

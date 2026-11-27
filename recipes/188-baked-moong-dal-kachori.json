@@ -1,0 +1,53 @@
+{
+  "id": 188,
+  "name": "Baked Moong Dal Kachori",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 260,
+  "carbs": 40,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 40,
+  "cook": 30,
+  "mins": 70,
+  "ingredients": [
+    "Dough: ½ cup whole-wheat flour, 1 tsp oil, pinch of salt, water to bind",
+    "Filling: ½ cup (100 g) split yellow moong dal, soaked 2 hours and coarsely ground",
+    "½ tsp each fennel seeds, cumin and coriander powder",
+    "½ tsp chilli powder, ¼ tsp turmeric, pinch of hing",
+    "1 tsp oil for the filling",
+    "Salt and 1 tsp lemon juice",
+    "Oil for brushing, ½ tsp"
+  ],
+  "steps": [
+    "Knead the flour with oil, salt and water into a firm dough. Rest for 20 minutes.",
+    "Heat 1 tsp oil, toast the fennel and cumin, then add the ground dal, spices and salt. Cook for 6 minutes until dry; add the lemon juice and cool.",
+    "Divide the dough into 6 balls, flatten each, fill with a spoon of the dal mixture and seal.",
+    "Flatten gently, place on a lined tray and brush with oil.",
+    "Bake at 190°C for 25–30 minutes, turning once, until golden and crisp."
+  ],
+  "note": "A classic Rajasthani and Uttar Pradesh snack that is traditionally deep-fried.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Urad Dal Kachori",
+      "url": "https://www.vegrecipesofindia.com/urad-dal-kachori-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Moong Dal Ki Kachori Recipe",
+      "url": "https://hebbarskitchen.com/moong-dal-ki-kachori-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

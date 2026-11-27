@@ -1,0 +1,54 @@
+{
+  "id": 253,
+  "name": "Microwave Pumpkin Soup",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 240,
+  "carbs": 40,
+  "fiber": 11,
+  "fat": 3,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "400 g pumpkin, peeled and cubed",
+    "1 cup cooked white beans",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp oil",
+    "½ tsp each cumin and black pepper",
+    "2 cups hot vegetable stock",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Microwave the oil, onion and garlic in a large bowl for 2 minutes.",
+    "Add the pumpkin, cumin and 2 tbsp stock; cover and microwave for 8 minutes until soft.",
+    "Add the beans and the remaining stock and microwave 3 minutes.",
+    "Blend until smooth.",
+    "Season with salt, pepper and lemon juice."
+  ],
+  "note": "White beans add creaminess and protein without any cream.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pumpkin Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/pumpkin-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಕುಂಬಳಕಾಯಿ ಸೂಪ್ ರೆಸಿಪಿ | pumpkin soup in kannada",
+      "url": "https://hebbarskitchen.com/easy-creamy-pumpkin-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

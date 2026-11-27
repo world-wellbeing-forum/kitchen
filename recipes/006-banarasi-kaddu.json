@@ -2,36 +2,66 @@
   "id": 6,
   "name": "Banarasi Kaddu",
   "category": "Sabzi",
-  "protein": 9,
-  "cal": 155,
-  "carbs": 24,
-  "fiber": 6,
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 220,
+  "carbs": 29,
+  "fiber": 7,
   "fat": 4,
+  "prep": 9,
+  "cook": 16,
   "mins": 25,
   "ingredients": [
     "300 g pumpkin",
     "½ cup cooked chana dal",
     "1 tsp oil",
-    "Methi seeds, jeera, saunf, ginger, chilli and amchur"
+    "Methi seeds, jeera, saunf, ginger, chilli and amchur",
+    "30 g dry soy granules, soaked and squeezed"
   ],
   "steps": [
     "Temper jeera, methi and saunf in oil.",
     "Add pumpkin and spices; cover until soft.",
     "Stir in cooked chana dal.",
+    "Add the soaked soy granules along with the pumpkin so they absorb the masala.",
     "Mash a little pumpkin to thicken; add amchur."
   ],
   "note": "No jaggery or sugar needed; pumpkin still contains carbohydrate.",
-  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=6",
-  "editorialStatus": "recipe-draft-needs-testing",
-  "sourceReferences": [],
-  "imageStatus": "placeholder-url-not-cleared-for-publication",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Kaddu ki Sabji (Easy Pumpkin Recipe)",
       "url": "https://www.vegrecipesofindia.com/kaddu-ki-sabzi/",
       "note": "Pumpkin cooking, methi-cumin tempering and amchur finish; our chana-dal Banarasi-inspired version is distinct.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "jayanthisindianrecipes.blogspot.com",
+      "title": "Jayanthi's Indian Recipes: Banarasi Kaddu Ke Subzi",
+      "url": "https://jayanthisindianrecipes.blogspot.com/2022/03/banarasi-kaddu-ke-subzi.html",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Banarasi Kaddu Ki Sabji 📌 Recipe by Udbhav Rai - Cookpad",
+      "url": "https://cookpad.com/eng/recipes/24047100",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "ayummygreenworld.wordpress.com",
+      "title": "Kaddu Chana (Banaras style) – ayummygreenworld",
+      "url": "https://ayummygreenworld.wordpress.com/2012/12/15/kaddu-chana-banaras-style/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
 }

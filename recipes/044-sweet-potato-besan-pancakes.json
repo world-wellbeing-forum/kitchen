@@ -1,0 +1,46 @@
+{
+  "id": 44,
+  "name": "Sweet Potato Besan Pancakes",
+  "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 290,
+  "carbs": 40,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "½ cup besan",
+    "½ cup cooked mashed sweet potato",
+    "¼ cup water, approximately",
+    "2 tbsp chopped spinach",
+    "¼ tsp cumin powder",
+    "¼ tsp turmeric",
+    "½ tsp grated ginger",
+    "2 tsp oil",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Whisk besan with water, cumin, turmeric, ginger, salt and pepper to make a thick batter.",
+    "Fold in mashed sweet potato and chopped spinach until evenly combined.",
+    "Heat a non-stick pan over medium-low and brush with a little oil.",
+    "Spoon batter into four small pancakes and flatten to about 1 cm thick.",
+    "Cook 3–4 minutes per side until golden and set in the centre. Serve warm with unsweetened soy yogurt."
+  ],
+  "note": "Make small pancakes so the sweet-potato centre cooks before the outside over-browns.",
+  "inspirationReferences": [
+    {
+      "site": "Swasthi's Recipes",
+      "title": "Besan Chilla Recipe (Cheela) - Swasthi's Recipes",
+      "url": "https://www.indianhealthyrecipes.com/cheela-recipe/",
+      "note": "Reference for chickpea-flour pancake batter; sweet potato is our variation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

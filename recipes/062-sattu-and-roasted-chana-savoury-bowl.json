@@ -1,0 +1,70 @@
+{
+  "id": 62,
+  "name": "Sattu and Roasted Chana Savoury Bowl",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 290,
+  "carbs": 38,
+  "fiber": 10,
+  "fat": 7,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "½ cup roasted chana sattu",
+    "½ cup cooked chickpeas",
+    "1 cup chilled water",
+    "½ cup diced cucumber",
+    "¼ cup diced tomato",
+    "1 tbsp lemon juice",
+    "½ tsp roasted cumin",
+    "2 tbsp coriander and mint",
+    "Black salt and pepper"
+  ],
+  "steps": [
+    "Whisk sattu with water gradually until smooth and thick like a savoury porridge.",
+    "Season with lemon, cumin, black salt and pepper.",
+    "Fold in chickpeas, cucumber and tomato.",
+    "Add chopped herbs and stir. Adjust thickness with a little water if needed.",
+    "Serve immediately, chilled or at room temperature."
+  ],
+  "note": "A no-cook savoury breakfast inspired by Bihari sattu preparations. Use plain roasted chana flour, not sweetened drink mix.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sattu Drink Recipe (Sattu Sharbat)",
+      "url": "https://www.vegrecipesofindia.com/sattu-drink-recipe-sattu-sharbat/",
+      "note": "Reference for savoury sattu drink preparation; chickpea bowl presentation is our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Client Challenge",
+      "url": "https://cookpad.com/eng/in/search/sattu",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "milesnmeals.com",
+      "title": "Sattu/Sattu Drink recipe/ Sattu Benefits - MilesnMeals",
+      "url": "https://milesnmeals.com/sattu-sattu-drink-recipe-sattu-benefits/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "friendspantry.com",
+      "title": "Sattu Sharbat — Indian Recipe · FriendsPantry",
+      "url": "https://friendspantry.com/recipes/sattu-sharbat/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -2,15 +2,16 @@
   "id": 39,
   "name": "Bharwa Parwal with Tofu-Besan Filling",
   "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "vegan": true,
   "protein": 19,
   "cal": 245,
   "carbs": 22,
   "fiber": 7,
   "fat": 9,
-  "mins": 40,
   "prep": 20,
   "cook": 20,
-  "vegan": true,
+  "mins": 40,
   "ingredients": [
     "400 g small parwal (pointed gourd), washed and trimmed",
     "150 g extra-firm tofu, pressed and finely crumbled",
@@ -38,36 +39,40 @@
     "Uncover for the final 2 minutes to evaporate excess moisture. Finish with coriander and lemon."
   ],
   "note": "A lighter, plant-protein filling for the familiar stuffed parwal technique. Besan and tofu both contribute protein, but besan also contributes carbohydrate. Serve with a modest whole-grain roti portion and a larger side of non-starchy vegetables. Vegan.",
-  "sourceReferences": [
-    [
-      "Indian Cooking Manual – Bharwan Parwal",
-      "https://www.indiancookingmanual.com/bharwan-stuff-parwal/",
-      "Culinary reference for slitting, stuffing and covered-pan cooking of pointed gourd; this tofu-besan filling and measured oil are our adaptation."
-    ],
-    [
-      "Awesome Cuisine – Bharwa Parval",
-      "https://www.awesomecuisine.com/recipes/24963/bharwa-parval/",
-      "Additional reference for the spice profile and slow covered cooking technique; recipe quantities and filling differ."
-    ],
-    [
-      "USDA FoodData Central",
-      "https://fdc.nal.usda.gov/",
-      "Ingredient nutrition reference; final values depend on tofu and besan brands."
-    ]
-  ],
-  "servings": 2,
-  "image": "/assets/images/recipes/039.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
-  "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
-  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Parwal ki Sabji | Easy Aloo Parwal Recipe",
+      "title": "Parwal ki Sabji | Parwal Recipe",
       "url": "https://www.vegrecipesofindia.com/aloo-parwal-recipe/",
       "note": "Pointed-gourd cleaning and stovetop tenderness cues; the besan-tofu stuffing is our own adaptation.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "magictadka.com",
+      "title": "Parwal Bharwa Recipe - Magic Tadka",
+      "url": "https://magictadka.com/recipe/parwal-bharwa/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Parwal Ki Bharwa Recipe by Neha Ranjan - Cookpad",
+      "url": "https://cookpad.com/eng/recipes/12356519",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "भरवां परवल (bharwa parwal recipe in Hindi) रेसिपी बनाने की विधि in Hindi by Madhvi Dwivedi - Cookpad",
+      "url": "https://cookpad.com/in-hi/recipes/16263171",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

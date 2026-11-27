@@ -1,0 +1,47 @@
+{
+  "id": 264,
+  "name": "Microwave Bean Burrito Bowl",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 285,
+  "carbs": 46,
+  "fiber": 14,
+  "fat": 4,
+  "prep": 10,
+  "cook": 8,
+  "mins": 18,
+  "ingredients": [
+    "1 cup cooked black or pinto beans",
+    "½ cup cooked brown rice",
+    "½ cup sweet corn",
+    "1 tomato and ½ onion, diced",
+    "1 cup shredded lettuce or cabbage",
+    "1 tsp cumin and ½ tsp smoked paprika",
+    "Juice of 1 lime",
+    "Salsa and coriander",
+    "¼ avocado, diced (optional)"
+  ],
+  "steps": [
+    "Mix the beans, corn, cumin, paprika and salt in a bowl; cover and microwave for 2 minutes.",
+    "Warm the rice for 1 minute with a splash of water.",
+    "Divide the rice and lettuce between two bowls.",
+    "Top with the beans, tomato, onion and avocado.",
+    "Finish with lime juice, salsa and coriander."
+  ],
+  "note": "A five-minute assembly meal built from pantry staples.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Burrito",
+      "url": "https://en.wikipedia.org/wiki/Burrito",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

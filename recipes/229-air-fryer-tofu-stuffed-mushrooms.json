@@ -1,0 +1,54 @@
+{
+  "id": 229,
+  "name": "Air-Fryer Tofu Stuffed Mushrooms",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 160,
+  "carbs": 9,
+  "fiber": 3,
+  "fat": 7,
+  "prep": 15,
+  "cook": 12,
+  "mins": 27,
+  "ingredients": [
+    "10 large button mushrooms, stems removed and finely chopped",
+    "100 g firm tofu, crumbled",
+    "½ cup spinach, finely chopped",
+    "2 garlic cloves, minced",
+    "1 tbsp nutritional yeast",
+    "1 tsp oil",
+    "½ tsp each dried oregano and black pepper",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oil and cook the garlic and mushroom stems for 3 minutes; add the spinach and cook 2 minutes.",
+    "Mix with the tofu, nutritional yeast, oregano, pepper and salt.",
+    "Fill the mushroom caps firmly.",
+    "Preheat the air fryer to 180°C.",
+    "Cook the mushrooms for 10–12 minutes until tender and golden on top."
+  ],
+  "note": "Low-carbohydrate and quick; makes a good starter or light lunch.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Stuffed Mushrooms Recipe",
+      "url": "https://www.vegrecipesofindia.com/stuffed-mushrooms-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Cheesy Stuffed Mushroom Recipe Stuffed Mushroom Recipe",
+      "url": "https://hebbarskitchen.com/cheesy-stuffed-mushroom-recipe-stuffed-mushroom-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

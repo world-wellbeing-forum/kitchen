@@ -1,0 +1,35 @@
+{
+  "id": 259,
+  "name": "Microwave Steamed Broccoli and Tofu",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 195,
+  "carbs": 10,
+  "fiber": 6,
+  "fat": 8,
+  "prep": 10,
+  "cook": 8,
+  "mins": 18,
+  "ingredients": [
+    "300 g broccoli florets",
+    "200 g firm tofu, cubed",
+    "Dressing: 1 tbsp soy sauce, 1 tsp grated ginger, 1 garlic clove (grated), 1 tsp rice vinegar, 1 tsp oil",
+    "½ tsp chilli flakes",
+    "Spring onion and lime juice"
+  ],
+  "steps": [
+    "Place the broccoli in a microwave-safe bowl with 2 tbsp water, cover with a plate and microwave on high for 3 minutes.",
+    "Add the tofu on top, cover and microwave for 2 minutes more.",
+    "Whisk the dressing.",
+    "Drain any liquid and toss the broccoli and tofu with the dressing.",
+    "Top with chilli flakes, spring onion and lime juice."
+  ],
+  "note": "About 21 g protein and only 10 g carbohydrate; steam, do not boil, to retain nutrients.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

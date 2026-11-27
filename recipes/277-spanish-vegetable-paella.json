@@ -1,0 +1,46 @@
+{
+  "id": 277,
+  "name": "Spanish Vegetable Paella",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 295,
+  "carbs": 45,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 15,
+  "cook": 40,
+  "mins": 55,
+  "ingredients": [
+    "¼ cup short-grain brown rice, rinsed",
+    "¾ cup cooked chickpeas",
+    "1 red bell pepper, 1 cup green beans and 1 tomato, chopped",
+    "½ onion and 3 garlic cloves, chopped",
+    "1 tsp olive oil",
+    "1 tsp smoked paprika and a pinch of saffron or ½ tsp turmeric",
+    "1½ cups hot vegetable stock",
+    "Lemon wedges and parsley",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oil in a wide pan and cook the onion for 4 minutes. Add the garlic, pepper and green beans and cook for 4 minutes.",
+    "Add the tomato, paprika and saffron and cook for 3 minutes.",
+    "Stir in the rice and chickpeas, then pour in the stock. Do not stir again.",
+    "Simmer gently, uncovered, for 35 minutes until the rice is tender and the liquid is absorbed.",
+    "Rest for 5 minutes and serve with lemon and parsley."
+  ],
+  "note": "The chickpea-rich version keeps the rice portion small; brown rice takes longer than paella rice.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Paella",
+      "url": "https://en.wikipedia.org/wiki/Paella",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

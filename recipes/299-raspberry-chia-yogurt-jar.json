@@ -1,0 +1,50 @@
+{
+  "id": 299,
+  "name": "Raspberry Chia Yogurt Jar",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": false,
+  "protein": 18,
+  "cal": 220,
+  "carbs": 24,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 5,
+  "cook": 0,
+  "mins": 5,
+  "ingredients": [
+    "1½ cups plain low-fat Greek yogurt or unsweetened soy yogurt",
+    "1 cup raspberries (fresh or frozen)",
+    "2 tbsp chia seeds",
+    "½ tsp vanilla",
+    "1 tbsp rolled oats"
+  ],
+  "steps": [
+    "Lightly mash half the raspberries.",
+    "Stir the chia seeds, vanilla and mashed raspberries into the yogurt.",
+    "Divide into two jars, top with the whole raspberries and oats.",
+    "Refrigerate for at least 2 hours or overnight so the chia thickens."
+  ],
+  "note": "Raspberries are among the highest-fibre fruits; no sweetener is needed.",
+  "methodLabel": "No-cook method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chia Pudding",
+      "url": "https://www.vegrecipesofindia.com/chia-pudding/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Chia Pudding Recipe 2 Ways",
+      "url": "https://hebbarskitchen.com/chia-pudding-recipe-2-ways/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

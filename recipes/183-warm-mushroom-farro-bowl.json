@@ -1,0 +1,45 @@
+{
+  "id": 183,
+  "name": "Warm Mushroom Farro Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 315,
+  "carbs": 44,
+  "fiber": 9,
+  "fat": 7,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "½ cup cooked farro (contains gluten) or barley",
+    "250 g mushrooms, sliced",
+    "150 g firm tofu, cubed",
+    "2 cups spinach",
+    "2 garlic cloves, minced",
+    "1 tsp olive oil",
+    "1 tsp soy sauce and ½ tsp dried thyme",
+    "Black pepper and lemon juice"
+  ],
+  "steps": [
+    "Dry-sauté the mushrooms for 6 minutes until browned and their liquid has evaporated.",
+    "Add the oil, garlic, thyme and tofu and cook for 5 minutes.",
+    "Add the soy sauce and the spinach and cook for 2 minutes until wilted.",
+    "Fold in the farro and warm through.",
+    "Finish with pepper and lemon juice."
+  ],
+  "note": "Browning the mushrooms in a dry pan concentrates the umami flavour.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Farro",
+      "url": "https://en.wikipedia.org/wiki/Farro",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

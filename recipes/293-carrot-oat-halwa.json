@@ -1,0 +1,51 @@
+{
+  "id": 293,
+  "name": "Carrot Oat Halwa",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 210,
+  "carbs": 34,
+  "fiber": 7,
+  "fat": 4,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "2 cups grated carrot (about 250 g)",
+    "¼ cup rolled oats",
+    "1 cup unsweetened soy milk",
+    "½ tsp cardamom powder",
+    "1 tsp oil",
+    "1 tbsp unsweetened desiccated coconut",
+    "Pinch of saffron or cinnamon"
+  ],
+  "steps": [
+    "Heat the oil and sauté the grated carrot for 5 minutes until soft and fragrant.",
+    "Add the soy milk and oats and cook on medium-low for 12–15 minutes, stirring often, until thick.",
+    "Stir in the cardamom and saffron or cinnamon.",
+    "Serve warm, topped with coconut."
+  ],
+  "note": "A traditional gajar halwa has sugar, ghee and condensed milk; here the carrots and soy milk provide the sweetness and body.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Gajar Halwa Recipe Gajar Ka Halwa",
+      "url": "https://www.vegrecipesofindia.com/gajar-halwa-recipe-gajar-ka-halwa/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Carrot Halwa Recipe Gajar Halwa Recipe",
+      "url": "https://hebbarskitchen.com/carrot-halwa-recipe-gajar-halwa-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

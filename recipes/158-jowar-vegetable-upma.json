@@ -1,0 +1,49 @@
+{
+  "id": 158,
+  "name": "Jowar Vegetable Upma",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 240,
+  "carbs": 31,
+  "fiber": 5,
+  "fat": 8,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "⅓ cup jowar rava (sorghum semolina)",
+    "1 cup chopped vegetables (carrot, peas, beans)",
+    "1 small onion, chopped",
+    "1 tsp oil",
+    "½ tsp each mustard seeds and urad dal",
+    "1 green chilli and 1 tsp ginger, minced",
+    "6 curry leaves",
+    "1½ cups water",
+    "Salt, lemon juice and coriander",
+    "100 g firm tofu, crumbled"
+  ],
+  "steps": [
+    "Dry-roast the jowar rava for 3 minutes until fragrant. Set aside.",
+    "Heat the oil, crackle the mustard, and fry the urad dal until golden. Add chilli, ginger and curry leaves.",
+    "Add the onion and vegetables and cook for 5 minutes.",
+    "Add the water and salt and bring to a boil. Pour in the rava slowly, stirring.",
+    "Add the crumbled tofu with the vegetables.",
+    "Cover and cook on low for 8 minutes. Finish with lemon juice and coriander."
+  ],
+  "note": "A gluten-free alternative to rava upma, with more fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Upma",
+      "url": "https://en.wikipedia.org/wiki/Upma",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

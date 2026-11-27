@@ -1,0 +1,47 @@
+{
+  "id": 94,
+  "name": "Baked Vegetable Kofta",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 250,
+  "carbs": 38,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 25,
+  "cook": 35,
+  "mins": 60,
+  "ingredients": [
+    "1 cup grated carrot and cabbage, squeezed dry",
+    "1 boiled potato, mashed",
+    "¼ cup besan (gram flour)",
+    "2 tbsp chopped coriander",
+    "1 green chilli, minced",
+    "½ tsp garam masala",
+    "2 tomatoes and 1 onion, blended",
+    "1 tsp oil",
+    "½ tsp cumin and ½ tsp coriander powder",
+    "Salt"
+  ],
+  "steps": [
+    "Mix the vegetables, potato, besan, coriander, chilli, garam masala and salt. Shape into 10 balls.",
+    "Bake at 200°C for 20 minutes, turning halfway, until firm and lightly browned.",
+    "Heat the oil, add cumin, then cook the blended tomato-onion for 10 minutes with coriander powder.",
+    "Add 1½ cups water and simmer 8 minutes.",
+    "Add the koftas and simmer for 3 minutes before serving."
+  ],
+  "note": "The potato binds the koftas; the besan adds protein.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Kofta Curry Recipe",
+      "url": "https://www.vegrecipesofindia.com/veg-kofta-curry-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

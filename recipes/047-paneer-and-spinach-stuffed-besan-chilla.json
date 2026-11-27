@@ -1,0 +1,71 @@
+{
+  "id": 47,
+  "name": "Paneer and Spinach Stuffed Besan Chilla",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": false,
+  "protein": 25,
+  "cal": 355,
+  "carbs": 34,
+  "fiber": 7,
+  "fat": 14,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "¾ cup besan",
+    "½ cup water, approximately",
+    "100 g low-fat paneer, crumbled",
+    "1 cup chopped spinach",
+    "2 tbsp chopped onion",
+    "¼ tsp ajwain",
+    "¼ tsp turmeric",
+    "½ tsp cumin powder",
+    "2 tsp oil",
+    "Coriander, chilli and salt"
+  ],
+  "steps": [
+    "Whisk besan, water, ajwain, turmeric, cumin and salt into a smooth batter; rest 5 minutes.",
+    "Wilt spinach in a dry pan for 1–2 minutes. Cool, squeeze lightly and mix with paneer, onion and coriander.",
+    "Heat a non-stick pan and brush with a little oil. Pour half the batter and spread into a thin round.",
+    "Cook until the top sets, flip, add half the paneer-spinach filling to one side and fold over.",
+    "Cook 1 minute more to warm the filling. Repeat with remaining batter and serve."
+  ],
+  "note": "Vegetarian, not vegan. Protein estimate depends on paneer brand and besan quantity.",
+  "inspirationReferences": [
+    {
+      "site": "nutribox.in",
+      "title": "55 High-Protein Indian Breakfast Recipes (Vegetarian) – Nutribox",
+      "url": "https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian",
+      "note": "Reference for pairing chickpea-flour chilla with paneer; this spinach filling and method are our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "prabhatkhabar.com",
+      "title": "Palak Paneer Chilla Recipe: ब्रेकफास्ट में कुछ डिफरेंट खाने के लिए ट्राई करें पालक पनीर चीला, फटाफट नोट करें र",
+      "url": "https://www.prabhatkhabar.com/life-and-style/homemade-palak-paneer-chilla-recipe-in-hindi",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "s7ap1.scene7.com",
+      "title": "Protein-Packed Moong Dal Chilla With Stuffed Paneer Bhurji",
+      "url": "https://s7ap1.scene7.com/is/image/itcportalprod/Moong%20Dal%20Chilla%20With%20Stuffed%20Paneer%20Bhurji%20Banner%20web",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "paneer chilla recipe | paneer cheela | paneer ka chilla",
+      "url": "https://hebbarskitchen.com/paneer-chilla-recipe-paneer-cheela/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

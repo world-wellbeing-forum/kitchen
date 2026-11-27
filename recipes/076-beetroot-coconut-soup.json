@@ -1,0 +1,49 @@
+{
+  "id": 76,
+  "name": "Beetroot Coconut Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 230,
+  "carbs": 29,
+  "fiber": 6,
+  "fat": 8,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "300 g beetroot, peeled and cubed",
+    "2 tbsp red lentils",
+    "1 small onion, chopped",
+    "2.5 cm ginger, grated",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "3 cups water",
+    "½ cup light coconut milk",
+    "Lemon juice, salt and pepper",
+    "100 g silken tofu, to blend in"
+  ],
+  "steps": [
+    "Heat the oil, add cumin and onion and cook for 4 minutes. Add ginger.",
+    "Add the beetroot, red lentils and water. Simmer covered for 20 minutes until the beetroot is tender.",
+    "Blend until smooth.",
+    "Stir in the coconut milk and warm gently without boiling.",
+    "Blend the silken tofu in with the beetroot for protein and creaminess.",
+    "Season with lemon juice, salt and pepper."
+  ],
+  "note": "Beetroot stains: use a wooden spoon and blend with care. The small amount of red lentil adds body and protein.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "beetroot soup recipe | beetroot and carrot soup| beet soup recipe",
+      "url": "https://hebbarskitchen.com/beetroot-soup-recipe-beet-carrot-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

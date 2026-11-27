@@ -1,0 +1,54 @@
+{
+  "id": 116,
+  "name": "Tofu Pepper Fry",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 210,
+  "carbs": 11,
+  "fiber": 3,
+  "fat": 10,
+  "prep": 12,
+  "cook": 15,
+  "mins": 27,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "1 onion, sliced",
+    "1 tomato, chopped",
+    "1 tsp oil",
+    "8 curry leaves",
+    "1 tsp fennel seeds and 1 tsp crushed black peppercorns",
+    "1 tsp each ginger and garlic, minced",
+    "¼ tsp turmeric and ½ tsp coriander powder",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Sear the tofu in a non-stick pan with half the oil until golden; set aside.",
+    "Heat the remaining oil, add fennel and curry leaves, then the onion, ginger and garlic. Cook for 5 minutes.",
+    "Add the tomato, turmeric and coriander powder and cook for 4 minutes.",
+    "Return the tofu, add the pepper and 2 tbsp water, and toss for 3 minutes until dry.",
+    "Finish with salt and lemon juice."
+  ],
+  "note": "A South Indian style dry fry; freshly crushed pepper is the main seasoning.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Pepper Fry Recipe",
+      "url": "https://www.vegrecipesofindia.com/mushroom-pepper-fry-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Mushroom Pepper Fry Recipe Pepper",
+      "url": "https://hebbarskitchen.com/mushroom-pepper-fry-recipe-pepper/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

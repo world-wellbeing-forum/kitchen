@@ -1,0 +1,51 @@
+{
+  "id": 69,
+  "name": "Mushroom Barley Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 240,
+  "carbs": 35,
+  "fiber": 7,
+  "fat": 6,
+  "prep": 10,
+  "cook": 40,
+  "mins": 50,
+  "ingredients": [
+    "200 g mushrooms, sliced",
+    "¼ cup (50 g) pearl barley, rinsed",
+    "1 carrot, diced",
+    "1 celery stalk, diced",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1 tsp olive oil",
+    "1 tsp dried thyme",
+    "4 cups low-sodium vegetable stock",
+    "1 tbsp soy sauce",
+    "Black pepper and chopped parsley",
+    "100 g firm tofu, cubed"
+  ],
+  "steps": [
+    "Dry-sauté the mushrooms in a wide pot for 5 minutes until they release their water and brown, then set aside.",
+    "Heat the oil and cook the onion, carrot and celery for 5 minutes. Add the garlic and thyme.",
+    "Add the barley and stock, bring to a boil, then simmer covered for 25 minutes.",
+    "Return the mushrooms with the soy sauce and cook for 10 more minutes until the barley is tender.",
+    "Add the tofu cubes for the last 5 minutes of cooking.",
+    "Season with pepper and finish with parsley."
+  ],
+  "note": "Barley is rich in beta-glucan fibre; the soup is naturally low in saturated fat.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Barley Soup",
+      "url": "https://www.vegrecipesofindia.com/mushroom-barley-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

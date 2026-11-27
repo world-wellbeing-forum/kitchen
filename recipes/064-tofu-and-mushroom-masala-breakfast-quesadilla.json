@@ -1,0 +1,71 @@
+{
+  "id": 64,
+  "name": "Tofu and Mushroom Masala Breakfast Quesadilla",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 23,
+  "cal": 345,
+  "carbs": 34,
+  "fiber": 7,
+  "fat": 13,
+  "prep": 8,
+  "cook": 12,
+  "mins": 20,
+  "ingredients": [
+    "2 medium whole-wheat tortillas",
+    "150 g firm tofu, crumbled",
+    "1 cup sliced mushrooms",
+    "¼ cup diced capsicum",
+    "2 tbsp chopped onion",
+    "½ tsp smoked paprika",
+    "¼ tsp cumin",
+    "1 tsp olive oil",
+    "2 tbsp salsa, egg-free",
+    "Lime and coriander"
+  ],
+  "steps": [
+    "Pat tofu dry. Heat oil in a skillet and cook mushrooms until their moisture evaporates.",
+    "Add onion, capsicum, cumin and paprika; cook 2 minutes.",
+    "Add tofu and cook 4 minutes until lightly golden. Finish with lime and coriander.",
+    "Divide filling over half of each tortilla; spoon on salsa and fold closed.",
+    "Toast in a dry skillet 2 minutes per side until crisp and hot. Cut into wedges."
+  ],
+  "note": "Vegan if tortillas and salsa contain no dairy or honey. Check labels.",
+  "inspirationReferences": [
+    {
+      "site": "nutribox.in",
+      "title": "55 High-Protein Indian Breakfast Recipes (Vegetarian) – Nutribox",
+      "url": "https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian",
+      "note": "Reference for tofu as a vegetarian breakfast protein; quesadilla format is our fusion adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Curry Recipe Mushroom Masala",
+      "url": "https://www.vegrecipesofindia.com/mushroom-curry-recipe-mushroom-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Paneer Masala Recipe",
+      "url": "https://www.vegrecipesofindia.com/mushroom-paneer-masala-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಮಶ್ರೂಮ್ ಕರಿ ರೆಸಿಪಿ | mushroom curry in kannada | ಮಶ್ರೂಮ್ ಮಸಾಲಾ",
+      "url": "https://hebbarskitchen.com/mushroom-curry-recipe-mushroom-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

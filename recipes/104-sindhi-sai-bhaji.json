@@ -1,0 +1,39 @@
+{
+  "id": 104,
+  "name": "Sindhi Sai Bhaji",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 255,
+  "carbs": 38,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "200 g spinach, chopped",
+    "1 cup chopped dill (suva)",
+    "½ cup chopped methi leaves",
+    "¼ cup (50 g) chana dal, soaked 30 minutes",
+    "1 small potato, diced",
+    "1 onion and 1 tomato, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds and ¼ tsp turmeric",
+    "Salt"
+  ],
+  "steps": [
+    "Pressure-cook the chana dal with the potato and 1 cup water for 3 whistles until soft.",
+    "Heat the oil, crackle the cumin, then cook the onion, ginger and garlic for 5 minutes. Add the tomato and turmeric.",
+    "Add all the greens and cook for 5 minutes until wilted.",
+    "Add the cooked dal and potato, plus a splash of water, and simmer for 10 minutes.",
+    "Mash lightly to a thick, porridge-like texture and season with salt."
+  ],
+  "note": "A traditional Sindhi dish of mixed greens and chana dal; three greens give iron and fibre.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

@@ -2,14 +2,16 @@
   "id": 32,
   "name": "Sprouted Moong Breakfast Bowl",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 19,
   "cal": 275,
   "carbs": 39,
   "fiber": 10,
   "fat": 6,
-  "mins": 20,
   "prep": 10,
   "cook": 10,
+  "mins": 20,
   "ingredients": [
     "1½ cups mung bean sprouts",
     "½ cup diced cucumber",
@@ -30,20 +32,40 @@
     "Finish with coriander and sunflower seeds. Serve promptly."
   ],
   "note": "Sprouts are perishable. Refrigerate promptly and cook thoroughly rather than serving raw, especially for pregnant, older or immunocompromised people.",
-  "vegan": true,
-  "servings": 2,
-  "image": "/assets/images/recipes/032.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Sprouts Salad Recipe",
+      "title": "Sprouts Salad Recipe (Easy & Healthy)",
       "url": "https://www.vegrecipesofindia.com/moong-sprouts-salad-recipe/",
       "note": "Moong sprout preparation and the recommendation to steam or boil sprouts until tender; our bowl format is original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "spicingyourlife.com",
+      "title": "Moong Sprouts Salad",
+      "url": "https://www.spicingyourlife.com/moong-sprouts-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "foodtopia.co.in",
+      "title": "Sprouted Moong Salad - foodtopia",
+      "url": "https://foodtopia.co.in/veg-recipes/salad-recipes/sprouted-moong-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "mitarcooking.com",
+      "title": "Sprouts Salad Recipe | Mitar Cooking",
+      "url": "https://mitarcooking.com/sprouts-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

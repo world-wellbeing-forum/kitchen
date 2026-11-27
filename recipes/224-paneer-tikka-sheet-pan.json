@@ -1,0 +1,45 @@
+{
+  "id": 224,
+  "name": "Paneer Tikka Sheet Pan",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 28,
+  "cal": 335,
+  "carbs": 24,
+  "fiber": 8,
+  "fat": 14,
+  "prep": 20,
+  "cook": 25,
+  "mins": 45,
+  "ingredients": [
+    "150 g low-fat paneer, cubed",
+    "1 cup cooked chickpeas",
+    "1 bell pepper, 1 onion and 1 cup cauliflower, chunked",
+    "3 tbsp thick plain low-fat yogurt",
+    "1 tsp tikka masala and 1 tsp ginger-garlic paste",
+    "1 tsp oil",
+    "½ tsp chilli powder and ½ tsp ajwain",
+    "Juice of ½ lemon, salt, coriander"
+  ],
+  "steps": [
+    "Mix the yogurt, tikka masala, ginger-garlic paste, oil, spices, lemon and salt. Coat the paneer, chickpeas and vegetables and marinate for 20 minutes.",
+    "Heat the oven to 220°C. Spread everything on a lined tray.",
+    "Roast for 25 minutes, turning once, until charred at the edges.",
+    "Finish with coriander and lemon and serve with raita or salad."
+  ],
+  "note": "High protein from paneer and chickpeas on a single tray.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Tikka",
+      "url": "https://en.wikipedia.org/wiki/Tikka",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

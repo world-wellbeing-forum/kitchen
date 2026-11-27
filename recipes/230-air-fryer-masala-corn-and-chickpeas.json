@@ -1,0 +1,68 @@
+{
+  "id": 230,
+  "name": "Air-Fryer Masala Corn and Chickpeas",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 240,
+  "carbs": 38,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "1 cup sweet corn kernels, thawed or boiled",
+    "¾ cup cooked chickpeas, patted dry",
+    "1 tsp oil",
+    "½ tsp each chilli powder, chaat masala and cumin",
+    "Juice of 1 lemon",
+    "2 tbsp chopped onion and coriander",
+    "Salt"
+  ],
+  "steps": [
+    "Toss the corn and chickpeas with the oil, chilli powder, cumin and salt.",
+    "Preheat the air fryer to 190°C.",
+    "Cook for 10–12 minutes, shaking every 4 minutes, until the corn is lightly charred.",
+    "Toss with chaat masala, lemon juice, onion and coriander."
+  ],
+  "note": "Chickpeas lift the protein and slow the carbohydrate release of the corn.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Masala Corn Recipe",
+      "url": "https://www.vegrecipesofindia.com/masala-corn-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Corn Chaat Or Masala Corn",
+      "url": "https://www.vegrecipesofindia.com/corn-chaat-or-masala-corn/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Corn Chaat Recipe Masala Corn Recipe",
+      "url": "https://hebbarskitchen.com/corn-chaat-recipe-masala-corn-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Corn Capsicum Masala Recipe",
+      "url": "https://hebbarskitchen.com/corn-capsicum-masala-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

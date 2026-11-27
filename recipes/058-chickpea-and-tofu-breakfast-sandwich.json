@@ -1,0 +1,54 @@
+{
+  "id": 58,
+  "name": "Chickpea and Tofu Breakfast Sandwich",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 24,
+  "cal": 360,
+  "carbs": 39,
+  "fiber": 9,
+  "fat": 12,
+  "prep": 8,
+  "cook": 10,
+  "mins": 18,
+  "ingredients": [
+    "2 slices whole-grain bread",
+    "½ cup cooked chickpeas, lightly mashed",
+    "100 g firm tofu, crumbled",
+    "¼ tomato, finely chopped",
+    "2 tbsp chopped onion",
+    "½ tsp smoked paprika",
+    "¼ tsp cumin powder",
+    "1 tsp olive oil",
+    "Lemon, coriander and black pepper"
+  ],
+  "steps": [
+    "Toast bread lightly. Pat tofu dry and crumble.",
+    "Heat oil in a skillet. Add onion and tomato; cook 2–3 minutes.",
+    "Add chickpeas, tofu, paprika, cumin and pepper. Mash some chickpeas as the mixture warms.",
+    "Cook 4–5 minutes until the filling is hot and holds together; finish with lemon and coriander.",
+    "Divide filling between toast slices, close the sandwiches and serve."
+  ],
+  "note": "Check bread ingredients for dairy or honey if keeping the meal vegan.",
+  "inspirationReferences": [
+    {
+      "site": "nutribox.in",
+      "title": "55 High-Protein Indian Breakfast Recipes (Vegetarian) – Nutribox",
+      "url": "https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian",
+      "note": "Reference for combining tofu and chickpeas; sandwich format and seasoning are our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chana Sandwich",
+      "url": "https://www.vegrecipesofindia.com/chana-sandwich/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

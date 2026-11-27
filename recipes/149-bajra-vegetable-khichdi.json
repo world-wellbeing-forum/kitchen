@@ -1,0 +1,49 @@
+{
+  "id": 149,
+  "name": "Bajra Vegetable Khichdi",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 280,
+  "carbs": 43,
+  "fiber": 10,
+  "fat": 6,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "⅓ cup coarse bajra (pearl millet), rinsed and soaked 2 hours",
+    "¼ cup split moong dal",
+    "1 cup vegetables (carrot, peas, pumpkin)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp ginger and 2 garlic cloves, minced",
+    "¼ tsp turmeric",
+    "3 cups water",
+    "Salt and black pepper",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and add ginger and garlic.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the drained bajra, moong dal, vegetables, turmeric and salt.",
+    "Add the water and pressure-cook for 4–5 whistles until soft.",
+    "Mash lightly and adjust with hot water.",
+    "Finish with pepper."
+  ],
+  "note": "A warming winter dish from Rajasthan; bajra is rich in iron and fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bajra Khichdi Recipe",
+      "url": "https://www.vegrecipesofindia.com/bajra-khichdi-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

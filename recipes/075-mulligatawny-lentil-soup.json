@@ -1,0 +1,47 @@
+{
+  "id": 75,
+  "name": "Mulligatawny Lentil Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 285,
+  "carbs": 46,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "½ cup (100 g) red lentils, rinsed",
+    "1 carrot, diced",
+    "½ small apple, chopped",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "1 tsp curry powder",
+    "½ tsp turmeric",
+    "3½ cups vegetable stock",
+    "2 tbsp light coconut milk",
+    "Lemon juice, salt and black pepper"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion for 5 minutes. Add garlic, curry powder and turmeric and stir for 30 seconds.",
+    "Add carrot, apple, lentils and stock. Bring to a boil and simmer for 20 minutes until everything is soft.",
+    "Blend about half the soup for a partly creamy, partly chunky texture.",
+    "Stir in the coconut milk and heat through. Finish with lemon juice, salt and pepper."
+  ],
+  "note": "A lightened version of the Anglo-Indian classic, built on lentils and spice instead of cream.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Mulligatawny",
+      "url": "https://en.wikipedia.org/wiki/Mulligatawny",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

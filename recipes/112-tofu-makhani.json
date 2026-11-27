@@ -1,0 +1,47 @@
+{
+  "id": 112,
+  "name": "Tofu Makhani",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 235,
+  "carbs": 14,
+  "fiber": 4,
+  "fat": 11,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "4 tomatoes, chopped",
+    "1 onion, chopped",
+    "3 garlic cloves and 2.5 cm ginger",
+    "1 tsp oil",
+    "3 tbsp light coconut milk",
+    "½ tsp Kashmiri chilli powder",
+    "1 tsp kasuri methi, crushed",
+    "½ tsp garam masala",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Cook the onion, garlic and ginger in the oil for 5 minutes, then add the tomatoes and chilli powder and cook for 12 minutes until pulpy.",
+    "Cool slightly and blend to a smooth sauce.",
+    "Return to the pan with ½ cup water and simmer for 5 minutes.",
+    "Add the tofu and simmer for 4 minutes. Stir in the coconut milk.",
+    "Finish with kasuri methi, garam masala and salt."
+  ],
+  "note": "A vegan makhani-style gravy; coconut milk gives richness without butter or cream.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Paneer Makhani Recipe Paneer Makhanwala",
+      "url": "https://hebbarskitchen.com/paneer-makhani-recipe-paneer-makhanwala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

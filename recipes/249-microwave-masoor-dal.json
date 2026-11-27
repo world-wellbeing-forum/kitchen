@@ -1,0 +1,52 @@
+{
+  "id": 249,
+  "name": "Microwave Masoor Dal",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 230,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "½ cup (100 g) red lentils (masoor), rinsed",
+    "2 cups hot water",
+    "¼ tsp turmeric",
+    "1 small tomato, chopped",
+    "Tadka: 1 tsp oil, ½ tsp cumin seeds, 2 garlic cloves (sliced), 1 dried red chilli, pinch of hing",
+    "Lemon juice, salt and coriander"
+  ],
+  "steps": [
+    "Place the lentils, water, turmeric and tomato in a large microwave-safe bowl. Cover loosely.",
+    "Microwave on high for 5 minutes, then at 50% for 12 minutes until completely soft. Stir twice.",
+    "Whisk the dal and add salt.",
+    "For the tadka, microwave the oil, cumin, garlic, chilli and hing in a small bowl for 1 minute until sizzling.",
+    "Pour over the dal and finish with lemon juice and coriander."
+  ],
+  "note": "Red lentils need no soaking, which suits the microwave.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Masoor Dal Easy Masoor Dal",
+      "url": "https://www.vegrecipesofindia.com/masoor-dal-easy-masoor-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Masoor Dal Recipe Masoor Ki Daal Tadka Recipe",
+      "url": "https://hebbarskitchen.com/masoor-dal-recipe-masoor-ki-daal-tadka-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

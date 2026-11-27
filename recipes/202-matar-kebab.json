@@ -1,0 +1,45 @@
+{
+  "id": 202,
+  "name": "Matar Kebab",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 215,
+  "carbs": 28,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "1½ cups green peas, boiled and coarsely crushed",
+    "50 g firm tofu, crumbled",
+    "2 tbsp besan, dry-roasted",
+    "1 small onion, finely chopped",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each garam masala, chaat masala and cumin",
+    "2 tbsp chopped coriander",
+    "1 tsp oil",
+    "Salt"
+  ],
+  "steps": [
+    "Mix the peas, tofu, besan, onion, chilli, ginger, spices, coriander and salt.",
+    "Shape into 8 flat patties and chill for 10 minutes.",
+    "Heat the oil in a non-stick pan and cook the patties for 3–4 minutes per side until golden.",
+    "Serve with mint chutney."
+  ],
+  "note": "Peas are a good source of plant protein and fibre; crumbled tofu makes the kebabs firmer.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Kebab",
+      "url": "https://en.wikipedia.org/wiki/Kebab",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 208,
+  "name": "Spinach Ricotta Cannelloni",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 22,
+  "cal": 330,
+  "carbs": 38,
+  "fiber": 6,
+  "fat": 10,
+  "prep": 30,
+  "cook": 40,
+  "mins": 70,
+  "ingredients": [
+    "4 whole-wheat cannelloni tubes or manicotti shells (about 50 g)",
+    "100 g low-fat ricotta",
+    "100 g firm tofu, crumbled",
+    "150 g spinach, blanched and chopped",
+    "1 garlic clove, minced",
+    "Pinch of nutmeg, pepper and salt",
+    "1½ cups tomato passata",
+    "1 tsp dried basil",
+    "20 g low-fat mozzarella, grated"
+  ],
+  "steps": [
+    "Heat the oven to 190°C.",
+    "Squeeze the spinach dry and mix with the ricotta, tofu, garlic, nutmeg, salt and pepper.",
+    "Fill the uncooked tubes using a spoon or piping bag.",
+    "Spread half the passata in a baking dish, lay the tubes on top, and cover with the remaining passata and basil.",
+    "Cover with foil and bake for 35 minutes; uncover, scatter the mozzarella and bake for 5 minutes more."
+  ],
+  "note": "Mixing tofu with the ricotta raises protein and lowers saturated fat versus an all-ricotta filling.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Cannelloni",
+      "url": "https://en.wikipedia.org/wiki/Cannelloni",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

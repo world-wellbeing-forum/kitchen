@@ -1,0 +1,48 @@
+{
+  "id": 222,
+  "name": "Roasted Pumpkin Barley Risotto",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 260,
+  "carbs": 40,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 15,
+  "cook": 45,
+  "mins": 60,
+  "ingredients": [
+    "¼ cup pearl barley",
+    "¾ cup cooked white beans",
+    "250 g pumpkin, cubed",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "2 cups hot low-sodium vegetable stock",
+    "1 tbsp nutritional yeast",
+    "1 tsp dried sage or thyme",
+    "Black pepper, salt and parsley"
+  ],
+  "steps": [
+    "Roast the pumpkin at 200°C for 20 minutes until tender and slightly caramelised.",
+    "Heat the oil and cook the onion and garlic for 4 minutes. Add the barley and herbs and stir for 1 minute.",
+    "Add the stock a ladleful at a time, simmering for about 30 minutes, until the barley is tender and creamy.",
+    "Mash half the pumpkin into the risotto and fold in the rest with the beans.",
+    "Stir in the nutritional yeast, season, and finish with parsley."
+  ],
+  "note": "Barley risotto is lower in glycaemic load than rice risotto and stays creamy without butter or cheese.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Risotto",
+      "url": "https://en.wikipedia.org/wiki/Risotto",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

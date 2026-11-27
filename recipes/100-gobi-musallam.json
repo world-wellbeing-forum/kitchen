@@ -1,0 +1,42 @@
+{
+  "id": 100,
+  "name": "Gobi Musallam",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 225,
+  "carbs": 30,
+  "fiber": 11,
+  "fat": 6,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "1 small whole cauliflower (about 500 g), trimmed",
+    "3 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-garlic paste",
+    "½ tsp each chilli powder, garam masala and turmeric",
+    "1 tsp oil",
+    "2 tomatoes and 1 onion, blended",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder",
+    "Salt, lemon juice and coriander",
+    "½ cup cooked chickpeas, mashed into the gravy"
+  ],
+  "steps": [
+    "Steam the whole cauliflower for 8 minutes until just tender; dry it well.",
+    "Mix the yogurt, ginger-garlic paste, chilli, garam masala, turmeric and salt. Coat the cauliflower and rest for 15 minutes.",
+    "Roast at 200°C for 20 minutes, until browned at the edges.",
+    "Meanwhile, heat the oil, crackle the cumin, and cook the blended tomato-onion with coriander powder for 10 minutes. Add ½ cup water.",
+    "Stir the mashed chickpeas into the gravy for extra protein.",
+    "Place the cauliflower in the gravy, spoon sauce over it, and finish with lemon juice and coriander."
+  ],
+  "note": "A showpiece dish that needs only a teaspoon of oil; the whole head can be carved at the table.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true,
+  "originalDevelopment": true
+}

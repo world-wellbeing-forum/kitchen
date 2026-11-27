@@ -1,0 +1,70 @@
+{
+  "id": 143,
+  "name": "Chana Dal Spinach",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 255,
+  "carbs": 36,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 10,
+  "cook": 40,
+  "mins": 50,
+  "ingredients": [
+    "½ cup (100 g) chana dal, soaked 1 hour",
+    "200 g spinach, chopped",
+    "1 tomato and 1 onion, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric and ½ tsp coriander powder",
+    "½ tsp garam masala",
+    "Lemon juice and salt"
+  ],
+  "steps": [
+    "Pressure-cook the chana dal with turmeric and 2 cups water for 4–5 whistles until soft.",
+    "Heat the oil, crackle the cumin, and cook the onion, ginger and garlic for 5 minutes.",
+    "Add the tomato and spices and cook for 4 minutes.",
+    "Add the spinach and cook for 3 minutes. Stir in the dal and simmer for 8 minutes.",
+    "Finish with garam masala, lemon juice and salt."
+  ],
+  "note": "Chana dal has a low glycaemic index and keeps its shape when cooked.",
+  "inspirationReferences": [
+    {
+      "site": "subbuskitchen.com",
+      "title": "Moong Dal Cheela | Moong Dal Chilla | Moong Dal Cheela With Palak |Spinach Moong Crepes - Subbus Kitchen",
+      "url": "https://www.subbuskitchen.com/palak-moong-dal-cheela-spinach-moong/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "foodsandflavorsbyshilpi.com",
+      "title": "Moong Dal Palak Cheela Recipe | Healthy Breakfast Cheela made with Moong Dal & Spinach - Foods And Flavors",
+      "url": "https://foodsandflavorsbyshilpi.com/2017/11/21/moong-dal-palak-cheela-recipe-moong-dal-cheela-spinach-spinach-moong-dal-cheella/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Dal Spinach Dal",
+      "url": "https://www.vegrecipesofindia.com/palak-dal-spinach-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Palak Khichdi Recipe Palak Dal Khichdi",
+      "url": "https://hebbarskitchen.com/palak-khichdi-recipe-palak-dal-khichdi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

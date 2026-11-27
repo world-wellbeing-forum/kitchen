@@ -1,0 +1,44 @@
+{
+  "id": 182,
+  "name": "Millet Tabbouleh",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 260,
+  "carbs": 36,
+  "fiber": 10,
+  "fat": 6,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "½ cup uncooked foxtail or barnyard millet (about 1 cup cooked)",
+    "1 cup parsley, finely chopped",
+    "½ cup mint, finely chopped",
+    "2 tomatoes and 1 cucumber, diced",
+    "4 spring onions, sliced",
+    "1 cup cooked chickpeas",
+    "Dressing: 2 tsp olive oil, juice of 2 lemons, salt, pepper"
+  ],
+  "steps": [
+    "Cook the millet in 1 cup water for 12 minutes; fluff, spread out and cool completely.",
+    "Combine the parsley, mint, tomato, cucumber, spring onion and chickpeas.",
+    "Fold in the cooled millet.",
+    "Dress with the olive oil, lemon juice, salt and pepper.",
+    "Chill for 15 minutes before serving."
+  ],
+  "note": "A gluten-free take on tabbouleh; add the chickpeas to make it a main meal.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tabbouleh Tabouli",
+      "url": "https://www.vegrecipesofindia.com/tabbouleh-tabouli/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

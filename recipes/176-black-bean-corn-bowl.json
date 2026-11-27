@@ -1,0 +1,38 @@
+{
+  "id": 176,
+  "name": "Black Bean Corn Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 300,
+  "carbs": 46,
+  "fiber": 14,
+  "fat": 6,
+  "prep": 15,
+  "cook": 10,
+  "mins": 25,
+  "ingredients": [
+    "1 cup cooked black beans",
+    "½ cup sweet corn kernels",
+    "½ cup cooked brown rice",
+    "1 tomato and ½ onion, diced",
+    "¼ avocado, diced",
+    "100 g firm tofu, crumbled and spiced",
+    "1 cup shredded lettuce or cabbage",
+    "Dressing: juice of 1 lime, ½ tsp cumin, ½ tsp smoked paprika, pinch of chilli, salt",
+    "Coriander"
+  ],
+  "steps": [
+    "Pan-toast the tofu with half the cumin and paprika for 5 minutes until dry and golden.",
+    "Warm the beans and corn briefly in a pan.",
+    "Mix the remaining spices with the lime juice for the dressing.",
+    "Divide the rice and lettuce between two bowls.",
+    "Top with beans, corn, tofu, tomato, onion and avocado; drizzle with dressing and finish with coriander."
+  ],
+  "note": "Beans and rice together form a complete protein; the large bean portion keeps fibre high.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

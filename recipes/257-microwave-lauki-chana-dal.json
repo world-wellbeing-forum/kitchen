@@ -1,0 +1,71 @@
+{
+  "id": 257,
+  "name": "Microwave Lauki Chana Dal",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 255,
+  "carbs": 36,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) chana dal, soaked 2 hours",
+    "250 g lauki, peeled and cubed",
+    "1 tomato, chopped",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp ginger and 2 garlic cloves, minced",
+    "¼ tsp turmeric and ½ tsp coriander powder",
+    "1½ cups hot water",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Place the drained dal, hot water and turmeric in a large bowl, cover and microwave on high for 10 minutes, then at 50% for 12 minutes.",
+    "Add the lauki, cover and microwave on high for 6 minutes until both are soft.",
+    "In a small bowl, microwave the oil, cumin, ginger and garlic for 1 minute; add the tomato and coriander powder and microwave 1½ minutes.",
+    "Stir the tempering into the dal; mash lightly.",
+    "Season with salt and finish with coriander."
+  ],
+  "note": "Chana dal takes longest, so soak it first; check it is fully soft before adding the lauki.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "abhasbiharichowka.wordpress.com",
+      "title": "Lauki Chana Dal | Biharirasoi",
+      "url": "https://abhasbiharichowka.wordpress.com/2012/01/31/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "juntoplan.com",
+      "title": "Lauki chana dal · JuntoPlan recipe",
+      "url": "https://juntoplan.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookwithambarish.com",
+      "title": "Lauki Chana Dal - Cook with Ambarish",
+      "url": "https://www.cookwithambarish.com/recipes/lauki-chana-dal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Whisk Affair",
+      "title": "Lauki Chana Dal Recipe - Whisk Affair",
+      "url": "https://www.whiskaffair.com/lauki-chana-dal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

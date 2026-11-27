@@ -1,0 +1,62 @@
+{
+  "id": 198,
+  "name": "Air-Fryer Moong Dal Pakora",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 205,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "½ cup (100 g) split yellow moong dal, soaked 2 hours and coarsely ground",
+    "1 small onion, finely chopped",
+    "½ cup chopped spinach",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each cumin seeds and ajwain",
+    "¼ tsp turmeric and ½ tsp chilli powder",
+    "1 tsp oil for brushing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix the ground dal with the onion, spinach, chilli, ginger, spices and salt. The mixture should be thick, not runny.",
+    "Preheat the air fryer to 180°C.",
+    "Shape into 10 small balls or flat discs and brush lightly with oil.",
+    "Air-fry in a single layer for 12–14 minutes, turning halfway, until golden and cooked through.",
+    "Serve with green chutney."
+  ],
+  "note": "Dal-based pakoras are traditionally deep-fried; air frying uses a fraction of the oil.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chana Dal Pakora",
+      "url": "https://www.vegrecipesofindia.com/chana-dal-pakora-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Bhajiya Pakora Recipe",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-bhajiya-pakora-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Moong Dal Vada Recipe Moong Dal Pakoda",
+      "url": "https://hebbarskitchen.com/moong-dal-vada-recipe-moong-dal-pakoda/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

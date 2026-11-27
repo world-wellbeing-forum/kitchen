@@ -1,0 +1,44 @@
+{
+  "id": 79,
+  "name": "Miso Tofu Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 120,
+  "carbs": 8,
+  "fiber": 2,
+  "fat": 5,
+  "prep": 8,
+  "cook": 10,
+  "mins": 18,
+  "ingredients": [
+    "150 g silken tofu, cubed",
+    "2 tbsp miso paste (check the label)",
+    "3 cups water",
+    "A 10 cm piece of kombu",
+    "4 shiitake or button mushrooms, sliced",
+    "2 spring onions, sliced",
+    "1 tbsp dried wakame, soaked 5 minutes (optional)"
+  ],
+  "steps": [
+    "Warm the water with the kombu over medium heat; remove the kombu just before it boils.",
+    "Add the mushrooms and simmer for 4 minutes.",
+    "Place the miso in a ladle, dissolve it with some hot broth, and stir it back into the pot. Do not boil after this.",
+    "Add the tofu and wakame and warm through for 2 minutes.",
+    "Serve topped with spring onions."
+  ],
+  "note": "Miso is high in sodium; use less if you are watching salt, and skip extra salt in the soup.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Miso soup",
+      "url": "https://en.wikipedia.org/wiki/Miso_soup",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

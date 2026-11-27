@@ -1,0 +1,62 @@
+{
+  "id": 251,
+  "name": "Microwave Stuffed Potato",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 290,
+  "carbs": 44,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "2 medium potatoes (about 300 g total), scrubbed and pricked",
+    "½ cup cooked chickpeas, lightly mashed",
+    "100 g firm tofu, crumbled",
+    "1 small onion and 1 tomato, finely chopped",
+    "½ tsp each cumin, chaat masala and chilli powder",
+    "1 tsp oil",
+    "Coriander and lemon juice",
+    "Salt"
+  ],
+  "steps": [
+    "Microwave the potatoes on high for 8–10 minutes, turning halfway, until tender. Rest for 3 minutes.",
+    "Meanwhile, microwave the oil, onion and tomato covered for 3 minutes. Stir in the chickpeas, tofu, spices and salt; microwave 2 minutes.",
+    "Split the potatoes and fluff the insides with a fork.",
+    "Spoon in the filling.",
+    "Finish with coriander and lemon juice."
+  ],
+  "note": "Eating the skin adds fibre; the chickpea and tofu filling brings the protein up.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baked Potato",
+      "url": "https://www.vegrecipesofindia.com/baked-potato/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baked Potato Wedges Recipe",
+      "url": "https://www.vegrecipesofindia.com/baked-potato-wedges-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Aloo Stuffed Bread Pakora Bread Bajji",
+      "url": "https://hebbarskitchen.com/aloo-stuffed-bread-pakora-bread-bajji/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 227,
+  "name": "Air-Fryer Paneer Fingers",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": false,
+  "protein": 24,
+  "cal": 260,
+  "carbs": 14,
+  "fiber": 3,
+  "fat": 12,
+  "prep": 15,
+  "cook": 12,
+  "mins": 27,
+  "ingredients": [
+    "150 g low-fat paneer, cut in thick fingers",
+    "3 tbsp besan mixed with 3 tbsp water into a thick batter",
+    "3 tbsp whole-wheat breadcrumbs",
+    "½ tsp each chilli powder, garlic powder and ajwain",
+    "1 tsp oil, plus spray",
+    "Salt, chaat masala and lemon wedges"
+  ],
+  "steps": [
+    "Season the paneer fingers with salt and spices.",
+    "Dip each in the besan batter and roll in breadcrumbs.",
+    "Preheat the air fryer to 190°C and spray the basket.",
+    "Cook in a single layer for 10–12 minutes, turning halfway, until golden.",
+    "Sprinkle with chaat masala and serve with mint chutney and lemon."
+  ],
+  "note": "The besan batter keeps it egg-free; the air fryer uses far less oil than deep-frying.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Paneer 65 Recipe Paneer Fry Recipe",
+      "url": "https://hebbarskitchen.com/paneer-65-recipe-paneer-fry-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

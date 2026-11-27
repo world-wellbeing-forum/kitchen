@@ -1,0 +1,71 @@
+{
+  "id": 246,
+  "name": "Microwave Moong Dal Khichdi",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 240,
+  "carbs": 38,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "¼ cup basmati or brown rice, rinsed",
+    "½ cup (100 g) split yellow moong dal, rinsed",
+    "1 small carrot, diced, and ¼ cup peas",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp grated ginger",
+    "¼ tsp turmeric",
+    "2¼ cups hot water",
+    "Salt, black pepper and coriander"
+  ],
+  "steps": [
+    "In a large microwave-safe bowl (at least 2 litres), mix the oil, cumin and ginger. Microwave uncovered on high for 1 minute.",
+    "Add the rice, dal, vegetables, turmeric, salt and hot water. Stir.",
+    "Cover loosely with a plate or vented lid. Microwave on high for 6 minutes, then on medium (50%) for 12–14 minutes until soft.",
+    "Stand covered for 5 minutes, then stir well and add hot water if too thick.",
+    "Finish with pepper and coriander."
+  ],
+  "note": "Use a large bowl: khichdi bubbles up as it cooks.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dalia Recipe | Daliya Khichdi",
+      "url": "https://www.vegrecipesofindia.com/dalia-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Khichdi Recipe",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-khichdi-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Khichdi Recipe Moong Dal Khichdi",
+      "url": "https://hebbarskitchen.com/khichdi-recipe-moong-dal-khichdi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Moong Dal Khichdi Recipe",
+      "url": "https://hebbarskitchen.com/moong-dal-khichdi-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

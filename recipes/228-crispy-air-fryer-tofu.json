@@ -1,0 +1,37 @@
+{
+  "id": 228,
+  "name": "Crispy Air-Fryer Tofu",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 195,
+  "carbs": 9,
+  "fiber": 2,
+  "fat": 9,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "250 g extra-firm tofu, pressed for 15 minutes and torn or cubed",
+    "1 tbsp cornflour",
+    "1 tsp oil",
+    "½ tsp each garlic powder, smoked paprika and cumin",
+    "1 tbsp soy sauce",
+    "Black pepper",
+    "Lemon and chilli sauce, to serve"
+  ],
+  "steps": [
+    "Toss the tofu with the soy sauce and let it absorb for 5 minutes.",
+    "Add the cornflour, oil and spices and toss to coat evenly.",
+    "Preheat the air fryer to 190°C.",
+    "Cook in a single layer for 15 minutes, shaking at 8 minutes, until golden and crisp.",
+    "Serve with lemon and chilli sauce."
+  ],
+  "note": "Pressing the tofu well is the key to a crisp outside.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

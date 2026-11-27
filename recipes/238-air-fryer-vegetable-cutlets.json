@@ -1,0 +1,54 @@
+{
+  "id": 238,
+  "name": "Air-Fryer Vegetable Cutlets",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 200,
+  "carbs": 32,
+  "fiber": 8,
+  "fat": 3,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "1 cup finely chopped mixed vegetables (carrot, beans, peas), steamed",
+    "1 small potato, boiled and mashed",
+    "½ cup cooked chickpeas, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp garam masala and ½ tsp chaat masala",
+    "1 tsp oil for brushing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix all the ingredients except the oil to a firm mixture.",
+    "Shape into 8 oval cutlets and chill for 10 minutes.",
+    "Preheat the air fryer to 180°C. Brush the cutlets lightly with oil.",
+    "Cook for 14 minutes, turning halfway, until golden.",
+    "Serve with mint chutney."
+  ],
+  "note": "Chickpeas and besan add protein to a snack that is usually mostly potato.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Veg Cutlet Recipe Vegetable Cutlet",
+      "url": "https://hebbarskitchen.com/veg-cutlet-recipe-vegetable-cutlet/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Poha Cutlet Recipe Vegetable Poha Cutlet",
+      "url": "https://hebbarskitchen.com/poha-cutlet-recipe-vegetable-poha-cutlet/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

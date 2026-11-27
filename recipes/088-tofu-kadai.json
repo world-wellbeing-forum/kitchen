@@ -1,0 +1,55 @@
+{
+  "id": 88,
+  "name": "Tofu Kadai",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 18,
+  "cal": 230,
+  "carbs": 15,
+  "fiber": 4,
+  "fat": 11,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "200 g firm tofu, cubed",
+    "1 capsicum, cut in strips",
+    "1 onion, cut in wedges",
+    "2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp grated ginger",
+    "1 tsp oil",
+    "1 tsp coriander seeds and 2 dried red chillies, coarsely crushed",
+    "½ tsp cumin seeds",
+    "½ tsp garam masala",
+    "Fresh coriander and salt"
+  ],
+  "steps": [
+    "Pat the tofu dry and pan-sear in a non-stick pan with half the oil for 6 minutes until golden on the sides. Set aside.",
+    "Heat the remaining oil, crackle the cumin, then add the crushed coriander seeds and chillies.",
+    "Add ginger, garlic and tomatoes and cook for 8 minutes until the oil separates.",
+    "Add the onion and capsicum and cook for 4 minutes, keeping them slightly crisp.",
+    "Return the tofu, add garam masala and salt, and toss for 2 minutes. Finish with coriander."
+  ],
+  "note": "Freshly crushed coriander seeds and dried chilli give kadai masala its character.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kadai Paneer Recipe Kadai Paneer",
+      "url": "https://www.vegrecipesofindia.com/kadai-paneer-recipe-kadai-paneer/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Kadai Paneer Recipe | Karahi Paneer Restaurant Style - 5 Tips",
+      "url": "https://hebbarskitchen.com/kadai-paneer-recipe-karahi-paneer-gravy/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

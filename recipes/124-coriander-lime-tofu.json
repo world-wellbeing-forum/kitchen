@@ -1,0 +1,36 @@
+{
+  "id": 124,
+  "name": "Coriander Lime Tofu",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 200,
+  "carbs": 7,
+  "fiber": 3,
+  "fat": 10,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "250 g extra-firm tofu, pressed and sliced in slabs",
+    "1 cup coriander, packed",
+    "Juice of 2 limes and zest of 1",
+    "2 garlic cloves",
+    "1 green chilli",
+    "1 tsp oil",
+    "½ tsp cumin powder",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Blend the coriander, lime juice and zest, garlic, chilli, cumin and salt with 2 tbsp water into a loose marinade.",
+    "Coat the tofu slabs and marinate for 20 minutes.",
+    "Pan-sear in a non-stick pan with the oil for 4 minutes per side until golden.",
+    "Spoon over any remaining marinade and serve with salad."
+  ],
+  "note": "Bright and fresh; pair with a grain or salad for a full meal.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

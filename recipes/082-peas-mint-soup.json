@@ -1,0 +1,45 @@
+{
+  "id": 82,
+  "name": "Peas Mint Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 210,
+  "carbs": 30,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 8,
+  "cook": 15,
+  "mins": 23,
+  "ingredients": [
+    "2 cups (300 g) green peas, fresh or frozen",
+    "½ cup fresh mint leaves",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp oil",
+    "3 cups vegetable stock",
+    "¼ cup (60 g) silken tofu",
+    "Lemon juice, salt and black pepper"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion and garlic for 4 minutes.",
+    "Add the stock and peas and simmer for 6 minutes.",
+    "Add the mint and blend with the silken tofu until very smooth.",
+    "Reheat without boiling to keep the colour bright.",
+    "Season with lemon juice, salt and pepper."
+  ],
+  "note": "Peas are one of the best everyday plant protein and fibre sources; silken tofu adds creaminess.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Pea soup",
+      "url": "https://en.wikipedia.org/wiki/Pea_soup",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

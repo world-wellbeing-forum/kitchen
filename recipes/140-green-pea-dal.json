@@ -1,0 +1,52 @@
+{
+  "id": 140,
+  "name": "Green Pea Dal",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 255,
+  "carbs": 40,
+  "fiber": 13,
+  "fat": 4,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) dried split green peas, soaked 4 hours",
+    "½ cup fresh or frozen green peas",
+    "1 tomato, chopped",
+    "¼ tsp turmeric",
+    "Tadka: 1 tsp oil, ½ tsp cumin seeds, 2 garlic cloves, 1 green chilli, pinch of hing",
+    "½ tsp garam masala",
+    "Lemon juice, salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the split peas with turmeric, tomato and 2 cups water for 4 whistles until soft.",
+    "Add the fresh peas and simmer for 5 minutes.",
+    "Heat the oil, crackle the cumin, and add garlic, chilli and hing until golden.",
+    "Pour the tadka into the dal and add garam masala.",
+    "Finish with lemon juice, salt and coriander."
+  ],
+  "note": "Split peas give a thicker, creamier dal than most lentils.",
+  "inspirationReferences": [
+    {
+      "site": "healthyindi.wordpress.com",
+      "title": "Green Peas Moong Dal Chilla – A Simple Indian Breakfast – Healthy Indian Kitchen",
+      "url": "https://healthyindi.wordpress.com/2026/11/19/green-peas-moong-dal-chilla/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Matar Ki Dal Recipe Green Peas Dal",
+      "url": "https://hebbarskitchen.com/matar-ki-dal-recipe-green-peas-dal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

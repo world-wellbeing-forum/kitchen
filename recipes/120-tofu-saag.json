@@ -1,0 +1,55 @@
+{
+  "id": 120,
+  "name": "Tofu Saag",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 255,
+  "carbs": 18,
+  "fiber": 7,
+  "fat": 11,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "300 g mixed greens (spinach, mustard greens, methi), washed",
+    "1 onion, chopped",
+    "3 garlic cloves and 2.5 cm ginger",
+    "1 tsp oil",
+    "1 tbsp makki ka atta (maize flour) or besan",
+    "½ tsp cumin seeds",
+    "½ tsp garam masala",
+    "1 green chilli",
+    "Salt"
+  ],
+  "steps": [
+    "Boil the greens with the chilli and ginger for 8 minutes until soft. Drain and blend coarsely.",
+    "Heat the oil, crackle the cumin, then cook the onion and garlic for 6 minutes.",
+    "Add the greens, maize flour and ½ cup water and simmer for 10 minutes, stirring, until thick.",
+    "Add the tofu and simmer for 4 minutes.",
+    "Finish with garam masala and salt."
+  ],
+  "note": "Mustard greens are a seasonal Punjabi staple; spinach alone also works.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Sarson Ka Saag",
+      "url": "https://www.vegrecipesofindia.com/sarson-ka-saag/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Sarson Ka Saag Recipe Sarson Da Saag",
+      "url": "https://hebbarskitchen.com/sarson-ka-saag-recipe-sarson-da-saag/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

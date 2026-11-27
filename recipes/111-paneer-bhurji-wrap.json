@@ -1,0 +1,70 @@
+{
+  "id": 111,
+  "name": "Paneer Bhurji Wrap",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 24,
+  "cal": 350,
+  "carbs": 36,
+  "fiber": 6,
+  "fat": 12,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "120 g low-fat paneer, crumbled",
+    "1 onion, finely chopped",
+    "1 tomato, finely chopped",
+    "1 green chilli, chopped",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric and ½ tsp coriander powder",
+    "2 whole-wheat rotis or wraps (about 60 g each)",
+    "Coriander, salt and a squeeze of lemon",
+    "Sliced cucumber and mint chutney, to serve"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion and chilli for 4 minutes.",
+    "Add the tomato and spices and cook for 4 minutes until pulpy.",
+    "Add the paneer and 2 tbsp water and cook for 3 minutes. Add salt, lemon and coriander.",
+    "Warm the rotis. Spread with chutney, fill with bhurji and cucumber, and roll tightly."
+  ],
+  "note": "A portable high-protein meal; the whole-wheat wrap adds fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Paneer Bhurji",
+      "url": "https://www.vegrecipesofindia.com/palak-paneer-bhurji-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Bhurji Sandwich Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-bhurji-sandwich-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Amritsari Paneer Bhurji Recipe",
+      "url": "https://hebbarskitchen.com/amritsari-paneer-bhurji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Easy Dry Paneer Bhurji Recipe",
+      "url": "https://hebbarskitchen.com/easy-dry-paneer-bhurji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

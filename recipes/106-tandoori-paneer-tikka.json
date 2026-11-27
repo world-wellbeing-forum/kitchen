@@ -1,0 +1,62 @@
+{
+  "id": 106,
+  "name": "Tandoori Paneer Tikka",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 21,
+  "cal": 230,
+  "carbs": 10,
+  "fiber": 2,
+  "fat": 12,
+  "prep": 20,
+  "cook": 18,
+  "mins": 38,
+  "ingredients": [
+    "200 g low-fat paneer, cut in large cubes",
+    "1 capsicum and 1 onion, cut in squares",
+    "3 tbsp thick plain low-fat yogurt",
+    "1 tsp ginger-garlic paste",
+    "1 tsp tikka masala or ½ tsp each chilli powder, coriander powder and garam masala",
+    "¼ tsp turmeric and ½ tsp ajwain",
+    "1 tsp mustard oil",
+    "Juice of ½ lemon",
+    "Salt and chaat masala"
+  ],
+  "steps": [
+    "Whisk the yogurt with the ginger-garlic paste, spices, oil, lemon and salt. Add the paneer and vegetables and marinate for at least 30 minutes.",
+    "Thread onto skewers, alternating paneer, capsicum and onion.",
+    "Roast at 220°C for 15–18 minutes, turning once, until the edges char lightly.",
+    "Sprinkle with chaat masala and a squeeze of lemon. Serve with mint chutney."
+  ],
+  "note": "Oven-roasted rather than fried or basted with butter. Use thick, strained yogurt so the marinade clings.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Tikka Recipe (Oven & Tawa)",
+      "url": "https://www.vegrecipesofindia.com/paneer-tikka-recipe-paneer-tikka/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Hariyali Paneer Tikka Paneer Hariyali",
+      "url": "https://hebbarskitchen.com/hariyali-paneer-tikka-paneer-hariyali/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Malai Paneer Tikka Recipe",
+      "url": "https://www.vegrecipesofindia.com/malai-paneer-tikka-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 96,
+  "name": "Light Dal Makhani",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 290,
+  "carbs": 42,
+  "fiber": 14,
+  "fat": 6,
+  "prep": 15,
+  "cook": 60,
+  "mins": 75,
+  "ingredients": [
+    "½ cup (100 g) whole black urad dal (sabut urad), soaked overnight",
+    "2 tbsp rajma (kidney beans), soaked overnight",
+    "1 cup tomato purée",
+    "1 onion, finely chopped",
+    "1 tbsp each minced ginger and garlic",
+    "2 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp each Kashmiri chilli powder and garam masala",
+    "1 tsp kasuri methi",
+    "2 tbsp unsweetened soy milk",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Pressure-cook the urad and rajma with 3 cups water and salt for 35–40 minutes until completely soft and mashable.",
+    "Heat the oil, crackle the cumin, and cook the onion, ginger and garlic for 6 minutes.",
+    "Add the tomato purée and chilli powder and cook for 8 minutes until thick.",
+    "Add the cooked dal with its liquid and simmer for 15 minutes, mashing some of the dal against the pot to thicken.",
+    "Stir in the soy milk, garam masala and kasuri methi. Simmer 3 minutes."
+  ],
+  "note": "Slow simmering gives the creamy texture; no butter or cream is used. Soak the dal overnight and discard the soaking water.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Instant Pot Dal Makhani",
+      "url": "https://www.vegrecipesofindia.com/instant-pot-dal-makhani/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Punjabi Dal Makhani Recipe",
+      "url": "https://hebbarskitchen.com/punjabi-dal-makhani-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dal Makhani Restaurant Style Recipe",
+      "url": "https://www.vegrecipesofindia.com/dal-makhani-restaurant-style-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

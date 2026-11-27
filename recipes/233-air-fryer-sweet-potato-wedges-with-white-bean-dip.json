@@ -1,0 +1,43 @@
+{
+  "id": 233,
+  "name": "Air-Fryer Sweet Potato Wedges with White Bean Dip",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 250,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "200 g sweet potato, cut into wedges",
+    "1 tsp oil",
+    "½ tsp each smoked paprika, cumin and garlic powder",
+    "Dip: ¾ cup cooked white beans, 1 garlic clove, juice of 1 lemon, 1 tsp olive oil, 2 tbsp water, salt, ¼ tsp cumin",
+    "Parsley, to serve"
+  ],
+  "steps": [
+    "Toss the wedges with the oil, spices and salt.",
+    "Preheat the air fryer to 190°C.",
+    "Cook the wedges for 20–25 minutes, shaking every 7 minutes, until tender inside and crisp outside.",
+    "Blend the dip ingredients until smooth.",
+    "Serve the wedges with the dip and parsley."
+  ],
+  "note": "The bean dip adds protein and fibre, and replaces mayonnaise-based dips.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Fried sweet potato",
+      "url": "https://en.wikipedia.org/wiki/Fried_sweet_potato",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

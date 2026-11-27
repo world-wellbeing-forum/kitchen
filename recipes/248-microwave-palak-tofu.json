@@ -1,0 +1,47 @@
+{
+  "id": 248,
+  "name": "Microwave Palak Tofu",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 200,
+  "carbs": 10,
+  "fiber": 5,
+  "fat": 9,
+  "prep": 10,
+  "cook": 10,
+  "mins": 20,
+  "ingredients": [
+    "300 g spinach, washed",
+    "200 g firm tofu, cubed",
+    "1 small onion, chopped",
+    "1 tomato, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp garam masala",
+    "Salt"
+  ],
+  "steps": [
+    "Place the spinach in a covered bowl and microwave on high for 3 minutes until wilted. Cool and blend to a purée.",
+    "In another bowl, microwave the oil, cumin, onion, garlic and ginger covered on high for 3 minutes.",
+    "Add the tomato and microwave for 2 minutes. Stir in the spinach purée and ¼ cup water.",
+    "Add the tofu and garam masala, cover and microwave for 3 minutes. Stir gently and stand for 2 minutes.",
+    "Season with salt."
+  ],
+  "note": "The quickest palak dish; the spinach keeps its colour because it cooks only briefly.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Indian Veggie Delight",
+      "title": "Palak Tofu (Spinach Tofu Curry) - Instant Pot - Indian Veggie Delight",
+      "url": "https://www.indianveggiedelight.com/palak-tofu-instant-pot/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

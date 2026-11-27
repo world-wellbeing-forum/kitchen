@@ -1,0 +1,45 @@
+{
+  "id": 168,
+  "name": "Quinoa Tofu Power Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 27,
+  "cal": 375,
+  "carbs": 40,
+  "fiber": 9,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "¾ cup cooked quinoa",
+    "200 g extra-firm tofu, cubed",
+    "1 cup broccoli florets",
+    "½ cup shelled edamame",
+    "1 carrot, grated",
+    "½ avocado, sliced",
+    "1 tsp oil",
+    "Dressing: 1 tbsp soy sauce, juice of 1 lime, 1 tsp grated ginger, 1 tsp rice vinegar"
+  ],
+  "steps": [
+    "Sear the tofu in the oil in a non-stick pan for 8 minutes until golden on all sides.",
+    "Steam the broccoli and edamame for 4 minutes.",
+    "Whisk the dressing.",
+    "Divide the quinoa between two bowls and arrange the tofu, broccoli, edamame, carrot and avocado on top.",
+    "Drizzle with the dressing."
+  ],
+  "note": "Over 25 g protein per bowl, with fibre from the vegetables and healthy fats from avocado.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Buddha bowl",
+      "url": "https://en.wikipedia.org/wiki/Buddha_bowl",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

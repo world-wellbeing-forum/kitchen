@@ -1,0 +1,64 @@
+{
+  "id": 160,
+  "name": "Wild Rice Mushroom Pilaf",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 225,
+  "carbs": 29,
+  "fiber": 4,
+  "fat": 7,
+  "prep": 10,
+  "cook": 45,
+  "mins": 55,
+  "ingredients": [
+    "⅓ cup wild rice blend, rinsed",
+    "200 g mushrooms, sliced",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "½ tsp dried thyme",
+    "1½ cups low-sodium vegetable stock",
+    "Black pepper, salt and parsley",
+    "100 g firm tofu, cubed"
+  ],
+  "steps": [
+    "Dry-sauté the mushrooms for 6 minutes until browned; set aside.",
+    "Heat the oil and cook the onion for 4 minutes. Add garlic and thyme.",
+    "Add the rice and stock, bring to a boil, then cover and simmer for 40 minutes until tender.",
+    "Stir in the mushrooms and cook for 5 minutes.",
+    "Sear the tofu separately and fold it in at the end.",
+    "Season with pepper and finish with parsley."
+  ],
+  "note": "Wild rice is chewy and takes longer to cook than white or brown rice.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Rice",
+      "url": "https://www.vegrecipesofindia.com/mushroom-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Fried Rice Recipe",
+      "url": "https://www.vegrecipesofindia.com/mushroom-fried-rice-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Mushroom Rice Recipe Mushroom Pulav",
+      "url": "https://hebbarskitchen.com/mushroom-rice-recipe-mushroom-pulav/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

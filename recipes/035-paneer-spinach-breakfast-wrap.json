@@ -2,14 +2,16 @@
   "id": 35,
   "name": "Paneer Spinach Breakfast Wrap",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": false,
   "protein": 24,
   "cal": 340,
   "carbs": 34,
   "fiber": 7,
   "fat": 13,
-  "mins": 20,
   "prep": 8,
   "cook": 12,
+  "mins": 20,
   "ingredients": [
     "2 small whole-wheat rotis",
     "120 g low-fat paneer, crumbled",
@@ -29,20 +31,40 @@
     "Roll tightly and toast seam-side down for 30 seconds. Serve warm."
   ],
   "note": "Vegetarian, not vegan. Use low-fat paneer and whole-wheat rotis; nutrition estimate includes both wraps.",
-  "vegan": false,
-  "servings": 2,
-  "image": "/assets/images/recipes/035.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Paneer Bhurji Recipe",
       "url": "https://www.vegrecipesofindia.com/paneer-bhurji-scrambled-cottage-cheese-with-spices/",
       "note": "Paneer crumble and spice-base inspiration for a spinach wrap filling; wrap construction and proportions are our own.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Paneer Bhurji",
+      "url": "https://www.vegrecipesofindia.com/palak-paneer-bhurji-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "idyora.com",
+      "title": "Sattu-Paneer Veg Roti Wrap — IDYORA Recipes",
+      "url": "https://idyora.com/recipes/sattu-paneer-veg-roti-wrap",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "paneer bread roll recipe | bread paneer rolls | paneer stuffed bread rolls",
+      "url": "https://hebbarskitchen.com/paneer-bread-roll-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

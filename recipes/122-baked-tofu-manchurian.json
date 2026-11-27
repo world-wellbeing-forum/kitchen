@@ -1,0 +1,73 @@
+{
+  "id": 122,
+  "name": "Baked Tofu Manchurian",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 225,
+  "carbs": 17,
+  "fiber": 3,
+  "fat": 9,
+  "prep": 20,
+  "cook": 25,
+  "mins": 45,
+  "ingredients": [
+    "250 g extra-firm tofu, pressed and cubed",
+    "1 tbsp cornflour",
+    "1 tsp oil",
+    "1 tbsp each minced ginger and garlic",
+    "1 capsicum, diced",
+    "2 spring onions, sliced",
+    "1 tbsp soy sauce",
+    "1 tbsp chilli sauce",
+    "1 tsp vinegar",
+    "1 tsp cornflour mixed with ¼ cup water",
+    "Black pepper"
+  ],
+  "steps": [
+    "Toss the tofu with 1 tbsp cornflour and bake at 200°C for 20 minutes, turning once, until crisp.",
+    "Heat the oil and fry ginger and garlic for 30 seconds.",
+    "Add the capsicum and stir-fry for 2 minutes.",
+    "Add the soy sauce, chilli sauce, vinegar and the cornflour slurry; simmer 1 minute until glossy.",
+    "Toss in the baked tofu and spring onions and serve immediately."
+  ],
+  "note": "Baking replaces the deep-fry step of the classic.",
+  "methodLabel": "Oven and stovetop method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Idli Manchurian",
+      "url": "https://www.vegrecipesofindia.com/idli-manchurian-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Gobi Manchurian Dry Recipe",
+      "url": "https://www.vegrecipesofindia.com/gobi-manchurian-dry-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Gobi Manchurian Gravy Recipe",
+      "url": "https://hebbarskitchen.com/gobi-manchurian-gravy-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dry Gobi Manchurian Recipe",
+      "url": "https://hebbarskitchen.com/dry-gobi-manchurian-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

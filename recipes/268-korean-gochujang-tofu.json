@@ -1,0 +1,38 @@
+{
+  "id": 268,
+  "name": "Korean Gochujang Tofu",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 275,
+  "carbs": 24,
+  "fiber": 5,
+  "fat": 10,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "250 g firm tofu, sliced",
+    "1 tbsp gochujang (check the label)",
+    "1 tbsp soy sauce and 1 tsp rice vinegar",
+    "2 garlic cloves and 1 tsp grated ginger",
+    "1 tsp oil",
+    "150 g spinach or bok choy",
+    "2 spring onions",
+    "½ cup cooked brown rice (optional)",
+    "1 cup shredded cabbage kimchi-style salad, optional"
+  ],
+  "steps": [
+    "Mix the gochujang, soy sauce, vinegar, garlic, ginger and 3 tbsp water into a sauce.",
+    "Pan-sear the tofu slices in the oil for 4 minutes per side until golden.",
+    "Pour the sauce around the tofu and simmer for 4 minutes, spooning it over, until sticky.",
+    "Wilt the spinach in the pan for 1 minute.",
+    "Serve topped with spring onion, with rice on the side if desired."
+  ],
+  "note": "Gochujang contains some sugar and salt, so keep the quantity to 1 tablespoon for two.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

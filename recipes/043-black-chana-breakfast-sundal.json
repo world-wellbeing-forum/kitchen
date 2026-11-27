@@ -1,0 +1,70 @@
+{
+  "id": 43,
+  "name": "Black Chana Breakfast Sundal",
+  "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 280,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 6,
+  "prep": 5,
+  "cook": 10,
+  "mins": 15,
+  "ingredients": [
+    "1½ cups cooked kala chana",
+    "½ tsp oil",
+    "½ tsp mustard seeds",
+    "6 curry leaves",
+    "¼ tsp turmeric",
+    "1 tbsp grated fresh coconut, optional",
+    "1 tbsp lemon juice",
+    "2 tbsp chopped coriander",
+    "Pinch of hing and salt"
+  ],
+  "steps": [
+    "If using freshly cooked kala chana, drain but reserve a little cooking liquid.",
+    "Heat oil in a pan. Add mustard seeds, curry leaves and hing.",
+    "Add turmeric and cooked chana with 1–2 tbsp reserved liquid. Toss over medium heat for 3–4 minutes.",
+    "Turn off the heat. Add lemon, coriander and optional coconut.",
+    "Taste and serve warm or at room temperature."
+  ],
+  "note": "Use no coconut if avoiding it; the recipe remains satisfying with lemon and coriander.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kala Chana Chaat (Black Chickpeas Chaat)",
+      "url": "https://www.vegrecipesofindia.com/kala-chana-chaat/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kala Chana Recipe (Black Chickpea Curry)",
+      "url": "https://www.vegrecipesofindia.com/kala-chana-curry-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "kala chana recipe | black chana masala recipe | black chickpeas curry",
+      "url": "https://hebbarskitchen.com/kala-chana-recipe-black-chana-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "black chana chaat recipe | kala chana chaat | black chickpeas chaat",
+      "url": "https://hebbarskitchen.com/black-chana-chaat-recipe-kala-chana/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

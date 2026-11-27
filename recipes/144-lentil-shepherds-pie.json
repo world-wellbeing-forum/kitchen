@@ -1,0 +1,49 @@
+{
+  "id": 144,
+  "name": "Lentil Shepherd's Pie",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 295,
+  "carbs": 46,
+  "fiber": 14,
+  "fat": 5,
+  "prep": 25,
+  "cook": 50,
+  "mins": 75,
+  "ingredients": [
+    "½ cup (100 g) brown or green lentils, rinsed",
+    "200 g mushrooms, chopped",
+    "1 carrot and 1 onion, diced",
+    "½ cup green peas",
+    "2 garlic cloves",
+    "1 tbsp tomato paste",
+    "1 tsp olive oil",
+    "1 tsp dried thyme and 1 tsp soy sauce",
+    "1½ cups vegetable stock",
+    "Topping: 150 g potatoes and 300 g cauliflower, boiled, mashed with ¼ cup unsweetened soy milk",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Simmer the lentils in the stock for 20 minutes until almost tender.",
+    "Heat the oil and cook the onion, carrot and mushrooms for 8 minutes. Add garlic, tomato paste, thyme and soy sauce.",
+    "Stir in the lentils with their stock and the peas. Simmer for 8 minutes until thick.",
+    "Mash the potato and cauliflower with the soy milk, salt and pepper.",
+    "Spread the lentil mix in a baking dish, top with the mash, and bake at 200°C for 20 minutes until lightly golden."
+  ],
+  "note": "A hearty plant-based version of the British classic; replacing part of the potato with cauliflower reduces the carbohydrate load.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Shepherd's pie",
+      "url": "https://en.wikipedia.org/wiki/Shepherd%27s_pie",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

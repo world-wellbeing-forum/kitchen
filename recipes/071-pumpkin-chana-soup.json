@@ -1,0 +1,56 @@
+{
+  "id": 71,
+  "name": "Pumpkin Chana Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 270,
+  "carbs": 44,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "400 g pumpkin, peeled and cubed",
+    "1 cup cooked chickpeas",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder",
+    "3 cups vegetable stock",
+    "Black pepper, salt and lemon juice",
+    "1 tbsp pumpkin seeds, optional (omit for seed allergies)"
+  ],
+  "steps": [
+    "Heat the oil, add cumin and onion and cook for 5 minutes until golden.",
+    "Add garlic and coriander powder, then the pumpkin and stock.",
+    "Simmer covered for 15 minutes until the pumpkin is completely soft.",
+    "Add half the chickpeas and blend until smooth. Stir in the remaining whole chickpeas.",
+    "Season with salt, pepper and lemon juice."
+  ],
+  "note": "Pumpkin gives natural sweetness, so no cream or sugar is needed.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pumpkin Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/pumpkin-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಕುಂಬಳಕಾಯಿ ಸೂಪ್ ರೆಸಿಪಿ | pumpkin soup in kannada",
+      "url": "https://hebbarskitchen.com/easy-creamy-pumpkin-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

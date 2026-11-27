@@ -1,0 +1,53 @@
+{
+  "id": 157,
+  "name": "Ragi Mudde with Sambar",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 260,
+  "carbs": 45,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 20,
+  "cook": 30,
+  "mins": 50,
+  "ingredients": [
+    "⅓ cup (40 g) ragi (finger millet) flour",
+    "1 cup water and a pinch of salt",
+    "Sambar: ¼ cup toor dal, 1 cup mixed vegetables, 1 small tomato, 1 tbsp tamarind pulp, 1 tbsp sambar powder, ¼ tsp turmeric",
+    "Tadka: 1 tsp oil, ½ tsp mustard seeds, 6 curry leaves, 1 dried chilli",
+    "Salt and coriander",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Pressure-cook the dal with turmeric and 1½ cups water for 4 whistles. Mash.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Simmer the vegetables, tomato, tamarind and sambar powder in 1 cup water for 10 minutes. Add the dal and simmer for 8 minutes.",
+    "Add the tadka of mustard, curry leaves and chilli. Season with salt.",
+    "For the mudde, boil the water with salt, add the ragi flour in one go and stir vigorously on low heat for 4–5 minutes into a smooth dough.",
+    "Wet your hands, shape into 2 balls, and serve with the hot sambar."
+  ],
+  "note": "A Karnataka staple. Ragi is among the richest plant sources of calcium.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Mudde",
+      "url": "https://www.vegrecipesofindia.com/ragi-mudde/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Ragi Mudde Recipe Ragi Ball Recipe",
+      "url": "https://hebbarskitchen.com/ragi-mudde-recipe-ragi-ball-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

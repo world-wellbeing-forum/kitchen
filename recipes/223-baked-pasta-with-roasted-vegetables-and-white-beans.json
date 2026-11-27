@@ -1,0 +1,47 @@
+{
+  "id": 223,
+  "name": "Baked Pasta with Roasted Vegetables and White Beans",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 320,
+  "carbs": 44,
+  "fiber": 11,
+  "fat": 7,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "80 g whole-wheat pasta",
+    "1 zucchini, 1 bell pepper and 1 cup cherry tomatoes",
+    "1 cup cooked white beans",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1 cup tomato passata",
+    "1 tsp dried oregano",
+    "30 g low-fat mozzarella, grated",
+    "Basil, salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Toss the vegetables with the oil and garlic and roast for 20 minutes.",
+    "Cook the pasta for 2 minutes less than the pack says; drain.",
+    "Mix the pasta, roasted vegetables, beans, passata and oregano in a baking dish.",
+    "Top with the mozzarella.",
+    "Bake for 15 minutes until bubbling. Finish with basil."
+  ],
+  "note": "White beans add protein and fibre so a small pasta portion still makes a full meal.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baked Ziti Tomato Pasta",
+      "url": "https://www.vegrecipesofindia.com/baked-ziti-tomato-pasta/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

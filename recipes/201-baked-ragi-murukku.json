@@ -1,0 +1,62 @@
+{
+  "id": 201,
+  "name": "Baked Ragi Murukku",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 195,
+  "carbs": 30,
+  "fiber": 7,
+  "fat": 4,
+  "prep": 25,
+  "cook": 25,
+  "mins": 50,
+  "ingredients": [
+    "¼ cup (30 g) ragi flour",
+    "¼ cup (25 g) besan",
+    "2 tbsp rice flour",
+    "1 tsp oil",
+    "½ tsp each cumin seeds and ajwain",
+    "¼ tsp chilli powder and pinch of hing",
+    "Salt",
+    "Warm water as needed"
+  ],
+  "steps": [
+    "Mix all the dry ingredients and oil, then add enough warm water to make a smooth, soft dough.",
+    "Fill a murukku press (or a piping bag with a star nozzle) with the dough.",
+    "Press into small coils or spirals on a lined baking tray.",
+    "Bake at 180°C for 22–25 minutes, turning the tray once, until crisp and lightly browned.",
+    "Cool completely; they crisp as they cool."
+  ],
+  "note": "A baked version of the South Indian snack, traditionally made with butter and deep-fried; the besan boosts the protein.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chakli Recipe (Instant & Easy)",
+      "url": "https://www.vegrecipesofindia.com/chakli-recipe-instant-chakli-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Murukku Recipe",
+      "url": "https://www.vegrecipesofindia.com/murukku-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Thenkuzhal Murukku Recipe",
+      "url": "https://hebbarskitchen.com/thenkuzhal-murukku-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

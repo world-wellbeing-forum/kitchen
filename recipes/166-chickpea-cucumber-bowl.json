@@ -1,0 +1,46 @@
+{
+  "id": 166,
+  "name": "Chickpea Cucumber Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 280,
+  "carbs": 36,
+  "fiber": 11,
+  "fat": 8,
+  "prep": 15,
+  "cook": 0,
+  "mins": 15,
+  "ingredients": [
+    "1½ cups cooked chickpeas",
+    "1 large cucumber, diced",
+    "2 tomatoes, diced",
+    "½ red onion, finely chopped",
+    "100 g firm tofu, cubed and pan-toasted",
+    "¼ cup chopped mint and coriander",
+    "Dressing: 2 tsp olive oil, juice of 1 lemon, ½ tsp roasted cumin powder, black salt, black pepper",
+    "1 green chilli, minced (optional)"
+  ],
+  "steps": [
+    "Pan-toast the tofu in a dry non-stick pan for 5 minutes until lightly golden; cool.",
+    "Whisk the dressing in a large bowl.",
+    "Add the chickpeas, cucumber, tomato, onion, chilli and herbs.",
+    "Toss with the dressing and tofu.",
+    "Rest for 10 minutes so the flavours mix, then serve."
+  ],
+  "note": "A no-cook, high-fibre salad; the chickpeas and tofu make it a full meal.",
+  "methodLabel": "No-cook method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chickpea Salad",
+      "url": "https://www.vegrecipesofindia.com/chickpea-salad/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 258,
+  "name": "Microwave Paneer Bhurji",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 24,
+  "cal": 235,
+  "carbs": 8,
+  "fiber": 2,
+  "fat": 12,
+  "prep": 10,
+  "cook": 8,
+  "mins": 18,
+  "ingredients": [
+    "150 g low-fat paneer, crumbled",
+    "1 small onion and 1 tomato, finely chopped",
+    "1 green chilli, minced",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric, ½ tsp coriander powder, ½ tsp garam masala",
+    "Salt, lemon and coriander"
+  ],
+  "steps": [
+    "In a bowl, microwave the oil, cumin, onion and chilli covered for 2 minutes.",
+    "Add the tomato and spices and microwave for 2 minutes.",
+    "Add the paneer and salt, stir, and microwave for 2 minutes. Stir once halfway.",
+    "Finish with lemon juice and coriander.",
+    "Serve with roti or toast."
+  ],
+  "note": "Do not overcook paneer in the microwave or it turns rubbery.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Paneer Bhurji",
+      "url": "https://www.vegrecipesofindia.com/palak-paneer-bhurji-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Bhurji Sandwich Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-bhurji-sandwich-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Amritsari Paneer Bhurji Recipe",
+      "url": "https://hebbarskitchen.com/amritsari-paneer-bhurji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Easy Dry Paneer Bhurji Recipe",
+      "url": "https://hebbarskitchen.com/easy-dry-paneer-bhurji-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

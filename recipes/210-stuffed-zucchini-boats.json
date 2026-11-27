@@ -1,0 +1,39 @@
+{
+  "id": 210,
+  "name": "Stuffed Zucchini Boats",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 250,
+  "carbs": 28,
+  "fiber": 10,
+  "fat": 7,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "2 large zucchini, halved lengthways and scooped",
+    "½ cup cooked brown lentils",
+    "100 g firm tofu, crumbled",
+    "1 small onion and 1 tomato, finely chopped",
+    "2 garlic cloves, minced",
+    "1 tsp olive oil",
+    "1 tsp cumin and ½ tsp paprika",
+    "2 tbsp chopped parsley",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Heat the oven to 200°C. Roast the hollowed zucchini halves for 10 minutes.",
+    "Chop the scooped flesh. Heat the oil and cook the onion, garlic and zucchini flesh for 5 minutes.",
+    "Add the tomato, spices, lentils and tofu and cook for 5 minutes. Season.",
+    "Fill the zucchini boats.",
+    "Bake for 20 minutes until tender and lightly golden. Finish with parsley."
+  ],
+  "note": "Low in carbohydrate with 19 g protein from lentils and tofu.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": 266,
+  "name": "Thai Basil Tofu",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 235,
+  "carbs": 12,
+  "fiber": 4,
+  "fat": 11,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "1 cup green beans, cut in 3 cm pieces",
+    "1 red bell pepper, sliced",
+    "4 garlic cloves and 2 red chillies, pounded or minced",
+    "1 cup Thai holy basil or sweet basil leaves",
+    "1 tsp oil",
+    "1½ tbsp soy sauce",
+    "1 tsp lime juice",
+    "Pinch of white pepper"
+  ],
+  "steps": [
+    "Sear the tofu in a non-stick pan with half the oil for 6 minutes until golden; set aside.",
+    "Heat the remaining oil on high and stir-fry the garlic and chillies for 20 seconds.",
+    "Add the beans and pepper and stir-fry for 3 minutes.",
+    "Return the tofu, add the soy sauce and 2 tbsp water, and toss for 2 minutes.",
+    "Off the heat, fold in the basil and lime juice."
+  ],
+  "note": "Fast and fiery; serve with a small portion of brown rice or on its own.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Phat kaphrao",
+      "url": "https://en.wikipedia.org/wiki/Phat_kaphrao",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

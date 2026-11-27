@@ -1,0 +1,46 @@
+{
+  "id": 262,
+  "name": "Microwave Millet Moong Porridge",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 265,
+  "carbs": 44,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "⅓ cup barnyard or little millet, rinsed",
+    "¼ cup split moong dal, rinsed",
+    "½ cup chopped vegetables (carrot, peas)",
+    "1 tsp oil",
+    "½ tsp cumin seeds and 1 tsp grated ginger",
+    "¼ tsp turmeric",
+    "2½ cups hot water",
+    "Salt, pepper and coriander"
+  ],
+  "steps": [
+    "In a large bowl, microwave the oil, cumin and ginger for 1 minute.",
+    "Add the millet, moong dal, vegetables, turmeric, salt and hot water.",
+    "Cover loosely and microwave on high for 6 minutes, then at 50% for 12 minutes, stirring once.",
+    "Stand covered for 5 minutes until thick and porridge-like.",
+    "Finish with pepper and coriander."
+  ],
+  "note": "A savoury, easily digested porridge that suits breakfast or a light dinner.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "cookpad.com",
+      "title": "Sprouted Ragi/Finger Millet Flour And Moong Dosas Recipe by ZMA - Cookpad",
+      "url": "https://cookpad.com/eng/recipes/24077386",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

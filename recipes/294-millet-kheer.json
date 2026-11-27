@@ -1,0 +1,50 @@
+{
+  "id": 294,
+  "name": "Millet Kheer",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 255,
+  "carbs": 40,
+  "fiber": 4,
+  "fat": 5,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "¼ cup little millet or foxtail millet, rinsed",
+    "2 cups unsweetened soy milk",
+    "½ ripe banana, mashed",
+    "¼ tsp cardamom powder",
+    "A pinch of saffron",
+    "1 tbsp unsweetened desiccated coconut"
+  ],
+  "steps": [
+    "Simmer the millet in 1 cup water for 15 minutes until soft.",
+    "Add the soy milk and cook on low for 12 minutes, stirring often, until creamy.",
+    "Stir in the mashed banana, cardamom and saffron and cook for 3 minutes.",
+    "Serve warm or chilled with coconut."
+  ],
+  "note": "No sugar is added; the banana gives gentle sweetness. Chilled kheer thickens, so thin with soy milk.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Kheer | Ragi Pudding",
+      "url": "https://www.vegrecipesofindia.com/ragi-kheer-recipe-nachni-kheer/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Elaneer Payasam",
+      "url": "https://www.vegrecipesofindia.com/elaneer-payasam/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

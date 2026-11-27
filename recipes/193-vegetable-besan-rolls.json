@@ -1,0 +1,52 @@
+{
+  "id": 193,
+  "name": "Vegetable Besan Rolls",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 240,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "Batter: ½ cup (50 g) besan, ¼ tsp turmeric, ½ tsp ajwain, salt, ¾ cup water",
+    "Filling: 150 g firm tofu, crumbled",
+    "½ cup shredded cabbage and 1 carrot, grated",
+    "1 small onion, finely chopped",
+    "1 tsp oil",
+    "½ tsp cumin and ½ tsp chaat masala",
+    "Mint chutney and lemon juice"
+  ],
+  "steps": [
+    "Whisk the batter ingredients into a smooth, thin batter.",
+    "Heat a non-stick pan and make 4 thin chillas, cooking each for 2 minutes per side. Keep warm.",
+    "Heat the oil, add cumin and onion and cook for 3 minutes. Add the tofu, cabbage, carrot, chaat masala and salt; cook 4 minutes.",
+    "Spread chutney on each chilla, add the filling and a squeeze of lemon.",
+    "Roll up tightly and serve."
+  ],
+  "note": "The chilla is both wrap and protein source; the tofu filling lifts the total protein to about 19 g.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Besan Cheela Recipe Besan Chilla",
+      "url": "https://www.vegrecipesofindia.com/besan-cheela-recipe-besan-chilla/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Besan Chilla Recipe Besan Ka Cheela",
+      "url": "https://hebbarskitchen.com/besan-chilla-recipe-besan-ka-cheela/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "not-fetched: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

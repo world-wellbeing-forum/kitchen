@@ -1,0 +1,39 @@
+{
+  "id": 80,
+  "name": "Cauliflower Pepper Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 170,
+  "carbs": 24,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "350 g cauliflower florets",
+    "½ cup cooked white beans",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp oil",
+    "3 cups vegetable stock",
+    "1 bay leaf",
+    "½ tsp crushed black pepper",
+    "¼ cup unsweetened soy milk",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion and garlic for 4 minutes.",
+    "Add the cauliflower, beans, stock, bay leaf and pepper.",
+    "Simmer covered for 15 minutes until the cauliflower is very soft. Remove the bay leaf.",
+    "Blend until smooth, then stir in the soy milk.",
+    "Reheat gently and season with salt and extra pepper."
+  ],
+  "note": "Peppery and creamy with only about 4 g of fat per bowl.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

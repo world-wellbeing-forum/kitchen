@@ -1,0 +1,55 @@
+{
+  "id": 205,
+  "name": "Baked Spinach Corn Cutlets",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 220,
+  "carbs": 34,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 20,
+  "cook": 25,
+  "mins": 45,
+  "ingredients": [
+    "150 g spinach, blanched and finely chopped",
+    "½ cup sweet corn kernels, coarsely crushed",
+    "1 small boiled potato, mashed",
+    "¼ cup cooked chickpeas, mashed",
+    "¼ cup besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each garam masala and cumin",
+    "1 tsp oil for brushing",
+    "Salt"
+  ],
+  "steps": [
+    "Squeeze the spinach very dry.",
+    "Mix everything except the oil into a firm dough and shape into 8 cutlets.",
+    "Place on a lined tray and brush with oil.",
+    "Bake at 200°C for 25 minutes, turning once, until golden.",
+    "Serve with mint chutney."
+  ],
+  "note": "Squeezing the spinach thoroughly is the key to cutlets that hold together.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Spinach Corn Sandwich Recipe",
+      "url": "https://hebbarskitchen.com/spinach-corn-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Palak Corn Recipe Spinach Corn Curry",
+      "url": "https://www.vegrecipesofindia.com/palak-corn-recipe-spinach-corn-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

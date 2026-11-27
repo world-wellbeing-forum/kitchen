@@ -2,11 +2,15 @@
   "id": 21,
   "name": "UP Rajma Masala",
   "category": "Dal & Beans",
+  "servings": 2,
+  "vegan": true,
   "protein": 13,
   "cal": 225,
   "carbs": 35,
   "fiber": 9,
   "fat": 5,
+  "prep": 16,
+  "cook": 29,
   "mins": 45,
   "ingredients": [
     "1½ cups cooked rajma",
@@ -21,19 +25,32 @@
     "Add rajma and cooking liquid; simmer 15 minutes."
   ],
   "note": "Pair with a measured portion of brown basmati rice and vegetables.",
-  "image": "/assets/images/recipes/021.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
+      "title": "Rajma Kebab",
+      "url": "https://www.vegrecipesofindia.com/rajma-kebab-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
       "title": "Rajma Recipe | Rajma Masala (Restaurant Style)",
-      "url": "https://www.vegrecipesofindia.com/rajma-recipe-rajma-masala/",
-      "note": "Kidney-bean soaking, pressure-cooking and gravy consistency as a baseline; our UP home-style seasoning is distinct.",
-      "referenceType": "culinary-inspiration"
+      "url": "https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ರಾಜ್ಮಾ ಪಾಕವಿಧಾನ | rajma in kannada | ರಾಜ್ಮಾ ಮಸಾಲಾ | ರಾಜ್ಮಾ ಕರಿ",
+      "url": "https://hebbarskitchen.com/rajma-recipe-punjabi-rajma-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

@@ -1,0 +1,40 @@
+{
+  "id": 218,
+  "name": "Broccoli Tofu Casserole",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 28,
+  "cal": 315,
+  "carbs": 24,
+  "fiber": 8,
+  "fat": 12,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "300 g broccoli florets",
+    "250 g firm tofu, cubed",
+    "1 cup unsweetened soy milk",
+    "1 tbsp cornflour",
+    "1 garlic clove and 1 tsp mustard",
+    "2 tbsp nutritional yeast",
+    "2 tbsp whole-wheat breadcrumbs",
+    "1 tsp olive oil",
+    "½ tsp black pepper and ¼ tsp turmeric",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oven to 190°C. Steam the broccoli for 4 minutes.",
+    "Whisk the soy milk, cornflour, garlic, mustard, nutritional yeast, turmeric and seasoning in a pan and heat for 4 minutes until thick.",
+    "Place the broccoli and tofu in a baking dish and pour over the sauce.",
+    "Mix the breadcrumbs with the oil and sprinkle on top.",
+    "Bake for 25 minutes until golden and bubbling."
+  ],
+  "note": "Nearly 30 g protein per serving with no cheese or cream.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

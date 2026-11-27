@@ -1,0 +1,71 @@
+{
+  "id": 261,
+  "name": "Microwave Tomato Rice with Tofu",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 280,
+  "carbs": 42,
+  "fiber": 5,
+  "fat": 6,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "⅓ cup basmati rice, rinsed and soaked 15 minutes",
+    "100 g firm tofu, crumbled",
+    "2 tomatoes and 1 small onion, chopped",
+    "1 tsp oil",
+    "½ tsp mustard seeds, 6 curry leaves, 1 green chilli",
+    "1 tsp ginger-garlic paste",
+    "½ tsp sambar or chilli powder and ¼ tsp turmeric",
+    "¾ cup hot water",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "In a large bowl, microwave the oil, mustard seeds, curry leaves and chilli for 1 minute.",
+    "Add the onion, ginger-garlic paste, tomatoes and spices; cover and microwave for 4 minutes until mushy.",
+    "Add the drained rice, tofu, water and salt. Stir.",
+    "Cover and microwave on high for 5 minutes, then at 50% for 8 minutes.",
+    "Stand 5 minutes, fluff and add coriander."
+  ],
+  "note": "Crumbled tofu adds protein; a small rice portion keeps the carbohydrate moderate.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tomato Rice Recipe",
+      "url": "https://www.vegrecipesofindia.com/tomato-rice-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tomato Rice Recipe Easy Tomato Rice",
+      "url": "https://www.vegrecipesofindia.com/tomato-rice-recipe-easy-tomato-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Tomato Chitranna Recipe Tomato Rice",
+      "url": "https://hebbarskitchen.com/tomato-chitranna-recipe-tomato-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Tomato Rice Recipe Thakali Rice",
+      "url": "https://hebbarskitchen.com/tomato-rice-recipe-thakali-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

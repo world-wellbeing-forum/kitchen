@@ -1,0 +1,49 @@
+{
+  "id": 81,
+  "name": "Lauki Moong Broth",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 220,
+  "carbs": 27,
+  "fiber": 7,
+  "fat": 6,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "300 g lauki (bottle gourd), peeled and cubed",
+    "¼ cup (50 g) split moong dal, rinsed",
+    "1 tomato, chopped",
+    "2.5 cm ginger, grated",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "4 cups water",
+    "Salt and chopped coriander",
+    "100 g firm tofu, cubed"
+  ],
+  "steps": [
+    "Simmer the moong with turmeric and water for 10 minutes.",
+    "Add the lauki and cook for 10 minutes until both are soft.",
+    "In a small pan, heat the oil, crackle the cumin, then add ginger and tomato and cook for 3 minutes.",
+    "Mash the dal and lauki lightly, stir in the tomato tempering and salt.",
+    "Add the tofu cubes for the last 3 minutes.",
+    "Simmer for 3 minutes and serve with coriander."
+  ],
+  "note": "A very light, easily digested broth; suitable as a first meal after fasting or illness.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bottle Gourd Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/bottle-gourd-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

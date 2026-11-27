@@ -1,0 +1,45 @@
+{
+  "id": 123,
+  "name": "Paneer Tikka Bowl",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 24,
+  "cal": 355,
+  "carbs": 38,
+  "fiber": 6,
+  "fat": 12,
+  "prep": 20,
+  "cook": 18,
+  "mins": 38,
+  "ingredients": [
+    "120 g low-fat paneer, cubed",
+    "2 tbsp thick low-fat yogurt",
+    "1 tsp tikka masala and 1 tsp ginger-garlic paste",
+    "½ cup cooked brown rice",
+    "½ cucumber, 1 tomato and ½ onion, diced",
+    "Mint chutney: ¼ cup mint, ¼ cup coriander, 1 green chilli, lemon juice, 2 tbsp water",
+    "1 tsp oil",
+    "Lemon wedges and salt"
+  ],
+  "steps": [
+    "Marinate the paneer in the yogurt, tikka masala, ginger-garlic paste and salt for 20 minutes.",
+    "Roast at 220°C or cook in a non-stick pan with the oil for 8–10 minutes until browned.",
+    "Blend the chutney ingredients with salt.",
+    "Divide the brown rice between two bowls and top with the cucumber, tomato and onion.",
+    "Add the paneer, drizzle with chutney and serve with lemon."
+  ],
+  "note": "A balanced bowl: protein, whole grain and raw vegetables.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Tikka",
+      "url": "https://en.wikipedia.org/wiki/Tikka",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

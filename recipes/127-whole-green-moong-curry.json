@@ -1,0 +1,69 @@
+{
+  "id": 127,
+  "name": "Whole Green Moong Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 235,
+  "carbs": 36,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) whole green moong, soaked 4 hours",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder, ¼ tsp turmeric, ½ tsp garam masala",
+    "1 green chilli",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the moong with 1½ cups water for 3 whistles, or simmer for 30 minutes, until soft.",
+    "Heat the oil, crackle the cumin, and cook the onion, ginger, garlic and chilli for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes until pulpy.",
+    "Add the moong with its liquid and simmer for 8 minutes.",
+    "Finish with garam masala and coriander."
+  ],
+  "note": "Whole moong keeps its skin, so it carries more fibre than split moong.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Dhokla | Green Gram Dhokla",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-dhokla-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Green Moong Dal (Green Gram Curry)",
+      "url": "https://www.vegrecipesofindia.com/whole-green-moong-dal-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "healthyindi.wordpress.com",
+      "title": "Green Peas Moong Dal Chilla – A Simple Indian Breakfast – Healthy Indian Kitchen",
+      "url": "https://healthyindi.wordpress.com/2026/11/19/green-peas-moong-dal-chilla/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Green Moong Sprouts Dosa Recipe",
+      "url": "https://hebbarskitchen.com/green-moong-sprouts-dosa-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

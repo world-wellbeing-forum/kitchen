@@ -1,0 +1,36 @@
+{
+  "id": 172,
+  "name": "Grilled Paneer Grain Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": false,
+  "protein": 23,
+  "cal": 350,
+  "carbs": 38,
+  "fiber": 8,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "100 g low-fat paneer, in slabs",
+    "½ cup cooked brown rice or barley",
+    "½ small zucchini and ½ capsicum, sliced",
+    "1 cup mixed salad leaves",
+    "1 tsp olive oil",
+    "Marinade: 1 tsp lemon juice, ½ tsp each chilli flakes and oregano",
+    "Mint dressing: 3 tbsp low-fat yogurt, 2 tbsp mint, lemon, salt"
+  ],
+  "steps": [
+    "Marinate the paneer with the lemon juice, chilli flakes, oregano and a pinch of salt for 10 minutes.",
+    "Brush the zucchini and capsicum with the oil and grill in a hot pan for 3 minutes per side; grill the paneer for 2–3 minutes per side.",
+    "Blend the mint dressing ingredients.",
+    "Divide the rice and salad leaves between two bowls.",
+    "Top with the grilled paneer and vegetables and drizzle with the dressing."
+  ],
+  "note": "A balanced plate: about a quarter protein, a quarter grain and half non-starchy vegetables.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": 105,
+  "name": "Gujarati Undhiyu",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 285,
+  "carbs": 42,
+  "fiber": 11,
+  "fat": 8,
+  "prep": 30,
+  "cook": 40,
+  "mins": 70,
+  "ingredients": [
+    "1 small potato and 1 raw banana, cubed",
+    "4 baby brinjals, slit",
+    "1 cup surti papdi or green beans",
+    "¼ cup (30 g) besan and ¼ cup chopped methi, for muthia",
+    "2 tbsp desiccated coconut",
+    "2 tbsp chopped coriander, 2 green chillies, 1 tsp ginger and 3 garlic cloves, ground for the green masala",
+    "2 tsp oil",
+    "½ tsp each ajwain, cumin and turmeric",
+    "1 tsp lemon juice",
+    "Salt"
+  ],
+  "steps": [
+    "Mix besan, methi, a pinch of turmeric, ajwain and salt with a little water into a dough. Shape into small rolls and bake at 200°C for 15 minutes.",
+    "Mix the coconut with the ground green masala, lemon and salt. Stuff the brinjals with some of it.",
+    "Heat the oil in a heavy pot, crackle the cumin, and add the potato, sweet potato, banana, papdi and the remaining masala with ¼ cup water.",
+    "Place the stuffed brinjals on top, cover tightly and cook on low heat for 25 minutes without stirring.",
+    "Add the baked muthia for the last 5 minutes. Serve warm."
+  ],
+  "note": "A winter Surti speciality. Traditionally deep-fried muthia are baked here to cut fat.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Undhiyu Recipe Gujarati Undhiyu Recipe",
+      "url": "https://www.vegrecipesofindia.com/undhiyu-recipe-gujarati-undhiyu-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

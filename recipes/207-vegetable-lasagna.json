@@ -1,0 +1,48 @@
+{
+  "id": 207,
+  "name": "Vegetable Lasagna",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 24,
+  "cal": 335,
+  "carbs": 42,
+  "fiber": 9,
+  "fat": 8,
+  "prep": 30,
+  "cook": 40,
+  "mins": 70,
+  "ingredients": [
+    "4 whole-wheat lasagna sheets (about 50 g)",
+    "200 g firm tofu, crumbled",
+    "½ cup baby spinach",
+    "1 small zucchini and 1 carrot, grated",
+    "1½ cups tomato passata",
+    "2 garlic cloves and ½ onion, minced",
+    "1 tsp olive oil",
+    "1 tbsp lemon juice and 1 tbsp nutritional yeast",
+    "1 tsp dried Italian herbs",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Mix the tofu with the lemon juice, nutritional yeast, half the herbs, spinach, salt and pepper to make a ricotta-style filling.",
+    "Heat the oil and cook the onion and garlic for 4 minutes. Add the zucchini, carrot, passata and remaining herbs and simmer for 10 minutes.",
+    "Spread a little sauce in a small baking dish. Layer a lasagna sheet, sauce and tofu filling; repeat to make 4 layers, ending with sauce.",
+    "Cover with foil and bake at 190°C for 25 minutes.",
+    "Uncover and bake for 10 minutes more. Rest for 10 minutes before cutting."
+  ],
+  "note": "A vegan lasagna with a tofu ricotta; whole-wheat sheets add fibre.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Lasagna",
+      "url": "https://en.wikipedia.org/wiki/Lasagna",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

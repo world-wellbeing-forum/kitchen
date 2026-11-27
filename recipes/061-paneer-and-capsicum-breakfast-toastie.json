@@ -1,0 +1,61 @@
+{
+  "id": 61,
+  "name": "Paneer and Capsicum Breakfast Toastie",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": false,
+  "protein": 22,
+  "cal": 350,
+  "carbs": 34,
+  "fiber": 6,
+  "fat": 13,
+  "prep": 7,
+  "cook": 8,
+  "mins": 15,
+  "ingredients": [
+    "4 small whole-grain bread slices",
+    "120 g low-fat paneer, crumbled",
+    "¼ red capsicum, finely diced",
+    "2 tbsp chopped onion",
+    "¼ tsp cumin powder",
+    "¼ tsp chilli flakes",
+    "1 tbsp coriander chutney (egg-free)",
+    "1 tsp oil for pan"
+  ],
+  "steps": [
+    "Mix paneer, capsicum, onion, cumin, chilli and coriander chutney.",
+    "Spread filling over two bread slices and close with the remaining slices.",
+    "Heat a non-stick skillet or sandwich press; brush the outside lightly with oil.",
+    "Toast over medium-low heat, pressing gently, until crisp and the filling is hot.",
+    "Cut in half and serve immediately."
+  ],
+  "note": "Vegetarian, not vegan. Check bread and chutney labels for egg-free ingredients.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Bhurji Sandwich",
+      "url": "https://www.vegrecipesofindia.com/paneer-bhurji-sandwich-recipe/",
+      "note": "Reference for paneer bhurji sandwich filling; our capsicum toastie is adapted.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Sandwich Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "paneer sandwich recipe | how to make grilled paneer sandwich recipe",
+      "url": "https://hebbarskitchen.com/grilled-paneer-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

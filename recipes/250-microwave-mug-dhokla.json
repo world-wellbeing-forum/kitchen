@@ -1,0 +1,70 @@
+{
+  "id": 250,
+  "name": "Microwave Mug Dhokla",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 175,
+  "carbs": 22,
+  "fiber": 5,
+  "fat": 4,
+  "prep": 10,
+  "cook": 5,
+  "mins": 15,
+  "ingredients": [
+    "8 tbsp besan, sifted (4 tbsp per mug)",
+    "4 tbsp plain unsweetened soy yogurt",
+    "4 tbsp water",
+    "½ tsp ginger-green chilli paste",
+    "¼ tsp turmeric",
+    "½ tsp fruit salt (Eno) or ¼ tsp baking soda",
+    "Tempering: 1 tsp oil, ½ tsp mustard seeds, 4 curry leaves",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Whisk the besan, yogurt, water, paste, turmeric and salt in a bowl until smooth. Rest for 5 minutes.",
+    "Grease two large mugs. Add half the fruit salt to the batter, mix quickly and divide between the mugs (fill to half).",
+    "Microwave each mug on high for 1½–2 minutes until a skewer comes out clean.",
+    "Microwave the oil, mustard seeds and curry leaves in a small bowl for 40 seconds and pour over the dhokla.",
+    "Garnish with coriander."
+  ],
+  "note": "A quick, single-serving protein snack; do not fill the mugs more than halfway as the batter rises.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "White Dhokla | Khatta Dhokla",
+      "url": "https://www.vegrecipesofindia.com/khatta-dhokla-recipe-white-dhokla/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Dhokla | Green Gram Dhokla",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-dhokla-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "dhokla in microwave | instant dhokla recipe | microwave gujarati dhokla",
+      "url": "https://hebbarskitchen.com/dhokla-microwave-instant-dhokla-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ढोकला रेसिपी | dhokla in hindi | खमन ढोकला | इंस्टेंट खमन ढोकला कैसे बनाएं",
+      "url": "https://hebbarskitchen.com/instant-khaman-dhokla-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

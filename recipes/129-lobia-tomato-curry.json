@@ -1,0 +1,69 @@
+{
+  "id": 129,
+  "name": "Lobia Tomato Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 240,
+  "carbs": 38,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) black-eyed peas (lobia), soaked 6 hours",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ¼ tsp turmeric and ½ tsp chilli powder",
+    "½ tsp garam masala",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the lobia with 1½ cups water for 3 whistles until tender.",
+    "Heat the oil, crackle the cumin, and cook the onion, ginger and garlic for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes.",
+    "Add the lobia with its liquid and simmer for 10 minutes, mashing a few beans to thicken.",
+    "Finish with garam masala and coriander."
+  ],
+  "note": "Black-eyed peas cook faster than most beans and need only a short soak.",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Alasanda Vada Recipe Black Eyed Peas",
+      "url": "https://hebbarskitchen.com/alasanda-vada-recipe-black-eyed-peas/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chawli Usal",
+      "url": "https://www.vegrecipesofindia.com/chawli-usal/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Lobia Recipe Punjabi Lobia",
+      "url": "https://www.vegrecipesofindia.com/lobia-recipe-punjabi-lobia/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Lobia Recipe Lobia Masla Rongi Recipe",
+      "url": "https://hebbarskitchen.com/lobia-recipe-lobia-masla-rongi-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

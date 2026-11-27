@@ -2,14 +2,16 @@
   "id": 27,
   "name": "Besan Vegetable Cheela",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 16,
   "cal": 275,
   "carbs": 31,
   "fiber": 7,
   "fat": 9,
-  "mins": 25,
   "prep": 10,
   "cook": 15,
+  "mins": 25,
   "ingredients": [
     "¾ cup besan (chickpea flour)",
     "½ cup water, approximately",
@@ -31,26 +33,40 @@
     "Cook the second cheela. Serve with mint-coriander chutney; avoid adding sugary sauces."
   ],
   "note": "Use a well-heated non-stick pan and spread the batter evenly for a tender centre and crisp edges.",
-  "vegan": true,
-  "image": "/assets/images/recipes/027.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [
-    [
-      "Tadke Bina Zaika – FSSAI",
-      "https://www.fssai.gov.in/upload/knowledge_hub/9582262a819e8764cdBook_Tadke_bina_Zaika_14_06_2022.pdf",
-      "Official cookbook reference for besan-based cheela; our vegetable quantities and method are adapted."
-    ]
-  ],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Besan Chilla Recipe (Besan ka Cheela)",
       "url": "https://www.vegrecipesofindia.com/besan-cheela-recipe-besan-chilla/",
       "note": "North Indian gram-flour pancake batter and tawa technique; the vegetable-rich formulation is our own.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "ministryofoats.com",
+      "title": "Oats Chilla Recipe (Oats Besan Cheela) · Ministry of Oats",
+      "url": "https://www.ministryofoats.com/recipes/oats-chilla",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "jeyashriskitchen.com",
+      "title": "Besan cheela recipe | Besan ka cheela - Jeyashri&#39;s Kitchen",
+      "url": "https://www.jeyashriskitchen.com/besan-cheela-recipe-besan-ka-cheela/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Swasthi's Recipes",
+      "title": "Besan Chilla Recipe (Cheela) - Swasthi's Recipes",
+      "url": "https://www.indianhealthyrecipes.com/cheela-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

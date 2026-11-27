@@ -1,0 +1,49 @@
+{
+  "id": 159,
+  "name": "Buckwheat Khichdi",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 255,
+  "carbs": 39,
+  "fiber": 7,
+  "fat": 5,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "⅓ cup whole buckwheat groats, rinsed",
+    "¼ cup split moong dal, rinsed",
+    "1 cup vegetables (carrot, peas, zucchini)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp ginger and 1 green chilli, minced",
+    "¼ tsp turmeric",
+    "2½ cups water",
+    "Salt and black pepper",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and add ginger and chilli.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the buckwheat, moong dal, vegetables, turmeric and salt.",
+    "Add the water and simmer covered for 20 minutes, stirring occasionally, until soft.",
+    "Mash lightly.",
+    "Finish with pepper."
+  ],
+  "note": "Buckwheat is not related to wheat and is gluten-free.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Buckwheat Khichdi Recipe Kuttu Ki Khichdi",
+      "url": "https://www.vegrecipesofindia.com/buckwheat-khichdi-recipe-kuttu-ki-khichdi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

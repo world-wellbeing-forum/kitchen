@@ -1,0 +1,48 @@
+{
+  "id": 213,
+  "name": "Vegetable Moussaka",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 330,
+  "carbs": 44,
+  "fiber": 14,
+  "fat": 8,
+  "prep": 30,
+  "cook": 50,
+  "mins": 80,
+  "ingredients": [
+    "1 large eggplant, sliced in 1 cm rounds",
+    "1 small potato, thinly sliced",
+    "½ cup (100 g) brown lentils, cooked",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 cup tomato passata",
+    "1 tsp olive oil",
+    "1 tsp cinnamon and 1 tsp oregano",
+    "Topping: 150 g silken tofu blended with ½ cup unsweetened soy milk, 1 tsp cornflour, nutmeg, salt",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Roast the eggplant and potato slices on a tray at 200°C for 20 minutes until soft and lightly golden.",
+    "Heat the oil and cook the onion and garlic for 5 minutes. Add the lentils, passata, cinnamon and oregano and simmer for 10 minutes.",
+    "Layer the eggplant, potato and lentil sauce in a baking dish.",
+    "Blend the topping ingredients and heat in a pan until thickened, 3 minutes; pour over the top.",
+    "Bake at 190°C for 25 minutes until set and golden."
+  ],
+  "note": "A Greek-style bake with a lentil ragu and a dairy-free tofu topping instead of béchamel.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Moussaka",
+      "url": "https://en.wikipedia.org/wiki/Moussaka",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 48,
+  "name": "Soya Keema Breakfast Lettuce-Free Wrap",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 27,
+  "cal": 330,
+  "carbs": 34,
+  "fiber": 8,
+  "fat": 9,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "35 g dry soy granules",
+    "2 small whole-wheat rotis",
+    "½ cup finely diced capsicum",
+    "¼ cup chopped onion",
+    "½ tomato, chopped",
+    "1 tsp oil",
+    "¼ tsp cumin seeds",
+    "½ tsp coriander powder",
+    "¼ tsp garam masala",
+    "Ginger, chilli, lemon and salt"
+  ],
+  "steps": [
+    "Cover soy granules with boiling water for 8–10 minutes. Drain, rinse and squeeze firmly.",
+    "Heat oil in a skillet. Add cumin and onion; cook until softened.",
+    "Add tomato, capsicum, ginger and spices. Cook 3–4 minutes.",
+    "Stir in soy granules with 2 tbsp water. Cook 5 minutes until flavours combine and mixture is fairly dry.",
+    "Spoon into warm rotis, add lemon and coriander, then roll tightly."
+  ],
+  "note": "Contains soy and wheat. Check the soy granules label for protein content; values vary by brand.",
+  "inspirationReferences": [
+    {
+      "site": "nutribox.in",
+      "title": "55 High-Protein Indian Breakfast Recipes (Vegetarian) – Nutribox",
+      "url": "https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian",
+      "note": "Reference for soy keema as a vegetarian breakfast protein; our wrap recipe is an adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "सोया कीमा रेसिपी | soya keema in hindi | सोयाबीन कीमा | सोया चंक्स कीमा",
+      "url": "https://hebbarskitchen.com/soya-keema-recipe-soybean-keema/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Soya Keema Recipe (With Soya Granules)",
+      "url": "https://www.vegrecipesofindia.com/soya-keema/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

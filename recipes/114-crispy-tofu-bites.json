@@ -1,0 +1,37 @@
+{
+  "id": 114,
+  "name": "Crispy Tofu Bites",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 180,
+  "carbs": 10,
+  "fiber": 2,
+  "fat": 8,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "250 g extra-firm tofu, pressed and cut in bite-size cubes",
+    "1 tbsp cornflour",
+    "1 tbsp besan (gram flour)",
+    "1 tsp oil",
+    "½ tsp each garlic powder, paprika and cumin",
+    "¼ tsp turmeric",
+    "Salt and black pepper",
+    "Lemon wedges and mint chutney, to serve"
+  ],
+  "steps": [
+    "Heat the oven to 200°C and line a tray with baking paper.",
+    "Toss the tofu with the oil, cornflour, besan, spices and salt until evenly coated.",
+    "Spread in a single layer and bake for 25 minutes, turning at 15 minutes, until golden and crisp.",
+    "Serve hot with lemon and chutney."
+  ],
+  "note": "A baked, low-oil snack or protein topper for bowls.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

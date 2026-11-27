@@ -1,0 +1,13 @@
+{
+  "name": "world-wellbeing-kitchen",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate-recipes.js",
+    "build": "node scripts/build-site.js",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run validate && npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}

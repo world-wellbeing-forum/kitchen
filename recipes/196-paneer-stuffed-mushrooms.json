@@ -1,0 +1,54 @@
+{
+  "id": 196,
+  "name": "Paneer Stuffed Mushrooms",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": false,
+  "protein": 15,
+  "cal": 175,
+  "carbs": 8,
+  "fiber": 2,
+  "fat": 9,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "8 large button mushrooms, stems removed and finely chopped",
+    "80 g low-fat paneer, crumbled",
+    "½ cup spinach, finely chopped",
+    "2 garlic cloves, minced",
+    "1 tsp oil",
+    "½ tsp each black pepper, oregano and chilli flakes",
+    "2 tbsp chopped coriander",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oven to 200°C.",
+    "Heat the oil and cook the garlic and chopped mushroom stems for 3 minutes. Add the spinach and cook 2 minutes.",
+    "Mix with the paneer, spices, coriander and salt.",
+    "Fill the mushroom caps and place on a lined tray.",
+    "Bake for 15–18 minutes until the mushrooms are tender and the tops lightly golden."
+  ],
+  "note": "Low-carbohydrate and high in protein; serve with a salad for a light meal.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Stuffed Mushrooms Recipe",
+      "url": "https://www.vegrecipesofindia.com/stuffed-mushrooms-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Cheesy Stuffed Mushroom Recipe Stuffed Mushroom Recipe",
+      "url": "https://hebbarskitchen.com/cheesy-stuffed-mushroom-recipe-stuffed-mushroom-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

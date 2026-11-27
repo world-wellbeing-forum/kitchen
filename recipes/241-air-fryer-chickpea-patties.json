@@ -1,0 +1,46 @@
+{
+  "id": 241,
+  "name": "Air-Fryer Chickpea Patties",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 255,
+  "carbs": 36,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "1½ cups cooked chickpeas, coarsely mashed",
+    "¼ cup finely chopped onion and 2 tbsp coriander",
+    "2 tbsp whole-wheat breadcrumbs or oat flour",
+    "1 tbsp besan",
+    "1 garlic clove, grated",
+    "1 tsp cumin, ½ tsp coriander powder, ½ tsp paprika",
+    "1 tsp oil for brushing",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Mix everything except the oil; the mixture should hold when pressed.",
+    "Shape into 6 patties and chill for 15 minutes.",
+    "Preheat the air fryer to 190°C. Brush the patties lightly with oil.",
+    "Cook for 14 minutes, turning halfway, until golden and firm.",
+    "Serve in a whole-wheat bun or over salad."
+  ],
+  "note": "High in fibre, and a good meat-free burger alternative.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Veggie burger",
+      "url": "https://en.wikipedia.org/wiki/Veggie_burger",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 74,
+  "name": "Clear Vegetable Manchow Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 190,
+  "carbs": 15,
+  "fiber": 4,
+  "fat": 8,
+  "prep": 12,
+  "cook": 15,
+  "mins": 27,
+  "ingredients": [
+    "200 g firm tofu, small cubes",
+    "1 carrot, finely chopped",
+    "¼ cup finely chopped cabbage",
+    "¼ cup chopped green beans",
+    "4 button mushrooms, chopped",
+    "1 tbsp each minced ginger and garlic",
+    "1 green chilli, chopped",
+    "1 tsp oil",
+    "4 cups vegetable stock",
+    "1 tbsp soy sauce",
+    "1 tbsp rice or white vinegar",
+    "1 tbsp cornflour mixed with 3 tbsp water",
+    "½ tsp black pepper",
+    "2 spring onions, sliced"
+  ],
+  "steps": [
+    "Heat the oil on high and fry ginger, garlic and chilli for 30 seconds.",
+    "Add carrot, beans, cabbage and mushrooms and stir-fry for 3 minutes.",
+    "Pour in the stock and soy sauce and simmer for 8 minutes. Add the tofu.",
+    "Stir in the cornflour paste and simmer 2 minutes until the soup thickens slightly.",
+    "Finish with vinegar, pepper and spring onions. Serve at once."
+  ],
+  "note": "A lighter take on Indo-Chinese manchow: no fried noodles, extra tofu and plenty of vegetables.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Manchow Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/veg-manchow-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "manchow soup recipe | veg manchow soup | vegetable manchow recipe",
+      "url": "https://hebbarskitchen.com/veg-manchow-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

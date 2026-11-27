@@ -1,0 +1,44 @@
+{
+  "id": 287,
+  "name": "Ragi Banana Ladoo",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 8,
+  "cal": 190,
+  "carbs": 30,
+  "fiber": 5,
+  "fat": 4,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "½ cup ragi flour",
+    "2 tbsp besan",
+    "1 ripe banana, mashed",
+    "1 tsp oil",
+    "¼ tsp cardamom powder",
+    "Pinch of salt",
+    "1–2 tbsp warm unsweetened soy milk, to bind"
+  ],
+  "steps": [
+    "Dry-roast the ragi flour in a pan on low heat for 6 minutes until fragrant. Add the besan and roast for 3 minutes. Cool slightly.",
+    "Heat the oil gently and mix into the flours with the cardamom and salt.",
+    "Add the mashed banana and enough soy milk to make a dough that holds when pressed.",
+    "Shape into 6 small ladoos.",
+    "Chill for 15 minutes and store in the fridge for up to 3 days."
+  ],
+  "note": "A nut-free, sugar-free, date-free ladoo; the banana is the only sweetener. Eat 1–2 as a snack.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Laddu (Nachni Ladoo)",
+      "url": "https://www.vegrecipesofindia.com/ragi-ladoo-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

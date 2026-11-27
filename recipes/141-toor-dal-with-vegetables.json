@@ -1,0 +1,61 @@
+{
+  "id": 141,
+  "name": "Toor Dal with Vegetables",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 245,
+  "carbs": 38,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) toor dal, rinsed",
+    "1 cup mixed vegetables (carrot, drumstick, pumpkin, brinjal)",
+    "1 small onion and 1 tomato, chopped",
+    "1 tbsp tamarind pulp",
+    "1 tbsp sambar powder",
+    "¼ tsp turmeric",
+    "Tadka: 1 tsp oil, ½ tsp mustard seeds, 6 curry leaves, 1 dried chilli, pinch of hing",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the dal with turmeric and 2 cups water for 4 whistles; mash well.",
+    "Simmer the vegetables, onion, tomato, tamarind and sambar powder in 1½ cups water for 12 minutes.",
+    "Add the mashed dal and simmer for 8 minutes.",
+    "Heat the oil for the tadka, crackle the mustard, add curry leaves, chilli and hing, and pour into the sambar.",
+    "Finish with salt and coriander."
+  ],
+  "note": "A sambar-style stew with vegetables doing much of the bulk.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mullangi Sambar (Radish Sambar)",
+      "url": "https://www.vegrecipesofindia.com/radish-sambar-mullangi-sambar/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Onion Sambar (Vengaya Sambar)",
+      "url": "https://www.vegrecipesofindia.com/vengaya-sambar-recipe-onion-sambar/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dal Fry Recipe Dal Recipe Arhar Dal Fry",
+      "url": "https://hebbarskitchen.com/dal-fry-recipe-dal-recipe-arhar-dal-fry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

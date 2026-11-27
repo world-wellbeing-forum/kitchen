@@ -1,0 +1,55 @@
+{
+  "id": 118,
+  "name": "Smoky Tofu Kebabs",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 18,
+  "cal": 210,
+  "carbs": 14,
+  "fiber": 5,
+  "fat": 9,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "250 g firm tofu, grated or mashed",
+    "¼ cup cooked chickpeas, mashed",
+    "1 tbsp besan, dry-roasted",
+    "1 small onion, finely chopped",
+    "1 green chilli and 1 tsp ginger, minced",
+    "1 tsp smoked paprika",
+    "½ tsp each cumin and garam masala",
+    "2 tbsp chopped coriander",
+    "1 tsp oil for brushing",
+    "Salt"
+  ],
+  "steps": [
+    "Squeeze the tofu in a clean cloth to remove water.",
+    "Mix with the chickpeas, besan, onion, chilli, ginger, spices, coriander and salt. Rest for 10 minutes.",
+    "Shape into 8 oval kebabs.",
+    "Cook in a non-stick pan with the oil for 3–4 minutes per side until browned and firm.",
+    "Serve with mint chutney and sliced onion."
+  ],
+  "note": "Smoked paprika stands in for tandoor smokiness; chickpeas and besan bind the mixture.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rajma Kebab",
+      "url": "https://www.vegrecipesofindia.com/rajma-kebab-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Veg Kabab Recipe Veg Kebab Recipe",
+      "url": "https://hebbarskitchen.com/veg-kabab-recipe-veg-kebab-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

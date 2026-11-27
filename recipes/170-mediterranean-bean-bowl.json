@@ -1,0 +1,51 @@
+{
+  "id": 170,
+  "name": "Mediterranean Bean Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 290,
+  "carbs": 38,
+  "fiber": 13,
+  "fat": 8,
+  "prep": 15,
+  "cook": 0,
+  "mins": 15,
+  "ingredients": [
+    "1½ cups mixed cooked beans (chickpeas, white beans, kidney beans)",
+    "100 g firm tofu or 60 g low-fat feta, cubed",
+    "1 cucumber and 2 tomatoes, diced",
+    "½ red onion, thinly sliced",
+    "6 olives, sliced",
+    "¼ cup parsley and mint, chopped",
+    "Dressing: 2 tsp olive oil, juice of 1 lemon, 1 tsp dried oregano, salt, pepper"
+  ],
+  "steps": [
+    "Whisk the dressing in a large bowl.",
+    "Add the beans, cucumber, tomatoes, onion and olives.",
+    "Fold in the tofu or feta.",
+    "Add the herbs, toss, and rest for 10 minutes before serving."
+  ],
+  "note": "Using three kinds of beans gives a wider mix of fibre and amino acids; olives are salty so no extra salt is needed.",
+  "inspirationReferences": [
+    {
+      "site": "cookpad.com",
+      "title": "Sprouted Moong Beans Salad Recipe by Laxmi Deshmukh - Cookpad",
+      "url": "https://cookpad.com/eng/recipes/11588941",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "sprout salad recipe | how to make moong bean sprout salad - weight loss",
+      "url": "https://hebbarskitchen.com/sprout-salad-recipe-moong-bean-sprout/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

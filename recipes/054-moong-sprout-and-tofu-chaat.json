@@ -1,0 +1,71 @@
+{
+  "id": 54,
+  "name": "Moong Sprout and Tofu Chaat",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 280,
+  "carbs": 33,
+  "fiber": 10,
+  "fat": 8,
+  "prep": 8,
+  "cook": 10,
+  "mins": 18,
+  "ingredients": [
+    "1 cup mung bean sprouts",
+    "120 g firm tofu, cubed",
+    "½ cup diced tomato",
+    "½ cup diced cucumber",
+    "2 tbsp chopped onion",
+    "1 tsp oil",
+    "½ tsp roasted cumin powder",
+    "½ tsp chaat masala",
+    "1 tbsp lemon juice",
+    "Coriander and salt"
+  ],
+  "steps": [
+    "Steam or boil sprouts for 5–7 minutes until thoroughly hot and tender; drain well.",
+    "Pat tofu dry. Heat oil in a non-stick pan and lightly brown tofu cubes on two sides.",
+    "Combine warm sprouts, tofu, tomato, cucumber and onion in a bowl.",
+    "Season with cumin, chaat masala, lemon and salt; toss gently.",
+    "Finish with coriander and serve promptly."
+  ],
+  "note": "Cook sprouts thoroughly rather than serving raw, particularly for people at higher risk of foodborne illness.",
+  "inspirationReferences": [
+    {
+      "site": "1mg.com",
+      "title": "Protein-Rich Breakfast Recipes for Vegetarians That Take Under 15 Minutes - Tata 1mg Capsules",
+      "url": "https://www.1mg.com/articles/protein-rich-breakfast-recipes-for-vegetarians-that-take-under-15-minutes/",
+      "note": "Reference for sprouts chaat as a vegetarian breakfast; tofu is our added protein variation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "spicingyourlife.com",
+      "title": "Moong Sprouts Salad",
+      "url": "https://www.spicingyourlife.com/moong-sprouts-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "maryzkitchen.com",
+      "title": "Moong Sprouts Salad - Mary'S Kitchen",
+      "url": "https://maryzkitchen.com/moong-sprouts-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "vegetarianrecipesofindia.wordpress.com",
+      "title": "Moong Sprout salad – Vegetarian recipes of India",
+      "url": "https://vegetarianrecipesofindia.wordpress.com/2018/05/27/moong-sprout-salad/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

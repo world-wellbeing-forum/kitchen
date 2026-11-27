@@ -1,0 +1,62 @@
+{
+  "id": 256,
+  "name": "Microwave Oats Idli",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 12,
+  "cal": 210,
+  "carbs": 32,
+  "fiber": 6,
+  "fat": 4,
+  "prep": 10,
+  "cook": 10,
+  "mins": 20,
+  "ingredients": [
+    "½ cup rolled oats, dry-ground to a powder",
+    "2 tbsp whole-wheat semolina (sooji)",
+    "⅓ cup plain low-fat yogurt",
+    "1 small carrot, grated",
+    "1 tsp ginger-green chilli paste",
+    "½ tsp fruit salt (Eno)",
+    "Tempering: 1 tsp oil, ½ tsp mustard seeds, 6 curry leaves",
+    "Salt and 3–4 tbsp water"
+  ],
+  "steps": [
+    "Microwave the oil, mustard seeds and curry leaves for 40 seconds, then mix into the oats, semolina, yogurt, carrot, paste and salt. Add water to a thick batter and rest 10 minutes.",
+    "Grease microwave-safe idli moulds or small cups.",
+    "Stir the fruit salt into the batter and spoon into the moulds.",
+    "Cover and microwave on high for 3 minutes (for 4 idlis), until a skewer comes out clean.",
+    "Serve with chutney or sambar."
+  ],
+  "note": "Oats add soluble fibre; do not overmix after adding the fruit salt.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Instant Idli Recipe | Instant Idli Mix",
+      "url": "https://www.vegrecipesofindia.com/instant-idli-mix-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Instant Bread Idli Instant Idli Recipe",
+      "url": "https://hebbarskitchen.com/instant-bread-idli-instant-idli-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Instant Oats Idli Recipe",
+      "url": "https://hebbarskitchen.com/instant-oats-idli-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

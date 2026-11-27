@@ -1,0 +1,43 @@
+{
+  "id": 288,
+  "name": "Yogurt Berry Pots with Oat Crumble",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": false,
+  "protein": 22,
+  "cal": 235,
+  "carbs": 28,
+  "fiber": 5,
+  "fat": 4,
+  "prep": 10,
+  "cook": 10,
+  "mins": 20,
+  "ingredients": [
+    "1½ cups plain low-fat Greek yogurt",
+    "1 cup mixed berries (fresh or frozen)",
+    "2 tbsp rolled oats",
+    "1 tsp oil",
+    "½ tsp cinnamon",
+    "1 tbsp chia seeds",
+    "Vanilla extract, a few drops"
+  ],
+  "steps": [
+    "Toast the oats with the oil and cinnamon in a dry pan for 4 minutes until golden; cool.",
+    "Stir the vanilla and chia seeds into the yogurt.",
+    "Layer yogurt and berries in two glasses, finishing with a layer of berries.",
+    "Top with the oat crumble just before serving."
+  ],
+  "note": "Over 20 g protein with no added sugar; the berries provide the sweetness.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Parfait",
+      "url": "https://en.wikipedia.org/wiki/Parfait",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

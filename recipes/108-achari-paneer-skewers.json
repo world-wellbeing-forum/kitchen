@@ -1,0 +1,54 @@
+{
+  "id": 108,
+  "name": "Achari Paneer Skewers",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 21,
+  "cal": 235,
+  "carbs": 8,
+  "fiber": 1,
+  "fat": 13,
+  "prep": 20,
+  "cook": 15,
+  "mins": 35,
+  "ingredients": [
+    "200 g low-fat paneer, cubed",
+    "3 tbsp thick plain low-fat yogurt",
+    "1 tsp mustard oil",
+    "½ tsp each fennel, nigella (kalonji), cumin and mustard seeds, coarsely crushed",
+    "¼ tsp fenugreek seeds, crushed",
+    "½ tsp chilli powder and ¼ tsp turmeric",
+    "Juice of ½ lemon",
+    "Salt",
+    "1 onion and 1 capsicum, in squares"
+  ],
+  "steps": [
+    "Mix the yogurt, mustard oil, crushed seeds, chilli, turmeric, lemon and salt. Coat the paneer and vegetables and marinate for 30 minutes.",
+    "Thread onto skewers.",
+    "Cook on a hot grill pan or in a 220°C oven for 12–15 minutes, turning, until lightly charred.",
+    "Serve hot with lemon wedges."
+  ],
+  "note": "The pickle-spice mix gives the tangy flavour of achari without any jarred oil pickle.",
+  "methodLabel": "Grill-pan or oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Achari Paneer Recipe",
+      "url": "https://www.vegrecipesofindia.com/achari-paneer-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Easy Achari Paneer Tikka Recipe Tawa",
+      "url": "https://hebbarskitchen.com/easy-achari-paneer-tikka-recipe-tawa/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

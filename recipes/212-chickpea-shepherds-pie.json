@@ -1,0 +1,49 @@
+{
+  "id": 212,
+  "name": "Chickpea Shepherd's Pie",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 280,
+  "carbs": 42,
+  "fiber": 13,
+  "fat": 5,
+  "prep": 25,
+  "cook": 40,
+  "mins": 65,
+  "ingredients": [
+    "1 cup cooked chickpeas, lightly crushed",
+    "200 g mushrooms, chopped",
+    "1 carrot and 1 onion, diced",
+    "½ cup green peas",
+    "1 tbsp tomato paste",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1 tsp cumin, ½ tsp paprika and 1 tsp soy sauce",
+    "1 cup vegetable stock",
+    "Topping: 200 g cauliflower and 100 g potato, boiled and mashed with 2 tbsp unsweetened soy milk",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion, carrot and mushrooms for 8 minutes. Add the garlic, spices and tomato paste.",
+    "Add the chickpeas, peas, stock and soy sauce and simmer for 10 minutes until thick.",
+    "Mash the cauliflower and potato with the soy milk, salt and pepper.",
+    "Spoon the filling into a baking dish and cover with the mash.",
+    "Bake at 200°C for 20 minutes until golden on top."
+  ],
+  "note": "Replacing most of the potato with cauliflower keeps the carbohydrate down.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Shepherd's pie",
+      "url": "https://en.wikipedia.org/wiki/Shepherd%27s_pie",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

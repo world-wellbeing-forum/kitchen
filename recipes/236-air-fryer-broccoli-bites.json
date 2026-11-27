@@ -1,0 +1,37 @@
+{
+  "id": 236,
+  "name": "Air-Fryer Broccoli Bites",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": false,
+  "protein": 14,
+  "cal": 190,
+  "carbs": 20,
+  "fiber": 7,
+  "fat": 6,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "250 g broccoli florets, steamed and finely chopped",
+    "½ cup (50 g) besan",
+    "50 g low-fat paneer, grated",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp each cumin, garam masala and turmeric",
+    "1 tsp oil",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Mix the broccoli, besan, paneer, chilli, ginger, spices and salt with 2–3 tbsp water into a thick, sticky mixture.",
+    "Shape into 10 small balls and flatten slightly.",
+    "Preheat the air fryer to 190°C and brush the bites with oil.",
+    "Cook for 12–14 minutes, turning halfway, until golden and firm.",
+    "Serve with lemon juice and chutney."
+  ],
+  "note": "Steaming and chopping the broccoli finely keeps the bites from falling apart.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

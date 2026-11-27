@@ -1,0 +1,60 @@
+{
+  "id": 234,
+  "name": "Air-Fryer Okra and Chickpea Fries",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 185,
+  "carbs": 24,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "250 g okra, washed, dried and halved lengthways",
+    "½ cup cooked chickpeas, patted dry",
+    "2 tbsp besan",
+    "1 tsp oil",
+    "½ tsp each chilli powder, cumin powder and amchur",
+    "¼ tsp turmeric",
+    "Salt, lemon juice and chaat masala"
+  ],
+  "steps": [
+    "Toss the okra and chickpeas with the oil, then with the besan and spices until lightly coated.",
+    "Preheat the air fryer to 180°C.",
+    "Cook in a single layer for 12–15 minutes, shaking at 6 minutes, until the okra is crisp and the chickpeas crunchy.",
+    "Finish with chaat masala and lemon juice."
+  ],
+  "note": "Dry okra well before cooking; the besan coating also absorbs surface moisture.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bhindi Fry",
+      "url": "https://www.vegrecipesofindia.com/bhindi-fry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bhindi Stir Fry Recipe",
+      "url": "https://www.vegrecipesofindia.com/bhindi-stir-fry-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Kurkuri Bhindi Recipe Crispy Bhindi",
+      "url": "https://hebbarskitchen.com/kurkuri-bhindi-recipe-crispy-bhindi/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

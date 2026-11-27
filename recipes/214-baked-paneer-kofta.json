@@ -1,0 +1,64 @@
+{
+  "id": 214,
+  "name": "Baked Paneer Kofta",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 20,
+  "cal": 285,
+  "carbs": 26,
+  "fiber": 4,
+  "fat": 11,
+  "prep": 25,
+  "cook": 35,
+  "mins": 60,
+  "ingredients": [
+    "120 g low-fat paneer, grated",
+    "1 small boiled potato, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp garam masala",
+    "Gravy: 2 tomatoes and 1 onion, blended",
+    "1 tsp oil",
+    "½ tsp cumin and ½ tsp coriander powder",
+    "¼ tsp turmeric",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix the paneer, potato, besan, chilli, ginger, garam masala and salt; shape into 8 small balls.",
+    "Bake at 200°C for 18 minutes, turning once, until golden.",
+    "Heat the oil, crackle the cumin, and cook the blended tomato-onion with the spices for 10 minutes.",
+    "Add 1 cup water and simmer for 6 minutes.",
+    "Add the koftas and simmer for 2 minutes. Finish with coriander."
+  ],
+  "note": "Baking replaces deep-frying the koftas; the potato binds them with less paneer.",
+  "methodLabel": "Oven and stovetop method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Malai Kofta",
+      "url": "https://www.vegrecipesofindia.com/malai-kofta/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Paneer Kofta Recipe Paneer Kofta Curry",
+      "url": "https://hebbarskitchen.com/paneer-kofta-recipe-paneer-kofta-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Malai Kofta Recipe Malai Kofta Curry",
+      "url": "https://hebbarskitchen.com/malai-kofta-recipe-malai-kofta-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

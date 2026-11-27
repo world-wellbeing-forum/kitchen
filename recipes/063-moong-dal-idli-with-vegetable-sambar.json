@@ -1,0 +1,59 @@
+{
+  "id": 63,
+  "name": "Moong Dal Idli with Vegetable Sambar",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 18,
+  "cal": 315,
+  "carbs": 48,
+  "fiber": 10,
+  "fat": 6,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "½ cup split yellow moong dal, soaked 2 hours",
+    "¼ cup idli rice, soaked 2 hours",
+    "¼ tsp fenugreek seeds",
+    "½ cup grated carrot and chopped spinach",
+    "½ tsp salt",
+    "For quick sambar: ¼ cup cooked toor dal, ½ cup mixed vegetables, 1 tsp sambar powder, tamarind water"
+  ],
+  "steps": [
+    "Drain moong, rice and fenugreek. Blend with a little water to a thick batter.",
+    "Fold in carrot, spinach and salt. Rest 10 minutes; this is an instant idli, not a fermented batter.",
+    "Grease idli moulds and fill two-thirds full. Steam 12–15 minutes until a skewer comes out clean.",
+    "For sambar, simmer cooked toor dal, vegetables, sambar powder and tamarind water until vegetables are tender.",
+    "Serve two idlis per person with a bowl of hot sambar."
+  ],
+  "note": "Protein estimate includes the sambar portion. Steam thoroughly; cooking time depends on mould size.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Soft Idli Recipe & Idli Batter Tips & Tricks",
+      "url": "https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/",
+      "note": "Reference for idli steaming and sambar pairing; this instant moong-based batter is our variation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mullangi Sambar (Radish Sambar)",
+      "url": "https://www.vegrecipesofindia.com/radish-sambar-mullangi-sambar/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "मूंग दाल इडली रेसिपी | moong dal idli in hindi | हरी चने इडली | मूंग दाल इडली",
+      "url": "https://hebbarskitchen.com/moong-dal-idli-recipe-green-gram-idli/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

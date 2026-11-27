@@ -1,0 +1,56 @@
+{
+  "id": 119,
+  "name": "Paneer Lababdar Light",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 19,
+  "cal": 240,
+  "carbs": 14,
+  "fiber": 3,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "120 g low-fat paneer, half grated and half cubed",
+    "3 tomatoes, pureed",
+    "1 onion, finely chopped",
+    "1 small capsicum, diced",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "1 green chilli, slit",
+    "½ tsp each cumin and coriander powder",
+    "1 tsp kasuri methi and ½ tsp garam masala",
+    "2 tbsp silken tofu, whisked",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook onion, garlic, ginger and chilli for 6 minutes.",
+    "Add the tomato purée and spices and cook for 8 minutes until thick.",
+    "Add the capsicum and ½ cup water and simmer for 4 minutes.",
+    "Stir in the grated paneer and silken tofu to thicken the gravy.",
+    "Add the paneer cubes, kasuri methi and garam masala; simmer for 3 minutes."
+  ],
+  "note": "Grated paneer thickens the gravy so no cream is needed.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Lababdar Recipe Restaurant Style",
+      "url": "https://www.vegrecipesofindia.com/paneer-lababdar-recipe-restaurant-style/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Restaurant Style Paneer Lababdar Recipe",
+      "url": "https://hebbarskitchen.com/restaurant-style-paneer-lababdar-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

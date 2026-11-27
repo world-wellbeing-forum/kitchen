@@ -2,14 +2,16 @@
   "id": 26,
   "name": "Moong Dal Chilla",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 18,
-  "cal": 285,
+  "cal": 270,
   "carbs": 34,
   "fiber": 8,
   "fat": 7,
-  "mins": 35,
   "prep": 20,
   "cook": 15,
+  "mins": 35,
   "ingredients": [
     "¾ cup split yellow moong dal, rinsed and soaked 3–4 hours",
     "¼ cup water, plus more as needed",
@@ -31,26 +33,40 @@
     "Repeat with the remaining batter. Serve hot with coriander chutney and plain soy yogurt."
   ],
   "note": "Soaking softens the dal for blending. Keep the batter thick so the chillas turn easily. Nutrition is an estimate for the full two-chilla serving.",
-  "vegan": true,
-  "image": "/assets/images/recipes/026.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [
-    [
-      "Moong Dal Chilla – Dassana’s Veg Recipes",
-      "https://www.vegrecipesofindia.com/moong-dal-chilla-recipe/",
-      "Reference for soaked moong batter and skillet technique; spinach and serving details are our adaptation."
-    ]
-  ],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Moong Dal Chilla Recipe",
       "url": "https://www.vegrecipesofindia.com/moong-dal-chilla-recipe/",
       "note": "Soaked-lentil batter texture and griddle-cooking technique; our precise filling and seasoning are original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "masalachilli.com",
+      "title": "Moong Dal Chilla with Spinach – Masalachilli",
+      "url": "https://masalachilli.com/moong-dal-cheela-pinwheels/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Swasthi's Recipes",
+      "title": "Moong Dal Chilla Recipe (Lentil Pancakes) - Swasthi's Recipes",
+      "url": "https://www.indianhealthyrecipes.com/moong-dal-chilla/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "subbuskitchen.com",
+      "title": "Moong Dal Cheela | Moong Dal Chilla | Moong Dal Cheela With Palak |Spinach Moong Crepes - Subbus Kitchen",
+      "url": "https://www.subbuskitchen.com/palak-moong-dal-cheela-spinach-moong/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

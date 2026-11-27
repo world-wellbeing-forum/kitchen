@@ -1,0 +1,55 @@
+{
+  "id": 93,
+  "name": "Lauki Kofta Curry",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 220,
+  "carbs": 30,
+  "fiber": 7,
+  "fat": 6,
+  "prep": 25,
+  "cook": 35,
+  "mins": 60,
+  "ingredients": [
+    "250 g lauki (bottle gourd), grated and squeezed dry",
+    "¼ cup (30 g) besan",
+    "1 green chilli and 1 tsp ginger, minced",
+    "½ tsp ajwain",
+    "2 tomatoes and 1 onion, blended into a paste",
+    "2 garlic cloves",
+    "1 tsp oil",
+    "½ tsp each cumin, coriander powder and garam masala",
+    "¼ tsp turmeric",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Mix the lauki, besan, chilli, ginger, ajwain and salt into a firm dough. Shape into 8 small balls.",
+    "Bake the koftas at 200°C for 20 minutes, turning once, until golden and firm.",
+    "Heat the oil and cook the tomato-onion paste with garlic and spices for 10 minutes until the oil separates.",
+    "Add 1½ cups water and simmer for 8 minutes.",
+    "Add the koftas just before serving and warm for 2 minutes. Finish with garam masala and coriander."
+  ],
+  "note": "Baked rather than deep-fried koftas keep the fat low. Squeeze the lauki well or the koftas will fall apart.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Lauki Kofta Lauki Kofta Curry",
+      "url": "https://www.vegrecipesofindia.com/lauki-kofta-lauki-kofta-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Lauki Kofta Recipe Bottle Gourd Kofta Curry",
+      "url": "https://hebbarskitchen.com/lauki-kofta-recipe-bottle-gourd-kofta-curry/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

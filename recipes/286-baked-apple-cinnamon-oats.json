@@ -1,0 +1,38 @@
+{
+  "id": 286,
+  "name": "Baked Apple Cinnamon Oats",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 270,
+  "carbs": 40,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "⅓ cup rolled oats",
+    "1 large apple, grated",
+    "1 cup unsweetened soy milk",
+    "½ cup plain unsweetened high-protein soy yogurt",
+    "1 tbsp ground flaxseed",
+    "1 tsp cinnamon and ¼ tsp nutmeg",
+    "½ tsp baking powder and ½ tsp vanilla",
+    "Pinch of salt"
+  ],
+  "steps": [
+    "Heat the oven to 180°C and grease two ramekins.",
+    "Mix the oats, grated apple, soy milk, yogurt, flaxseed, spices, baking powder, vanilla and salt.",
+    "Divide between the ramekins.",
+    "Bake for 28–30 minutes until set and golden on top.",
+    "Serve warm. The apple provides all the sweetness."
+  ],
+  "note": "No added sugar; the grated apple and soy yogurt provide sweetness, protein and moisture.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

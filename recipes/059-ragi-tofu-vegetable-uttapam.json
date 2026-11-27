@@ -1,0 +1,56 @@
+{
+  "id": 59,
+  "name": "Ragi Tofu Vegetable Uttapam",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 300,
+  "carbs": 43,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "¾ cup ragi flour",
+    "¼ cup rice flour",
+    "100 g firm tofu, finely crumbled",
+    "½ cup plain unsweetened soy yogurt",
+    "½ cup water, approximately",
+    "¼ cup chopped onion",
+    "¼ cup chopped tomato",
+    "2 tbsp coriander",
+    "½ tsp cumin",
+    "2 tsp oil",
+    "Salt"
+  ],
+  "steps": [
+    "Whisk ragi flour, rice flour, soy yogurt, water, cumin and salt into a thick batter. Rest 8 minutes.",
+    "Fold in crumbled tofu. Adjust batter so it spreads slowly but does not run.",
+    "Heat a non-stick tawa over medium-low and brush with a little oil.",
+    "Pour batter into two small thick pancakes. Top with onion, tomato and coriander; press toppings lightly.",
+    "Cover and cook 3–4 minutes, flip carefully and cook another 2–3 minutes until centre is set."
+  ],
+  "note": "Vegan and egg-free. This is an instant batter adaptation; texture differs from fermented rice-urad uttapam.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Ragi Dosa Recipe",
+      "url": "https://www.vegrecipesofindia.com/ragi-dosa-recipe/",
+      "note": "Reference for ragi batter and griddle technique; tofu uttapam is our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tomato Uttapam",
+      "url": "https://www.vegrecipesofindia.com/tomato-uttapam/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

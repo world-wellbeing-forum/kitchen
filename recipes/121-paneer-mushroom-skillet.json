@@ -1,0 +1,55 @@
+{
+  "id": 121,
+  "name": "Paneer Mushroom Skillet",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": false,
+  "protein": 20,
+  "cal": 220,
+  "carbs": 10,
+  "fiber": 3,
+  "fat": 11,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "120 g low-fat paneer, cubed",
+    "200 g mushrooms, sliced",
+    "1 capsicum, sliced",
+    "1 onion, sliced",
+    "3 garlic cloves, minced",
+    "1 tsp oil",
+    "1 tsp soy sauce",
+    "½ tsp black pepper",
+    "½ tsp dried oregano or chilli flakes",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Dry-sauté the mushrooms in a hot skillet for 5 minutes; set aside.",
+    "Heat the oil, then fry the garlic for 30 seconds, and the onion and capsicum for 3 minutes on high heat.",
+    "Add the paneer and brown for 2 minutes.",
+    "Return the mushrooms with the soy sauce, pepper and oregano; toss for 2 minutes.",
+    "Season with salt and finish with coriander."
+  ],
+  "note": "A quick one-pan dish; the mushrooms and paneer both give umami.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mushroom Paneer Masala Recipe",
+      "url": "https://www.vegrecipesofindia.com/mushroom-paneer-masala-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dhingri Dolma Recipe Awadhi Mushroom Paneer Recipe",
+      "url": "https://www.vegrecipesofindia.com/dhingri-dolma-recipe-awadhi-mushroom-paneer-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

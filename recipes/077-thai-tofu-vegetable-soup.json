@@ -1,0 +1,49 @@
+{
+  "id": 77,
+  "name": "Thai Tofu Vegetable Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 175,
+  "carbs": 12,
+  "fiber": 3,
+  "fat": 9,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "150 g firm tofu, cubed",
+    "100 g mushrooms, sliced",
+    "½ cup sliced carrot or baby corn",
+    "1 stalk lemongrass, bruised and cut in 3",
+    "2.5 cm ginger, sliced",
+    "1 tsp oil",
+    "2 cups vegetable stock",
+    "½ cup light coconut milk",
+    "1 tsp vegan Thai red curry paste (check the label)",
+    "1 tbsp soy sauce",
+    "Juice of 1 lime",
+    "Fresh basil or coriander"
+  ],
+  "steps": [
+    "Heat the oil and fry the curry paste for 30 seconds until fragrant.",
+    "Add the stock, lemongrass and ginger and simmer for 5 minutes.",
+    "Add carrot, mushrooms and tofu and simmer for 6 minutes.",
+    "Stir in the coconut milk and soy sauce and heat gently for 2 minutes.",
+    "Remove the lemongrass, then finish with lime juice and fresh herbs."
+  ],
+  "note": "Many commercial curry pastes contain shrimp paste; use one labelled vegan.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tom Yum Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/tom-yum-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

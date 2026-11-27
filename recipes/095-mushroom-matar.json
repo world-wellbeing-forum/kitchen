@@ -1,0 +1,55 @@
+{
+  "id": 95,
+  "name": "Mushroom Matar",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 175,
+  "carbs": 24,
+  "fiber": 8,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "250 g button mushrooms, quartered",
+    "1 cup green peas",
+    "1 onion, chopped",
+    "2 tomatoes, pureed",
+    "2 garlic cloves and 1 tsp ginger, minced",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp each coriander powder and garam masala",
+    "¼ tsp turmeric and ½ tsp chilli powder",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Dry-sauté the mushrooms in a hot pan for 5 minutes until browned; set aside.",
+    "Heat the oil, crackle the cumin, then cook the onion for 5 minutes. Add ginger and garlic.",
+    "Add the tomato purée and spices and cook for 6 minutes until the oil separates.",
+    "Add the peas, mushrooms and ½ cup water and simmer for 6 minutes.",
+    "Finish with garam masala, salt and coriander."
+  ],
+  "note": "Browning the mushrooms first drives off moisture and deepens the flavour.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Matar Mushroom Recipe",
+      "url": "https://www.vegrecipesofindia.com/matar-mushroom-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Matar Mushroom Recipe Mutter Mushroom",
+      "url": "https://hebbarskitchen.com/matar-mushroom-recipe-mutter-mushroom/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

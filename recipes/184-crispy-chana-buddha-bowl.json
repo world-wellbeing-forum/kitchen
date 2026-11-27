@@ -1,0 +1,46 @@
+{
+  "id": 184,
+  "name": "Crispy Chana Buddha Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 325,
+  "carbs": 44,
+  "fiber": 14,
+  "fat": 8,
+  "prep": 15,
+  "cook": 30,
+  "mins": 45,
+  "ingredients": [
+    "1 cup cooked chickpeas, well dried",
+    "½ cup cooked quinoa",
+    "1 carrot, 1 cup broccoli and ½ cup beetroot, cubed",
+    "2 cups mixed greens",
+    "100 g firm tofu, cubed",
+    "1 tsp olive oil",
+    "1 tsp cumin, ½ tsp paprika",
+    "Dressing: 3 tbsp plain soy yogurt, juice of 1 lemon, ½ tsp grated garlic, salt"
+  ],
+  "steps": [
+    "Heat the oven to 220°C. Toss the chickpeas, tofu and vegetables with the oil and spices.",
+    "Roast for 25 minutes, shaking the tray once, until the chickpeas are crisp.",
+    "Whisk the dressing.",
+    "Divide the greens and quinoa between two bowls.",
+    "Top with the roasted mixture and drizzle with the dressing."
+  ],
+  "note": "Dry the chickpeas thoroughly before roasting; moisture is what stops them crisping.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Buddha bowl",
+      "url": "https://en.wikipedia.org/wiki/Buddha_bowl",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

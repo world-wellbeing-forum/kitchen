@@ -1,0 +1,46 @@
+{
+  "id": 281,
+  "name": "Nepalese Vegetable Thukpa",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 280,
+  "carbs": 38,
+  "fiber": 7,
+  "fat": 6,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "40 g dry whole-wheat noodles",
+    "150 g firm tofu, cubed",
+    "1 carrot, 1 cup cabbage and ½ cup green beans, sliced",
+    "4 cups vegetable stock",
+    "3 garlic cloves, 2.5 cm ginger, 1 green chilli",
+    "1 tsp oil",
+    "1 tsp soy sauce and ½ tsp cumin",
+    "½ tsp black pepper",
+    "Spring onion, coriander and lime"
+  ],
+  "steps": [
+    "Heat the oil and fry the garlic, ginger and chilli for 1 minute. Add the cumin.",
+    "Add the stock, carrot and beans and simmer for 8 minutes.",
+    "Add the tofu and cabbage and cook for 4 minutes.",
+    "Cook the noodles separately for 5 minutes and drain.",
+    "Divide the noodles into two bowls, ladle over the soup and finish with soy sauce, pepper, spring onion, coriander and lime."
+  ],
+  "note": "A warming Himalayan noodle soup; cooking the noodles separately stops the broth turning starchy.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Thukpa",
+      "url": "https://en.wikipedia.org/wiki/Thukpa",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

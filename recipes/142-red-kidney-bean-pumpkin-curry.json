@@ -1,0 +1,46 @@
+{
+  "id": 142,
+  "name": "Red Kidney Bean Pumpkin Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 255,
+  "carbs": 42,
+  "fiber": 12,
+  "fat": 4,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "1 cup cooked kidney beans (rajma)",
+    "200 g pumpkin, cubed",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ½ tsp garam masala and ½ tsp chilli powder",
+    "¼ tsp turmeric",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and cook the onion for 5 minutes. Add ginger and garlic.",
+    "Add the tomatoes and spices and cook for 6 minutes.",
+    "Add the pumpkin and 1 cup water and simmer for 10 minutes.",
+    "Add the kidney beans and simmer for 8 minutes, mashing a few pumpkin pieces to thicken.",
+    "Finish with coriander and salt."
+  ],
+  "note": "Pumpkin adds natural sweetness that balances the earthy beans.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Rajma",
+      "url": "https://en.wikipedia.org/wiki/Rajma",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

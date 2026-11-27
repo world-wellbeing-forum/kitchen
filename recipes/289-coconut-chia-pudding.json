@@ -1,0 +1,52 @@
+{
+  "id": 289,
+  "name": "Coconut Chia Pudding",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 220,
+  "carbs": 18,
+  "fiber": 11,
+  "fat": 11,
+  "prep": 5,
+  "cook": 0,
+  "mins": 5,
+  "ingredients": [
+    "3 tbsp chia seeds",
+    "1 cup unsweetened soy milk",
+    "2 tbsp light coconut milk",
+    "½ tsp vanilla extract",
+    "½ cup raspberries or sliced strawberries",
+    "1 tbsp unsweetened desiccated coconut",
+    "Pinch of cinnamon"
+  ],
+  "steps": [
+    "Whisk the chia seeds, soy milk, coconut milk, vanilla and cinnamon in a jar.",
+    "Rest for 10 minutes and whisk again to break up clumps.",
+    "Cover and refrigerate for at least 4 hours or overnight.",
+    "Divide between two glasses and top with berries and coconut."
+  ],
+  "note": "Chia seeds provide fibre and omega-3 fats; no sweetener is added.",
+  "methodLabel": "No-cook method (set overnight)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chia Pudding",
+      "url": "https://www.vegrecipesofindia.com/chia-pudding/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Chia Pudding Recipe 2 Ways",
+      "url": "https://hebbarskitchen.com/chia-pudding-recipe-2-ways/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

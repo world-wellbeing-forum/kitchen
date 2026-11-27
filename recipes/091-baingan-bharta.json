@@ -1,0 +1,57 @@
+{
+  "id": 91,
+  "name": "Baingan Bharta",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 215,
+  "carbs": 32,
+  "fiber": 12,
+  "fat": 5,
+  "prep": 15,
+  "cook": 25,
+  "mins": 40,
+  "ingredients": [
+    "1 large eggplant (about 500 g)",
+    "1 onion, finely chopped",
+    "2 tomatoes, chopped",
+    "½ cup green peas",
+    "2 garlic cloves, 1 green chilli and 1 tsp ginger, minced",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder and ¼ tsp turmeric",
+    "Fresh coriander and salt",
+    "½ cup cooked chickpeas, lightly mashed"
+  ],
+  "steps": [
+    "Rub the eggplant with a little oil, prick with a fork, and roast directly over a flame (or at 220°C in the oven for 40 minutes) until the skin is charred and the flesh collapses.",
+    "Cool, peel off the skin, and mash the flesh.",
+    "Heat the oil, crackle the cumin, then cook onion, ginger, garlic and chilli for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes. Add the peas and ¼ cup water; cook 4 minutes.",
+    "Fold in the mashed chickpeas together with the eggplant.",
+    "Fold in the mashed eggplant, cook for 5 minutes and finish with coriander."
+  ],
+  "note": "Flame-roasting gives the characteristic smoky flavour with very little oil.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Baingan Bharta Recipe (Smoky Mashed Eggplant)",
+      "url": "https://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "बैंगन भरता रेसिपी | baingan bharta in hindi | बैंगन भरता | भुने हुए बैंगन भरता",
+      "url": "https://hebbarskitchen.com/baingan-bharta-recipe-baingan-ka-bharta/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

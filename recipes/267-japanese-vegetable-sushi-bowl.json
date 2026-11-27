@@ -1,0 +1,45 @@
+{
+  "id": 267,
+  "name": "Japanese Vegetable Sushi Bowl",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 340,
+  "carbs": 42,
+  "fiber": 9,
+  "fat": 10,
+  "prep": 20,
+  "cook": 25,
+  "mins": 45,
+  "ingredients": [
+    "¾ cup cooked short-grain brown rice, cooled",
+    "150 g firm tofu or ¾ cup shelled edamame",
+    "1 small cucumber and 1 carrot, julienned",
+    "¼ avocado, sliced",
+    "1 nori sheet, shredded",
+    "1 tsp rice vinegar (no added sugar), mixed through the rice",
+    "Dressing: 1 tbsp soy sauce, 1 tsp rice vinegar, 1 tsp grated ginger, 1 tsp oil",
+    "Pickled ginger and spring onion"
+  ],
+  "steps": [
+    "Toss the cooled rice with the rice vinegar.",
+    "If using tofu, marinate it in 1 tsp soy sauce, then pan-sear until golden. Cook edamame for 4 minutes if using.",
+    "Whisk the dressing.",
+    "Divide the rice between two bowls and arrange the tofu or edamame, cucumber, carrot and avocado on top.",
+    "Scatter with nori, pickled ginger and spring onion and drizzle with dressing."
+  ],
+  "note": "A deconstructed sushi roll without raw fish or sugary rice seasoning.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Sushi",
+      "url": "https://en.wikipedia.org/wiki/Sushi",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

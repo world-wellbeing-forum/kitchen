@@ -1,0 +1,55 @@
+{
+  "id": 153,
+  "name": "Millet Curd Rice",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": false,
+  "protein": 14,
+  "cal": 295,
+  "carbs": 48,
+  "fiber": 6,
+  "fat": 5,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "½ cup barnyard or little millet, rinsed",
+    "¾ cup plain low-fat yogurt, whisked",
+    "¼ cup milk or water",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "1 tsp urad dal",
+    "1 green chilli and 1 tsp ginger, minced",
+    "6 curry leaves",
+    "¼ cucumber, diced, and 2 tbsp pomegranate seeds",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Cook the millet in 1½ cups water until very soft, about 15 minutes. Mash lightly and cool completely.",
+    "Mix with the yogurt, milk and salt to a creamy consistency.",
+    "Heat the oil, crackle the mustard, and fry the urad dal until golden. Add chilli, ginger and curry leaves.",
+    "Pour over the curd rice.",
+    "Top with cucumber, pomegranate and coriander."
+  ],
+  "note": "Always cool the millet fully before adding yogurt so it does not split.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Curd Rice",
+      "url": "https://www.vegrecipesofindia.com/curd-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Daddojanam Recipe Andhra Style Curd Rice",
+      "url": "https://hebbarskitchen.com/daddojanam-recipe-andhra-style-curd-rice/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

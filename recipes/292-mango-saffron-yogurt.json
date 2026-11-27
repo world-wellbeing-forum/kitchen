@@ -1,0 +1,57 @@
+{
+  "id": 292,
+  "name": "Mango Saffron Yogurt",
+  "category": "Healthy Desserts and Sweet Treats",
+  "servings": 2,
+  "vegan": false,
+  "protein": 19,
+  "cal": 190,
+  "carbs": 22,
+  "fiber": 2,
+  "fat": 3,
+  "prep": 10,
+  "cook": 5,
+  "mins": 15,
+  "ingredients": [
+    "1½ cups plain low-fat Greek yogurt",
+    "½ small ripe mango (about 80 g), pureed",
+    "A pinch of saffron soaked in 1 tbsp warm water",
+    "¼ tsp cardamom powder",
+    "1 tbsp chopped mint, optional"
+  ],
+  "steps": [
+    "Soak the saffron in warm water for 10 minutes.",
+    "Whisk the yogurt with the mango puree, saffron and its water, and cardamom until smooth.",
+    "Chill for 30 minutes.",
+    "Divide between two bowls and top with mint."
+  ],
+  "note": "Mango is high in natural sugar, so keep the portion small; the yogurt balances it with protein.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Shrikhand Recipe",
+      "url": "https://www.vegrecipesofindia.com/shrikhand-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mango Shrikhand Amrakhand Recipe",
+      "url": "https://www.vegrecipesofindia.com/mango-shrikhand-amrakhand-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Shrikhand Recipe Shrikand Sweet",
+      "url": "https://hebbarskitchen.com/shrikhand-recipe-shrikand-sweet/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

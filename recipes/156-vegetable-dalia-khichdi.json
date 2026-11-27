@@ -1,0 +1,65 @@
+{
+  "id": 156,
+  "name": "Vegetable Dalia Khichdi",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 275,
+  "carbs": 44,
+  "fiber": 11,
+  "fat": 5,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "⅓ cup dalia (broken wheat), rinsed",
+    "¼ cup split moong dal, rinsed",
+    "1 cup chopped vegetables (carrot, peas, beans)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp ginger and 1 green chilli, minced",
+    "¼ tsp turmeric",
+    "2½ cups water",
+    "Salt, pepper and coriander",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin, and add ginger and chilli.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the dalia, moong dal, vegetables, turmeric and salt and stir for 2 minutes.",
+    "Add the water and pressure-cook for 3–4 whistles, or simmer covered for 25 minutes.",
+    "Rest for 5 minutes and mash lightly.",
+    "Finish with pepper and coriander."
+  ],
+  "note": "Broken wheat has more fibre than white rice and keeps you full for longer.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Dalia Recipe | Daliya Khichdi",
+      "url": "https://www.vegrecipesofindia.com/dalia-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Daliya Khicdi Recipe Broken Wheat Recipe",
+      "url": "https://hebbarskitchen.com/daliya-khicdi-recipe-broken-wheat-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Dalia Upma Recipe Broken Wheat Upma",
+      "url": "https://hebbarskitchen.com/dalia-upma-recipe-broken-wheat-upma/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

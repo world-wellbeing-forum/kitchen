@@ -2,11 +2,15 @@
   "id": 11,
   "name": "Bharwa Karela",
   "category": "Sabzi",
+  "servings": 2,
+  "vegan": true,
   "protein": 13,
   "cal": 170,
   "carbs": 16,
   "fiber": 7,
   "fat": 6,
+  "prep": 14,
+  "cook": 26,
   "mins": 40,
   "ingredients": [
     "4 small karela",
@@ -21,17 +25,32 @@
     "Cook covered with a little water; uncover to brown lightly."
   ],
   "note": "Karela is not a substitute for diabetes medication.",
-  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=11",
-  "editorialStatus": "recipe-draft-needs-testing",
-  "sourceReferences": [],
-  "imageStatus": "placeholder-url-not-cleared-for-publication",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Bharwa Karela | Stuffed Bitter Gourd",
+      "title": "Bharwa Karela | Stuffed Karela",
       "url": "https://www.vegrecipesofindia.com/bharwan-karela-stuffed-bitter-gourd/",
       "note": "Stuffing, slit preparation and slow pan-cooking of bitter gourd; our filling and oil quantities remain original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಸ್ಟಫ್ಡ್ ಹಾಗಲಕಾಯಿ ರೆಸಿಪಿ | stuffed karela in kannada | ಭರ್ವಾ ಕರೇಲಾ",
+      "url": "https://hebbarskitchen.com/stuffed-karela-recipe-bharwa-karela/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "bharwa karela recipe | stuffed karela | bharva karele | karela ka bharwa",
+      "url": "https://hebbarskitchen.com/bharwa-karela-stuffed-karela-recipe-2/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

@@ -1,0 +1,37 @@
+{
+  "id": 134,
+  "name": "Adzuki Bean Curry",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 250,
+  "carbs": 40,
+  "fiber": 12,
+  "fat": 4,
+  "prep": 10,
+  "cook": 35,
+  "mins": 45,
+  "ingredients": [
+    "½ cup (100 g) adzuki beans, soaked overnight",
+    "1 onion and 2 tomatoes, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp coriander powder, ¼ tsp turmeric, ½ tsp garam masala",
+    "1 green chilli",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Pressure-cook the beans with 1½ cups water for 4 whistles until soft.",
+    "Heat the oil, crackle the cumin, and cook the onion, ginger, garlic and chilli for 5 minutes.",
+    "Add the tomatoes and spices and cook for 6 minutes.",
+    "Add the beans with their liquid and simmer for 10 minutes.",
+    "Finish with garam masala and coriander."
+  ],
+  "note": "Adzuki beans are small and slightly sweet, and cook faster than rajma.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

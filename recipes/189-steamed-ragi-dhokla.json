@@ -1,0 +1,70 @@
+{
+  "id": 189,
+  "name": "Steamed Ragi Dhokla",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 200,
+  "carbs": 30,
+  "fiber": 7,
+  "fat": 4,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "¼ cup (30 g) ragi flour",
+    "⅓ cup (35 g) besan",
+    "3 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-green chilli paste",
+    "½ tsp turmeric",
+    "1 tsp fruit salt (Eno) or ½ tsp baking soda",
+    "Tempering: 1 tsp oil, ½ tsp mustard seeds, 6 curry leaves",
+    "Salt, coriander and lemon juice"
+  ],
+  "steps": [
+    "Whisk the ragi flour, besan, yogurt, paste, turmeric, salt and ½ cup water into a smooth, pourable batter. Rest for 10 minutes.",
+    "Grease a small plate or tin. Add the fruit salt to the batter, mix quickly, and pour into the tin.",
+    "Steam for 15 minutes until a skewer comes out clean. Cool and cut into squares.",
+    "Heat the oil, crackle the mustard seeds, add curry leaves and 2 tbsp water, and pour over the dhokla.",
+    "Garnish with coriander."
+  ],
+  "note": "Ragi adds calcium and fibre; steaming uses no oil in the cooking.",
+  "methodLabel": "Steaming method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "White Dhokla | Khatta Dhokla",
+      "url": "https://www.vegrecipesofindia.com/khatta-dhokla-recipe-white-dhokla/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Dhokla | Green Gram Dhokla",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-dhokla-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "dhokla in microwave | instant dhokla recipe | microwave gujarati dhokla",
+      "url": "https://hebbarskitchen.com/dhokla-microwave-instant-dhokla-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ढोकला रेसिपी | dhokla in hindi | खमन ढोकला | इंस्टेंट खमन ढोकला कैसे बनाएं",
+      "url": "https://hebbarskitchen.com/instant-khaman-dhokla-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

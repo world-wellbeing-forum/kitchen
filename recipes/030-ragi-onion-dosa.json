@@ -2,14 +2,16 @@
   "id": 30,
   "name": "Ragi Onion Dosa",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 11,
   "cal": 260,
   "carbs": 42,
   "fiber": 6,
   "fat": 6,
-  "mins": 25,
   "prep": 8,
   "cook": 17,
+  "mins": 25,
   "ingredients": [
     "¾ cup ragi (finger millet) flour",
     "¼ cup rice flour",
@@ -29,20 +31,40 @@
     "Cook 2–3 minutes until the edges lift and the base is crisp. Fold and serve; repeat."
   ],
   "note": "Ragi dosa is naturally gluten-free when all packaged ingredients are certified gluten-free. The batter is thinner than regular dosa batter.",
-  "vegan": true,
-  "servings": 2,
-  "image": "/assets/images/recipes/030.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Ragi Dosa (Finger Millet Dosa Recipe)",
+      "title": "Ragi Dosa Recipe",
       "url": "https://www.vegrecipesofindia.com/ragi-dosa-recipe/",
       "note": "Finger-millet batter composition, fermentation and crisp dosa technique; onion variation is our adaptation.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "vegaura.in",
+      "title": "Ragi Dosa Recipe | VegAura",
+      "url": "https://www.vegaura.in/recipes/ragi-dosa",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "snazzycuisine.com",
+      "title": "Ragi Dosa Recipe/ Fermented Dosa/ Snazzy Cuisine",
+      "url": "https://www.snazzycuisine.com/recipe/ragi-dosa/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "रागी दोसा रेसिपी | ragi dosa in hindi | झटपट रागी दोसा | फिंगर मिलेट दोसा",
+      "url": "https://hebbarskitchen.com/instant-ragi-dosa-recipe-finger-millet/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

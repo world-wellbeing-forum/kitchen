@@ -1,0 +1,64 @@
+{
+  "id": 109,
+  "name": "Chilli Garlic Tofu",
+  "category": "High-Protein Paneer and Tofu",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 225,
+  "carbs": 14,
+  "fiber": 3,
+  "fat": 10,
+  "prep": 15,
+  "cook": 12,
+  "mins": 27,
+  "ingredients": [
+    "250 g firm tofu, cubed",
+    "1 tbsp cornflour",
+    "1 capsicum, cut in squares",
+    "4 garlic cloves, minced",
+    "2 dried red chillies, broken",
+    "1 tsp oil",
+    "1 tbsp soy sauce",
+    "1 tsp chilli sauce",
+    "1 tsp vinegar",
+    "2 spring onions, sliced",
+    "Black pepper"
+  ],
+  "steps": [
+    "Toss the tofu in cornflour and a pinch of salt. Pan-sear in a non-stick pan with half the oil for 8 minutes until crisp on all sides. Set aside.",
+    "Heat the remaining oil and fry the garlic and chillies for 30 seconds.",
+    "Add the capsicum and stir-fry for 2 minutes on high heat.",
+    "Add the soy sauce, chilli sauce, vinegar and 2 tbsp water, then return the tofu.",
+    "Toss until glazed, about 2 minutes. Finish with spring onions and pepper."
+  ],
+  "note": "An Indo-Chinese dish made with a fraction of the usual oil by searing rather than deep-frying.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chilli Paneer Restaurant Style Recipe",
+      "url": "https://www.vegrecipesofindia.com/chilli-paneer-restaurant-style-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Easy Chilli Paneer Gravy Recipe",
+      "url": "https://hebbarskitchen.com/easy-chilli-paneer-gravy-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Restaurant Style Chilli Paneer Recipe",
+      "url": "https://hebbarskitchen.com/restaurant-style-chilli-paneer-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

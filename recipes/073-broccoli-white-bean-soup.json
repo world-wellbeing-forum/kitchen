@@ -1,0 +1,45 @@
+{
+  "id": 73,
+  "name": "Broccoli White Bean Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 210,
+  "carbs": 30,
+  "fiber": 11,
+  "fat": 4,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "300 g broccoli, cut into small florets",
+    "1 cup cooked cannellini beans",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "3 cups low-sodium vegetable stock",
+    "1 tbsp lemon juice",
+    "Black pepper and salt",
+    "1 tbsp nutritional yeast, optional"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion for 4 minutes, then add the garlic for 30 seconds.",
+    "Add the broccoli, beans and stock. Simmer for 10 minutes until the broccoli is tender but still bright green.",
+    "Blend until smooth.",
+    "Stir in lemon juice and nutritional yeast if using; season with salt and pepper."
+  ],
+  "note": "A creamy soup with no cream: the beans do the thickening and add fibre and protein.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Veg Cream Of Broccoli Soup",
+      "url": "https://www.vegrecipesofindia.com/veg-cream-of-broccoli-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

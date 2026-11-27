@@ -1,0 +1,47 @@
+{
+  "id": 270,
+  "name": "Greek Gigantes Beans",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 260,
+  "carbs": 38,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 15,
+  "cook": 60,
+  "mins": 75,
+  "ingredients": [
+    "1½ cups cooked butter beans or gigantes",
+    "1 onion, sliced and 3 garlic cloves",
+    "1 carrot, diced",
+    "1½ cups chopped tomatoes",
+    "1 tbsp tomato paste",
+    "1 tsp olive oil",
+    "1 tsp dried oregano and 1 bay leaf",
+    "2 tbsp fresh dill and parsley",
+    "Black pepper, salt and lemon juice"
+  ],
+  "steps": [
+    "Heat the oven to 180°C.",
+    "Heat the oil and cook the onion and carrot for 6 minutes. Add the garlic, oregano, tomato paste, tomatoes and bay leaf and simmer for 5 minutes.",
+    "Stir in the beans and ½ cup water and season.",
+    "Transfer to a baking dish and bake uncovered for 40 minutes until the sauce is thick and the beans are glazed.",
+    "Finish with fresh herbs and lemon juice."
+  ],
+  "note": "Traditionally made with dried gigantes beans simmered for hours; canned butter beans are a quick substitute.",
+  "methodLabel": "Stovetop and oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Gigantes plaki",
+      "url": "https://en.wikipedia.org/wiki/Gigantes_plaki",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

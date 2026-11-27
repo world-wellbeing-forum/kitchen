@@ -1,0 +1,37 @@
+{
+  "id": 273,
+  "name": "Ethiopian Misir Wot",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 14,
+  "cal": 230,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "½ cup (100 g) red lentils, rinsed",
+    "1 large onion, finely chopped",
+    "3 garlic cloves and 1 tsp ginger, minced",
+    "1 tbsp tomato paste",
+    "1 tsp oil",
+    "1 tbsp berbere spice (check the label)",
+    "2 cups water",
+    "Salt and lemon juice"
+  ],
+  "steps": [
+    "Dry-cook the onion in a heavy pot for 6 minutes, stirring, until soft and golden; add the oil.",
+    "Add the garlic, ginger and berbere and cook for 2 minutes.",
+    "Stir in the tomato paste, lentils and water.",
+    "Simmer for 20 minutes, stirring often, until thick and stew-like.",
+    "Season with salt and lemon juice."
+  ],
+  "note": "Traditionally made with spiced clarified butter (niter kibbeh); here a little oil is used instead, so it is vegan.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": 133,
+  "name": "Light Matki Misal",
+  "category": "Lentils, Beans and Pulses",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 280,
+  "carbs": 40,
+  "fiber": 14,
+  "fat": 6,
+  "prep": 20,
+  "cook": 30,
+  "mins": 50,
+  "ingredients": [
+    "1 cup sprouted moth beans (matki)",
+    "1 onion and 1 tomato, chopped",
+    "1 tbsp each ginger-garlic paste and desiccated coconut",
+    "1 tsp oil",
+    "1 tbsp misal or goda masala, plus ½ tsp chilli powder",
+    "¼ tsp turmeric",
+    "Toppings: 2 tbsp chopped onion, 2 tbsp chopped tomato, 2 tbsp puffed rice (murmura), coriander and lemon",
+    "1 whole-wheat pav or slice of bread, halved to share",
+    "Salt"
+  ],
+  "steps": [
+    "Heat the oil, then cook the onion, coconut and ginger-garlic paste for 6 minutes. Add the tomato and spices and cook 5 minutes; grind to a paste with a little water.",
+    "Cook this paste in the pot for 3 minutes, add the sprouts and 2½ cups water, and simmer for 20 minutes to make a thin curry (kat).",
+    "Season with salt.",
+    "Serve the sprouts and curry in bowls, topped with onion, tomato, puffed rice, coriander and lemon.",
+    "Serve with pav or bread on the side."
+  ],
+  "note": "Puffed rice replaces the usual fried sev, and whole-wheat pav adds fibre.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Misal Pav (Misal Recipe)",
+      "url": "https://www.vegrecipesofindia.com/misal-pav-recipe-misal-pav/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Spicy Maharashtrian Misal Pav Recipe",
+      "url": "https://hebbarskitchen.com/spicy-maharashtrian-misal-pav-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

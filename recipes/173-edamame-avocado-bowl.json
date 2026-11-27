@@ -1,0 +1,37 @@
+{
+  "id": 173,
+  "name": "Edamame Avocado Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 345,
+  "carbs": 36,
+  "fiber": 12,
+  "fat": 14,
+  "prep": 15,
+  "cook": 10,
+  "mins": 25,
+  "ingredients": [
+    "1 cup shelled edamame, cooked",
+    "½ avocado, sliced",
+    "½ cup cooked brown rice",
+    "1 cucumber, sliced",
+    "1 carrot, grated",
+    "1 cup shredded red cabbage",
+    "Dressing: 1 tbsp soy sauce, juice of 1 lime, 1 tsp grated ginger, 1 tsp rice vinegar",
+    "Chilli flakes"
+  ],
+  "steps": [
+    "Cook the edamame in boiling water for 4 minutes; drain and cool.",
+    "Whisk the dressing.",
+    "Divide the rice between two bowls.",
+    "Arrange the edamame, avocado, cucumber, carrot and cabbage on top.",
+    "Drizzle with dressing and sprinkle with chilli flakes."
+  ],
+  "note": "Edamame is a complete plant protein; avocado supplies mostly unsaturated fat.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

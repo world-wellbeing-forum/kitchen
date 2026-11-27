@@ -1,0 +1,37 @@
+{
+  "id": 274,
+  "name": "Vietnamese Tofu Noodle Bowl",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 22,
+  "cal": 320,
+  "carbs": 40,
+  "fiber": 5,
+  "fat": 8,
+  "prep": 15,
+  "cook": 15,
+  "mins": 30,
+  "ingredients": [
+    "40 g dry rice vermicelli",
+    "200 g firm tofu, cubed",
+    "1 carrot and 1 cucumber, julienned",
+    "1 cup lettuce and bean sprouts",
+    "¼ cup each mint, coriander and Thai basil",
+    "1 tsp oil",
+    "Dressing: juice of 2 limes, 1 tbsp soy sauce, 1 garlic clove (minced), 1 red chilli, 1 tbsp water",
+    "Lime wedges"
+  ],
+  "steps": [
+    "Cook the vermicelli per the pack; rinse in cold water and drain.",
+    "Sear the tofu in the oil for 8 minutes until golden on all sides.",
+    "Whisk the dressing.",
+    "Divide the noodles, lettuce, sprouts, carrot and cucumber between two bowls.",
+    "Top with the tofu and herbs and drizzle with the dressing."
+  ],
+  "note": "The dressing uses lime and soy rather than sugar, in contrast to the usual nuoc cham.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": 197,
+  "name": "Baked Samosa",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 260,
+  "carbs": 40,
+  "fiber": 8,
+  "fat": 6,
+  "prep": 35,
+  "cook": 30,
+  "mins": 65,
+  "ingredients": [
+    "Dough: ½ cup whole-wheat flour, 1 tsp oil, pinch of salt and ajwain, water",
+    "Filling: 1 small boiled potato, mashed, ½ cup green peas, ½ cup cooked chickpeas, mashed",
+    "1 tsp oil",
+    "½ tsp each cumin seeds, coriander powder and garam masala",
+    "½ tsp amchur and ¼ tsp chilli powder",
+    "1 tsp ginger and 1 green chilli, minced",
+    "Coriander and salt"
+  ],
+  "steps": [
+    "Knead the dough ingredients into a firm dough and rest for 20 minutes.",
+    "Heat the oil, crackle the cumin, add ginger, chilli, peas and spices and cook for 3 minutes. Mix with the potato, chickpeas, coriander and salt; cool.",
+    "Divide the dough into 4 balls, roll thin into ovals, cut each in half, shape into cones, fill and seal.",
+    "Place on a tray, brush with a little oil.",
+    "Bake at 200°C for 25 minutes, turning once, until golden and crisp."
+  ],
+  "note": "Baked in a whole-wheat shell rather than deep-fried in refined flour.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Samosa Sandwich Recipe",
+      "url": "https://www.vegrecipesofindia.com/samosa-sandwich-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Samosa Chaat Recipe",
+      "url": "https://www.vegrecipesofindia.com/samosa-chaat-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 177,
+  "name": "Barley Pomegranate Bowl",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 300,
+  "carbs": 44,
+  "fiber": 13,
+  "fat": 6,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "½ cup cooked pearl barley",
+    "1 cup cooked chickpeas",
+    "100 g firm tofu, cubed",
+    "¼ cup pomegranate seeds",
+    "1 cucumber, diced",
+    "¼ cup chopped mint and parsley",
+    "Dressing: 2 tsp olive oil, juice of 1 lemon, ½ tsp cumin, salt and pepper"
+  ],
+  "steps": [
+    "Boil the barley in plenty of water for 30 minutes until tender; drain and cool.",
+    "Pan-toast the tofu until golden.",
+    "Whisk the dressing.",
+    "Toss the barley, chickpeas, cucumber and herbs with the dressing.",
+    "Top with the tofu and pomegranate seeds."
+  ],
+  "note": "Barley contains beta-glucan, a soluble fibre studied for its effect on LDL cholesterol.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pomegranate Juice Recipe",
+      "url": "https://www.vegrecipesofindia.com/pomegranate-juice-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Pomegranate Smoothie Recipe",
+      "url": "https://www.vegrecipesofindia.com/pomegranate-smoothie-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Pomegranate Peel Tambli",
+      "url": "https://hebbarskitchen.com/pomegranate-peel-tambli/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

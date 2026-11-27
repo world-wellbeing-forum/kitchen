@@ -1,0 +1,57 @@
+{
+  "id": 148,
+  "name": "Brown Rice Peas Pulao",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 255,
+  "carbs": 41,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "⅓ cup brown rice, rinsed and soaked 30 minutes",
+    "1 cup green peas",
+    "1 small onion, sliced",
+    "1 tsp oil",
+    "1 bay leaf, 2 cloves, 2 cardamom pods and ½ tsp cumin seeds",
+    "1 tsp ginger-garlic paste",
+    "1 green chilli, slit",
+    "1¼ cups water",
+    "Salt and coriander",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil and crackle the whole spices. Add the onion and cook for 4 minutes until golden.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the ginger-garlic paste, chilli and peas and stir for 2 minutes.",
+    "Add the drained rice, water and salt. Bring to a boil.",
+    "Cover and cook on low for 25 minutes, or pressure-cook for 3 whistles.",
+    "Rest 5 minutes, fluff and add coriander."
+  ],
+  "note": "Brown rice keeps its bran, which means more fibre and slower digestion.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Matar Pulao Peas Pulao Recipe",
+      "url": "https://www.vegrecipesofindia.com/matar-pulao-peas-pulao-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Aloo Matar Pulao Recipe",
+      "url": "https://hebbarskitchen.com/aloo-matar-pulao-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

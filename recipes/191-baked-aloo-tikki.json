@@ -1,0 +1,63 @@
+{
+  "id": 191,
+  "name": "Baked Aloo Tikki",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 250,
+  "carbs": 40,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 20,
+  "cook": 30,
+  "mins": 50,
+  "ingredients": [
+    "2 small potatoes (200 g), boiled and mashed",
+    "½ cup cooked chickpeas, mashed",
+    "2 tbsp besan, dry-roasted",
+    "1 green chilli and 1 tsp ginger, minced",
+    "2 tbsp chopped coriander",
+    "½ tsp each cumin, chaat masala and amchur",
+    "1 tsp oil for brushing",
+    "Salt",
+    "Mint chutney and chopped onion, to serve"
+  ],
+  "steps": [
+    "Mix the potato, chickpeas, besan, chilli, ginger, coriander, spices and salt into a dough.",
+    "Shape into 6 flat round tikkis.",
+    "Place on a lined tray and brush lightly with oil.",
+    "Bake at 200°C for 25 minutes, turning once, until crisp and golden.",
+    "Serve with chutney and onion."
+  ],
+  "note": "Mashed chickpeas replace some of the potato, adding protein and slowing the carbohydrate release.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Tikki Burger",
+      "url": "https://www.vegrecipesofindia.com/aloo-tikki-burger/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Paneer Tikki",
+      "url": "https://www.vegrecipesofindia.com/aloo-paneer-tikki/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Aloo Paneer Tikki Recipe",
+      "url": "https://hebbarskitchen.com/aloo-paneer-tikki-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

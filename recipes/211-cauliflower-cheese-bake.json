@@ -1,0 +1,47 @@
+{
+  "id": 211,
+  "name": "Cauliflower Cheese Bake",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 21,
+  "cal": 275,
+  "carbs": 32,
+  "fiber": 12,
+  "fat": 7,
+  "prep": 20,
+  "cook": 35,
+  "mins": 55,
+  "ingredients": [
+    "400 g cauliflower florets",
+    "1 cup cooked white beans",
+    "1 cup unsweetened soy milk",
+    "1 tbsp cornflour",
+    "1 tsp mustard and 1 garlic clove",
+    "30 g low-fat cheese, grated, plus 1 tbsp nutritional yeast",
+    "2 tbsp whole-wheat breadcrumbs",
+    "½ tsp black pepper and a pinch of nutmeg",
+    "Salt"
+  ],
+  "steps": [
+    "Steam the cauliflower for 6 minutes; arrange in a baking dish.",
+    "Blend the beans with the soy milk, cornflour, mustard, garlic, nutritional yeast, nutmeg and seasoning until smooth.",
+    "Heat the sauce in a pan for 4 minutes, stirring, until thick.",
+    "Pour over the cauliflower and top with the cheese and breadcrumbs.",
+    "Bake at 200°C for 20 minutes until golden and bubbling."
+  ],
+  "note": "The white sauce is made from blended beans rather than butter and flour, adding fibre and protein.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Cauliflower cheese",
+      "url": "https://en.wikipedia.org/wiki/Cauliflower_cheese",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

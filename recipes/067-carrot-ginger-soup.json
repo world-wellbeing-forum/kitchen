@@ -1,0 +1,65 @@
+{
+  "id": 67,
+  "name": "Carrot Ginger Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 16,
+  "cal": 290,
+  "carbs": 43,
+  "fiber": 12,
+  "fat": 6,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "400 g carrots, chopped",
+    "1 medium onion, chopped",
+    "2.5 cm fresh ginger, grated",
+    "1 tsp canola oil",
+    "½ tsp cumin seeds",
+    "1 cup cooked white beans (cannellini or navy)",
+    "3 cups low-sodium vegetable stock",
+    "Juice of ½ lemon",
+    "Black pepper and salt",
+    "100 g silken tofu, to blend in"
+  ],
+  "steps": [
+    "Heat the oil in a pot and splutter the cumin seeds. Add onion and cook for 4 minutes until soft.",
+    "Add ginger and carrots and stir for 2 minutes.",
+    "Pour in the stock, cover and simmer for 15 minutes until the carrots are very tender.",
+    "Add the white beans, then blend until silky smooth.",
+    "Blend the silken tofu in with the beans for extra protein and a creamier texture.",
+    "Reheat, stir in lemon juice and season with salt and pepper."
+  ],
+  "note": "The blended white beans add protein and a creamy body without dairy.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Carrot Ginger Soup Recipe",
+      "url": "https://www.vegrecipesofindia.com/carrot-ginger-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "carrot ginger soup recipe | carrot and ginger soup | ginger carrot soup",
+      "url": "https://hebbarskitchen.com/carrot-ginger-soup-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Carrot Soup",
+      "url": "https://www.vegrecipesofindia.com/carrot-soup/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

@@ -1,0 +1,63 @@
+{
+  "id": 232,
+  "name": "Air-Fryer Falafel",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": false,
+  "protein": 17,
+  "cal": 275,
+  "carbs": 38,
+  "fiber": 10,
+  "fat": 6,
+  "prep": 20,
+  "cook": 18,
+  "mins": 38,
+  "ingredients": [
+    "¾ cup (150 g) dried chickpeas, soaked overnight and drained (not canned)",
+    "½ small onion and 2 garlic cloves",
+    "½ cup each parsley and coriander",
+    "2 tbsp chickpea flour",
+    "1 tsp each cumin and coriander powder",
+    "½ tsp baking powder",
+    "1 tsp oil for brushing",
+    "Salt and pepper",
+    "Dip: ½ cup plain low-fat yogurt, lemon, garlic, mint"
+  ],
+  "steps": [
+    "Pulse the soaked chickpeas, onion, garlic, herbs and spices to a coarse mix. Stir in the chickpea flour and baking powder; chill for 20 minutes.",
+    "Shape into 10 small patties.",
+    "Preheat the air fryer to 190°C and brush the falafel lightly with oil.",
+    "Cook for 15–18 minutes, turning halfway, until golden and crisp.",
+    "Mix the dip and serve alongside."
+  ],
+  "note": "Use soaked, uncooked chickpeas, not canned, for the right texture.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Falafel Recipe Chickpea Falafel Recipe",
+      "url": "https://www.vegrecipesofindia.com/falafel-recipe-chickpea-falafel-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Green Falafel Vegan Falafel",
+      "url": "https://www.vegrecipesofindia.com/green-falafel-vegan-falafel/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Falafel Recipe Easy Chickpea Falafel",
+      "url": "https://hebbarskitchen.com/falafel-recipe-easy-chickpea-falafel/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

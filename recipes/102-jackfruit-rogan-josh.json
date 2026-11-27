@@ -1,0 +1,47 @@
+{
+  "id": 102,
+  "name": "Jackfruit Rogan Josh",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 250,
+  "carbs": 34,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 15,
+  "cook": 35,
+  "mins": 50,
+  "ingredients": [
+    "300 g young jackfruit in brine, drained, rinsed and pieces squeezed dry",
+    "50 g dry soy chunks, soaked and squeezed",
+    "1 onion, sliced",
+    "2 tomatoes, pureed",
+    "¼ cup plain unsweetened soy yogurt",
+    "2 tsp oil (mustard or canola)",
+    "1 bay leaf, 2 cardamom pods, 2 cloves, 1 small cinnamon stick",
+    "1 tsp Kashmiri chilli powder",
+    "1 tsp fennel powder and ½ tsp dry ginger powder",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "Heat the oil and crackle the whole spices. Add the onion and cook for 8 minutes until deep golden.",
+    "Add the tomato purée, chilli, fennel and ginger powder and cook for 8 minutes until the oil separates.",
+    "Add the jackfruit and soy chunks and stir for 4 minutes.",
+    "Stir in the soy yogurt and 1 cup water; cover and simmer for 20 minutes.",
+    "Season with salt and finish with coriander."
+  ],
+  "note": "Jackfruit gives a meaty texture; the soy chunks lift the protein to a main-meal level.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Rogan josh",
+      "url": "https://en.wikipedia.org/wiki/Rogan_josh",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

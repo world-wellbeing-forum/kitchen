@@ -1,0 +1,63 @@
+{
+  "id": 190,
+  "name": "Chana Jor Chaat",
+  "category": "Healthy Indian Snacks and Street Food",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 205,
+  "carbs": 32,
+  "fiber": 11,
+  "fat": 3,
+  "prep": 10,
+  "cook": 5,
+  "mins": 15,
+  "ingredients": [
+    "1½ cups boiled chickpeas, drained",
+    "1 small onion, finely chopped",
+    "1 tomato, finely chopped",
+    "1 small cucumber, diced",
+    "¼ cup chopped coriander",
+    "1 green chilli, minced",
+    "Juice of 1 lemon",
+    "½ tsp each chaat masala and roasted cumin powder",
+    "¼ tsp black salt",
+    "2 tbsp roasted puffed rice (murmura) to top"
+  ],
+  "steps": [
+    "Warm the chickpeas for 1 minute in a pan, or use them at room temperature.",
+    "Mix with the onion, tomato, cucumber, coriander and chilli.",
+    "Add the lemon juice, chaat masala, cumin and black salt.",
+    "Toss well and top with puffed rice just before serving so it stays crisp."
+  ],
+  "note": "A street-food favourite without fried toppings; the chickpeas supply most of the protein and fibre.",
+  "methodLabel": "No-cook method",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chana Chaat Recipe",
+      "url": "https://www.vegrecipesofindia.com/chana-chaat-recipe-chana-chaat/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Chana Chaat",
+      "url": "https://www.vegrecipesofindia.com/aloo-chana-chaat-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Chana Chaat Recipe Chole Chaat Recipe",
+      "url": "https://hebbarskitchen.com/chana-chaat-recipe-chole-chaat-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

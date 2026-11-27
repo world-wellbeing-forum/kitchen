@@ -1,0 +1,46 @@
+{
+  "id": 244,
+  "name": "Air-Fryer Cauliflower Wings",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 15,
+  "cal": 200,
+  "carbs": 26,
+  "fiber": 9,
+  "fat": 4,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "300 g cauliflower florets",
+    "100 g extra-firm tofu, cubed",
+    "3 tbsp besan and 1 tbsp cornflour",
+    "½ cup water",
+    "1 tsp each garlic powder and paprika",
+    "Sauce: 1 tbsp hot chilli sauce, 1 tsp lemon juice, 1 tsp soy sauce",
+    "1 tsp oil, plus spray",
+    "Salt and pepper"
+  ],
+  "steps": [
+    "Whisk the besan, cornflour, water, spices and salt into a thin batter. Coat the cauliflower and tofu.",
+    "Preheat the air fryer to 200°C and spray the basket.",
+    "Cook in a single layer for 15 minutes, shaking at 8 minutes, until crisp.",
+    "Toss with the sauce and return to the air fryer for 3 minutes.",
+    "Serve with raw vegetables and a yogurt or soy-yogurt dip."
+  ],
+  "note": "A lighter take on buffalo wings with no butter and a fraction of the oil.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Gobi Pepper Fry Recipe Cauliflower",
+      "url": "https://hebbarskitchen.com/gobi-pepper-fry-recipe-cauliflower/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

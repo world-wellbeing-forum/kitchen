@@ -1,0 +1,63 @@
+{
+  "id": 101,
+  "name": "Methi Malai Tofu",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 230,
+  "carbs": 12,
+  "fiber": 5,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "200 g firm tofu, cubed",
+    "2 cups fresh methi leaves, washed and chopped",
+    "1 onion, chopped",
+    "2 garlic cloves and 1 tsp ginger",
+    "1 tsp oil",
+    "¼ cup (60 g) silken tofu",
+    "3 tbsp light coconut milk",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric and ½ tsp garam masala",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Blanch the methi for 1 minute to remove bitterness; squeeze dry.",
+    "Heat the oil, crackle the cumin, and cook the onion, garlic and ginger for 6 minutes. Blend with the silken tofu and coconut milk to a smooth paste.",
+    "Return to the pan with ½ cup water and turmeric; simmer for 4 minutes.",
+    "Add the tofu cubes and methi and simmer for 5 minutes.",
+    "Finish with garam masala and salt."
+  ],
+  "note": "Tofu replaces paneer and the blended base replaces cream. Blanching mellows the methi bitterness.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Malai Paneer (Restaurant Style)",
+      "url": "https://www.vegrecipesofindia.com/methi-malai-paneer-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Matar Malai Recipe Methi Matar Malai",
+      "url": "https://www.vegrecipesofindia.com/methi-matar-malai-recipe-methi-matar-malai/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Methi Matar Malai Recipe",
+      "url": "https://hebbarskitchen.com/methi-matar-malai-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

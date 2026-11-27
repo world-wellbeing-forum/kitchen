@@ -1,0 +1,48 @@
+{
+  "id": 151,
+  "name": "Barley Vegetable Pilaf",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 10,
+  "cal": 245,
+  "carbs": 42,
+  "fiber": 10,
+  "fat": 4,
+  "prep": 10,
+  "cook": 40,
+  "mins": 50,
+  "ingredients": [
+    "⅓ cup pearl barley, rinsed and soaked 1 hour",
+    "1 carrot, 1 celery stalk and 6 beans, diced",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "1 bay leaf and 1 tsp dried thyme",
+    "1½ cups low-sodium vegetable stock",
+    "Black pepper, salt, lemon juice and parsley",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil and cook onion, carrot, celery and beans for 6 minutes. Add garlic, bay leaf and thyme.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the drained barley and stir for 1 minute.",
+    "Pour in the stock, bring to a boil, then cover and simmer for 30 minutes until the barley is tender and the liquid absorbed.",
+    "Rest for 5 minutes.",
+    "Fluff and finish with pepper, lemon juice and parsley."
+  ],
+  "note": "Barley is high in beta-glucan, a soluble fibre associated with lower LDL cholesterol.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Pilaf",
+      "url": "https://en.wikipedia.org/wiki/Pilaf",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": 220,
+  "name": "Baked Bean Enchiladas",
+  "category": "Oven-Baked Vegetarian Meals",
+  "servings": 2,
+  "vegan": false,
+  "protein": 18,
+  "cal": 300,
+  "carbs": 44,
+  "fiber": 14,
+  "fat": 6,
+  "prep": 25,
+  "cook": 30,
+  "mins": 55,
+  "ingredients": [
+    "4 small corn tortillas (6-inch)",
+    "1 cup cooked black beans, lightly mashed",
+    "½ cup sweet corn",
+    "1 small onion, chopped",
+    "1 tsp oil",
+    "1 tsp cumin and ½ tsp chilli powder",
+    "Sauce: 1 cup tomato passata, 1 garlic clove, 1 tsp chilli powder, ½ tsp cumin, ½ tsp oregano",
+    "30 g low-fat cheese, grated",
+    "Coriander and salt"
+  ],
+  "steps": [
+    "Heat the oven to 190°C.",
+    "Simmer the sauce ingredients for 8 minutes.",
+    "Cook the onion in the oil for 4 minutes, then mix with the beans, corn, spices and salt.",
+    "Warm the tortillas, fill with the bean mixture, roll, and place seam-side down in a baking dish.",
+    "Pour over the sauce, scatter the cheese and bake for 20 minutes. Top with coriander."
+  ],
+  "note": "Corn tortillas are lighter in carbohydrate than large flour wraps; beans carry the protein and fibre.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Enchilada",
+      "url": "https://en.wikipedia.org/wiki/Enchilada",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

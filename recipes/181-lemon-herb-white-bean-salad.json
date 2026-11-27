@@ -1,0 +1,42 @@
+{
+  "id": 181,
+  "name": "Lemon Herb White Bean Salad",
+  "category": "Salads and Nourishing Bowls",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 265,
+  "carbs": 34,
+  "fiber": 12,
+  "fat": 7,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "1½ cups cooked cannellini beans",
+    "100 g firm tofu or 60 g low-fat feta, cubed",
+    "1 cup halved cherry tomatoes",
+    "½ red onion, thinly sliced",
+    "¼ cup each parsley and mint, chopped",
+    "Dressing: 2 tsp olive oil, juice and zest of 1 lemon, 1 garlic clove (grated), salt, pepper"
+  ],
+  "steps": [
+    "Whisk the dressing in a large bowl.",
+    "Add the beans, tomatoes and onion and toss gently.",
+    "Fold in the tofu and herbs.",
+    "Rest for 10 minutes before serving."
+  ],
+  "note": "Quick and make-ahead friendly; keeps for two days in the fridge.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Bean salad",
+      "url": "https://en.wikipedia.org/wiki/Bean_salad",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

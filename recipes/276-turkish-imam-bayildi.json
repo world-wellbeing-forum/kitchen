@@ -1,0 +1,46 @@
+{
+  "id": 276,
+  "name": "Turkish Imam Bayildi",
+  "category": "Global Vegetarian Cuisine",
+  "servings": 2,
+  "vegan": true,
+  "protein": 12,
+  "cal": 250,
+  "carbs": 32,
+  "fiber": 12,
+  "fat": 8,
+  "prep": 20,
+  "cook": 50,
+  "mins": 70,
+  "ingredients": [
+    "2 small eggplants, halved lengthways",
+    "1 onion, sliced and 3 garlic cloves",
+    "2 tomatoes, chopped",
+    "1 cup cooked white beans (served alongside)",
+    "2 tsp olive oil",
+    "1 tsp paprika and ½ tsp cumin",
+    "¼ cup chopped parsley",
+    "Salt, pepper and lemon juice"
+  ],
+  "steps": [
+    "Heat the oven to 190°C. Score the cut side of the eggplants and rub with half the oil; roast cut-side down for 20 minutes.",
+    "Cook the onion and garlic in the remaining oil for 6 minutes. Add the tomatoes, spices and half the parsley and cook for 5 minutes.",
+    "Turn the eggplants over and press a hollow into each; fill with the tomato mixture.",
+    "Add ¼ cup water to the dish, cover with foil and bake for 25 minutes.",
+    "Serve with the warmed beans, parsley and lemon juice."
+  ],
+  "note": "Traditionally cooked in far more oil; roasting first reduces the oil needed.",
+  "methodLabel": "Oven method",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "İmam bayıldı",
+      "url": "https://en.wikipedia.org/wiki/%C4%B0mam_bay%C4%B1ld%C4%B1",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 255,
+  "name": "Microwave Quinoa Veggie Bowl",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 21,
+  "cal": 335,
+  "carbs": 45,
+  "fiber": 11,
+  "fat": 8,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "½ cup quinoa, rinsed",
+    "1 cup shelled edamame (frozen is fine)",
+    "1 cup mixed vegetables (broccoli, carrot, peas)",
+    "1 cup water",
+    "1 tsp oil",
+    "1 tsp grated ginger",
+    "1 tbsp soy sauce and juice of ½ lime",
+    "½ tsp chilli flakes",
+    "Coriander"
+  ],
+  "steps": [
+    "Place the quinoa and water in a large bowl, cover loosely and microwave on high for 5 minutes, then at 50% for 5 minutes. Stand covered for 5 minutes and fluff.",
+    "In another bowl, microwave the vegetables and edamame with 2 tbsp water covered for 4 minutes.",
+    "Mix the oil, ginger, soy sauce and lime juice.",
+    "Divide the quinoa between two bowls and top with the vegetables.",
+    "Drizzle with the dressing and sprinkle with chilli flakes and coriander."
+  ],
+  "note": "Edamame and quinoa together supply over 20 g of plant protein per serving.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Quinoa",
+      "url": "https://en.wikipedia.org/wiki/Quinoa",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 154,
+  "name": "Brown Rice Tofu Biryani",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 19,
+  "cal": 310,
+  "carbs": 41,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 25,
+  "cook": 35,
+  "mins": 60,
+  "ingredients": [
+    "⅓ cup brown rice, soaked 30 minutes",
+    "200 g firm tofu, cubed",
+    "3 tbsp plain unsweetened soy yogurt",
+    "1 onion, sliced",
+    "1 cup mixed vegetables (carrot, beans, peas)",
+    "1 tsp ginger-garlic paste",
+    "2 tsp oil",
+    "1 bay leaf, 2 cardamom, 2 cloves and 1 cinnamon stick",
+    "1 tsp biryani masala and ½ tsp chilli powder",
+    "Mint, coriander and salt",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Marinate the tofu in the soy yogurt, half the biryani masala, chilli and salt for 20 minutes.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Cook the rice in plenty of salted boiling water with the whole spices for 20 minutes until 80% done; drain.",
+    "Heat the oil and cook the onion until deeply golden, about 10 minutes. Add ginger-garlic paste, vegetables and tofu, and cook for 6 minutes.",
+    "Layer the rice over the tofu; sprinkle with mint, coriander and remaining masala.",
+    "Cover tightly and cook on low heat for 15 minutes. Rest for 5 minutes and fluff."
+  ],
+  "note": "Layered dum-style: browned onions and whole spices give the flavour with only 2 tsp of oil.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Kathal Biryani (Jackfruit Biryani)",
+      "url": "https://www.vegrecipesofindia.com/kathal-biryani-recipe-jackfruit-biryani-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Aloo Biryani | Potato Biryani",
+      "url": "https://www.vegrecipesofindia.com/dum-aloo-biryani-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Veg Biryani Cooker Vegetable Biryani",
+      "url": "https://hebbarskitchen.com/veg-biryani-cooker-vegetable-biryani/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

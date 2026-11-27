@@ -1,6 +1,9 @@
 {
-  "path": "recipes/001-arbi-masala.json",
+  "id": 1,
   "name": "Arbi Masala with Soy-Tofu Crumble",
+  "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "vegan": true,
   "protein": 23,
   "carbs": 29,
   "fiber": 7,
@@ -33,48 +36,42 @@
     "Add spinach or methi and cook until wilted. Finish with amchur, coriander and lemon. Taste before adding more salt."
   ],
   "note": "A lighter, higher-protein take on UP-style arbi. Taro is a starchy root, so serve a moderate portion alongside extra non-starchy vegetables; it is not a low-carbohydrate food. Vegan. Nutrition is an approximate calculation and depends on tofu and soy brands.",
-  "sourceReferences": [
-    [
-      "USDA FoodData Central",
-      "https://fdc.nal.usda.gov/",
-      "Ingredient nutrition reference; calculate with the specific brands and cooked weights used."
-    ],
-    [
-      "2026 ACC/AHA Dyslipidemia Guideline",
-      "https://www.jacc.org/doi/10.1016/j.jacc.2025.11.016",
-      "Supports a pattern rich in legumes, whole grains and fibre, with saturated fat replaced by unsaturated fat."
-    ],
-    [
-      "American Diabetes Association – Diabetes Plate",
-      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
-      "Portion framework: non-starchy vegetables, protein and quality carbohydrate foods."
-    ]
-  ],
-  "id": 1,
-  "category": "UP Classics · Protein-Forward",
-  "servings": 2,
-  "image": "/assets/images/recipes/001.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "researched-recipe-draft-nutrition-and-kitchen-testing-pending",
-  "nutritionStatus": "rough-estimate-not-lab-tested",
-  "methodStatus": "stovetop-developed-other-appliance-adaptations-pending",
-  "vegan": true,
-  "calories": 265,
-  "totalTime": 35,
-  "nutritionPerServing": {
-    "calories": 265,
-    "protein_g": 23,
-    "carbohydrate_g": 29,
-    "fibre_g": 7,
-    "fat_g": 8
-  },
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
       "title": "Arbi Sabji | Arbi Recipe | Ghuiya Ki Sabji",
       "url": "https://www.vegrecipesofindia.com/sukhi-arbi-recipe-sukhi-arbi/",
       "note": "Traditional arbi preparation, parboiling, texture control and ajwain-amchur seasoning; our tofu-soy version is an original adaptation.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "cookpad.com",
+      "title": "Client Challenge",
+      "url": "https://cookpad.com/eng/search/colocasia",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "vismaifood.com",
+      "title": "VismaiFood - Arbi Sabzi | Colocasia Curry | Chemagadda Curry | How to Make Arbi Sabzi",
+      "url": "https://vismaifood.com/en/arbi-sabzi-colocasia-curry-chemagadda-curry-how-to-make-arbi-sabzi/print",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "maryzkitchen.com",
+      "title": "Sindhi Arbi / Kachalu Took - Mary'S Kitchen",
+      "url": "https://maryzkitchen.com/sindhi-arbi-kachalu-took/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "cal": 280,
+  "mins": 35
 }

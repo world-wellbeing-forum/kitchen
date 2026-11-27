@@ -1,0 +1,49 @@
+{
+  "id": 147,
+  "name": "Foxtail Millet Khichdi",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 260,
+  "carbs": 41,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 10,
+  "cook": 25,
+  "mins": 35,
+  "ingredients": [
+    "⅓ cup foxtail millet, rinsed",
+    "¼ cup split yellow moong dal, rinsed",
+    "1 cup chopped vegetables (carrot, peas, beans)",
+    "1 tsp oil",
+    "½ tsp cumin seeds",
+    "1 tsp grated ginger",
+    "¼ tsp turmeric",
+    "2½ cups water",
+    "Salt, black pepper and coriander",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil, crackle the cumin and add the ginger.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the millet, dal, vegetables, turmeric and salt and stir for 1 minute.",
+    "Add the water and pressure-cook for 3 whistles, or simmer covered for 25 minutes.",
+    "Rest for 5 minutes, then mash lightly to a soft consistency.",
+    "Finish with pepper and coriander."
+  ],
+  "note": "Foxtail millet is rich in fibre and has a lower glycaemic response than polished rice.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Khichdi",
+      "url": "https://en.wikipedia.org/wiki/Khichdi",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

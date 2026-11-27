@@ -1,0 +1,37 @@
+{
+  "id": 85,
+  "name": "Roasted Pepper Chickpea Soup",
+  "category": "Healthy Soups and Broths",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 240,
+  "carbs": 38,
+  "fiber": 10,
+  "fat": 5,
+  "prep": 10,
+  "cook": 30,
+  "mins": 40,
+  "ingredients": [
+    "2 red bell peppers, halved and deseeded",
+    "1 cup cooked chickpeas",
+    "1 onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "½ tsp smoked paprika",
+    "3 cups vegetable stock",
+    "Lemon juice, salt and black pepper"
+  ],
+  "steps": [
+    "Roast the peppers at 220°C for 20 minutes, or char them over a flame, until blistered. Cover for 5 minutes and peel off the skins.",
+    "Heat the oil and cook the onion and garlic for 5 minutes. Add the paprika.",
+    "Add the peppers, three-quarters of the chickpeas and the stock; simmer for 10 minutes.",
+    "Blend until smooth and stir in the remaining chickpeas.",
+    "Season with lemon juice, salt and pepper."
+  ],
+  "note": "Roasting the peppers gives a smoky sweetness without any added sugar or cream.",
+  "inspirationReferences": [],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "originalDevelopment": true
+}

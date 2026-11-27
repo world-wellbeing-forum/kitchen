@@ -1,0 +1,74 @@
+{
+  "id": 150,
+  "name": "Little Millet Lemon Rice",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 250,
+  "carbs": 33,
+  "fiber": 5,
+  "fat": 8,
+  "prep": 10,
+  "cook": 20,
+  "mins": 30,
+  "ingredients": [
+    "⅓ cup little millet (samai), rinsed",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "1 tsp each chana dal and urad dal",
+    "1 dried red chilli and 8 curry leaves",
+    "1 green chilli, slit",
+    "¼ tsp turmeric",
+    "1 cup water",
+    "Juice of 1 lemon, salt and coriander",
+    "2 tbsp roasted chana (dalia), crushed, for crunch",
+    "100 g firm tofu, crumbled and pan-toasted"
+  ],
+  "steps": [
+    "Cook the millet in 1 cup water with salt for 12–15 minutes until fluffy and dry. Spread on a plate to cool.",
+    "Heat the oil, crackle the mustard, and fry the dals until golden.",
+    "Add the red chilli, green chilli, curry leaves and turmeric.",
+    "Pour over the millet, add the lemon juice and toss gently.",
+    "Toss in the toasted tofu with the lemon juice.",
+    "Top with the roasted chana and coriander."
+  ],
+  "note": "Nut-free: roasted chana provides the crunch usually given by peanuts.",
+  "inspirationReferences": [
+    {
+      "site": "thetastesofindia.com",
+      "title": "Little Millet Pongal Recipe | Samai Pongal | Millet Pongal",
+      "url": "https://thetastesofindia.com/little-millet-pongal-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "orggu.com",
+      "title": "Little Millet Pongal (Samai Pongal) Recipe | Orggu",
+      "url": "https://www.orggu.com/recipes/little-millet-pongal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "kraftedmillets.com",
+      "title": "Little Millet Pongal | Sama Pongal | Samai Pongal | Khara Pongal | Ven – Krafted Millets",
+      "url": "https://kraftedmillets.com/blogs/recipes/little-millet-pongal-sama-pongal-samai-pongal-khara-pongal-ven-pongal-millets-pongal",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "herbsandpulses.com",
+      "title": "Little Millet Pongal / Samai Pongal - Herbs and Pulses",
+      "url": "https://herbsandpulses.com/2021/01/26/little-millet-pongal-samai-pongal/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

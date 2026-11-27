@@ -1,0 +1,47 @@
+{
+  "id": 52,
+  "name": "Quinoa Moong Dal Breakfast Pongal",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 305,
+  "carbs": 45,
+  "fiber": 8,
+  "fat": 7,
+  "prep": 8,
+  "cook": 22,
+  "mins": 30,
+  "ingredients": [
+    "½ cup quinoa, rinsed very well",
+    "¼ cup split yellow moong dal, rinsed",
+    "3 cups water",
+    "½ tsp cumin seeds",
+    "½ tsp black pepper, crushed",
+    "½ tsp grated ginger",
+    "8 curry leaves",
+    "1 tsp oil",
+    "¼ tsp turmeric",
+    "Salt"
+  ],
+  "steps": [
+    "Dry-toast moong dal for 2 minutes in a saucepan until fragrant.",
+    "Add quinoa, water, turmeric and salt. Bring to a boil.",
+    "Cover and simmer 18–20 minutes, stirring occasionally, until quinoa opens and dal is soft.",
+    "Heat oil in a small pan. Add cumin, pepper, ginger and curry leaves; sizzle briefly.",
+    "Stir tempering into the pongal. Add hot water to loosen if needed and serve warm."
+  ],
+  "note": "Quinoa should be rinsed to remove surface saponins. Protein estimate is per serving.",
+  "inspirationReferences": [
+    {
+      "site": "orggu.com",
+      "title": "Little Millet Pongal (Samai Pongal) Recipe | Orggu",
+      "url": "https://www.orggu.com/recipes/little-millet-pongal/",
+      "note": "Reference for millet and moong-dal pongal technique; this version uses quinoa.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

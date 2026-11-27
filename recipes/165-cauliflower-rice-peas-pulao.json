@@ -1,0 +1,46 @@
+{
+  "id": 165,
+  "name": "Cauliflower Rice Peas Pulao",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 195,
+  "carbs": 26,
+  "fiber": 9,
+  "fat": 5,
+  "prep": 10,
+  "cook": 12,
+  "mins": 22,
+  "ingredients": [
+    "300 g cauliflower, grated into rice-size pieces",
+    "¾ cup green peas",
+    "¼ cup cooked quinoa or brown rice",
+    "1 small onion, sliced",
+    "1 tsp oil",
+    "1 bay leaf, 2 cloves and ½ tsp cumin seeds",
+    "1 tsp ginger and 1 green chilli, minced",
+    "¼ tsp turmeric and ½ tsp garam masala",
+    "Salt, lemon juice and coriander"
+  ],
+  "steps": [
+    "Heat the oil and crackle the whole spices. Add the onion and cook for 4 minutes.",
+    "Add ginger and chilli, then the peas and turmeric. Cook for 3 minutes.",
+    "Add the grated cauliflower and quinoa and stir-fry on high heat for 4 minutes; do not add water.",
+    "Season with garam masala and salt.",
+    "Finish with lemon juice and coriander."
+  ],
+  "note": "A lower-carbohydrate pulao; the cauliflower is cooked briefly to keep it from turning soggy.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Cauliflower",
+      "url": "https://en.wikipedia.org/wiki/Cauliflower",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

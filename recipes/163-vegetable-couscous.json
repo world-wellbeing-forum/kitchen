@@ -1,0 +1,49 @@
+{
+  "id": 163,
+  "name": "Vegetable Couscous",
+  "category": "Healthy Rice, Millet and Grain Dishes",
+  "servings": 2,
+  "vegan": true,
+  "protein": 13,
+  "cal": 275,
+  "carbs": 44,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 10,
+  "cook": 15,
+  "mins": 25,
+  "ingredients": [
+    "⅓ cup whole-wheat couscous",
+    "½ cup cooked chickpeas",
+    "1 carrot, 1 zucchini and 1 small bell pepper, diced",
+    "1 small onion, chopped",
+    "2 garlic cloves",
+    "1 tsp olive oil",
+    "½ tsp each cumin and paprika",
+    "¾ cup hot vegetable stock",
+    "Lemon juice, salt and parsley",
+    "1 extra cup non-starchy vegetables (spinach, cabbage or green beans), chopped"
+  ],
+  "steps": [
+    "Heat the oil and cook the onion and garlic for 3 minutes. Add the spices and vegetables and cook for 5 minutes.",
+    "Add the extra chopped vegetables together with the other vegetables.",
+    "Add the chickpeas and cook for 2 minutes.",
+    "Place the couscous in a bowl and pour over the hot stock. Cover and rest for 5 minutes.",
+    "Fluff with a fork and fold in the vegetables.",
+    "Finish with lemon juice, salt and parsley."
+  ],
+  "note": "Whole-wheat couscous cooks in minutes and has more fibre than regular.",
+  "inspirationReferences": [
+    {
+      "site": "Wikipedia",
+      "title": "Couscous",
+      "url": "https://en.wikipedia.org/wiki/Couscous",
+      "note": "Background on the dish and its traditional preparation. Our recipe is an independent, plant-forward adaptation.",
+      "referenceType": "dish-background",
+      "linkCheck": "loaded-ok (MediaWiki API)"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate",
+  "rebalanced": true
+}

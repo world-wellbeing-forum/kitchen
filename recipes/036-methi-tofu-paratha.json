@@ -2,14 +2,16 @@
   "id": 36,
   "name": "Methi Tofu Paratha",
   "category": "Healthy Indian Breakfasts",
+  "servings": 2,
+  "vegan": true,
   "protein": 19,
   "cal": 315,
   "carbs": 39,
   "fiber": 7,
   "fat": 9,
-  "mins": 30,
   "prep": 15,
   "cook": 15,
+  "mins": 30,
   "ingredients": [
     "1 cup whole-wheat flour",
     "100 g firm tofu, finely crumbled",
@@ -30,20 +32,24 @@
     "Cook until brown spots appear and the centre is cooked. Serve with plain soy yogurt or raita."
   ],
   "note": "Tofu adds moisture, so add water gradually. Vegan when served without dairy accompaniments.",
-  "vegan": true,
-  "servings": 2,
-  "image": "/assets/images/recipes/036.webp",
-  "imageStatus": "dish-specific-photo-pending",
-  "editorialStatus": "draft-requires-source-and-kitchen-review",
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Methi Paratha Recipe (Methi ke Parathe)",
+      "title": "Methi Paratha Recipe",
       "url": "https://www.vegrecipesofindia.com/methi-paratha/",
       "note": "Fresh methi handling, dough mixing and tawa-roasting technique; tofu-stuffed adaptation is original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "methi paratha recipe | methi ka paratha | fenugreek paratha recipe",
+      "url": "https://hebbarskitchen.com/methi-paratha-recipe-methi-ka-paratha/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

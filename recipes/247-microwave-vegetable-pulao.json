@@ -1,0 +1,63 @@
+{
+  "id": 247,
+  "name": "Microwave Vegetable Pulao",
+  "category": "Microwave-Friendly Meals",
+  "servings": 2,
+  "vegan": true,
+  "protein": 11,
+  "cal": 265,
+  "carbs": 44,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 10,
+  "cook": 18,
+  "mins": 28,
+  "ingredients": [
+    "⅓ cup basmati rice, rinsed and soaked 15 minutes",
+    "½ cup cooked chickpeas",
+    "1 cup mixed vegetables (carrot, peas, beans), diced",
+    "1 tsp oil",
+    "½ tsp cumin seeds, 1 bay leaf, 2 cloves",
+    "1 tsp ginger-garlic paste",
+    "½ tsp garam masala",
+    "¾ cup hot water",
+    "Salt and coriander"
+  ],
+  "steps": [
+    "In a large microwave-safe bowl, microwave the oil, cumin, bay leaf and cloves on high for 1 minute.",
+    "Add the ginger-garlic paste, vegetables and garam masala; microwave 2 minutes.",
+    "Add the drained rice, chickpeas, water and salt. Stir.",
+    "Cover with a vented lid and microwave on high for 5 minutes, then at 50% for 10 minutes.",
+    "Stand covered for 5 minutes, fluff and add coriander."
+  ],
+  "note": "Soaked rice cooks evenly in the microwave; the chickpeas lift the protein.",
+  "methodLabel": "Microwave method (800–1000 W)",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Methi Pulao | Methi Rice",
+      "url": "https://www.vegrecipesofindia.com/methi-pulao-recipe/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Vegetable Pulao Recipe Veg Pulao",
+      "url": "https://www.vegrecipesofindia.com/vegetable-pulao-recipe-veg-pulao/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Shahi Pulao Recipe Shahi Veg Pulao",
+      "url": "https://hebbarskitchen.com/shahi-pulao-recipe-shahi-veg-pulao/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

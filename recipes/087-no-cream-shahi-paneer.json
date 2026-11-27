@@ -1,0 +1,72 @@
+{
+  "id": 87,
+  "name": "No-Cream Shahi Paneer",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": false,
+  "protein": 19,
+  "cal": 250,
+  "carbs": 16,
+  "fiber": 3,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "150 g low-fat paneer, cubed",
+    "2 onions, boiled until soft",
+    "2 tomatoes, chopped",
+    "2 tbsp silken tofu",
+    "2 tbsp plain low-fat yogurt, whisked",
+    "2 green cardamom pods and 2 cloves",
+    "1 tsp canola oil",
+    "2.5 cm ginger and 2 garlic cloves",
+    "½ tsp coriander powder",
+    "¼ tsp garam masala",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Blend the boiled onions, tomatoes, ginger and garlic to a smooth paste.",
+    "Heat the oil, crackle the cardamom and cloves, then pour in the paste. Cook on low heat for 8 minutes, stirring often.",
+    "Add coriander powder and ½ cup water, then stir in the yogurt off the heat to prevent curdling.",
+    "Whisk in the silken tofu and simmer gently for 3 minutes.",
+    "Add the paneer and garam masala, simmer for 2 minutes and season."
+  ],
+  "note": "A mild, creamy Mughlai-style gravy without cream or nuts.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Shahi Paneer",
+      "url": "https://www.vegrecipesofindia.com/shahi-paneer/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "ಶಾಹಿ ಪನೀರ್ ರೆಸಿಪಿ | shahi paneer in kannada | ಶಾಹಿ ಪನೀರ್ ಮಸಾಲ",
+      "url": "https://hebbarskitchen.com/shahi-paneer-recipe-shahi-paneer-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "shahi paratha recipe | shahi paneer paratha | dry fruit stuffed paratha",
+      "url": "https://hebbarskitchen.com/shahi-paratha-recipe-shahi-paneer/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mughlai Shahi Paneer Korma Recipe",
+      "url": "https://www.vegrecipesofindia.com/mughlai-shahi-paneer-korma-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

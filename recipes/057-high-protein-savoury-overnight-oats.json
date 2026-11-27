@@ -1,0 +1,55 @@
+{
+  "id": 57,
+  "name": "High-Protein Savoury Overnight Oats",
+  "category": "Protein-Rich Breakfasts",
+  "servings": 2,
+  "vegan": true,
+  "protein": 20,
+  "cal": 310,
+  "carbs": 38,
+  "fiber": 8,
+  "fat": 9,
+  "prep": 10,
+  "cook": 0,
+  "mins": 10,
+  "ingredients": [
+    "½ cup rolled oats",
+    "¾ cup plain unsweetened high-protein soy milk",
+    "½ cup plain unsweetened soy yogurt",
+    "1 tbsp chia seeds",
+    "½ cup grated cucumber",
+    "¼ cup grated carrot",
+    "½ tsp roasted cumin powder",
+    "1 tbsp lemon juice",
+    "2 tbsp chopped mint",
+    "1 tbsp pumpkin seeds"
+  ],
+  "steps": [
+    "Combine oats, soy milk, soy yogurt and chia in a lidded container.",
+    "Cover and refrigerate at least 6 hours or overnight.",
+    "In the morning, stir well; add a splash of soy milk if too thick.",
+    "Fold in cucumber, carrot, cumin, lemon and mint.",
+    "Top with pumpkin seeds and serve chilled. Keep refrigerated until eating."
+  ],
+  "note": "Use unsweetened fortified soy milk and yogurt. Nutrition depends on the protein content of the brands selected.",
+  "inspirationReferences": [
+    {
+      "site": "fitlives.in",
+      "title": "High-Protein Vegetarian Indian Breakfast Ideas | fitlives",
+      "url": "https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905",
+      "note": "Reference for overnight oats as a protein-rich breakfast; this savoury soy-based version is our adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    },
+    {
+      "site": "washingtonpost.com",
+      "title": "Savory Indian-Style Oats (Oats Upma) Recipe - The Washington Post",
+      "url": "https://www.washingtonpost.com/recipes/oats-upma/",
+      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

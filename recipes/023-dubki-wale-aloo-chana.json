@@ -2,11 +2,15 @@
   "id": 23,
   "name": "Dubki Wale Aloo Chana",
   "category": "Dal & Beans",
+  "servings": 2,
+  "vegan": true,
   "protein": 11,
   "cal": 185,
   "carbs": 29,
   "fiber": 7,
   "fat": 4,
+  "prep": 9,
+  "cook": 16,
   "mins": 25,
   "ingredients": [
     "1 small potato",
@@ -21,19 +25,16 @@
     "Add water, simmer and garnish."
   ],
   "note": "Use more kala chana and less potato.",
-  "image": "/assets/images/recipes/023.webp",
-  "imageStatus": "image-not-yet-created",
-  "editorialStatus": "draft-requires-recipe-and-source-review",
-  "sourceReferences": [],
-  "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing",
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Mathura ke Dubki wale Aloo",
+      "title": "58 Tasty Potato Recipes (Vegetarian)",
       "url": "https://www.vegrecipesofindia.com/mathura-ke-dubki-wale-aloo-recipe/",
       "note": "Mathura-style thin, spiced potato gravy and serving tradition; chickpea addition is original.",
-      "referenceType": "culinary-inspiration"
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
     }
-  ]
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
 }

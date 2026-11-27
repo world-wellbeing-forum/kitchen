@@ -1,0 +1,47 @@
+{
+  "id": 226,
+  "name": "Air-Fryer Gobi and Tofu 65",
+  "category": "Air-Fryer Vegetarian Favourites",
+  "servings": 2,
+  "vegan": true,
+  "protein": 17,
+  "cal": 225,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 5,
+  "prep": 20,
+  "cook": 18,
+  "mins": 38,
+  "ingredients": [
+    "300 g cauliflower florets",
+    "100 g extra-firm tofu, cubed",
+    "2 tbsp besan and 1 tbsp cornflour",
+    "2 tbsp plain unsweetened soy yogurt",
+    "1 tsp ginger-garlic paste",
+    "1 tsp Kashmiri chilli powder, ½ tsp each coriander powder and garam masala",
+    "1 tsp oil, plus oil spray",
+    "8 curry leaves and 2 green chillies, slit",
+    "Lemon juice and salt"
+  ],
+  "steps": [
+    "Mix the besan, cornflour, yogurt, ginger-garlic paste, spices and salt into a thick paste. Coat the cauliflower and tofu.",
+    "Preheat the air fryer to 190°C.",
+    "Spray the basket, add the coated pieces in a single layer and cook for 14 minutes, shaking at 7 minutes, until crisp.",
+    "Heat the oil in a small pan and fry the curry leaves and chillies for 30 seconds.",
+    "Toss the 65 in the tempering and finish with lemon juice."
+  ],
+  "note": "A tofu-boosted version of the classic fried Gobi 65.",
+  "methodLabel": "Air-fryer method",
+  "inspirationReferences": [
+    {
+      "site": "Hebbars Kitchen",
+      "title": "Gobi 65 Recipe Cauliflower 65",
+      "url": "https://hebbarskitchen.com/gobi-65-recipe-cauliflower-65/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}

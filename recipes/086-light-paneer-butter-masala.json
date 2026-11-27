@@ -1,0 +1,56 @@
+{
+  "id": 86,
+  "name": "Light Paneer Butter Masala",
+  "category": "Indian Vegetarian Classics Reimagined",
+  "servings": 2,
+  "vegan": false,
+  "protein": 18,
+  "cal": 235,
+  "carbs": 14,
+  "fiber": 3,
+  "fat": 12,
+  "prep": 15,
+  "cook": 20,
+  "mins": 35,
+  "ingredients": [
+    "150 g low-fat paneer, cubed",
+    "4 ripe tomatoes, chopped",
+    "1 small onion, chopped",
+    "3 garlic cloves and 2.5 cm ginger",
+    "1 tsp canola oil",
+    "½ tsp Kashmiri chilli powder",
+    "½ tsp coriander powder",
+    "½ tsp garam masala",
+    "1 tsp kasuri methi (dried fenugreek), crushed",
+    "¼ cup (60 g) silken tofu, for creaminess",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Heat the oil and cook onion, garlic and ginger for 5 minutes. Add the tomatoes and cook for 10 minutes until completely soft.",
+    "Cool slightly and blend with the silken tofu to a smooth, creamy sauce.",
+    "Return to the pan with the chilli, coriander powder and ½ cup water. Simmer for 5 minutes.",
+    "Add the paneer and simmer for 3 minutes. Do not overcook, or it turns rubbery.",
+    "Finish with garam masala, kasuri methi and salt."
+  ],
+  "note": "The silken tofu replaces butter and cream, cutting saturated fat while keeping the sauce rich.",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Butter Masala",
+      "url": "https://www.vegrecipesofindia.com/paneer-butter-masala/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "पनीर बटर मसाला रेसिपी | paneer butter masala in hindi | पनीर मखनी | बटर पनीर",
+      "url": "https://hebbarskitchen.com/paneer-butter-masala-recipe/",
+      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "loaded-ok"
+    }
+  ],
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "nutritionStatus": "estimate"
+}
