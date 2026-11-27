@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Chole Recipe (Punjabi Chole Masala)",
+      "url": "https://www.vegrecipesofindia.com/punjabi-chole-chickpeas-in-a-spicy-gravy/",
+      "note": "Punjabi chickpea soaking, pressure-cooking and roasted spice blend; our heart-conscious measured-oil formulation is original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
