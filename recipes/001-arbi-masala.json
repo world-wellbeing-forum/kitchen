@@ -1,28 +1,71 @@
 {
-  "id": 1,
-  "name": "Arbi Masala",
-  "category": "Sabzi",
-  "protein": 14,
-  "cal": 215,
-  "carbs": 28,
-  "fiber": 6,
-  "fat": 5,
-  "mins": 30,
+  "path": "recipes/001-arbi-masala.json",
+  "name": "Arbi Masala with Soy-Tofu Crumble",
+  "protein": 23,
+  "carbs": 29,
+  "fiber": 7,
+  "fat": 8,
+  "prep": 15,
+  "cook": 20,
   "ingredients": [
-    "200 g arbi, boiled and sliced",
-    "½ cup cooked soy granules",
-    "1 tsp mustard oil",
-    "Ajwain, turmeric, coriander, amchur and chilli"
+    "300 g arbi (taro root), scrubbed and boiled until just tender, peeled and cut into 2 cm pieces",
+    "150 g extra-firm tofu, pressed and crumbled",
+    "30 g dry soy granules, rehydrated in hot water and squeezed dry",
+    "1 tsp (5 ml) mustard or canola oil",
+    "½ tsp ajwain",
+    "½ tsp cumin seeds",
+    "½ tsp ground coriander",
+    "¼ tsp turmeric",
+    "½ tsp amchur, or to taste",
+    "½ tsp Kashmiri chilli powder (optional)",
+    "1 small tomato, finely chopped",
+    "1 cup chopped spinach or methi leaves",
+    "2 tbsp chopped coriander",
+    "Lemon juice and a modest pinch of salt"
   ],
   "steps": [
-    "Boil, peel and slice the arbi.",
-    "Heat oil; add ajwain and spices.",
-    "Add arbi and cooked soy granules.",
-    "Cook until lightly crisp; finish with amchur and coriander."
+    "Boil the arbi until a knife enters with slight resistance; drain, cool, peel and cut. Avoid overboiling so the pieces hold their shape.",
+    "Soak soy granules in boiling water for 8–10 minutes. Drain, rinse once and squeeze firmly. Press and crumble the tofu.",
+    "Heat the measured oil in a wide non-stick pan. Add cumin and ajwain; let them sizzle briefly without burning.",
+    "Add tomato, turmeric, coriander and chilli. Cook until softened, adding a splash of water instead of extra oil if the pan dries.",
+    "Stir in soy granules and tofu; cook 4–5 minutes until hot and lightly browned.",
+    "Add arbi and fold gently so the pieces remain intact. Cook 5–7 minutes, turning occasionally.",
+    "Add spinach or methi and cook until wilted. Finish with amchur, coriander and lemon. Taste before adding more salt."
   ],
-  "note": "Keep the arbi portion moderate; soy adds protein.",
-  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=1",
-  "editorialStatus": "recipe-draft-needs-testing",
-  "sourceReferences": [],
-  "imageStatus": "placeholder-url-not-cleared-for-publication"
+  "note": "A lighter, higher-protein take on UP-style arbi. Taro is a starchy root, so serve a moderate portion alongside extra non-starchy vegetables; it is not a low-carbohydrate food. Vegan. Nutrition is an approximate calculation and depends on tofu and soy brands.",
+  "sourceReferences": [
+    [
+      "USDA FoodData Central",
+      "https://fdc.nal.usda.gov/",
+      "Ingredient nutrition reference; calculate with the specific brands and cooked weights used."
+    ],
+    [
+      "2026 ACC/AHA Dyslipidemia Guideline",
+      "https://www.jacc.org/doi/10.1016/j.jacc.2025.11.016",
+      "Supports a pattern rich in legumes, whole grains and fibre, with saturated fat replaced by unsaturated fat."
+    ],
+    [
+      "American Diabetes Association – Diabetes Plate",
+      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
+      "Portion framework: non-starchy vegetables, protein and quality carbohydrate foods."
+    ]
+  ],
+  "id": 1,
+  "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "image": "/assets/images/recipes/001.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "researched-recipe-draft-nutrition-and-kitchen-testing-pending",
+  "nutritionStatus": "rough-estimate-not-lab-tested",
+  "methodStatus": "stovetop-developed-other-appliance-adaptations-pending",
+  "vegan": true,
+  "calories": 265,
+  "totalTime": 35,
+  "nutritionPerServing": {
+    "calories": 265,
+    "protein_g": 23,
+    "carbohydrate_g": 29,
+    "fibre_g": 7,
+    "fat_g": 8
+  }
 }
