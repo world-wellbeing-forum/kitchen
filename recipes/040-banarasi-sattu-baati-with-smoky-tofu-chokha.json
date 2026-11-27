@@ -1,0 +1,63 @@
+{
+  "id": 40,
+  "name": "Banarasi Sattu Baati with Smoky Tofu Chokha",
+  "category": "UP Classics · Protein-Forward",
+  "protein": 22,
+  "cal": 390,
+  "carbs": 52,
+  "fiber": 11,
+  "fat": 11,
+  "mins": 55,
+  "prep": 25,
+  "cook": 30,
+  "vegan": true,
+  "ingredients": [
+    "120 g whole-wheat atta",
+    "80 g sattu (roasted chana flour)",
+    "120 g extra-firm tofu, pressed and finely crumbled",
+    "1 medium baingan (about 250 g)",
+    "1 tomato",
+    "1 small onion, finely chopped",
+    "1 green chilli, finely chopped",
+    "1 tsp (5 ml) mustard oil, divided",
+    "½ tsp ajwain",
+    "½ tsp nigella seeds (kalonji)",
+    "1 tsp lemon juice",
+    "½ tsp roasted cumin powder",
+    "2 tbsp chopped coriander",
+    "Warm water for dough; modest salt"
+  ],
+  "steps": [
+    "Mix atta, ajwain and a pinch of salt. Add water gradually and knead into a firm, smooth dough. Cover and rest 15 minutes.",
+    "For filling, combine sattu, crumbled tofu, onion, chilli, nigella, lemon, cumin, coriander and half the measured mustard oil. Add 1–2 tbsp water so the filling clumps when pressed but is not wet.",
+    "Prick baingan and tomato. Roast over a gas flame or under a hot grill, turning until the skins char and the flesh softens. Cool, peel and mash with a fork.",
+    "Mix the mashed baingan and tomato with a little onion, chilli, coriander, remaining mustard oil and salt to make chokha. Keep the mustard oil measured; add lemon if desired.",
+    "Divide dough into 4 balls. Flatten each, add one-quarter of the sattu-tofu filling, seal carefully and roll gently into thick rounds.",
+    "Bake on a preheated tray at 200°C / 400°F for about 20–25 minutes, turning once, until cooked through and lightly browned. Alternatively cook covered on a heavy skillet over low heat, turning frequently; finish over direct flame only if safe and desired.",
+    "Rest baati for 5 minutes. Serve with smoky chokha and extra cooked greens or salad vegetables. Do not dip in ghee; the measured mustard oil provides the fat in this adaptation."
+  ],
+  "note": "Inspired by Banarasi baati-chokha, itself a Varanasi adaptation of the litti-chokha tradition. Sattu provides plant protein and fibre; the whole-wheat shell still contributes substantial carbohydrate. This is a hearty meal: consider one baati with extra chokha and vegetables if a smaller carbohydrate portion suits your plan. Vegan.",
+  "sourceReferences": [
+    [
+      "Sahasa – Banarasi Baati Chokha",
+      "https://sahasa.org/2022/03/15/banarasi-baati-chokha/",
+      "Cultural and culinary reference describing Varanasi baati-chokha, sattu-stuffed wheat baati and roasted baingan chokha; this tofu-enhanced filling and reduced oil are our adaptation."
+    ],
+    [
+      "Etato – Banarasi Litti Chokha",
+      "https://etato.in/recipes/banarasi-litti-chokha",
+      "Additional culinary reference for the sattu filling and smoky chokha; this recipe changes proportions and uses tofu."
+    ],
+    [
+      "American Diabetes Association – Diabetes Plate",
+      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
+      "Use meal-level portions: non-starchy vegetables, protein and quality carbohydrate foods; this baati contributes a substantial carbohydrate portion."
+    ]
+  ],
+  "servings": 2,
+  "image": "/assets/images/recipes/040.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
+  "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+}
