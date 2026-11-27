@@ -12,7 +12,8 @@ function renderPlanner(){let options='<option value="">Choose a recipe…</optio
 function setMeal(d,m,v){planner[d]=planner[d]||{};if(v)planner[d][m]=Number(v);else delete planner[d][m];renderPlanner()}
 function selectedRecipes(){let ids=days.flatMap(d=>["lunch","dinner"].map(m=>planner[d]?.[m]).filter(Boolean));return [...new Set(ids)].map(id=>recipes.find(r=>r.id===id)).filter(Boolean)}
 function renderShopping(){let items={};selectedRecipes().forEach(r=>r.ingredients.forEach(i=>{let key=i.split(",")[0].toLowerCase().trim();items[key]=i}));let vals=Object.values(items);$("shoppingCount").textContent=vals.length+" ingredients";$("shoppingList").innerHTML=vals.length?vals.map((v,i)=>`<label><input type="checkbox" ${checked.has(v)?"checked":""} onchange="this.checked?checked.add(${JSON.stringify(v)}):checked.delete(${JSON.stringify(v)})"><span>${v}</span></label>`).join(""):"<p class='muted'>Choose lunch or dinner recipes in the weekly planner to generate your shopping list.</p>"}
-function copyShopping(){let text=Object.values(Object.fromEntries(selectedRecipes().flatMap(r=>r.ingredients.map(i=>[i.split(",")[0].toLowerCase().trim(),i])))).join("\\n");if(navigator.clipboard?.writeText)navigator.clipboard.writeText(text).then(()=>alert("Shopping list copied."));else alert(text||"Add recipes to your planner first.")}
+function copyShopping(){let text=Object.values(Object.fromEntries(selectedRecipes().flatMap(r=>r.ingredients.map(i=>[i.split(",")[0].toLowerCase().trim(),i])))).join("\
+");if(navigator.clipboard?.writeText)navigator.clipboard.writeText(text).then(()=>alert("Shopping list copied."));else alert(text||"Add recipes to your planner first.")}
 function updateTracker(){let goal=Math.max(1,Number($("goal").value)||100),total=["breakfast","lunch","dinner","snacks"].reduce((s,id)=>s+(Number($(id).value)||0),0),pct=Math.min(100,total/goal*100);$("proteinTotal").textContent=total+" g consumed";$("proteinRemaining").textContent=Math.max(0,goal-total)+" g to goal";$("proteinBar").style.width=pct+"%";$("proteinMessage").textContent=total>=goal?"You've reached your entered protein target.":`You've logged ${Math.round(pct)}% of your entered daily target.`}
 ["goal","breakfast","lunch","dinner","snacks"].forEach(id=>$(id).addEventListener("input",updateTracker));
 
@@ -67,4 +68,5 @@ expandedRecipes.splice(20,20,...curatedProteinBreakfasts);
 recipes.push(...expandedRecipes.slice(0,275));
 // Attach representative food photography and appliance timing metadata to the original recipes.
 recipes.forEach((r,i)=>{ r.image="https://loremflickr.com/900/600/vegetarian,food?lock="+r.id; if(!r.prep) r.prep=Math.max(5,Math.round(r.mins*.35)); if(!r.cook) r.cook=r.mins-r.prep; if(r.vegan===undefined) r.vegan=![15,18].includes(r.id); });
-\nrenderFilters();renderRecipes();renderPlanner();updateTracker();
+
+renderFilters();renderRecipes();renderPlanner();updateTracker();
