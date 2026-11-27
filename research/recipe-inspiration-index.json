@@ -1,0 +1,986 @@
+{
+  "title": "Recipe inspiration reference index",
+  "purpose": "Research inspiration only. Do not copy text, ingredient lists, photos, or instructions. Develop original World Wellbeing Kitchen recipes and cite the exact pages actually consulted in each recipe JSON.",
+  "sites": [
+    {
+      "name": "Dassana's Veg Recipes",
+      "homepage": "https://www.vegrecipesofindia.com/",
+      "searchPattern": "https://www.vegrecipesofindia.com/?s={url_encoded_query}",
+      "use": "vegetarian Indian technique and home-style recipe comparison"
+    },
+    {
+      "name": "Hebbars Kitchen",
+      "homepage": "https://hebbarskitchen.com/",
+      "searchPattern": "https://hebbarskitchen.com/?s={url_encoded_query}",
+      "use": "step-by-step preparation and regional variation comparison"
+    },
+    {
+      "name": "Archana's Kitchen",
+      "homepage": "https://www.archanaskitchen.com/",
+      "searchPattern": "https://www.archanaskitchen.com/?s={url_encoded_query}",
+      "use": "North Indian and everyday vegetarian recipe inspiration"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "001",
+      "name": "Arbi Masala",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=arbi%20colocasia%20curry",
+          "query": "arbi colocasia curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=arbi%20colocasia%20curry",
+          "query": "arbi colocasia curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=arbi%20colocasia%20curry",
+          "query": "arbi colocasia curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Matar Nimona",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=UP%20matar%20nimona%20green%20peas%20curry",
+          "query": "UP matar nimona green peas curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=UP%20matar%20nimona%20green%20peas%20curry",
+          "query": "UP matar nimona green peas curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=UP%20matar%20nimona%20green%20peas%20curry",
+          "query": "UP matar nimona green peas curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Aloo Methi",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=aloo%20methi%20fenugreek%20sabzi",
+          "query": "aloo methi fenugreek sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=aloo%20methi%20fenugreek%20sabzi",
+          "query": "aloo methi fenugreek sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=aloo%20methi%20fenugreek%20sabzi",
+          "query": "aloo methi fenugreek sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "Gobhi Matar",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=gobhi%20matar%20cauliflower%20peas",
+          "query": "gobhi matar cauliflower peas",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=gobhi%20matar%20cauliflower%20peas",
+          "query": "gobhi matar cauliflower peas",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=gobhi%20matar%20cauliflower%20peas",
+          "query": "gobhi matar cauliflower peas",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "Kathal Soy Masala",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=kathal%20jackfruit%20curry",
+          "query": "kathal jackfruit curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=kathal%20jackfruit%20curry",
+          "query": "kathal jackfruit curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=kathal%20jackfruit%20curry",
+          "query": "kathal jackfruit curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "Banarasi Kaddu",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=Banarasi%20kaddu%20pumpkin%20sabzi",
+          "query": "Banarasi kaddu pumpkin sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=Banarasi%20kaddu%20pumpkin%20sabzi",
+          "query": "Banarasi kaddu pumpkin sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=Banarasi%20kaddu%20pumpkin%20sabzi",
+          "query": "Banarasi kaddu pumpkin sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "Baingan Tofu Bharta",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=baingan%20bharta%20smoked%20eggplant",
+          "query": "baingan bharta smoked eggplant",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=baingan%20bharta%20smoked%20eggplant",
+          "query": "baingan bharta smoked eggplant",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=baingan%20bharta%20smoked%20eggplant",
+          "query": "baingan bharta smoked eggplant",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "Aloo Chana Rasedar",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=aloo%20chana%20curry",
+          "query": "aloo chana curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=aloo%20chana%20curry",
+          "query": "aloo chana curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=aloo%20chana%20curry",
+          "query": "aloo chana curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "Bharwa Parwal Tofu",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bharwa%20parwal%20stuffed%20pointed%20gourd",
+          "query": "bharwa parwal stuffed pointed gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bharwa%20parwal%20stuffed%20pointed%20gourd",
+          "query": "bharwa parwal stuffed pointed gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bharwa%20parwal%20stuffed%20pointed%20gourd",
+          "query": "bharwa parwal stuffed pointed gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "name": "Lauki Chana Dal",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=lauki%20chana%20dal%20bottle%20gourd%20lentils",
+          "query": "lauki chana dal bottle gourd lentils",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=lauki%20chana%20dal%20bottle%20gourd%20lentils",
+          "query": "lauki chana dal bottle gourd lentils",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=lauki%20chana%20dal%20bottle%20gourd%20lentils",
+          "query": "lauki chana dal bottle gourd lentils",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "name": "Bharwa Karela",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bharwa%20karela%20stuffed%20bitter%20gourd",
+          "query": "bharwa karela stuffed bitter gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bharwa%20karela%20stuffed%20bitter%20gourd",
+          "query": "bharwa karela stuffed bitter gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bharwa%20karela%20stuffed%20bitter%20gourd",
+          "query": "bharwa karela stuffed bitter gourd",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "name": "Aloo Parwal Tofu",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=aloo%20parwal%20sabzi",
+          "query": "aloo parwal sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=aloo%20parwal%20sabzi",
+          "query": "aloo parwal sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=aloo%20parwal%20sabzi",
+          "query": "aloo parwal sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "UP Chana Dal",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=UP%20style%20chana%20dal",
+          "query": "UP style chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=UP%20style%20chana%20dal",
+          "query": "UP style chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=UP%20style%20chana%20dal",
+          "query": "UP style chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Palak Tofu",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=palak%20tofu%20spinach%20curry",
+          "query": "palak tofu spinach curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=palak%20tofu%20spinach%20curry",
+          "query": "palak tofu spinach curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=palak%20tofu%20spinach%20curry",
+          "query": "palak tofu spinach curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "Light Dum Aloo",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=dum%20aloo%20Kashmiri%20or%20Banarasi",
+          "query": "dum aloo Kashmiri or Banarasi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=dum%20aloo%20Kashmiri%20or%20Banarasi",
+          "query": "dum aloo Kashmiri or Banarasi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=dum%20aloo%20Kashmiri%20or%20Banarasi",
+          "query": "dum aloo Kashmiri or Banarasi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "name": "Bari Aloo Tofu",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bari%20aloo%20badi%20curry",
+          "query": "bari aloo badi curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bari%20aloo%20badi%20curry",
+          "query": "bari aloo badi curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bari%20aloo%20badi%20curry",
+          "query": "bari aloo badi curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "name": "Bhindi Soy Masala",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bhindi%20masala%20okra",
+          "query": "bhindi masala okra",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bhindi%20masala%20okra",
+          "query": "bhindi masala okra",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bhindi%20masala%20okra",
+          "query": "bhindi masala okra",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "name": "Protein Gatte Curry",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=Rajasthani%20gatte%20ki%20sabzi",
+          "query": "Rajasthani gatte ki sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=Rajasthani%20gatte%20ki%20sabzi",
+          "query": "Rajasthani gatte ki sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=Rajasthani%20gatte%20ki%20sabzi",
+          "query": "Rajasthani gatte ki sabzi",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "name": "Mooli Moong Dal",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=mooli%20moong%20dal%20radish%20lentil",
+          "query": "mooli moong dal radish lentil",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=mooli%20moong%20dal%20radish%20lentil",
+          "query": "mooli moong dal radish lentil",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=mooli%20moong%20dal%20radish%20lentil",
+          "query": "mooli moong dal radish lentil",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "Heart Friendly Chole",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=Punjabi%20chole%20chickpea%20curry",
+          "query": "Punjabi chole chickpea curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=Punjabi%20chole%20chickpea%20curry",
+          "query": "Punjabi chole chickpea curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=Punjabi%20chole%20chickpea%20curry",
+          "query": "Punjabi chole chickpea curry",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "UP Rajma Masala",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=rajma%20masala%20kidney%20beans",
+          "query": "rajma masala kidney beans",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=rajma%20masala%20kidney%20beans",
+          "query": "rajma masala kidney beans",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=rajma%20masala%20kidney%20beans",
+          "query": "rajma masala kidney beans",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "Baked Bedmi Puri",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bedmi%20puri%20urad%20dal%20kachori",
+          "query": "bedmi puri urad dal kachori",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bedmi%20puri%20urad%20dal%20kachori",
+          "query": "bedmi puri urad dal kachori",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bedmi%20puri%20urad%20dal%20kachori",
+          "query": "bedmi puri urad dal kachori",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "Dubki Wale Aloo Chana",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=Mathura%20dubki%20wale%20aloo",
+          "query": "Mathura dubki wale aloo",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=Mathura%20dubki%20wale%20aloo",
+          "query": "Mathura dubki wale aloo",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=Mathura%20dubki%20wale%20aloo",
+          "query": "Mathura dubki wale aloo",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "name": "Kachalu Protein Chaat",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=kachalu%20chaat%20arbi%20chaat",
+          "query": "kachalu chaat arbi chaat",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=kachalu%20chaat%20arbi%20chaat",
+          "query": "kachalu chaat arbi chaat",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=kachalu%20chaat%20arbi%20chaat",
+          "query": "kachalu chaat arbi chaat",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "name": "Vegetable Soy Tahri",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=UP%20vegetable%20tahri%20tehri",
+          "query": "UP vegetable tahri tehri",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=UP%20vegetable%20tahri%20tehri",
+          "query": "UP vegetable tahri tehri",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=UP%20vegetable%20tahri%20tehri",
+          "query": "UP vegetable tahri tehri",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "name": "Moong Dal Chilla",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=moong%20dal%20chilla",
+          "query": "moong dal chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=moong%20dal%20chilla",
+          "query": "moong dal chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=moong%20dal%20chilla",
+          "query": "moong dal chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "name": "Besan Vegetable Cheela",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=besan%20chilla",
+          "query": "besan chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=besan%20chilla",
+          "query": "besan chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=besan%20chilla",
+          "query": "besan chilla",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "name": "Vegetable Oats Upma",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=vegetable%20oats%20upma",
+          "query": "vegetable oats upma",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=vegetable%20oats%20upma",
+          "query": "vegetable oats upma",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=vegetable%20oats%20upma",
+          "query": "vegetable oats upma",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "name": "Vegetable Poha with Peas",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=matar%20poha%20vegetable%20poha",
+          "query": "matar poha vegetable poha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=matar%20poha%20vegetable%20poha",
+          "query": "matar poha vegetable poha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=matar%20poha%20vegetable%20poha",
+          "query": "matar poha vegetable poha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "name": "Ragi Onion Dosa",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=ragi%20dosa%20onion",
+          "query": "ragi dosa onion",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=ragi%20dosa%20onion",
+          "query": "ragi dosa onion",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=ragi%20dosa%20onion",
+          "query": "ragi dosa onion",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "name": "Tofu Bhurji Breakfast",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=paneer%20bhurji%20tofu%20bhurji",
+          "query": "paneer bhurji tofu bhurji",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=paneer%20bhurji%20tofu%20bhurji",
+          "query": "paneer bhurji tofu bhurji",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=paneer%20bhurji%20tofu%20bhurji",
+          "query": "paneer bhurji tofu bhurji",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "name": "Sprouted Moong Breakfast Bowl",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=sprouted%20moong%20salad%20bowl",
+          "query": "sprouted moong salad bowl",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=sprouted%20moong%20salad%20bowl",
+          "query": "sprouted moong salad bowl",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=sprouted%20moong%20salad%20bowl",
+          "query": "sprouted moong salad bowl",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "name": "Masala Vegetable Idli",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=masala%20idli%20vegetable",
+          "query": "masala idli vegetable",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=masala%20idli%20vegetable",
+          "query": "masala idli vegetable",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=masala%20idli%20vegetable",
+          "query": "masala idli vegetable",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "name": "Sattu Savoury Breakfast Drink",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=sattu%20namkeen%20drink",
+          "query": "sattu namkeen drink",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=sattu%20namkeen%20drink",
+          "query": "sattu namkeen drink",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=sattu%20namkeen%20drink",
+          "query": "sattu namkeen drink",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "name": "Paneer Spinach Breakfast Wrap",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=paneer%20spinach%20wrap",
+          "query": "paneer spinach wrap",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=paneer%20spinach%20wrap",
+          "query": "paneer spinach wrap",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=paneer%20spinach%20wrap",
+          "query": "paneer spinach wrap",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "036",
+      "name": "Methi Tofu Paratha",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=methi%20paratha",
+          "query": "methi paratha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=methi%20paratha",
+          "query": "methi paratha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=methi%20paratha",
+          "query": "methi paratha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "037",
+      "name": "Masala Oats with Soy Chunks",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=masala%20oats%20soy%20chunks",
+          "query": "masala oats soy chunks",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=masala%20oats%20soy%20chunks",
+          "query": "masala oats soy chunks",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=masala%20oats%20soy%20chunks",
+          "query": "masala oats soy chunks",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "038",
+      "name": "Lauki Chana Dal with Soy Tadka",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=lauki%20chana%20dal",
+          "query": "lauki chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=lauki%20chana%20dal",
+          "query": "lauki chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=lauki%20chana%20dal",
+          "query": "lauki chana dal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "name": "Bharwa Parwal with Tofu Besan Filling",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bharwa%20parwal",
+          "query": "bharwa parwal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bharwa%20parwal",
+          "query": "bharwa parwal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bharwa%20parwal",
+          "query": "bharwa parwal",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "name": "Banarasi Sattu Baati with Smoky Tofu Chokha",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=sattu%20baati%20chokha",
+          "query": "sattu baati chokha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=sattu%20baati%20chokha",
+          "query": "sattu baati chokha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=sattu%20baati%20chokha",
+          "query": "sattu baati chokha",
+          "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
+        }
+      ]
+    }
+  ]
+}
