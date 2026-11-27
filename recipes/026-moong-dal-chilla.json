@@ -43,5 +43,14 @@
     ]
   ],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Dal Chilla Recipe",
+      "url": "https://www.vegrecipesofindia.com/moong-dal-chilla-recipe/",
+      "note": "Soaked-lentil batter texture and griddle-cooking technique; our precise filling and seasoning are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
