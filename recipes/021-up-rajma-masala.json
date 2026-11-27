@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Rajma Recipe | Rajma Masala (Restaurant Style)",
+      "url": "https://www.vegrecipesofindia.com/rajma-recipe-rajma-masala/",
+      "note": "Kidney-bean soaking, pressure-cooking and gravy consistency as a baseline; our UP home-style seasoning is distinct.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
