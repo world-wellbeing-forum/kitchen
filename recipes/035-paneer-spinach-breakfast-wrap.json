@@ -35,5 +35,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Paneer Bhurji Recipe",
+      "url": "https://www.vegrecipesofindia.com/paneer-bhurji-scrambled-cottage-cheese-with-spices/",
+      "note": "Paneer crumble and spice-base inspiration for a spinach wrap filling; wrap construction and proportions are our own.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
