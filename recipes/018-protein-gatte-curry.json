@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Gatte Ki Sabji Recipe (Besan Ki Sabji)",
+      "url": "https://www.vegrecipesofindia.com/gatte-ki-sabji-recipe/",
+      "note": "Rajasthani besan dumpling shaping, boiling until set and simmering in curry; our protein-forward gravy variation is original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
