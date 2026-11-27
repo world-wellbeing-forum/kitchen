@@ -27,5 +27,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Tehri Recipe | Tahari Dish (Yellow Vegetable Rice)",
+      "url": "https://www.vegrecipesofindia.com/vegetable-tahiri-recipe-tehri-recipe/",
+      "note": "Awadhi/UP one-pot rice, whole-spice tempering and dum-style absorption; soy addition and portion design are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
