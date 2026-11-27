@@ -1,0 +1,168 @@
+{
+  "id": 301,
+  "name": "Bathua Chana Saag with Garlic Tofu Tadka",
+  "category": "Seasonal North Indian · Protein-Forward",
+  "cuisine": "North Indian; Purvanchal-inspired",
+  "servings": 2,
+  "vegan": true,
+  "eggFree": true,
+  "nutFree": true,
+  "allergens": [
+    "Contains soy (tofu). Check packaged tofu for cross-contact."
+  ],
+  "protein": 31,
+  "cal": 418,
+  "carbs": 46,
+  "fiber": 14,
+  "fat": 16,
+  "saturatedFat": 2,
+  "prep": 20,
+  "cook": 60,
+  "mins": 80,
+  "totalTime": 80,
+  "soakTime": "8–12 hours; soaking time is not included in the 80-minute active recipe time.",
+  "methodLabel": "Stovetop method",
+  "equipment": [
+    "Heavy-bottomed saucepan with lid",
+    "Small non-stick skillet",
+    "Colander",
+    "Knife and chopping board",
+    "Measuring spoons"
+  ],
+  "ingredients": [
+    "80 g dried chickpeas (kabuli chana), sorted and rinsed",
+    "180 g extra-firm tofu, pressed and cut into 1–1.5 cm cubes",
+    "250 g fresh bathua leaves (Chenopodium album), tough stems removed, washed thoroughly and chopped",
+    "60 g onion, finely chopped",
+    "100 g ripe tomato, chopped",
+    "10 g garlic, finely chopped, divided",
+    "10 g fresh ginger, finely grated, divided",
+    "1 small green chilli, finely chopped (optional)",
+    "2 tsp (10 ml) canola oil, divided",
+    "1 tsp cumin seeds",
+    "½ tsp black mustard seeds",
+    "1 dried red chilli, broken in half",
+    "⅛ tsp asafoetida (hing)",
+    "½ tsp ground coriander",
+    "¼ tsp turmeric",
+    "¼ tsp Kashmiri chilli powder, or to taste",
+    "½ tsp amchur, or 1 tbsp lemon juice",
+    "2 tbsp chopped fresh coriander leaves",
+    "¼ tsp fine salt to start, then adjust to taste",
+    "720 ml water for cooking the chickpeas, plus extra hot water as needed"
+  ],
+  "steps": [
+    "Soak the dried chickpeas in at least 3 times their volume of water for 8–12 hours. Drain, rinse and set aside. Do not use the soaking water for cooking.",
+    "Put the chickpeas in a heavy-bottomed saucepan with 720 ml fresh water and the turmeric. Bring to a full boil, skim any foam, then cover and simmer gently for 50–60 minutes, or until the chickpeas are tender all the way through. Add hot water if the level drops below the chickpeas; cooking time varies with the age of the beans.",
+    "While the chickpeas cook, strip the bathua leaves from any thick or fibrous stems. Wash the leaves in several changes of water until no grit remains, drain well and chop. When the chickpeas are nearly tender, stir in the bathua and simmer uncovered for 8–10 minutes until the leaves are soft.",
+    "Heat 1 tsp of the measured canola oil in a skillet. Add the tofu in a single layer and brown for 5–7 minutes, turning the cubes so several sides colour. Transfer to a plate; avoid crowding the pan.",
+    "Add the remaining 1 tsp oil to the same skillet. Add cumin and mustard seeds; when they begin to crackle, add the dried red chilli and hing. Stir in half the garlic, half the ginger and the green chilli for about 30 seconds.",
+    "Add the onion and cook for 4–5 minutes until softened. If it begins to stick, add a spoonful of water rather than more oil. Add the tomato, ground coriander and Kashmiri chilli powder; cook for 5–6 minutes, stirring, until the tomato breaks down into a thick masala.",
+    "Scrape the masala into the chickpea-and-bathua pot. Mash roughly one-quarter of the chickpeas against the side of the pan to thicken the gravy, then simmer for 5–7 minutes. Add a little reserved cooking liquid or hot water if it becomes too thick.",
+    "Fold in the browned tofu, remaining garlic and ginger, amchur and salt. Simmer gently for 2–3 minutes so the tofu heats through without breaking. Finish with lemon juice if using and the chopped coriander. Taste and adjust salt and sourness.",
+    "Serve hot. For a balanced plate, add extra non-starchy vegetables; chickpeas contribute both protein and carbohydrate. A small whole-grain roti or modest scoop of brown rice is optional and should be counted as an additional carbohydrate portion."
+  ],
+  "note": "A winter North Indian bowl inspired by Purvanchal bathua dal (sagpahita) and North Indian saag-chole combinations. The referenced regional dishes use urad dal or chickpeas with winter greens; this is an original adaptation that combines chickpeas with tofu for additional plant protein and uses a measured canola-oil garlic, cumin and mustard tempering. It is not presented as one canonical traditional recipe. Vegan, egg-free and nut-free; contains soy. Chickpeas are a carbohydrate source as well as a protein source. No claim is made that this dish treats or prevents a disease.",
+  "servingGuidance": "The recipe contains no grain. On a roughly 9-inch plate, pair it with plenty of non-starchy vegetables; count the chickpeas toward both protein and carbohydrate. If adding roti or rice, keep that portion modest and count it as a separate carbohydrate food.",
+  "calorieCalculation": "fiber-adjusted-atwater",
+  "nutritionMethod": "Approximate per-serving values were calculated from weighed ingredient amounts using USDA FoodData Central SR Legacy records for dried chickpeas (FDC 173756), firm tofu (172475), raw lambsquarters/bathua (169244), onion (170000), tomato (170457) and canola oil (172336), with small produce and spice quantities estimated from standard entries. Dry chickpea weight is the calculation basis; soaking and cooking water change cooked weight, not the dry-ingredient totals. Calories are rounded from ingredient-level estimates; a fibre-adjusted macro cross-check is used. Values vary with tofu brand, produce and cooking yield and are not a laboratory analysis.",
+  "nutritionStatus": "ingredient-level estimate; not laboratory-tested",
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "testingStatus": "not-kitchen-tested",
+  "image": null,
+  "imagePath": null,
+  "imageStatus": "pending-no-licensed-dish-specific-photo",
+  "imageCredit": null,
+  "inspirationReferences": [
+    {
+      "site": "Tifola Blog",
+      "title": "बथुवा दाल (सगपहिता) बनाने की विधि Bathua Dal (Sagpahita) recipe in Hindi",
+      "url": "https://tifola.com/blog.tifola.com/bathua-dal-recipe-in-hindi",
+      "note": "Documents the Purvanchal winter preparation called sagpahita, made with bathua and urad dal and finished with garlic, cumin and dried chilli. This recipe changes the pulse to chickpeas and adds tofu, so it is an original adaptation rather than a claim to reproduce sagpahita.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Sanjeev Kapoor",
+      "title": "Bathua Dal",
+      "url": "https://www.sanjeevkapoor.com/Recipe/bathua-dal-6856735",
+      "note": "The Bihari version cooks bathua with whole urad and finishes with a garlic-cumin-red-chilli tempering; this informed the greens-and-pulse simmer and aromatic finish, not the ingredient quantities.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Archana's Kitchen",
+      "title": "Sarson Chole Ka Saag Recipe - Kabuli Chana In Mustard Leaves Gravy",
+      "url": "https://www.archanaskitchen.com/recipe/sarson-chole-ka-saag-recipe-kabuli-chana-in-mustard-leaves-gravy",
+      "note": "A North Indian winter-greens preparation combines chickpeas with a cooked greens base and onion-tomato masala; this adaptation makes bathua the main green and adds tofu.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bathua Ka Paratha (Healthy Bathua Recipe)",
+      "url": "https://www.vegrecipesofindia.com/bathua-paratha-recipe/",
+      "note": "Informed seasonal bathua handling: removing tough stems, washing thoroughly and gently cooking the leaves before combining them with the main dish.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    }
+  ],
+  "nutritionReferences": [
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw — FDC 173756",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173756/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Dry chickpea ingredient data; scaled to 80 g before soaking."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Tofu, raw, firm, prepared with calcium sulfate — FDC 172475",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172475/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Firm tofu ingredient data; scaled to 180 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Lambsquarters, raw — FDC 169244",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169244/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Chenopodium album, the botanical species commonly called bathua; raw-leaf data scaled to 250 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Onions, raw — FDC 170000",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170000/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Raw onion data scaled to 60 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Tomatoes, red, ripe, raw, year round average — FDC 170457",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Raw tomato data scaled to 100 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Oil, canola — FDC 172336",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172336/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Canola oil data scaled to the measured 10 ml; actual oil density varies slightly."
+    },
+    {
+      "publisher": "American Diabetes Association",
+      "title": "What is the Diabetes Plate?",
+      "url": "https://diabetes.org/sites/default/files/2025-07/Nutrition_DFH_Diabetes-Plate-Flyer.pdf",
+      "referenceType": "dietary-guidance",
+      "note": "Plate proportions and the reminder that beans and legumes contribute carbohydrate as well as protein."
+    },
+    {
+      "publisher": "ICMR-National Institute of Nutrition",
+      "title": "Dietary Guidelines for Indians (2024)",
+      "url": "https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf",
+      "referenceType": "dietary-guidance",
+      "note": "Guidance on dietary variety, vegetables and legumes, moderation in oils/fats, and appropriate protein combinations."
+    }
+  ]
+}

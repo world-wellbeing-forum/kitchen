@@ -981,6 +981,30 @@
           "relationship": "Search link for related dish, ingredients or cooking technique; agent must open and select a genuinely relevant individual recipe page before citing it as a source."
         }
       ]
+    },
+    {
+      "id": "301",
+      "name": "Bathua Chana Saag with Garlic Tofu Tadka",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=bathua+saag+recipe",
+          "query": "bathua saag recipe",
+          "relationship": "Starting search link; the individual Bathua Ka Paratha page was opened and reviewed for bathua handling."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=bathua+dal+recipe",
+          "query": "bathua dal recipe",
+          "relationship": "Search checked; no relevant individual bathua dal page was found in this run. Do not cite this search page as a recipe source."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=bathua+chole+saag",
+          "query": "bathua chole saag",
+          "relationship": "Starting search link; the individual Sarson Chole Ka Saag page was opened and reviewed for the winter-greens and chickpea combination."
+        }
+      ]
     }
   ]
 }

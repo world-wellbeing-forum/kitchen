@@ -16,7 +16,7 @@ for(const {f,r} of rs){
  if(/eggs?/i.test(t.replace(/egg-free|eggless|flax egg/ig,"")))bad.push(r.id+" "+r.name+" EGG");
  if(sugar.test(r.ingredients.join(" ").replace(/no added sugar/ig,"")))bad.push(r.id+" "+r.name+" SUGAR");
  if(sat.test(r.ingredients.join(' ')))bad.push(r.id+' '+r.name+' SATFAT');
- const c=4*r.protein+4*r.carbs+9*r.fat;if(Math.abs(c-r.cal)>12)bad.push(r.id+' cal mismatch '+r.cal+' vs '+c);
+ const c=r.calorieCalculation==='fiber-adjusted-atwater'?4*r.protein+4*(r.carbs-r.fiber)+2*r.fiber+9*r.fat:4*r.protein+4*r.carbs+9*r.fat;if(Math.abs(c-r.cal)>12)bad.push(r.id+' cal mismatch '+r.cal+' vs '+c);
  if(r.fiber>r.carbs)bad.push(r.id+' fibre>carbs');
  if(/main vegetable, pulse|named in the dish|Wash and prepare the vegetables, pulses/i.test(t))bad.push(r.id+' TEMPLATE TEXT');
  if(r.mins!==r.prep+r.cook)bad.push(r.id+' mins!=prep+cook');
