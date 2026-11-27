@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "name": "Banarasi Kaddu",
+  "category": "Sabzi",
+  "protein": 9,
+  "cal": 155,
+  "carbs": 24,
+  "fiber": 6,
+  "fat": 4,
+  "mins": 25,
+  "ingredients": [
+    "300 g pumpkin",
+    "½ cup cooked chana dal",
+    "1 tsp oil",
+    "Methi seeds, jeera, saunf, ginger, chilli and amchur"
+  ],
+  "steps": [
+    "Temper jeera, methi and saunf in oil.",
+    "Add pumpkin and spices; cover until soft.",
+    "Stir in cooked chana dal.",
+    "Mash a little pumpkin to thicken; add amchur."
+  ],
+  "note": "No jaggery or sugar needed; pumpkin still contains carbohydrate.",
+  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=6",
+  "editorialStatus": "recipe-draft-needs-testing",
+  "sourceReferences": [],
+  "imageStatus": "placeholder-url-not-cleared-for-publication"
+}
