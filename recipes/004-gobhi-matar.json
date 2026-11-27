@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "name": "Gobhi Matar",
+  "category": "Sabzi",
+  "protein": 14,
+  "cal": 175,
+  "carbs": 19,
+  "fiber": 7,
+  "fat": 6,
+  "mins": 25,
+  "ingredients": [
+    "2 cups cauliflower",
+    "1 cup peas",
+    "100 g tofu",
+    "1 tomato, ginger, jeera, turmeric and 1 tsp oil"
+  ],
+  "steps": [
+    "Heat oil with jeera and ginger.",
+    "Add tomato and spices.",
+    "Add cauliflower and peas; cover until tender.",
+    "Add tofu and coriander."
+  ],
+  "note": "A vegetable-heavy sabzi with peas and tofu.",
+  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=4",
+  "editorialStatus": "recipe-draft-needs-testing",
+  "sourceReferences": [],
+  "imageStatus": "placeholder-url-not-cleared-for-publication"
+}
