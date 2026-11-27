@@ -35,14 +35,6 @@
       "linkCheck": "loaded-ok"
     },
     {
-      "site": "Dassana's Veg Recipes",
-      "title": "Bhindi Recipes | 20 Indian Okra Recipes Dassana's Veg Recipes",
-      "url": "https://www.vegrecipesofindia.com/recipes/bhindi-okra/",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
       "site": "Hebbars Kitchen",
       "title": "bhindi curry recipe | shahi bhindi masala gravy | shahi bhindi sabzi",
       "url": "https://hebbarskitchen.com/bhindi-curry-shahi-bhindi-masala-gravy/",
@@ -52,5 +44,6 @@
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }

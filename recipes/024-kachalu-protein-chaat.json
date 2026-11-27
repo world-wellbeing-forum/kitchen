@@ -35,14 +35,6 @@
       "linkCheck": "site-blocks-automated-checks: URL listed in the site sitemap or in the original research crawl"
     },
     {
-      "site": "cookpad.com",
-      "title": "Client Challenge",
-      "url": "https://cookpad.com/eng/search/kachalu",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
       "site": "maryzkitchen.com",
       "title": "Sindhi Arbi / Kachalu Took - Mary'S Kitchen",
       "url": "https://maryzkitchen.com/sindhi-arbi-kachalu-took/",
@@ -60,5 +52,6 @@
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }

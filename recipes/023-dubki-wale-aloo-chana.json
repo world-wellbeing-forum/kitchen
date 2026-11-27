@@ -27,14 +27,23 @@
   "note": "Use more kala chana and less potato.",
   "inspirationReferences": [
     {
-      "site": "Dassana's Veg Recipes",
-      "title": "58 Tasty Potato Recipes (Vegetarian)",
-      "url": "https://www.vegrecipesofindia.com/mathura-ke-dubki-wale-aloo-recipe/",
-      "note": "Mathura-style thin, spiced potato gravy and serving tradition; chickpea addition is original.",
+      "site": "Maayeka",
+      "title": "The Real Mathura ke Dubki Wale Aloo I Aloo Ki Subji I Aloo Jhol",
+      "url": "https://maayeka.com/2018/11/mathura-ke-dubki-wale-aloo.html",
+      "note": "A Mathura home-town account of the thin, spicy potato broth, freshly ground whole spices and long simmer; it also notes bathua can replace spinach in the green masala. This informed the regional gravy character, not the protein adaptation.",
       "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Sunayana Gupta",
+      "title": "Dubki Wale Aloo Recipe",
+      "url": "https://www.sunayanagupta.com/recipes/dubki-wale-aloo-recipe",
+      "note": "A Mathura-style version describes the ginger, green-chilli, tomato and whole-spice profile and the thin gravy served with puri or kachori; used as a variation reference.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }

@@ -41,16 +41,9 @@
       "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
       "referenceType": "culinary-inspiration",
       "linkCheck": "loaded-ok"
-    },
-    {
-      "site": "Hebbars Kitchen",
-      "title": "aloo dum biryani recipe | dum aloo biriyani | potato dum biryani",
-      "url": "https://hebbarskitchen.com/aloo-dum-biryani-recipe/",
-      "note": "Related recipe consulted for technique and flavour. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }

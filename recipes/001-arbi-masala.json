@@ -46,14 +46,6 @@
       "linkCheck": "loaded-ok"
     },
     {
-      "site": "cookpad.com",
-      "title": "Client Challenge",
-      "url": "https://cookpad.com/eng/search/colocasia",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
       "site": "vismaifood.com",
       "title": "VismaiFood - Arbi Sabzi | Colocasia Curry | Chemagadda Curry | How to Make Arbi Sabzi",
       "url": "https://vismaifood.com/en/arbi-sabzi-colocasia-curry-chemagadda-curry-how-to-make-arbi-sabzi/print",
@@ -73,5 +65,6 @@
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
   "cal": 280,
-  "mins": 35
+  "mins": 35,
+  "inspirationStatus": "verified-individual-references"
 }

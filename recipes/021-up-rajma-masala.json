@@ -28,14 +28,6 @@
   "inspirationReferences": [
     {
       "site": "Dassana's Veg Recipes",
-      "title": "Rajma Kebab",
-      "url": "https://www.vegrecipesofindia.com/rajma-kebab-recipe/",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
-      "site": "Dassana's Veg Recipes",
       "title": "Rajma Recipe | Rajma Masala (Restaurant Style)",
       "url": "https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/",
       "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
@@ -52,5 +44,6 @@
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }

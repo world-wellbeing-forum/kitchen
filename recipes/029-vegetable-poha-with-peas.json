@@ -57,16 +57,9 @@
       "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
       "referenceType": "culinary-inspiration",
       "linkCheck": "loaded-ok"
-    },
-    {
-      "site": "vegrecipesoefindia.com",
-      "title": "Kanda Poha Recipe - Vegetable Recipes of India",
-      "url": "https://vegrecipesoefindia.com/kanda-poha/",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "verified-individual-references"
 }
