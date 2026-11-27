@@ -41,7 +41,7 @@ const baseRecipeReferences={
 64:[["Tofu and Mushroom Breakfast Ideas – Nutribox high-protein breakfast collection","https://nutribox.in/blogs/recipes/high-protein-indian-breakfast-recipes-vegetarian","Reference for tofu as a vegetarian breakfast protein; quesadilla format is our fusion adaptation."]],
 65:[["Overnight Oats – Fitlives vegetarian breakfast guide","https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905","Reference for overnight oats and yogurt combination; soy yogurt and apple variation is our adaptation."]]
 };
-const recipeReferences={...baseRecipeReferences,
+const recipeReferences=baseRecipeReferences;
 
 
 const $=id=>document.getElementById(id);
