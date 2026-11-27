@@ -42,8 +42,3 @@ const baseRecipeReferences={
 65:[["Overnight Oats – Fitlives vegetarian breakfast guide","https://fitlives.in/blog/nutrition/protein/high-protein-vegetarian-indian-breakfast/472238905","Reference for overnight oats and yogurt combination; soy yogurt and apple variation is our adaptation."]]
 };
 const recipeReferences=baseRecipeReferences;
-
-
-const $=id=>document.getElementById(id);
-function nav(tab){document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("active",b.dataset.tab===tab));document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===tab));if(tab==="shopping")renderShopping();}
-document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>nav(b.dataset.tab)));
