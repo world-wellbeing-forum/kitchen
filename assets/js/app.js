@@ -1,3 +1,6 @@
+const $=id=>document.getElementById(id);
+function nav(tab){document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("active",b.dataset.tab===tab));document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===tab));if(tab==="shopping")renderShopping();}
+document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>nav(b.dataset.tab)));
 const categories=["All","Vegan","Vegetarian"];
 let activeCategory="All", planner={}, checked=new Set();
 const isVegan=r=>r.vegan===undefined ? ![15,18].includes(r.id) : r.vegan;
