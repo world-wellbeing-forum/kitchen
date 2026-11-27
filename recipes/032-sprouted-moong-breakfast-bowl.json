@@ -36,5 +36,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Moong Sprouts Salad",
+      "url": "https://www.vegrecipesofindia.com/moong-sprouts-salad/",
+      "note": "Sprouted mung preparation and fresh seasoning ideas; bowl composition and measured portions are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
