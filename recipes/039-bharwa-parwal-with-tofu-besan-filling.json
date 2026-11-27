@@ -60,5 +60,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
   "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
-  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Parwal ki Sabji | Easy Aloo Parwal Recipe",
+      "url": "https://www.vegrecipesofindia.com/aloo-parwal-recipe/",
+      "note": "Pointed-gourd cleaning and stovetop tenderness cues; the besan-tofu stuffing is our own adaptation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
