@@ -1,28 +1,69 @@
 {
-  "id": 3,
-  "name": "Aloo Methi",
-  "category": "Sabzi",
-  "protein": 12,
-  "cal": 185,
-  "carbs": 21,
-  "fiber": 5,
-  "fat": 6,
-  "mins": 25,
+  "path": "recipes/003-aloo-methi.json",
+  "name": "Aloo Methi with Tofu and Roasted Chana",
+  "protein": 21,
+  "carbs": 28,
+  "fiber": 8,
+  "fat": 8,
+  "prep": 12,
+  "cook": 18,
   "ingredients": [
-    "1 small potato",
-    "2 cups fresh methi",
-    "150 g firm tofu",
-    "1 tsp oil, jeera, turmeric, chilli and amchur"
+    "1 small potato (about 120 g), diced",
+    "3 packed cups fresh methi leaves, washed and chopped",
+    "150 g extra-firm tofu, crumbled",
+    "25 g roasted chana, coarsely crushed",
+    "1 tsp (5 ml) canola or mustard oil",
+    "½ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "½ tsp coriander powder",
+    "½ tsp amchur",
+    "1 small green chilli, optional",
+    "1 tsp grated ginger",
+    "Lemon juice; modest salt"
   ],
   "steps": [
-    "Part-boil diced potato.",
-    "Heat oil and spices; add potato.",
-    "Add methi and crumbled tofu.",
-    "Cook until methi wilts and potato is tender."
+    "Dice potato into small cubes. Parboil for 4–5 minutes, then drain well.",
+    "Wash methi thoroughly, remove tough stems and chop. Press tofu and crumble it.",
+    "Heat measured oil in a non-stick pan. Add cumin, ginger and chilli; stir briefly.",
+    "Add potato, turmeric and coriander. Cover and cook until almost tender, adding a spoonful of water if needed.",
+    "Add tofu and cook 3–4 minutes, stirring to lightly brown and heat through.",
+    "Fold in methi and cook until wilted and excess moisture evaporates.",
+    "Turn off heat. Add crushed roasted chana, amchur and lemon. Taste and season modestly."
   ],
-  "note": "Use more methi than potato; tofu raises protein.",
-  "image": "https://loremflickr.com/900/600/vegetarian,food?lock=3",
-  "editorialStatus": "recipe-draft-needs-testing",
-  "sourceReferences": [],
-  "imageStatus": "placeholder-url-not-cleared-for-publication"
+  "note": "Keeps the familiar aloo-methi flavour but increases methi and adds tofu. Potato still contributes carbohydrate; keep the serving measured and pair with another non-starchy vegetable. Roasted chana adds crunch and fibre but also carbohydrate. Vegetarian; vegan if no dairy garnish is added.",
+  "sourceReferences": [
+    [
+      "USDA FoodData Central",
+      "https://fdc.nal.usda.gov/",
+      "Ingredient nutrition reference; estimates require final recipe calculation."
+    ],
+    [
+      "2026 ACC/AHA Dyslipidemia Guideline",
+      "https://www.jacc.org/doi/10.1016/j.jacc.2025.11.016",
+      "Supports legumes, fibre and unsaturated fats in an LDL-conscious eating pattern."
+    ],
+    [
+      "American Diabetes Association – Diabetes Plate",
+      "https://professional.diabetes.org/sites/dpro/files/2025-05/PE25-Plan-Your-Plate-FINAL-5-22-25.pdf",
+      "Guides balancing starchy vegetables, protein and non-starchy vegetables."
+    ]
+  ],
+  "id": 3,
+  "category": "UP Classics · Protein-Forward",
+  "servings": 2,
+  "image": "/assets/images/recipes/003.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "researched-recipe-draft-nutrition-and-kitchen-testing-pending",
+  "nutritionStatus": "rough-estimate-not-lab-tested",
+  "methodStatus": "stovetop-developed-other-appliance-adaptations-pending",
+  "vegan": false,
+  "calories": 275,
+  "totalTime": 30,
+  "nutritionPerServing": {
+    "calories": 275,
+    "protein_g": 21,
+    "carbohydrate_g": 28,
+    "fibre_g": 8,
+    "fat_g": 8
+  }
 }
