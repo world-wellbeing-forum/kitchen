@@ -67,5 +67,14 @@
     "carbohydrate_g": 29,
     "fibre_g": 7,
     "fat_g": 8
-  }
+  },
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Arbi Sabji | Arbi Recipe | Ghuiya Ki Sabji",
+      "url": "https://www.vegrecipesofindia.com/sukhi-arbi-recipe-sukhi-arbi/",
+      "note": "Traditional arbi preparation, parboiling, texture control and ajwain-amchur seasoning; our tofu-soy version is an original adaptation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
