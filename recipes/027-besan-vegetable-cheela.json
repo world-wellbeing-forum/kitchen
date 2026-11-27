@@ -43,5 +43,14 @@
     ]
   ],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Besan Chilla Recipe (Besan ka Cheela)",
+      "url": "https://www.vegrecipesofindia.com/besan-cheela-recipe-besan-chilla/",
+      "note": "North Indian gram-flour pancake batter and tawa technique; the vegetable-rich formulation is our own.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
