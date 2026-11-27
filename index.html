@@ -13,16 +13,16 @@ main{max-width:1120px;margin:auto;padding:30px 20px 70px}.section{display:none}.
 @media(max-width:800px){.hero{grid-template-columns:1fr}.hero-art{min-height:160px}.grid{grid-template-columns:repeat(2,1fr)}.metrics{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:540px){main{padding:22px 14px 55px}.grid{grid-template-columns:1fr}.planner{grid-template-columns:1fr}.recipe-layout{grid-template-columns:1fr}.shopping-list{columns:1}.section-head{display:block}.stats{gap:18px}.hero h1{font-size:46px}}
 @media print{nav,header,.toolbar,.chips,.card-actions,.footer,.no-print{display:none!important}body{background:white}.section{display:none!important}#recipes.active{display:block!important}.card{break-inside:avoid;box-shadow:none}.grid{grid-template-columns:repeat(2,1fr)}}
-</style></head>
+nav button:not([data-tab="recipes"]){display:none!important}#planner,#shopping,#tracker{display:none!important}</style></head>
 <body>
 <header>
 <div class="brand">WORLD WELLBEING KITCHEN · AN INITIATIVE OF WORLD WELLBEING FORUM</div>
 <div class="hero"><div><h1>Tradition,<br><i>reimagined.</i></h1><p>Beloved Uttar Pradesh flavours, thoughtfully adapted with plant protein, fibre and heart-conscious cooking. Everyday food, made more nourishing.</p><div class="stats"><div><b>300 / 300</b><span>Recipes in development</span></div><div><b>Vegan +</b><span>Vegetarian choices</span></div><div><b>4 ways</b><span>To cook each dish</span></div></div></div><div class="hero-art" style="background:linear-gradient(135deg,#e5eadc,#c4d2bb),url(https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1000) center/cover;color:#173b2e;text-shadow:0 1px 12px #fff9">Purani rasoi. Nayi soch.<br><small style="display:block;margin-top:12px;letter-spacing:.12em;font-size:11px">BY SADHNA DIXIT · WORLD WELLBEING FORUM</small></div></div>
 </header>
-<nav><button class="active" data-tab="recipes">Recipes</button><button data-tab="planner">Weekly planner</button><button data-tab="shopping">Shopping list</button><button data-tab="tracker">Protein tracker</button></nav>
+<nav aria-label="Main navigation"><button class="active" data-tab="recipes">Recipes</button></nav>
 <main>
 <section id="recipes" class="section active">
-<div class="section-head"><div><div class="eyebrow">The collection</div><h2>Find your next favourite</h2><div class="sub">Explore 300 indexed vegetarian and vegan recipes. Open a dish for ingredients, method, nutrition estimates and appliance guidance.</div></div><button class="btn" onclick="window.print()">Print recipe index</button></div>
+<div class="section-head"><div><div class="eyebrow">The collection</div><h2>Find your next favourite</h2><div class="sub">Browse vegetarian and vegan recipes. Search or filter the collection, then open any dish for ingredients, method, nutrition estimates and cooking guidance.</div></div><button class="btn" onclick="window.print()">Print recipe index</button></div>
 <div class="toolbar"><input id="search" placeholder="Search arbi, nimona, chole…"><select id="sort"><option value="default">Sort: featured</option><option value="protein">Highest protein</option><option value="cal">Lowest calories</option><option value="time">Quickest first</option></select></div>
 <div class="note"><b>Our growing collection:</b> The full 300-recipe index is now published. Recipe development includes detailed ingredient testing, individual photography and appliance-specific timing refinement. Vegan recipes are labelled separately from dairy-containing vegetarian recipes.</div><div class="chips" id="filters"></div><div class="grid" id="recipeGrid"></div>
 </section>
