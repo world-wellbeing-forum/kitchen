@@ -36,5 +36,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Oats Upma Recipe",
+      "url": "https://www.vegrecipesofindia.com/oats-upma-recipe/",
+      "note": "Savory oats tempering and vegetable-upma technique; soy chunks and spice balance are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
