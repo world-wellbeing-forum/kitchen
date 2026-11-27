@@ -166,8 +166,18 @@
     },
     {
       "name": "Uttar Pradesh",
-      "focus": "Awadhi tehri, Banarasi tamatar chaat, nimona, bedmi-aloo, dal kachori, arbi masala",
-      "coverage": "planned"
+      "focus": "Arbi masala, baingan bharta, yellow dal (peeli dal), Awadhi tehri, Banarasi chaat, nimona, bedmi-aloo and traditional everyday dals.",
+      "coverage": "planned",
+      "priorityDishes": [
+        "Arbi masala",
+        "Baingan bharta",
+        "Yellow dal (peeli dal)",
+        "Awadhi tehri",
+        "Banarasi tamatar chaat",
+        "Nimona",
+        "Bedmi-aloo"
+      ],
+      "editorialGuidance": "Include familiar everyday home-style preparations as well as regional specialities. For baingan bharta, document the roasted and mashed aubergine method; for arbi, include a traditional UP-style preparation; for yellow dal, specify the locally appropriate lentil variety and tempering. Preserve vegetarian/vegan variations and avoid eggs and nuts."
     },
     {
       "name": "Uttarakhand",
