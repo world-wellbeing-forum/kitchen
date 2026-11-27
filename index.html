@@ -163,6 +163,6 @@ const curatedProteinBreakfasts = [
 expandedRecipes.splice(20,20,...curatedProteinBreakfasts);
 recipes.push(...expandedRecipes.slice(0,275));
 // Attach representative food photography and appliance timing metadata to the original recipes.
-recipes.forEach((r,i)=>{ if(!r.image) r.image="https://loremflickr.com/900/600/vegetarian,food?lock="+r.id; if(!r.prep) r.prep=Math.max(5,Math.round(r.mins*.35)); if(!r.cook) r.cook=r.mins-r.prep; if(r.vegan===undefined) r.vegan=![15,18].includes(r.id); });
+recipes.forEach((r,i)=>{ r.image="https://loremflickr.com/900/600/vegetarian,food?lock="+r.id; if(!r.prep) r.prep=Math.max(5,Math.round(r.mins*.35)); if(!r.cook) r.cook=r.mins-r.prep; if(r.vegan===undefined) r.vegan=![15,18].includes(r.id); });
 \nrenderFilters();renderRecipes();renderPlanner();updateTracker();
 </script></body></html>
