@@ -1,0 +1,63 @@
+{
+  "id": 38,
+  "name": "Lauki Chana Dal with Soy Tadka",
+  "category": "UP Classics · Protein-Forward",
+  "protein": 23,
+  "cal": 285,
+  "carbs": 39,
+  "fiber": 11,
+  "fat": 6,
+  "mins": 45,
+  "prep": 15,
+  "cook": 30,
+  "vegan": true,
+  "ingredients": [
+    "½ cup (100 g) dry chana dal, rinsed and soaked 30 minutes",
+    "3 cups (360 g) peeled lauki, diced",
+    "25 g dry soy granules, rehydrated and squeezed",
+    "1 tsp (5 ml) canola or mustard oil",
+    "½ small onion, finely chopped",
+    "1 tomato, chopped",
+    "1 tsp grated ginger",
+    "½ tsp cumin seeds",
+    "Pinch of hing (check gluten-free label if needed)",
+    "½ tsp turmeric",
+    "1 tsp coriander powder",
+    "½ tsp Kashmiri chilli powder, optional",
+    "2 tbsp chopped coriander",
+    "Lemon juice; modest salt"
+  ],
+  "steps": [
+    "Soak chana dal for 30 minutes, then drain. Rehydrate soy granules in hot water for 8–10 minutes, drain and squeeze dry.",
+    "Add dal, turmeric and 2 cups fresh water to a pressure cooker. Cook until tender but still holding shape; timing varies by cooker and soak. Release pressure safely.",
+    "Heat measured oil in a separate pan. Add cumin and hing, then onion; soften with a splash of water rather than extra oil.",
+    "Add ginger, tomato, coriander and chilli powder. Cook until tomato softens.",
+    "Add diced lauki and cook covered 7–9 minutes until nearly tender.",
+    "Fold in cooked chana dal with some cooking liquid and soy granules. Simmer 5–7 minutes so flavours combine; add water for a spoonable consistency.",
+    "Finish with coriander and lemon. Taste before adding salt. Serve with a measured portion of whole-wheat roti and extra non-starchy vegetables."
+  ],
+  "note": "Inspired by everyday lauki-chana dal. Soy granules add protein without relying on cream or ghee. Chana dal is both a protein and carbohydrate source; include its carbohydrate in meal planning. Approximate nutrition only; not a treatment for LDL or A1C.",
+  "sourceReferences": [
+    [
+      "Indian Express – Lauki Chane ki Daal",
+      "https://indianexpress.com/article/lifestyle/food-wine/express-recipes-how-to-make-lauki-chane-ki-daal/lite/",
+      "Culinary reference for the lauki and chana dal combination and pressure-cooking method; this soy-enriched recipe is an adaptation."
+    ],
+    [
+      "Sanjeev Kapoor – Lauki Chana Dal",
+      "https://www.sanjeevkapoor.com/Recipe/lauki-chana-dal-8918657",
+      "Additional culinary reference for the traditional preparation; quantities and lower-oil method adapted."
+    ],
+    [
+      "USDA FoodData Central",
+      "https://fdc.nal.usda.gov/",
+      "Ingredient-level nutrition reference; brand-specific soy values still need calculation."
+    ]
+  ],
+  "servings": 2,
+  "image": "/assets/images/recipes/038.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
+  "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+}
