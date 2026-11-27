@@ -36,5 +36,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "draft-requires-source-and-kitchen-review",
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-adaptations-pending"
+  "methodStatus": "appliance-adaptations-pending",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Idli Recipe (How to Make Soft Idlis)",
+      "url": "https://www.vegrecipesofindia.com/idli-recipe-how-to-make-soft-idlis/",
+      "note": "Fermented idli batter and steaming method as a base; vegetable masala treatment is our adaptation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
