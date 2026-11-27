@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Bedmi Puri Recipe (Delhi Style Urad Dal Poori)",
+      "url": "https://www.vegrecipesofindia.com/bedmi-puri-recipe/",
+      "note": "Uttar Pradesh/Delhi bedmi dough tradition and urad-dal-spice flavour; our baked method is an adaptation and needs testing.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
