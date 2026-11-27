@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Times of India Recipes",
+      "title": "Mooli Moong Dal Recipe",
+      "url": "https://recipes.timesofindia.com/recipes/mooli-moong-dal/rs58694323.cms",
+      "note": "Radish and mung-dal regional pairing with pressure-cooker method; our ingredient ratios and seasoning are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
