@@ -1,0 +1,40 @@
+{
+  "id": 31,
+  "name": "Tofu Bhurji Breakfast",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 23,
+  "cal": 285,
+  "carbs": 17,
+  "fiber": 5,
+  "fat": 15,
+  "mins": 18,
+  "prep": 7,
+  "cook": 11,
+  "ingredients": [
+    "200 g firm tofu, drained and crumbled",
+    "¼ small onion, finely chopped",
+    "½ tomato, deseeded and chopped",
+    "½ cup chopped spinach",
+    "1 tsp oil",
+    "¼ tsp cumin seeds",
+    "¼ tsp turmeric",
+    "¼ tsp coriander powder",
+    "Pinch of garam masala",
+    "1 tbsp coriander and lemon"
+  ],
+  "steps": [
+    "Pat tofu dry and crumble into small pieces with a fork.",
+    "Heat oil in a skillet. Add cumin and onion; cook 2 minutes until translucent.",
+    "Add tomato, turmeric and coriander powder; cook until tomato softens.",
+    "Add spinach and cook until wilted. Fold in tofu and garam masala.",
+    "Cook 3–4 minutes, stirring gently. Finish with coriander and lemon; serve with one small whole-wheat roti."
+  ],
+  "note": "Choose calcium-set tofu where available. Nutrition estimate covers the tofu bhurji only, not the optional roti.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/031.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

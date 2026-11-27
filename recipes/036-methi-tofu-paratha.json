@@ -1,0 +1,40 @@
+{
+  "id": 36,
+  "name": "Methi Tofu Paratha",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 19,
+  "cal": 315,
+  "carbs": 39,
+  "fiber": 7,
+  "fat": 9,
+  "mins": 30,
+  "prep": 15,
+  "cook": 15,
+  "ingredients": [
+    "1 cup whole-wheat flour",
+    "100 g firm tofu, finely crumbled",
+    "½ cup chopped fresh methi",
+    "¼ tsp ajwain",
+    "¼ tsp cumin powder",
+    "¼ tsp chilli powder",
+    "¼ tsp turmeric",
+    "½ tsp oil for dough",
+    "2 tsp oil for cooking",
+    "Water and salt"
+  ],
+  "steps": [
+    "Mix flour, tofu, methi, ajwain, cumin, chilli, turmeric, salt and ½ tsp oil.",
+    "Add water a little at a time and knead into a soft, pliable dough. Rest covered 10 minutes.",
+    "Divide into four balls. Roll each between lightly floured sheets into a small paratha.",
+    "Cook on a hot tawa, turning once bubbles appear. Brush each side lightly with oil.",
+    "Cook until brown spots appear and the centre is cooked. Serve with plain soy yogurt or raita."
+  ],
+  "note": "Tofu adds moisture, so add water gradually. Vegan when served without dairy accompaniments.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/036.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

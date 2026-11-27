@@ -1,0 +1,37 @@
+{
+  "id": 34,
+  "name": "Sattu Savoury Breakfast Drink",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 18,
+  "cal": 235,
+  "carbs": 29,
+  "fiber": 8,
+  "fat": 6,
+  "mins": 8,
+  "prep": 8,
+  "cook": 0,
+  "ingredients": [
+    "½ cup roasted chana sattu",
+    "1½ cups chilled water",
+    "2 tbsp finely chopped cucumber",
+    "1 tbsp chopped coriander",
+    "1 tbsp lemon juice",
+    "¼ tsp roasted cumin powder",
+    "Pinch of black salt",
+    "Black pepper and mint to taste"
+  ],
+  "steps": [
+    "Add sattu to a large jug. Pour in about ½ cup water gradually while whisking to prevent lumps.",
+    "Whisk in the remaining water until smooth and drinkable.",
+    "Stir in cucumber, coriander, lemon, cumin, black salt and pepper.",
+    "Taste and adjust lemon and seasoning. Serve immediately over ice if desired."
+  ],
+  "note": "A no-cook option. Check the sattu label for cross-contact warnings if preparing for someone with food allergies.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/034.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

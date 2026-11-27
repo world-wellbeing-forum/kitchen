@@ -1,0 +1,40 @@
+{
+  "id": 33,
+  "name": "Masala Vegetable Idli",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 12,
+  "cal": 245,
+  "carbs": 42,
+  "fiber": 5,
+  "fat": 5,
+  "mins": 25,
+  "prep": 10,
+  "cook": 15,
+  "ingredients": [
+    "6 small prepared idlis (about 250 g)",
+    "½ cup finely chopped mixed vegetables",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "¼ tsp urad dal",
+    "6 curry leaves",
+    "¼ tsp turmeric",
+    "¼ tsp sambar powder",
+    "1 tbsp chopped coriander",
+    "Lemon juice and salt"
+  ],
+  "steps": [
+    "Cut idlis into quarters; if freshly steamed, cool them first so they hold their shape.",
+    "Heat oil in a wide pan. Add mustard seeds, urad dal and curry leaves.",
+    "Add vegetables, turmeric and a splash of water. Cover and cook 3–4 minutes until just tender.",
+    "Add idli pieces and sambar powder. Toss gently over low heat until hot throughout.",
+    "Finish with coriander and lemon. Serve with sambar for extra protein and fibre."
+  ],
+  "note": "Use fermented, egg-free idlis. For a higher-protein plate, serve with a generous bowl of lentil-rich sambar.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/033.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

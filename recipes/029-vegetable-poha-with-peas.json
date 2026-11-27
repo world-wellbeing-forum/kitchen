@@ -1,0 +1,41 @@
+{
+  "id": 29,
+  "name": "Vegetable Poha with Peas",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 12,
+  "cal": 285,
+  "carbs": 46,
+  "fiber": 5,
+  "fat": 7,
+  "mins": 20,
+  "prep": 10,
+  "cook": 10,
+  "ingredients": [
+    "1½ cups thick poha",
+    "½ cup green peas, fresh or frozen",
+    "¼ cup diced carrot",
+    "2 tbsp chopped onion",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "¼ tsp turmeric",
+    "6 curry leaves",
+    "1 tbsp roasted pumpkin seeds",
+    "½ lemon",
+    "Coriander and salt"
+  ],
+  "steps": [
+    "Place poha in a sieve and rinse briefly under running water. Drain thoroughly; season lightly with salt and turmeric.",
+    "Heat oil; add mustard seeds and curry leaves. Add onion and carrot and cook 3 minutes.",
+    "Add peas and 2 tbsp water; cover for 2–3 minutes until tender.",
+    "Fold in softened poha gently. Cover on low heat for 2 minutes, then turn off the heat.",
+    "Finish with lemon, coriander and pumpkin seeds. Fluff with a fork and serve."
+  ],
+  "note": "Rinse thick poha quickly rather than soaking it; over-soaking makes it sticky.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/029.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

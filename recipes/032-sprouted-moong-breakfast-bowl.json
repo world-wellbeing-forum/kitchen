@@ -1,0 +1,40 @@
+{
+  "id": 32,
+  "name": "Sprouted Moong Breakfast Bowl",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 19,
+  "cal": 275,
+  "carbs": 39,
+  "fiber": 10,
+  "fat": 6,
+  "mins": 20,
+  "prep": 10,
+  "cook": 10,
+  "ingredients": [
+    "1½ cups mung bean sprouts",
+    "½ cup diced cucumber",
+    "½ cup diced tomato",
+    "¼ cup grated carrot",
+    "½ cup plain unsweetened soy yogurt",
+    "1 tbsp lemon juice",
+    "½ tsp roasted cumin powder",
+    "2 tbsp chopped coriander",
+    "1 tbsp roasted sunflower seeds",
+    "Salt and black pepper"
+  ],
+  "steps": [
+    "Steam or boil sprouts for 5–7 minutes until piping hot and tender; cool slightly. Do not use raw sprouts for people at higher risk of foodborne illness.",
+    "Whisk soy yogurt with lemon, cumin, salt and pepper to make a dressing.",
+    "Divide warm sprouts between two bowls. Add cucumber, tomato and carrot.",
+    "Spoon over the dressing and toss lightly.",
+    "Finish with coriander and sunflower seeds. Serve promptly."
+  ],
+  "note": "Sprouts are perishable. Refrigerate promptly and cook thoroughly rather than serving raw, especially for pregnant, older or immunocompromised people.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/032.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

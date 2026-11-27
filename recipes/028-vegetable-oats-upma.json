@@ -1,0 +1,41 @@
+{
+  "id": 28,
+  "name": "Vegetable Oats Upma",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 13,
+  "cal": 290,
+  "carbs": 43,
+  "fiber": 8,
+  "fat": 8,
+  "mins": 20,
+  "prep": 8,
+  "cook": 12,
+  "ingredients": [
+    "1 cup rolled oats",
+    "1½ cups water",
+    "½ cup diced mixed vegetables (carrot, peas and beans)",
+    "2 tbsp chopped onion",
+    "1 tsp oil",
+    "½ tsp mustard seeds",
+    "½ tsp cumin seeds",
+    "1 tbsp roasted unsalted sunflower seeds",
+    "6 curry leaves",
+    "1 green chilli, slit (optional)",
+    "Lemon juice, coriander and salt"
+  ],
+  "steps": [
+    "Toast oats in a dry pan for 2–3 minutes until fragrant; transfer to a bowl.",
+    "Heat oil in the pan. Add mustard, cumin, curry leaves and chilli; let the seeds pop.",
+    "Add onion and vegetables. Cook 3–4 minutes, stirring, until they begin to soften.",
+    "Add water and salt. Bring to a simmer, then stir in oats.",
+    "Cook 3–4 minutes until creamy but not mushy. Finish with lemon, coriander and sunflower seeds."
+  ],
+  "note": "Rolled oats cook quickly; steel-cut oats need a different liquid ratio and longer cooking.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/028.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

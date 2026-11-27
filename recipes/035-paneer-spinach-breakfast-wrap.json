@@ -1,0 +1,39 @@
+{
+  "id": 35,
+  "name": "Paneer Spinach Breakfast Wrap",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 24,
+  "cal": 340,
+  "carbs": 34,
+  "fiber": 7,
+  "fat": 13,
+  "mins": 20,
+  "prep": 8,
+  "cook": 12,
+  "ingredients": [
+    "2 small whole-wheat rotis",
+    "120 g low-fat paneer, crumbled",
+    "1 cup chopped spinach",
+    "2 tbsp chopped onion",
+    "½ tomato, chopped",
+    "1 tsp oil",
+    "¼ tsp cumin",
+    "¼ tsp turmeric",
+    "Black pepper and lemon"
+  ],
+  "steps": [
+    "Heat oil in a skillet; add cumin and onion and cook 2 minutes.",
+    "Add tomato, turmeric and pepper; cook until softened.",
+    "Add spinach and cook until wilted. Fold in crumbled paneer and warm for 2–3 minutes.",
+    "Season with lemon and a pinch of salt. Divide filling between the two warm rotis.",
+    "Roll tightly and toast seam-side down for 30 seconds. Serve warm."
+  ],
+  "note": "Vegetarian, not vegan. Use low-fat paneer and whole-wheat rotis; nutrition estimate includes both wraps.",
+  "vegan": false,
+  "servings": 2,
+  "image": "/assets/images/recipes/035.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}

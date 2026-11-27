@@ -1,0 +1,39 @@
+{
+  "id": 30,
+  "name": "Ragi Onion Dosa",
+  "category": "Healthy Indian Breakfasts",
+  "protein": 11,
+  "cal": 260,
+  "carbs": 42,
+  "fiber": 6,
+  "fat": 6,
+  "mins": 25,
+  "prep": 8,
+  "cook": 17,
+  "ingredients": [
+    "¾ cup ragi (finger millet) flour",
+    "¼ cup rice flour",
+    "2 tbsp plain unsweetened soy yogurt",
+    "1½ cups water, approximately",
+    "¼ small onion, finely chopped",
+    "1 tbsp chopped coriander",
+    "¼ tsp cumin seeds",
+    "1 tsp oil for the pan",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Whisk ragi flour, rice flour, soy yogurt, cumin, salt and water into a thin, lump-free batter.",
+    "Rest 10 minutes. Stir in onion and coriander; add water if needed for a pourable consistency.",
+    "Heat a seasoned non-stick dosa pan over medium-high and wipe with a little oil.",
+    "Pour a ladle of batter from the outside inward; do not spread like a thick pancake. Drizzle a few drops of oil around the edge.",
+    "Cook 2–3 minutes until the edges lift and the base is crisp. Fold and serve; repeat."
+  ],
+  "note": "Ragi dosa is naturally gluten-free when all packaged ingredients are certified gluten-free. The batter is thinner than regular dosa batter.",
+  "vegan": true,
+  "servings": 2,
+  "image": "/assets/images/recipes/030.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "draft-requires-source-and-kitchen-review",
+  "nutritionStatus": "unverified-estimate",
+  "methodStatus": "appliance-adaptations-pending"
+}
