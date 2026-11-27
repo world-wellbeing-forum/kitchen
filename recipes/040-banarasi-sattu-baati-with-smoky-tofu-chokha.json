@@ -59,5 +59,14 @@
   "imageStatus": "dish-specific-photo-pending",
   "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
   "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
-  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested",
+  "inspirationReferences": [
+    {
+      "site": "Sahasa",
+      "title": "Banarasi Baati Chokha",
+      "url": "https://sahasa.org/2022/03/15/banarasi-baati-chokha/",
+      "note": "Varanasi's baati-chokha tradition, sattu stuffing and smoky roasted chokha; our tofu-based filling is an original adaptation.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
