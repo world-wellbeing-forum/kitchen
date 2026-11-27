@@ -26,5 +26,14 @@
   "editorialStatus": "draft-requires-recipe-and-source-review",
   "sourceReferences": [],
   "nutritionStatus": "unverified-estimate",
-  "methodStatus": "appliance-methods-require-testing"
+  "methodStatus": "appliance-methods-require-testing",
+  "inspirationReferences": [
+    {
+      "site": "Global Bihari",
+      "title": "Indian Street Food Recipes: Kachalu Chaat",
+      "url": "https://globalbihari.com/indian-street-food-recipes-kachalu-chaat/",
+      "note": "Kachalu chaat preparation, boiled arbi, dry spice and tamarind-lemon balance; protein additions are our own.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
