@@ -68,5 +68,14 @@
     "carbohydrate_g": 31,
     "fibre_g": 9,
     "fat_g": 8
-  }
+  },
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Matar ka Nimona Recipe",
+      "url": "https://www.vegrecipesofindia.com/matar-ka-nimona-recipe/",
+      "note": "Uttar Pradesh winter-pea dish, coarse pea paste, onion-tomato masala and simmered gravy; our protein additions are original.",
+      "referenceType": "culinary-inspiration"
+    }
+  ]
 }
