@@ -1,0 +1,64 @@
+{
+  "id": 39,
+  "name": "Bharwa Parwal with Tofu-Besan Filling",
+  "category": "UP Classics · Protein-Forward",
+  "protein": 19,
+  "cal": 245,
+  "carbs": 22,
+  "fiber": 7,
+  "fat": 9,
+  "mins": 40,
+  "prep": 20,
+  "cook": 20,
+  "vegan": true,
+  "ingredients": [
+    "400 g small parwal (pointed gourd), washed and trimmed",
+    "150 g extra-firm tofu, pressed and finely crumbled",
+    "30 g besan (chickpea flour)",
+    "1 tsp (5 ml) mustard or canola oil",
+    "½ small onion, finely chopped",
+    "1 tsp grated ginger",
+    "½ tsp cumin seeds",
+    "½ tsp coriander powder",
+    "¼ tsp turmeric",
+    "½ tsp amchur",
+    "¼ tsp garam masala",
+    "1 tomato, finely chopped",
+    "2 tbsp chopped coriander",
+    "Chilli and modest salt to taste"
+  ],
+  "steps": [
+    "Trim parwal and make a lengthwise slit without cutting through. Scoop out the soft centre and finely chop it; keep the shells intact.",
+    "Press tofu and crumble finely. Dry-roast besan in a small pan over low heat until nutty and just lightly coloured; cool.",
+    "Heat measured oil. Add cumin, onion and ginger; cook until softened.",
+    "Add chopped parwal centres, tofu, coriander, turmeric, amchur, garam masala and chilli. Cook 3–4 minutes.",
+    "Stir in roasted besan and 1–2 tbsp water to bind the filling. Cook until the mixture is cohesive, then cool slightly.",
+    "Fill each parwal shell loosely; do not pack too tightly. Arrange in a wide non-stick pan with 2 tbsp water.",
+    "Cover and cook over low heat 10–14 minutes, turning gently once or twice, until parwal is tender but not collapsing. Add a splash of water if the pan dries.",
+    "Uncover for the final 2 minutes to evaporate excess moisture. Finish with coriander and lemon."
+  ],
+  "note": "A lighter, plant-protein filling for the familiar stuffed parwal technique. Besan and tofu both contribute protein, but besan also contributes carbohydrate. Serve with a modest whole-grain roti portion and a larger side of non-starchy vegetables. Vegan.",
+  "sourceReferences": [
+    [
+      "Indian Cooking Manual – Bharwan Parwal",
+      "https://www.indiancookingmanual.com/bharwan-stuff-parwal/",
+      "Culinary reference for slitting, stuffing and covered-pan cooking of pointed gourd; this tofu-besan filling and measured oil are our adaptation."
+    ],
+    [
+      "Awesome Cuisine – Bharwa Parval",
+      "https://www.awesomecuisine.com/recipes/24963/bharwa-parval/",
+      "Additional reference for the spice profile and slow covered cooking technique; recipe quantities and filling differ."
+    ],
+    [
+      "USDA FoodData Central",
+      "https://fdc.nal.usda.gov/",
+      "Ingredient nutrition reference; final values depend on tofu and besan brands."
+    ]
+  ],
+  "servings": 2,
+  "image": "/assets/images/recipes/039.webp",
+  "imageStatus": "dish-specific-photo-pending",
+  "editorialStatus": "researched-original-adaptation-draft-kitchen-testing-pending",
+  "nutritionStatus": "rough-estimate-needs-ingredient-level-calculation",
+  "methodStatus": "stovetop-or-oven-method-described-microwave-air-fryer-not-suitable-or-not-yet-tested"
+}
