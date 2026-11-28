@@ -1029,6 +1029,54 @@
           "relationship": "Starting search link; the individual North Indian Mooli Bhurji page was opened and reviewed."
         }
       ]
+    },
+    {
+      "id": "098",
+      "name": "Tinda Masala",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=tinda+masala",
+          "query": "tinda masala",
+          "relationship": "Starting search link; open an individual tinda recipe before citing."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=tinda+masala",
+          "query": "tinda masala",
+          "relationship": "Starting search link; open an individual tinda recipe before citing."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=tinda+masala",
+          "query": "tinda masala",
+          "relationship": "Starting search link; the individual Khatti Meethi Tinda Masala page was opened and reviewed."
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Sindhi Sai Bhaji",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=sindhi+sai+bhaji",
+          "query": "sindhi sai bhaji",
+          "relationship": "Starting search link; no individual page was used from this site in this run."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=sai+bhaji",
+          "query": "sai bhaji",
+          "relationship": "Starting search link; no individual page was used from this site in this run."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=sindhi+sai+bhaji",
+          "query": "sindhi sai bhaji",
+          "relationship": "Starting search link; the individual Sindhi Sai Bhaji page was opened and reviewed."
+        }
+      ]
     }
   ]
 }
