@@ -45,8 +45,8 @@
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chakra_Palak_Tofu.jpg/960px-Chakra_Palak_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "imageStatus": "licensed-commons-remote-local-copy-pending",
+  "image": "/assets/images/recipes/014.webp",
+  "imageStatus": "licensed-commons-local-validated",
   "imageAttribution": {
     "creator": "JIP",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chakra_Palak_Tofu.jpg",

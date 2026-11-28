@@ -46,8 +46,8 @@
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
   "inspirationStatus": "verified-individual-references",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rajma_Masala_%2832081557778%29.jpg/960px-Rajma_Masala_%2832081557778%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
-  "imageStatus": "licensed-commons-remote-local-copy-pending",
+  "image": "/assets/images/recipes/021.webp",
+  "imageStatus": "licensed-commons-local-validated",
   "imageAttribution": {
     "creator": "Gaurav Nemade",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",

@@ -3,7 +3,7 @@
   "updatedOn": "2026-11-27",
   "policy": "Every prior external image reference is retained here for audit. Only unique exact images with complete creator, source and licence metadata remain active on the site. filePath null means the image has not been mirrored locally.",
   "summary": {
-    "recipeCount": 301,
+    "recipeCount": 302,
     "originalImageReferences": 231,
     "activeUniqueExactImages": 160,
     "uniqueExactImageSources": 164,
@@ -12,12 +12,13 @@
     "duplicateAssignmentsRemoved": 18,
     "metadataIncompleteRecords": 4,
     "recipesWithNoImageReferenceBeforeCleanup": 70,
-    "pendingRecipesAfterCleanup": 141,
+    "pendingRecipesAfterCleanup": 142,
     "generatedThisRun": 0,
     "sourcedAndIndividuallyVerifiedThisRun": 5,
     "validatedThisRun": 5,
-    "localFilesAddedThisRun": 0,
-    "note": "The public site now displays only unique, exact, fully attributed Commons references. Similar-dish placeholders and repeated source assignments have been removed from the active map. Five individual Commons pages were checked on 2026-11-27. Local mirroring remains pending because the runtime could not resolve Wikimedia hosts."
+    "localFilesAddedThisRun": 5,
+    "note": "5 individually verified exact-match Wikimedia Commons images were mirrored to local WebP assets. Original creators, source pages and licence links are retained. No AI-generated images are claimed in this run.",
+    "lastRunDate": "2026-11-28"
   },
   "records": [
     {
@@ -64,7 +65,7 @@
     },
     {
       "recipeId": 6,
-      "filePath": null,
+      "filePath": "assets/images/recipes/006.webp",
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG/960px-Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "creator": "Mdsmds0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",
@@ -73,8 +74,10 @@
       "sourceTitle": "Pumpkin Curry (Kaddu Ki Sabzi)",
       "match": "exact",
       "duplicateSourceRecipeIds": [],
-      "status": "verified-this-run-remote-local-copy-pending",
-      "activeOnSite": true
+      "status": "licensed-commons-local-validated",
+      "activeOnSite": true,
+      "localCopyDate": "2026-11-28",
+      "localFileSha256": "9c8458186b73e65c286c2f9141eb7392a3d92a6e9441a311714ff8f648bf80d5"
     },
     {
       "recipeId": 7,
@@ -94,7 +97,7 @@
     },
     {
       "recipeId": 10,
-      "filePath": null,
+      "filePath": "assets/images/recipes/010.webp",
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "creator": "Neha Sonal",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lauki_and_Chana_Dal_Curry.jpg",
@@ -106,8 +109,10 @@
         38,
         257
       ],
-      "status": "verified-this-run-remote-local-copy-pending",
-      "activeOnSite": true
+      "status": "licensed-commons-local-validated",
+      "activeOnSite": true,
+      "localCopyDate": "2026-11-28",
+      "localFileSha256": "a227ccb71c0316d3642b27b09f2fc74c4b4edf2ad29c733b0d47df8f653a2843"
     },
     {
       "recipeId": 11,
@@ -125,7 +130,7 @@
     },
     {
       "recipeId": 13,
-      "filePath": null,
+      "filePath": "assets/images/recipes/013.webp",
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chana_Ko_Dal.jpg/960px-Chana_Ko_Dal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "creator": "Gaurav Dhwaj Khadka",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chana_Ko_Dal.jpg",
@@ -134,12 +139,14 @@
       "sourceTitle": "Chana Ko Dal",
       "match": "exact",
       "duplicateSourceRecipeIds": [],
-      "status": "verified-this-run-remote-local-copy-pending",
-      "activeOnSite": true
+      "status": "licensed-commons-local-validated",
+      "activeOnSite": true,
+      "localCopyDate": "2026-11-28",
+      "localFileSha256": "969fb36add498771e92d04af0f6ec7d04d436e9658a652a86a443263b3bab943"
     },
     {
       "recipeId": 14,
-      "filePath": null,
+      "filePath": "assets/images/recipes/014.webp",
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chakra_Palak_Tofu.jpg/960px-Chakra_Palak_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "creator": "JIP",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chakra_Palak_Tofu.jpg",
@@ -150,8 +157,10 @@
       "duplicateSourceRecipeIds": [
         248
       ],
-      "status": "verified-this-run-remote-local-copy-pending",
-      "activeOnSite": true
+      "status": "licensed-commons-local-validated",
+      "activeOnSite": true,
+      "localCopyDate": "2026-11-28",
+      "localFileSha256": "61fd271160aeb7270f0bf5fd33f5911b295743ed3e5ccb26d01695b2f470409f"
     },
     {
       "recipeId": 15,
@@ -227,7 +236,7 @@
     },
     {
       "recipeId": 21,
-      "filePath": null,
+      "filePath": "assets/images/recipes/021.webp",
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rajma_Masala_%2832081557778%29.jpg/960px-Rajma_Masala_%2832081557778%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
       "creator": "Gaurav Nemade",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",
@@ -236,8 +245,10 @@
       "sourceTitle": "Rajma Masala (32081557778)",
       "match": "exact",
       "duplicateSourceRecipeIds": [],
-      "status": "verified-this-run-remote-local-copy-pending",
-      "activeOnSite": true
+      "status": "licensed-commons-local-validated",
+      "activeOnSite": true,
+      "localCopyDate": "2026-11-28",
+      "localFileSha256": "12c0721cc841dc039e7530f59eafef4a023c24cec95decd18a67c86d99a2f92f"
     },
     {
       "recipeId": 24,

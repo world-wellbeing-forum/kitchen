@@ -64,8 +64,8 @@
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
   "rebalanced": true,
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG/960px-Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "imageStatus": "licensed-commons-remote-local-copy-pending",
+  "image": "/assets/images/recipes/006.webp",
+  "imageStatus": "licensed-commons-local-validated",
   "imageAttribution": {
     "creator": "Mdsmds0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",

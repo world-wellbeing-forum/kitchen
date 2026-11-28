@@ -1,1442 +1,1602 @@
 {
-  "3": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloo_Methi_Bhaji.jpg/960px-Aloo_Methi_Bhaji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Methi_Bhaji.jpg",
-    "creator": "Fatimahope",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Aloo Methi Bhaji",
-    "match": "exact"
-  },
-  "4": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aloo_Gobi_Matar_%2849653225183%29.jpg/960px-Aloo_Gobi_Matar_%2849653225183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Gobi_Matar_(49653225183).jpg",
-    "creator": "やましこ",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Aloo Gobi Matar (49653225183)",
-    "match": "exact"
-  },
-  "5": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kathal_ki_sabzi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Kathal_ki_sabzi.jpg",
-    "creator": "Sapanabehl",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Kathal ki sabzi",
-    "match": "exact"
-  },
-  "6": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG/960px-Pumpkin_Curry_%28Kaddu_Ki_Sabzi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",
-    "creator": "Mdsmds0",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Pumpkin Curry (Kaddu Ki Sabzi)",
-    "match": "exact"
-  },
-  "7": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Baingan_Ka_Bharta.JPG/960px-Baingan_Ka_Bharta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Baingan_Ka_Bharta.JPG",
-    "creator": "Zeel Patel",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Baingan Ka Bharta",
-    "match": "exact"
-  },
   "10": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lauki_and_Chana_Dal_Curry.jpg/960px-Lauki_and_Chana_Dal_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lauki_and_Chana_Dal_Curry.jpg",
     "creator": "Neha Sonal",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Lauki and Chana Dal Curry",
-    "match": "exact"
-  },
-  "13": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chana_Ko_Dal.jpg/960px-Chana_Ko_Dal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chana_Ko_Dal.jpg",
-    "creator": "Gaurav Dhwaj Khadka",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chana Ko Dal",
-    "match": "exact"
-  },
-  "14": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chakra_Palak_Tofu.jpg/960px-Chakra_Palak_Tofu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chakra_Palak_Tofu.jpg",
-    "creator": "JIP",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chakra Palak Tofu",
-    "match": "exact"
-  },
-  "15": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dal_rice_with_dum_aloo_and_raw_salad.jpg/960px-Dal_rice_with_dum_aloo_and_raw_salad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Dal_rice_with_dum_aloo_and_raw_salad.jpg",
-    "creator": "Darekarpmanali",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Dal rice with dum aloo and raw salad",
-    "match": "exact"
-  },
-  "16": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bari_Aloo_Pastu.jpg/960px-Bari_Aloo_Pastu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bari_Aloo_Pastu.jpg",
-    "creator": "Sanchak 2k15",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Bari Aloo Pastu",
-    "match": "exact"
-  },
-  "18": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Daal_baati_and_gatte_ki_sabji.jpg/960px-Daal_baati_and_gatte_ki_sabji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Daal_baati_and_gatte_ki_sabji.jpg",
-    "creator": "Sahil tiwarie",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Daal baati and gatte ki sabji",
-    "match": "exact"
-  },
-  "20": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chole_Bhature_6.jpg/960px-Chole_Bhature_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_6.jpg",
-    "creator": "Gannu03",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chole Bhature 6",
-    "match": "exact"
-  },
-  "21": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rajma_Masala_%2832081557778%29.jpg/960px-Rajma_Masala_%2832081557778%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
-    "page": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",
-    "creator": "Gaurav Nemade",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Rajma Masala (32081557778)",
-    "match": "exact"
-  },
-  "24": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg/960px-Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg",
-    "creator": "Deepanshu Srivastava",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Aalu-Kachalu - Home - Uttar Pradesh",
-    "match": "exact"
-  },
-  "27": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Chilla_besan.JPG/960px-Chilla_besan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chilla_besan.JPG",
-    "creator": "Kamalsahansi",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chilla besan",
-    "match": "exact"
-  },
-  "28": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Oats_Upma...yummy.jpg/960px-Oats_Upma...yummy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Oats_Upma...yummy.jpg",
-    "creator": "vrk1219",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Oats Upma...yummy",
-    "match": "exact"
-  },
-  "29": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Poha_with_tomato_sause.jpg/960px-Poha_with_tomato_sause.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Poha_with_tomato_sause.jpg",
-    "creator": "Mrsagar105",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Poha with tomato sause",
-    "match": "exact"
-  },
-  "30": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ragi_Dosa_Mumbai.jpg/960px-Ragi_Dosa_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Ragi_Dosa_Mumbai.jpg",
-    "creator": "Pradeep717",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Ragi Dosa Mumbai",
-    "match": "exact"
-  },
-  "32": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/SPROUTED_MOONG_DAL_MOTH.jpg/960px-SPROUTED_MOONG_DAL_MOTH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:SPROUTED_MOONG_DAL_MOTH.jpg",
-    "creator": "VIRENDRA SINGH",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "SPROUTED MOONG DAL MOTH",
-    "match": "exact"
-  },
-  "33": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Idli_Sambar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Idli_Sambar.JPG",
-    "creator": "Soumya dey at English Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "title": "Idli Sambar",
-    "match": "exact"
-  },
-  "36": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Methi_Paratha_by_Fatima.jpg/960px-Methi_Paratha_by_Fatima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Methi_Paratha_by_Fatima.jpg",
-    "creator": "Fatimahope",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Methi Paratha by Fatima",
-    "match": "exact"
-  },
-  "37": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Homemade_masala_oats_India.jpg/960px-Homemade_masala_oats_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Homemade_masala_oats_India.jpg",
-    "creator": "Status 401",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Homemade masala oats India",
-    "match": "exact"
-  },
-  "41": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MTR_Rava_Idli.jpg/960px-MTR_Rava_Idli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:MTR_Rava_Idli.jpg",
-    "creator": "Maharana7573",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "MTR Rava Idli",
-    "match": "exact"
-  },
-  "42": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Thinai_pongal_%28fox-millet_pongal%29%2C_Tamil_Nadu.jpg/960px-Thinai_pongal_%28fox-millet_pongal%29%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Thinai_pongal_(fox-millet_pongal),_Tamil_Nadu.jpg",
-    "creator": "Bhuvana Meenakshi",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Thinai pongal (fox-millet pongal), Tamil Nadu",
-    "match": "exact"
-  },
-  "43": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sundal_pori.jpg/960px-Sundal_pori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sundal_pori.jpg",
-    "creator": "Madhavan M murugaiyan",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Sundal pori",
-    "match": "exact"
-  },
-  "46": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pesarattu_making.jpg/960px-Pesarattu_making.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pesarattu_making.jpg",
-    "creator": "Ashok Kumar P S",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Pesarattu making",
-    "match": "exact"
-  },
-  "48": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg/960px-Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg",
-    "creator": "SaurWiki",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Ghee Roast Soya Keema with Mini Parathas",
-    "match": "exact"
-  },
-  "49": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Salad_with_Chana%2C_Cucumber%2C_Pomegranate_-_home_made-Chennai%2C_Tamil_Nadu-0206.jpg/960px-Salad_with_Chana%2C_Cucumber%2C_Pomegranate_-_home_made-Chennai%2C_Tamil_Nadu-0206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Salad_with_Chana,_Cucumber,_Pomegranate_-_home_made-Chennai,_Tamil_Nadu-0206.jpg",
-    "creator": "Venkatarangan",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Salad with Chana, Cucumber, Pomegranate - home made-Chennai, Tamil Nadu-0206",
-    "match": "exact"
-  },
-  "50": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tacopocalypse_Vegan_Tofu_Scramble%2C_Des_Moines%2C_Iowa_%2824301627930%29.jpg/960px-Tacopocalypse_Vegan_Tofu_Scramble%2C_Des_Moines%2C_Iowa_%2824301627930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tacopocalypse_Vegan_Tofu_Scramble,_Des_Moines,_Iowa_(24301627930).jpg",
-    "creator": "Tony Webster from Minneapolis, Minnesota",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Tacopocalypse Vegan Tofu Scramble, Des Moines, Iowa (24301627930)",
-    "match": "exact"
-  },
-  "53": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Awadhi_palak_paneer_paratha_dahi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Awadhi_palak_paneer_paratha_dahi.jpg",
-    "creator": "rovingl",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Awadhi palak paneer paratha dahi",
-    "match": "exact"
-  },
-  "54": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Sprout_Chaat.jpg/960px-Sprout_Chaat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sprout_Chaat.jpg",
-    "creator": "Bingo2310",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Sprout Chaat",
-    "match": "exact"
-  },
-  "55": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dhokla_6.jpg/960px-Dhokla_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Dhokla_6.jpg",
-    "creator": "Yakshitha",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Dhokla 6",
-    "match": "exact"
-  },
-  "56": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Adai_Dosai_with_Chutney_01.jpg/960px-Adai_Dosai_with_Chutney_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Adai_Dosai_with_Chutney_01.jpg",
-    "creator": "Sudhan Ram",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Adai Dosai with Chutney 01",
-    "match": "exact"
-  },
-  "57": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Protein_overnight_oats.jpg/960px-Protein_overnight_oats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Protein_overnight_oats.jpg",
-    "creator": "Nervy8924",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Protein overnight oats",
-    "match": "exact"
-  },
-  "58": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chickpea_salad_sandwich_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Chickpea_salad_sandwich_-_01.jpg",
-    "creator": "https://www.flickr.com/photos/thedelicious/",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Chickpea salad sandwich - 01",
-    "match": "exact"
-  },
-  "59": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Uttapam_dosa.jpg/960px-Uttapam_dosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Uttapam_dosa.jpg",
-    "creator": "Apoorva lakshmi",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Uttapam dosa",
-    "match": "exact"
-  },
-  "61": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paneer_Toast_Sandwich.JPG/960px-Paneer_Toast_Sandwich.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Toast_Sandwich.JPG",
-    "creator": "Mdsmds0",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer Toast Sandwich",
-    "match": "exact"
-  },
-  "62": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Sattu_Paratha.jpg/960px-Sattu_Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sattu_Paratha.jpg",
-    "creator": "Samar Fatma",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Sattu Paratha",
-    "match": "exact"
-  },
-  "64": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Mushroom_Masala_Dosa.jpg/960px-Mushroom_Masala_Dosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Mushroom_Masala_Dosa.jpg",
-    "creator": "Dr. Chinchu C.",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Mushroom Masala Dosa",
-    "match": "exact"
-  },
-  "67": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg/960px-Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg",
-    "creator": "Sharon from Sydney, Australia",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Carrot ginger soup with rice noodles with Asian slaw",
-    "match": "exact"
-  },
-  "69": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg/960px-Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg",
-    "creator": "Victoria",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Pearl barley and mushroom soup with white bread in Veselka",
-    "match": "exact"
-  },
-  "70": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House%2C_Bangalore_-_Karnataka_-_PXL2005.jpg/960px-Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House%2C_Bangalore_-_Karnataka_-_PXL2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House,_Bangalore_-_Karnataka_-_PXL2005.jpg",
-    "creator": "Harikrishnan N",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Lemon Chilli Coriander Soup - The Asian Curry House, Bangalore - Karnataka - PXL2005",
-    "match": "exact"
-  },
-  "74": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Manchow_soup_-_Indo-Chinese_cuisine.jpg/960px-Manchow_soup_-_Indo-Chinese_cuisine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Manchow_soup_-_Indo-Chinese_cuisine.jpg",
-    "creator": "Sarkar Sayantan",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Manchow soup - Indo-Chinese cuisine",
-    "match": "exact"
-  },
-  "75": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mulligatawny-Soup_Mumbai.jpg/960px-Mulligatawny-Soup_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Mulligatawny-Soup_Mumbai.jpg",
-    "creator": "GeoTrinity",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "title": "Mulligatawny-Soup Mumbai",
-    "match": "exact"
-  },
-  "76": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/08401_Beetroot_soup_with_vegetables_and_beans%2C_Sanok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:08401_Beetroot_soup_with_vegetables_and_beans,_Sanok.jpg",
-    "creator": "Silar",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "title": "08401 Beetroot soup with vegetables and beans, Sanok",
-    "match": "exact"
-  },
-  "77": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg/960px-Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tom_Yum_(Hot_%26_Sour_Soup)_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg",
-    "creator": "Andy Li",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Tom Yum (Hot & Sour Soup) with Tofu - Thai Pad Thai 2025-12-03",
-    "match": "exact"
-  },
-  "79": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/960px-Pholiota_microspora_miso_soup_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg",
-    "creator": "Ocdp",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Pholiota microspora miso soup 001",
-    "match": "exact"
-  },
-  "84": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/20260318_Cabbage_Soup_recipe.jpg/960px-20260318_Cabbage_Soup_recipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:20260318_Cabbage_Soup_recipe.jpg",
-    "creator": "Auctor quaerendae",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "20260318 Cabbage Soup recipe",
-    "match": "exact"
-  },
-  "85": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Roasted_Red_Pepper_and_Tomato_Soup.jpg/960px-Roasted_Red_Pepper_and_Tomato_Soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Roasted_Red_Pepper_and_Tomato_Soup.jpg",
-    "creator": "Thriving Vegetarian",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Roasted Red Pepper and Tomato Soup",
-    "match": "exact"
-  },
-  "86": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Paneer_butter_masala_2.jpg/960px-Paneer_butter_masala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_butter_masala_2.jpg",
-    "creator": "Gannu03",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer butter masala 2",
-    "match": "exact"
-  },
-  "87": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shahi_Paneer_%26_Butter_Naan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Shahi_Paneer_%26_Butter_Naan.jpg",
-    "creator": "Shashank7200",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Shahi Paneer & Butter Naan",
-    "match": "exact"
-  },
-  "88": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kadai_paneer_with_garlic_naan.jpg/960px-Kadai_paneer_with_garlic_naan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kadai_paneer_with_garlic_naan.jpg",
-    "creator": "YKanchan07",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Kadai paneer with garlic naan",
-    "match": "exact"
-  },
-  "89": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Palak_Paneer_at_WCI_2023.jpg/960px-Palak_Paneer_at_WCI_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_at_WCI_2023.jpg",
-    "creator": "Koshur",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Palak Paneer at WCI 2023",
-    "match": "exact"
-  },
-  "90": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Vegetable_jalfrezi_-_2902442562.jpg/960px-Vegetable_jalfrezi_-_2902442562.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_jalfrezi_-_2902442562.jpg",
-    "creator": "ayes",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegetable jalfrezi - 2902442562",
-    "match": "exact"
-  },
-  "92": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bhindi_Masala.jpg/960px-Bhindi_Masala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bhindi_Masala.jpg",
-    "creator": "Monali.mishra",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Bhindi Masala",
-    "match": "exact"
-  },
-  "95": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Matar_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Matar_mushroom.jpg",
-    "creator": "Hrishikes",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Matar mushroom",
-    "match": "exact"
-  },
-  "96": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dal_Makhani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Dal_Makhani.jpg",
-    "creator": "Charles Haynes",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Dal Makhani",
-    "match": "exact"
-  },
-  "97": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vegetable_Korma_03.jpg/960px-Vegetable_Korma_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Korma_03.jpg",
-    "creator": "Vis M",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Vegetable Korma 03",
-    "match": "exact"
-  },
-  "98": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tinda_Masala.JPG/960px-Tinda_Masala.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tinda_Masala.JPG",
-    "creator": "Ravi Talwar",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Tinda Masala",
-    "match": "exact"
+    "localFile": true,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lauki_and_Chana_Dal_Curry.jpg",
+    "sourceType": "commons",
+    "url": "/assets/images/recipes/010.webp"
   },
   "101": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Methi_malai_mattar.jpg/960px-Methi_malai_mattar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Methi_malai_mattar.jpg",
     "creator": "Charvi Kakwani",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Methi malai mattar",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Methi_malai_mattar.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Methi_malai_mattar.jpg/960px-Methi_malai_mattar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "102": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jackfruit_curry%2C_Kerala.jpg/960px-Jackfruit_curry%2C_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Jackfruit_curry,_Kerala.jpg",
     "creator": "Vis M",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Jackfruit curry, Kerala",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Jackfruit_curry,_Kerala.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jackfruit_curry%2C_Kerala.jpg/960px-Jackfruit_curry%2C_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "105": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Undhiyu.jpg/960px-Undhiyu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Undhiyu.jpg",
     "creator": "Jatan1992",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Undhiyu",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Undhiyu.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Undhiyu.jpg/960px-Undhiyu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "106": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
     "creator": "PallaviKhale",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Malai Paneer Tikka, PK 007",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "107": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_%284940054389%29.jpg/960px-Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_%284940054389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_(4940054389).jpg",
     "creator": "Vegan Feast Catering",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Tofu Tikka Masala with Brown Rice and Chilies (4940054389)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_(4940054389).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_%284940054389%29.jpg/960px-Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_%284940054389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "108": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Achari_Paneer_with_Methi_Phulka.JPG/960px-Achari_Paneer_with_Methi_Phulka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Achari_Paneer_with_Methi_Phulka.JPG",
     "creator": "Missmansipants",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Achari Paneer with Methi Phulka",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Achari_Paneer_with_Methi_Phulka.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Achari_Paneer_with_Methi_Phulka.JPG/960px-Achari_Paneer_with_Methi_Phulka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "110": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg/960px-Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg",
     "creator": "Andy Li",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Black pepper tofu fried udon - Stir Fry by CK",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg/960px-Black_pepper_tofu_fried_udon_-_Stir_Fry_by_CK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "113": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Matar-Paneer.JPG/960px-Matar-Paneer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Matar-Paneer.JPG",
     "creator": "Mdsmds0",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Matar-Paneer",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Matar-Paneer.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Matar-Paneer.JPG/960px-Matar-Paneer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "115": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Paneer_Hariyali_%282026%29_02.jpg/960px-Paneer_Hariyali_%282026%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Hariyali_(2026)_02.jpg",
     "creator": "Gpkp",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer Hariyali (2026) 02",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Hariyali_(2026)_02.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Paneer_Hariyali_%282026%29_02.jpg/960px-Paneer_Hariyali_%282026%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "116": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Salt_and_Pepper_Tofu_1.jpg/960px-Salt_and_Pepper_Tofu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Salt_and_Pepper_Tofu_1.jpg",
     "creator": "Neodymium+Nd",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "title": "Salt and Pepper Tofu 1",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Salt_and_Pepper_Tofu_1.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Salt_and_Pepper_Tofu_1.jpg/960px-Salt_and_Pepper_Tofu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "121": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Paneer_mushroom_gravy.JPG/960px-Paneer_mushroom_gravy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_mushroom_gravy.JPG",
     "creator": "Happpikirlo",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer mushroom gravy",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_mushroom_gravy.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Paneer_mushroom_gravy.JPG/960px-Paneer_mushroom_gravy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "123": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Paneer_Tikka_Shashlik_PK012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Tikka_Shashlik_PK012.jpg",
     "creator": "PallaviKhale",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer Tikka Shashlik PK012",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Tikka_Shashlik_PK012.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Paneer_Tikka_Shashlik_PK012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "125": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg/960px-A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg",
     "creator": "Billjones94",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "A bowl of chili paneer during dinner at a household",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg/960px-A_bowl_of_chili_paneer_during_dinner_at_a_household.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "127": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Moong_Dal_Curry_on_a_Roti.jpg/960px-Moong_Dal_Curry_on_a_Roti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Moong_Dal_Curry_on_a_Roti.jpg",
     "creator": "Gaurav Dhwaj Khadka",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Moong Dal Curry on a Roti",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Moong_Dal_Curry_on_a_Roti.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Moong_Dal_Curry_on_a_Roti.jpg/960px-Moong_Dal_Curry_on_a_Roti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "129": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lobia_Curry.JPG/960px-Lobia_Curry.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lobia_Curry.JPG",
     "creator": "Miansari66",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Lobia Curry",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lobia_Curry.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lobia_Curry.JPG/960px-Lobia_Curry.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "13": {
+    "creator": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": true,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chana_Ko_Dal.jpg",
+    "sourceType": "commons",
+    "url": "/assets/images/recipes/013.webp"
   },
   "130": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/DRY_KALA_CHANA_MASALA.jpg/960px-DRY_KALA_CHANA_MASALA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:DRY_KALA_CHANA_MASALA.jpg",
     "creator": "Nikitamusaddi",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "DRY KALA CHANA MASALA",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:DRY_KALA_CHANA_MASALA.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/DRY_KALA_CHANA_MASALA.jpg/960px-DRY_KALA_CHANA_MASALA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "133": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%2AMisal_Pav%2A.jpg/960px-%2AMisal_Pav%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:*Misal_Pav*.jpg",
     "creator": "Ishanya 1507",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "*Misal Pav*",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:*Misal_Pav*.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%2AMisal_Pav%2A.jpg/960px-%2AMisal_Pav%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "134": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Adzuki_beans_with_Lima_beans.jpg/960px-Adzuki_beans_with_Lima_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Adzuki_beans_with_Lima_beans.jpg",
     "creator": "Gabriel Fredrick Sindahnai",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Adzuki beans with Lima beans",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Adzuki_beans_with_Lima_beans.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Adzuki_beans_with_Lima_beans.jpg/960px-Adzuki_beans_with_Lima_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "14": {
+    "creator": "JIP",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": true,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chakra_Palak_Tofu.jpg",
+    "sourceType": "commons",
+    "url": "/assets/images/recipes/014.webp"
   },
   "142": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Gourd_rajma_curry_with_coconut.jpg/960px-Gourd_rajma_curry_with_coconut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gourd_rajma_curry_with_coconut.jpg",
     "creator": "Raseswari",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "title": "Gourd rajma curry with coconut",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Gourd_rajma_curry_with_coconut.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Gourd_rajma_curry_with_coconut.jpg/960px-Gourd_rajma_curry_with_coconut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "143": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Roti_with_Chana_Dal.jpg/960px-Roti_with_Chana_Dal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Roti_with_Chana_Dal.jpg",
     "creator": "Gaurav Dhwaj Khadka",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Roti with Chana Dal",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Roti_with_Chana_Dal.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Roti_with_Chana_Dal.jpg/960px-Roti_with_Chana_Dal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "145": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Falafel_1.JPG/960px-Falafel_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG",
     "creator": "Miansari66",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Falafel 1",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Falafel_1.JPG/960px-Falafel_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "147": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kodo_millet_khichdi.jpg/960px-Kodo_millet_khichdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kodo_millet_khichdi.jpg",
     "creator": "Medhi jyoti",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Kodo millet khichdi",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kodo_millet_khichdi.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kodo_millet_khichdi.jpg/960px-Kodo_millet_khichdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "148": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattar_Pulao_%28Peas_Pullao%29.JPG/960px-Mattar_Pulao_%28Peas_Pullao%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Mattar_Pulao_(Peas_Pullao).JPG",
     "creator": "Miansari66",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Mattar Pulao (Peas Pullao)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Mattar_Pulao_(Peas_Pullao).JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattar_Pulao_%28Peas_Pullao%29.JPG/960px-Mattar_Pulao_%28Peas_Pullao%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "15": {
+    "creator": "Darekarpmanali",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Dal_rice_with_dum_aloo_and_raw_salad.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dal_rice_with_dum_aloo_and_raw_salad.jpg/960px-Dal_rice_with_dum_aloo_and_raw_salad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "150": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/960px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Rice_in_Kerala.jpg",
     "creator": "Ganesh Gore",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Lemon Rice in Kerala",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Rice_in_Kerala.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/960px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "151": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lemon_Barley_Pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Barley_Pilaf.jpg",
     "creator": "CityMama --Stefania Pomponi Butler",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Lemon Barley Pilaf",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Barley_Pilaf.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lemon_Barley_Pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "153": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Curd_rice_in_ICH_Bhopal.jpg/960px-Curd_rice_in_ICH_Bhopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Curd_rice_in_ICH_Bhopal.jpg",
     "creator": "Suyash Dwivedi",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Curd rice in ICH Bhopal",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Curd_rice_in_ICH_Bhopal.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Curd_rice_in_ICH_Bhopal.jpg/960px-Curd_rice_in_ICH_Bhopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "154": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/960px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg",
     "creator": "Phadke09",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Vegetable Biryani IMG 001",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/960px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "16": {
+    "creator": "Sanchak 2k15",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Bari_Aloo_Pastu.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bari_Aloo_Pastu.jpg/960px-Bari_Aloo_Pastu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "161": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Orzo_Lentil_Pilaf_with_Feta.jpg/960px-Orzo_Lentil_Pilaf_with_Feta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Orzo_Lentil_Pilaf_with_Feta.jpg",
     "creator": "Rooey202",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Orzo Lentil Pilaf with Feta",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Orzo_Lentil_Pilaf_with_Feta.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Orzo_Lentil_Pilaf_with_Feta.jpg/960px-Orzo_Lentil_Pilaf_with_Feta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "162": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG/960px-Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG",
     "creator": "Nundhaa",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Milagu-Pepper Thinai-Foxtail Millet Pongal with Coconut Chutney",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG/960px-Milagu-Pepper_Thinai-Foxtail_Millet_Pongal_with_Coconut_Chutney.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "163": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg/960px-Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg",
     "creator": "Alpha",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Spicy Vegetable Stew with Couscous at Moroccan Soup Bar",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg/960px-Spicy_Vegetable_Stew_with_Couscous_at_Moroccan_Soup_Bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "164": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tomato_bath_1.jpg/960px-Tomato_bath_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tomato_bath_1.jpg",
     "creator": "Maharana7573",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Tomato bath 1",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tomato_bath_1.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tomato_bath_1.jpg/960px-Tomato_bath_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "166": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Autumn_Chickpea_Salad_%283986173540%29.jpg/960px-Autumn_Chickpea_Salad_%283986173540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Autumn_Chickpea_Salad_(3986173540).jpg",
     "creator": "Vegan Feast Catering",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Autumn Chickpea Salad (3986173540)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Autumn_Chickpea_Salad_(3986173540).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Autumn_Chickpea_Salad_%283986173540%29.jpg/960px-Autumn_Chickpea_Salad_%283986173540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "167": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sweet_potato_fries_bowl_%2844260849040%29.jpg/960px-Sweet_potato_fries_bowl_%2844260849040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sweet_potato_fries_bowl_(44260849040).jpg",
     "creator": "Ella Olsson from Stockholm, Sweden",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Sweet potato fries bowl (44260849040)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sweet_potato_fries_bowl_(44260849040).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sweet_potato_fries_bowl_%2844260849040%29.jpg/960px-Sweet_potato_fries_bowl_%2844260849040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "169": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lentil_salad_%2829308018298%29.jpg/960px-Lentil_salad_%2829308018298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lentil_salad_(29308018298).jpg",
     "creator": "Joey Doll",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Lentil salad (29308018298)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lentil_salad_(29308018298).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lentil_salad_%2829308018298%29.jpg/960px-Lentil_salad_%2829308018298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "170": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Flageolet_bean_salad_recipe_veg.jpg/960px-Flageolet_bean_salad_recipe_veg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Flageolet_bean_salad_recipe_veg.jpg",
     "creator": "Jerry Pank",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "title": "Flageolet bean salad recipe veg",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Flageolet_bean_salad_recipe_veg.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Flageolet_bean_salad_recipe_veg.jpg/960px-Flageolet_bean_salad_recipe_veg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "171": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kachumber_Salad.JPG/960px-Kachumber_Salad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kachumber_Salad.JPG",
     "creator": "Miansari66",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Kachumber Salad",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kachumber_Salad.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kachumber_Salad.JPG/960px-Kachumber_Salad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "172": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pan-Grilled_Paneer_Tikka.jpg/960px-Pan-Grilled_Paneer_Tikka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pan-Grilled_Paneer_Tikka.jpg",
     "creator": "PrathikRamesh11",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Pan-Grilled Paneer Tikka",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pan-Grilled_Paneer_Tikka.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pan-Grilled_Paneer_Tikka.jpg/960px-Pan-Grilled_Paneer_Tikka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "173": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Edamame_bowl_by_habitatgirl.jpg/960px-Edamame_bowl_by_habitatgirl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Edamame_bowl_by_habitatgirl.jpg",
     "creator": "habitatgirl",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Edamame bowl by habitatgirl",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Edamame_bowl_by_habitatgirl.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Edamame_bowl_by_habitatgirl.jpg/960px-Edamame_bowl_by_habitatgirl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "174": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Roasted_Cauliflower_in_Indian_style.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Roasted_Cauliflower_in_Indian_style.JPG",
     "creator": "KoyeliC",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Roasted Cauliflower in Indian style",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Roasted_Cauliflower_in_Indian_style.JPG",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Roasted_Cauliflower_in_Indian_style.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "175": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sprouted_Moong_Salad.JPG/960px-Sprouted_Moong_Salad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sprouted_Moong_Salad.JPG",
     "creator": "Abhijit Patil",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Sprouted Moong Salad",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sprouted_Moong_Salad.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sprouted_Moong_Salad.JPG/960px-Sprouted_Moong_Salad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "176": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Warm_Black_Bean_Salad_with_Kale_and_Tomatoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Warm_Black_Bean_Salad_with_Kale_and_Tomatoes.jpg",
     "creator": "Sharon Chen",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "title": "Warm Black Bean Salad with Kale and Tomatoes",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Warm_Black_Bean_Salad_with_Kale_and_Tomatoes.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Warm_Black_Bean_Salad_with_Kale_and_Tomatoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "177": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_%286797650378%29.jpg/960px-Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_%286797650378%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_(6797650378).jpg",
     "creator": "Lablascovegmenu from London",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Barley salad - Ensalada de cebada - Amanida de civada (6797650378)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_(6797650378).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_%286797650378%29.jpg/960px-Barley_salad_-_Ensalada_de_cebada_-_Amanida_de_civada_%286797650378%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "178": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Strawberry_Spinach_Salad_%285000511898%29.jpg/960px-Strawberry_Spinach_Salad_%285000511898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Spinach_Salad_(5000511898).jpg",
     "creator": "Vancouver Bites! from Vancouver, Canada",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Strawberry Spinach Salad (5000511898)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Spinach_Salad_(5000511898).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Strawberry_Spinach_Salad_%285000511898%29.jpg/960px-Strawberry_Spinach_Salad_%285000511898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "18": {
+    "creator": "Sahil tiwarie",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Daal_baati_and_gatte_ki_sabji.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Daal_baati_and_gatte_ki_sabji.jpg/960px-Daal_baati_and_gatte_ki_sabji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "181": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/White_bean_mediterranean_salad.jpg/960px-White_bean_mediterranean_salad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:White_bean_mediterranean_salad.jpg",
     "creator": "gran",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "title": "White bean mediterranean salad",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:White_bean_mediterranean_salad.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/White_bean_mediterranean_salad.jpg/960px-White_bean_mediterranean_salad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "184": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg/960px-Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg",
     "creator": "Andy Li",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Tasty Buddha Bowl with Falafel - Dyke Road Park Cafe 2025-05-09",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg/960px-Tasty_Buddha_Bowl_with_Falafel_-_Dyke_Road_Park_Cafe_2025-05-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "185": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bowl%27o%27Coleslaw_modified.jpg/960px-Bowl%27o%27Coleslaw_modified.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bowl%27o%27Coleslaw_modified.jpg",
     "creator": "Unknown (see file page)",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Bowl'o'Coleslaw modified",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Bowl%27o%27Coleslaw_modified.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bowl%27o%27Coleslaw_modified.jpg/960px-Bowl%27o%27Coleslaw_modified.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "187": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Hara_bhara_kabab-.JPG/960px-Hara_bhara_kabab-.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Hara_bhara_kabab-.JPG",
     "creator": "Kanikatwl",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Hara bhara kabab-",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Hara_bhara_kabab-.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Hara_bhara_kabab-.JPG/960px-Hara_bhara_kabab-.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "188": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg/960px-Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg",
     "creator": "Sonia Goyal Jaipur",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Moong Dal Kachori Recipe From Indian Cuisine By Sonia Goyal",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg/960px-Moong_Dal_Kachori_Recipe_From_Indian_Cuisine_By_Sonia_Goyal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "190": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Chana_chaat%2C_Bengaluru_%282026%29.jpg/960px-Chana_chaat%2C_Bengaluru_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chana_chaat,_Bengaluru_(2026).jpg",
     "creator": "Gpkp",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chana chaat, Bengaluru (2026)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chana_chaat,_Bengaluru_(2026).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Chana_chaat%2C_Bengaluru_%282026%29.jpg/960px-Chana_chaat%2C_Bengaluru_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "191": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg/960px-Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg",
     "creator": "Gitika Gayan",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Aloo Tikki - Homemade - Assam - DSC 002",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg/960px-Aloo_Tikki_-_Homemade_-_Assam_-_DSC_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "194": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roasted_chickpeas.jpg/960px-Roasted_chickpeas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Roasted_chickpeas.jpg",
     "creator": "Fumikas Sagisavas",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Roasted chickpeas",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Roasted_chickpeas.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roasted_chickpeas.jpg/960px-Roasted_chickpeas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "195": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg/960px-Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg",
     "creator": "Shaili Sharma",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Cheesy Corn Chaat a 5 minute recipe - Gujarat - SHAILI 012",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg/960px-Cheesy_Corn_Chaat_a_5_minute_recipe_-_Gujarat_-_SHAILI_012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "197": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Samosa_4.jpg/960px-Samosa_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Samosa_4.jpg",
     "creator": "Gaurav Dhwaj Khadka",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Samosa 4",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Samosa_4.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Samosa_4.jpg/960px-Samosa_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "199": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dahi_Vada_and_Papdi_Chaat.jpg/960px-Dahi_Vada_and_Papdi_Chaat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Dahi_Vada_and_Papdi_Chaat.jpg",
     "creator": "Sreevnit14",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Dahi Vada and Papdi Chaat",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Dahi_Vada_and_Papdi_Chaat.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dahi_Vada_and_Papdi_Chaat.jpg/960px-Dahi_Vada_and_Papdi_Chaat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "20": {
+    "creator": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_6.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chole_Bhature_6.jpg/960px-Chole_Bhature_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "201": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_Traditional_Tamil_Snack_Murukku.jpg/960px-A_Traditional_Tamil_Snack_Murukku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:A_Traditional_Tamil_Snack_Murukku.jpg",
     "creator": "Thamizhpparithi Maari",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "title": "A Traditional Tamil Snack Murukku",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Traditional_Tamil_Snack_Murukku.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_Traditional_Tamil_Snack_Murukku.jpg/960px-A_Traditional_Tamil_Snack_Murukku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "203": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
     "creator": "Amanwiki308",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Kathi Roll",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "204": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Idli_fry.jpg/960px-Idli_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Idli_fry.jpg",
     "creator": "Dollyastha",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Idli fry",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Idli_fry.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Idli_fry.jpg/960px-Idli_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "206": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Eggplant_parmesan_%283849722245%29.jpg/960px-Eggplant_parmesan_%283849722245%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Eggplant_parmesan_(3849722245).jpg",
     "creator": "Karen and Brad Emerson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Eggplant parmesan (3849722245)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Eggplant_parmesan_(3849722245).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Eggplant_parmesan_%283849722245%29.jpg/960px-Eggplant_parmesan_%283849722245%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "207": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vegetable_Lasagna_10-07_to_22_439.jpg/960px-Vegetable_Lasagna_10-07_to_22_439.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Lasagna_10-07_to_22_439.jpg",
     "creator": "Chris Light",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Vegetable Lasagna 10-07 to 22 439",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Lasagna_10-07_to_22_439.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vegetable_Lasagna_10-07_to_22_439.jpg/960px-Vegetable_Lasagna_10-07_to_22_439.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "208": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cannelloni_%288378027319%29.jpg/960px-Cannelloni_%288378027319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Cannelloni_(8378027319).jpg",
     "creator": "Karen and Brad Emerson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Cannelloni (8378027319)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Cannelloni_(8378027319).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cannelloni_%288378027319%29.jpg/960px-Cannelloni_%288378027319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "21": {
+    "creator": "Gaurav Nemade",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": true,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",
+    "sourceType": "commons",
+    "url": "/assets/images/recipes/021.webp"
   },
   "213": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Vegetable_moussaka_%2827938572142%29.jpg/960px-Vegetable_moussaka_%2827938572142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_moussaka_(27938572142).jpg",
     "creator": "Jeremy Segrott from Cardiff, Wales, UK",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegetable moussaka (27938572142)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_moussaka_(27938572142).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Vegetable_moussaka_%2827938572142%29.jpg/960px-Vegetable_moussaka_%2827938572142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "214": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG/960px-Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG",
     "creator": "Biswarup Ganguly",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "title": "Paneer Kofta Curry - Kolkata 2011-09-20 5425",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG/960px-Paneer_Kofta_Curry_-_Kolkata_2011-09-20_5425.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "216": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_pepper_stuffed_with_lentils_with_rice_an_veggies_%2836387949363%29.jpg/960px-Red_pepper_stuffed_with_lentils_with_rice_an_veggies_%2836387949363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_pepper_stuffed_with_lentils_with_rice_an_veggies_(36387949363).jpg",
     "creator": "Ula Zarosa",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Red pepper stuffed with lentils with rice an veggies (36387949363)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_pepper_stuffed_with_lentils_with_rice_an_veggies_(36387949363).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_pepper_stuffed_with_lentils_with_rice_an_veggies_%2836387949363%29.jpg/960px-Red_pepper_stuffed_with_lentils_with_rice_an_veggies_%2836387949363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "221": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Veggie_pasta_bake_%284024207966%29.jpg/960px-Veggie_pasta_bake_%284024207966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Veggie_pasta_bake_(4024207966).jpg",
     "creator": "Karen and Brad Emerson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Veggie pasta bake (4024207966)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Veggie_pasta_bake_(4024207966).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Veggie_pasta_bake_%284024207966%29.jpg/960px-Veggie_pasta_bake_%284024207966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "222": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pumpkin_risotto.jpg/960px-Pumpkin_risotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_risotto.jpg",
     "creator": "o.tacke",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Pumpkin risotto",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_risotto.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pumpkin_risotto.jpg/960px-Pumpkin_risotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "224": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Paneer_tikka_.jpg/960px-Paneer_tikka_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_tikka_.jpg",
     "creator": "Craversbooty",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer tikka ",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_tikka_.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Paneer_tikka_.jpg/960px-Paneer_tikka_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "225": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Savory_vegetable_casserole_layered_with_carrots%2C_peas%2C_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg/960px-Savory_vegetable_casserole_layered_with_carrots%2C_peas%2C_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Savory_vegetable_casserole_layered_with_carrots,_peas,_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg",
     "creator": "Shixart1985",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Savory vegetable casserole layered with carrots, peas, and creamy topping served in a glass dish on a wooden table",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Savory_vegetable_casserole_layered_with_carrots,_peas,_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Savory_vegetable_casserole_layered_with_carrots%2C_peas%2C_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg/960px-Savory_vegetable_casserole_layered_with_carrots%2C_peas%2C_and_creamy_topping_served_in_a_glass_dish_on_a_wooden_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "226": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/960px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gobi_65_(cauliflower_fry).jpg",
     "creator": "Alvinjesusyouth",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Gobi 65 (cauliflower fry)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Gobi_65_(cauliflower_fry).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/960px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "227": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Paneer-Cheese_Fingers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer-Cheese_Fingers.JPG",
     "creator": "KoyeliC",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer-Cheese Fingers",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer-Cheese_Fingers.JPG",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Paneer-Cheese_Fingers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "228": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg/960px-Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg",
     "creator": "Andy Li",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Crispy Tofu - Stir Fry by CK 2025-04-06",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg/960px-Crispy_Tofu_-_Stir_Fry_by_CK_2025-04-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "229": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg/960px-Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg",
     "creator": "Andy Li",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Stuffed Portobello Mushroom - Food for Friends 2026-03-09",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg/960px-Stuffed_Portobello_Mushroom_-_Food_for_Friends_2026-03-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "233": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg/960px-Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sesame-roasted_sweet_potato_wedges_with_Brocolli_(3257806891).jpg",
     "creator": "Karen and Brad Emerson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Sesame-roasted sweet potato wedges with Brocolli (3257806891)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sesame-roasted_sweet_potato_wedges_with_Brocolli_(3257806891).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg/960px-Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "235": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Baked_Zucchini_Fries_%2836335607325%29.jpg/960px-Baked_Zucchini_Fries_%2836335607325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Baked_Zucchini_Fries_(36335607325).jpg",
     "creator": "A Healthier Michigan from Detroit, United States",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Baked Zucchini Fries (36335607325)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Baked_Zucchini_Fries_(36335607325).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Baked_Zucchini_Fries_%2836335607325%29.jpg/960px-Baked_Zucchini_Fries_%2836335607325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "238": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Vegetable_Cutlet_From_India.jpg/960px-Vegetable_Cutlet_From_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Cutlet_From_India.jpg",
     "creator": "Ntarch",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Vegetable Cutlet From India",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Cutlet_From_India.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Vegetable_Cutlet_From_India.jpg/960px-Vegetable_Cutlet_From_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "24": {
+    "creator": "Deepanshu Srivastava",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg/960px-Aalu-Kachalu_-_Home_-_Uttar_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "243": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Paneer_Pakoras.jpg/960px-Paneer_Pakoras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Pakoras.jpg",
     "creator": "Vrinda Arora",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Paneer Pakoras",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Pakoras.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Paneer_Pakoras.jpg/960px-Paneer_Pakoras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "245": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Broccoli_millet_croquettes_%2842460432794%29.jpg/960px-Broccoli_millet_croquettes_%2842460432794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Broccoli_millet_croquettes_(42460432794).jpg",
     "creator": "Joey Doll",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Broccoli millet croquettes (42460432794)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Broccoli_millet_croquettes_(42460432794).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Broccoli_millet_croquettes_%2842460432794%29.jpg/960px-Broccoli_millet_croquettes_%2842460432794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "247": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg/960px-VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg",
     "creator": "Jagisnowjughead",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "VEGETABLE PULAO ~ An Indian cuisine made from fried rice mixed with fried vegetables",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg/960px-VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "249": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Masoor_Ki_Dal_Ka_Salan.JPG/960px-Kali_Masoor_Ki_Dal_Ka_Salan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kali_Masoor_Ki_Dal_Ka_Salan.JPG",
     "creator": "Miansari66",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Kali Masoor Ki Dal Ka Salan",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kali_Masoor_Ki_Dal_Ka_Salan.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Masoor_Ki_Dal_Ka_Salan.JPG/960px-Kali_Masoor_Ki_Dal_Ka_Salan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "252": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Upma_South_India.JPG/960px-Upma_South_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Upma_South_India.JPG",
     "creator": "Intodustin",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Upma South India",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Upma_South_India.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Upma_South_India.JPG/960px-Upma_South_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "253": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg/960px-Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg",
     "creator": "Minja Klarić",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Pumpkin soup with seeds and croutons in Bosnia and Herzegovina-bs",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg/960px-Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "254": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chickpea_Curry.jpg/960px-Chickpea_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chickpea_Curry.jpg",
     "creator": "Gaurav Dhwaj Khadka",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chickpea Curry",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chickpea_Curry.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chickpea_Curry.jpg/960px-Chickpea_Curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "255": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Vegan_Quinoa_Bowl_%2844040185371%29.jpg/960px-Vegan_Quinoa_Bowl_%2844040185371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Quinoa_Bowl_(44040185371).jpg",
     "creator": "Ella Olsson from Stockholm, Sweden",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegan Quinoa Bowl (44040185371)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Quinoa_Bowl_(44040185371).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Vegan_Quinoa_Bowl_%2844040185371%29.jpg/960px-Vegan_Quinoa_Bowl_%2844040185371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "258": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg/960px-Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg",
     "creator": "Status 401",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Homemade Paneer Bhurji cooked in pan India",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg/960px-Homemade_Paneer_Bhurji_cooked_in_pan_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "261": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tomato_Rice_up-close_%281862224148%29.jpg/960px-Tomato_Rice_up-close_%281862224148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tomato_Rice_up-close_(1862224148).jpg",
     "creator": "Upendra Kanda",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Tomato Rice up-close (1862224148)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tomato_Rice_up-close_(1862224148).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tomato_Rice_up-close_%281862224148%29.jpg/960px-Tomato_Rice_up-close_%281862224148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "262": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Millet_porridge.png/960px-Millet_porridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Millet_porridge.png",
     "creator": "Tiia Monto",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "title": "Millet porridge",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Millet_porridge.png",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Millet_porridge.png/960px-Millet_porridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "27": {
+    "creator": "Kamalsahansi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chilla_besan.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Chilla_besan.JPG/960px-Chilla_besan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "271": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Vegetables_and_Black_Bean_Tacos_%287212559656%29.jpg/960px-Vegetables_and_Black_Bean_Tacos_%287212559656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetables_and_Black_Bean_Tacos_(7212559656).jpg",
     "creator": "Jennifer from Vancouver, Canada",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegetables and Black Bean Tacos (7212559656)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetables_and_Black_Bean_Tacos_(7212559656).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Vegetables_and_Black_Bean_Tacos_%287212559656%29.jpg/960px-Vegetables_and_Black_Bean_Tacos_%287212559656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "272": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Vegetable_Tagine.jpg/960px-Vegetable_Tagine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Tagine.jpg",
     "creator": "Turajski",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Vegetable Tagine",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Tagine.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Vegetable_Tagine.jpg/960px-Vegetable_Tagine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "274": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_%287242352372%29.jpg/960px-Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_%287242352372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_(7242352372).jpg",
     "creator": "tomatoes and friends",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegan Vietnamese Rice Noodle Salad with Tofu (7242352372)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_(7242352372).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_%287242352372%29.jpg/960px-Vegan_Vietnamese_Rice_Noodle_Salad_with_Tofu_%287242352372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "275": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg/960px-Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Baba_ghannouj,_mujadara,_hoummos,_and_tabbouleh_-_Cambridge,_MA.jpg",
     "creator": "Daderot",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "title": "Baba ghannouj, mujadara, hoummos, and tabbouleh - Cambridge, MA",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Baba_ghannouj,_mujadara,_hoummos,_and_tabbouleh_-_Cambridge,_MA.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg/960px-Baba_ghannouj%2C_mujadara%2C_hoummos%2C_and_tabbouleh_-_Cambridge%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "276": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Crimean_Tatar_Imam_bayildi.jpg/960px-Crimean_Tatar_Imam_bayildi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Crimean_Tatar_Imam_bayildi.jpg",
     "creator": "Oksana Makarenko (UA-Lora)",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Crimean Tatar Imam bayildi",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Crimean_Tatar_Imam_bayildi.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Crimean_Tatar_Imam_bayildi.jpg/960px-Crimean_Tatar_Imam_bayildi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "278": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ratatouille.jpg/960px-Ratatouille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Ratatouille.jpg",
     "creator": "Marcus Guimarães",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Ratatouille",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Ratatouille.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ratatouille.jpg/960px-Ratatouille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "28": {
+    "creator": "vrk1219",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Oats_Upma...yummy.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Oats_Upma...yummy.jpg/960px-Oats_Upma...yummy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "281": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Vegetable_Thukpa.jpg/960px-Vegetable_Thukpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Thukpa.jpg",
     "creator": "Gaurav Dhwaj Khadka",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Vegetable Thukpa",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Thukpa.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Vegetable_Thukpa.jpg/960px-Vegetable_Thukpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "283": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Bowl_of_falafel.jpg/960px-Bowl_of_falafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_falafel.jpg",
     "creator": "EvanProdromou",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Bowl of falafel",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_falafel.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Bowl_of_falafel.jpg/960px-Bowl_of_falafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "285": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Callaloo.jpg/960px-Callaloo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Callaloo.jpg",
     "creator": "https://www.flickr.com/photos/67276179@N08/",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Callaloo",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Callaloo.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Callaloo.jpg/960px-Callaloo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "288": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Berry_Frozen_Yogurt_%284723048814%29.jpg/960px-Berry_Frozen_Yogurt_%284723048814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Berry_Frozen_Yogurt_(4723048814).jpg",
     "creator": "Katie Munoz from New York City, United States of America",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "title": "Berry Frozen Yogurt (4723048814)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Berry_Frozen_Yogurt_(4723048814).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Berry_Frozen_Yogurt_%284723048814%29.jpg/960px-Berry_Frozen_Yogurt_%284723048814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "289": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chia_Seed_Pudding_in_a_cup.jpg/960px-Chia_Seed_Pudding_in_a_cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chia_Seed_Pudding_in_a_cup.jpg",
     "creator": "Gogerr",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Chia Seed Pudding in a cup",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chia_Seed_Pudding_in_a_cup.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chia_Seed_Pudding_in_a_cup.jpg/960px-Chia_Seed_Pudding_in_a_cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "29": {
+    "creator": "Mrsagar105",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Poha_with_tomato_sause.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Poha_with_tomato_sause.jpg/960px-Poha_with_tomato_sause.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "292": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mango_with_yogurt_%2842753192754%29.jpg/960px-Mango_with_yogurt_%2842753192754%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Mango_with_yogurt_(42753192754).jpg",
     "creator": "Vee Satayamas from Bangkok, Thailand",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Mango with yogurt (42753192754)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Mango_with_yogurt_(42753192754).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mango_with_yogurt_%2842753192754%29.jpg/960px-Mango_with_yogurt_%2842753192754%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "293": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Gajjar_ka_halwa_%28carrot_halwa%29.JPG/960px-Gajjar_ka_halwa_%28carrot_halwa%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gajjar_ka_halwa_(carrot_halwa).JPG",
     "creator": "Prerna Jaddwani",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Gajjar ka halwa (carrot halwa)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Gajjar_ka_halwa_(carrot_halwa).JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Gajjar_ka_halwa_%28carrot_halwa%29.JPG/960px-Gajjar_ka_halwa_%28carrot_halwa%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "294": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Foxtail_millet_kheer.jpg/960px-Foxtail_millet_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Foxtail_millet_kheer.jpg",
     "creator": "Medhi jyoti",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Foxtail millet kheer",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Foxtail_millet_kheer.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Foxtail_millet_kheer.jpg/960px-Foxtail_millet_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "297": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vegan_Pumpkin_Custard_%284321565358%29.jpg/960px-Vegan_Pumpkin_Custard_%284321565358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Pumpkin_Custard_(4321565358).jpg",
     "creator": "Vegan Feast Catering",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "title": "Vegan Pumpkin Custard (4321565358)",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegan_Pumpkin_Custard_(4321565358).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vegan_Pumpkin_Custard_%284321565358%29.jpg/960px-Vegan_Pumpkin_Custard_%284321565358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3": {
+    "creator": "Fatimahope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Methi_Bhaji.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloo_Methi_Bhaji.jpg/960px-Aloo_Methi_Bhaji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "30": {
+    "creator": "Pradeep717",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Ragi_Dosa_Mumbai.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ragi_Dosa_Mumbai.jpg/960px-Ragi_Dosa_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "300": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Gujiya_anju.jpg/960px-Gujiya_anju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gujiya_anju.jpg",
     "creator": "Anjuy17",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "title": "Gujiya anju",
-    "match": "exact"
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Gujiya_anju.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Gujiya_anju.jpg/960px-Gujiya_anju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "32": {
+    "creator": "VIRENDRA SINGH",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:SPROUTED_MOONG_DAL_MOTH.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/SPROUTED_MOONG_DAL_MOTH.jpg/960px-SPROUTED_MOONG_DAL_MOTH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "33": {
+    "creator": "Soumya dey at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Idli_Sambar.JPG",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Idli_Sambar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "36": {
+    "creator": "Fatimahope",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Methi_Paratha_by_Fatima.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Methi_Paratha_by_Fatima.jpg/960px-Methi_Paratha_by_Fatima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "37": {
+    "creator": "Status 401",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Homemade_masala_oats_India.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Homemade_masala_oats_India.jpg/960px-Homemade_masala_oats_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4": {
+    "creator": "やましこ",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Aloo_Gobi_Matar_(49653225183).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aloo_Gobi_Matar_%2849653225183%29.jpg/960px-Aloo_Gobi_Matar_%2849653225183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "41": {
+    "creator": "Maharana7573",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:MTR_Rava_Idli.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MTR_Rava_Idli.jpg/960px-MTR_Rava_Idli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "42": {
+    "creator": "Bhuvana Meenakshi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Thinai_pongal_(fox-millet_pongal),_Tamil_Nadu.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Thinai_pongal_%28fox-millet_pongal%29%2C_Tamil_Nadu.jpg/960px-Thinai_pongal_%28fox-millet_pongal%29%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "43": {
+    "creator": "Madhavan M murugaiyan",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sundal_pori.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sundal_pori.jpg/960px-Sundal_pori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "46": {
+    "creator": "Ashok Kumar P S",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pesarattu_making.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pesarattu_making.jpg/960px-Pesarattu_making.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "48": {
+    "creator": "SaurWiki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg/960px-Ghee_Roast_Soya_Keema_with_Mini_Parathas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "49": {
+    "creator": "Venkatarangan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Salad_with_Chana,_Cucumber,_Pomegranate_-_home_made-Chennai,_Tamil_Nadu-0206.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Salad_with_Chana%2C_Cucumber%2C_Pomegranate_-_home_made-Chennai%2C_Tamil_Nadu-0206.jpg/960px-Salad_with_Chana%2C_Cucumber%2C_Pomegranate_-_home_made-Chennai%2C_Tamil_Nadu-0206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5": {
+    "creator": "Sapanabehl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathal_ki_sabzi.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kathal_ki_sabzi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "50": {
+    "creator": "Tony Webster from Minneapolis, Minnesota",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tacopocalypse_Vegan_Tofu_Scramble,_Des_Moines,_Iowa_(24301627930).jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tacopocalypse_Vegan_Tofu_Scramble%2C_Des_Moines%2C_Iowa_%2824301627930%29.jpg/960px-Tacopocalypse_Vegan_Tofu_Scramble%2C_Des_Moines%2C_Iowa_%2824301627930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "53": {
+    "creator": "rovingl",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Awadhi_palak_paneer_paratha_dahi.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Awadhi_palak_paneer_paratha_dahi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "54": {
+    "creator": "Bingo2310",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sprout_Chaat.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Sprout_Chaat.jpg/960px-Sprout_Chaat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "55": {
+    "creator": "Yakshitha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Dhokla_6.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dhokla_6.jpg/960px-Dhokla_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "56": {
+    "creator": "Sudhan Ram",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Adai_Dosai_with_Chutney_01.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Adai_Dosai_with_Chutney_01.jpg/960px-Adai_Dosai_with_Chutney_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "57": {
+    "creator": "Nervy8924",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Protein_overnight_oats.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Protein_overnight_oats.jpg/960px-Protein_overnight_oats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "58": {
+    "creator": "https://www.flickr.com/photos/thedelicious/",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Chickpea_salad_sandwich_-_01.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chickpea_salad_sandwich_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "59": {
+    "creator": "Apoorva lakshmi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Uttapam_dosa.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Uttapam_dosa.jpg/960px-Uttapam_dosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6": {
+    "creator": "Mdsmds0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": true,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",
+    "sourceType": "commons",
+    "url": "/assets/images/recipes/006.webp"
+  },
+  "61": {
+    "creator": "Mdsmds0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_Toast_Sandwich.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paneer_Toast_Sandwich.JPG/960px-Paneer_Toast_Sandwich.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "62": {
+    "creator": "Samar Fatma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Sattu_Paratha.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Sattu_Paratha.jpg/960px-Sattu_Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "64": {
+    "creator": "Dr. Chinchu C.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Mushroom_Masala_Dosa.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Mushroom_Masala_Dosa.jpg/960px-Mushroom_Masala_Dosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "67": {
+    "creator": "Sharon from Sydney, Australia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg/960px-Carrot_ginger_soup_with_rice_noodles_with_Asian_slaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "69": {
+    "creator": "Victoria",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg/960px-Pearl_barley_and_mushroom_soup_with_white_bread_in_Veselka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7": {
+    "creator": "Zeel Patel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Baingan_Ka_Bharta.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Baingan_Ka_Bharta.JPG/960px-Baingan_Ka_Bharta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "70": {
+    "creator": "Harikrishnan N",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House,_Bangalore_-_Karnataka_-_PXL2005.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House%2C_Bangalore_-_Karnataka_-_PXL2005.jpg/960px-Lemon_Chilli_Coriander_Soup_-_The_Asian_Curry_House%2C_Bangalore_-_Karnataka_-_PXL2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "74": {
+    "creator": "Sarkar Sayantan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Manchow_soup_-_Indo-Chinese_cuisine.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Manchow_soup_-_Indo-Chinese_cuisine.jpg/960px-Manchow_soup_-_Indo-Chinese_cuisine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "75": {
+    "creator": "GeoTrinity",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Mulligatawny-Soup_Mumbai.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mulligatawny-Soup_Mumbai.jpg/960px-Mulligatawny-Soup_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "76": {
+    "creator": "Silar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:08401_Beetroot_soup_with_vegetables_and_beans,_Sanok.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/08401_Beetroot_soup_with_vegetables_and_beans%2C_Sanok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "77": {
+    "creator": "Andy Li",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Yum_(Hot_%26_Sour_Soup)_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg/960px-Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "79": {
+    "creator": "Ocdp",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pholiota_microspora_miso_soup_001.jpg/960px-Pholiota_microspora_miso_soup_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "84": {
+    "creator": "Auctor quaerendae",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:20260318_Cabbage_Soup_recipe.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/20260318_Cabbage_Soup_recipe.jpg/960px-20260318_Cabbage_Soup_recipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "85": {
+    "creator": "Thriving Vegetarian",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Roasted_Red_Pepper_and_Tomato_Soup.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Roasted_Red_Pepper_and_Tomato_Soup.jpg/960px-Roasted_Red_Pepper_and_Tomato_Soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "86": {
+    "creator": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Paneer_butter_masala_2.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Paneer_butter_masala_2.jpg/960px-Paneer_butter_masala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "87": {
+    "creator": "Shashank7200",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Shahi_Paneer_%26_Butter_Naan.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shahi_Paneer_%26_Butter_Naan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "88": {
+    "creator": "YKanchan07",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Kadai_paneer_with_garlic_naan.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kadai_paneer_with_garlic_naan.jpg/960px-Kadai_paneer_with_garlic_naan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "89": {
+    "creator": "Koshur",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_at_WCI_2023.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Palak_Paneer_at_WCI_2023.jpg/960px-Palak_Paneer_at_WCI_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "90": {
+    "creator": "ayes",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_jalfrezi_-_2902442562.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Vegetable_jalfrezi_-_2902442562.jpg/960px-Vegetable_jalfrezi_-_2902442562.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "92": {
+    "creator": "Monali.mishra",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Bhindi_Masala.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bhindi_Masala.jpg/960px-Bhindi_Masala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "95": {
+    "creator": "Hrishikes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Matar_mushroom.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Matar_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "96": {
+    "creator": "Charles Haynes",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Dal_Makhani.jpg",
+    "sourceType": "commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dal_Makhani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "97": {
+    "creator": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Korma_03.jpg",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vegetable_Korma_03.jpg/960px-Vegetable_Korma_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "98": {
+    "creator": "Ravi Talwar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": false,
+    "match": "exact",
+    "page": "https://commons.wikimedia.org/wiki/File:Tinda_Masala.JPG",
+    "sourceType": "commons",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tinda_Masala.JPG/960px-Tinda_Masala.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
 }
