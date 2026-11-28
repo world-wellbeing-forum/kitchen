@@ -26,7 +26,7 @@ const COLLECTIONS=[
  {slug:'microwave',title:'Microwave-Friendly',group:'modern',range:[246,265],blurb:'Real meals in 10–25 minutes for busy days, with microwave-specific timings.',tile:'linear-gradient(135deg,#46657a,#7aa2b8)',glyph:'◉'},
  {slug:'world-kitchen',title:'From Around the World',group:'beyond',range:[266,285],blurb:'Plant-forward dishes from Thailand to Peru, kept free of nuts and eggs.',tile:'linear-gradient(135deg,#6a4c93,#a07bc0)',glyph:'✧'},
  {slug:'sweet-endings',title:'Sweet Endings',group:'beyond',range:[286,300],blurb:'Desserts sweetened with fruit, with no added sugar.',tile:'linear-gradient(135deg,#a64b6a,#d98aa3)',glyph:'❦'},
- {slug:'seasonal-greens',title:'Seasonal Winter Greens',group:'everyday',range:[301,301],blurb:'Winter greens and pulses inspired by regional home cooking, adapted with measured oil and added plant protein.',tile:'linear-gradient(135deg,#3d6350,#8ca77a)',glyph:'✿'}
+ {slug:'seasonal-greens',title:'Seasonal Winter Greens',group:'everyday',range:[301,302],blurb:'Winter greens and pulses inspired by regional home cooking, adapted with measured oil and added plant protein.',tile:'linear-gradient(135deg,#3d6350,#8ca77a)',glyph:'✿'}
 ];
 const GROUPS={everyday:['Everyday Indian cooking','From the home kitchens of India, rebuilt for steady energy and plenty of plant protein.'],modern:['The modern kitchen','The same flavours, cooked the way many of us cook today: oven, air fryer and microwave.'],beyond:['Beyond the thali','Dishes from elsewhere, and a few sweet things.']};
 for(const r of recipes){const c=COLLECTIONS.find(c=>r.id>=c.range[0]&&r.id<=c.range[1]);r.collection=c;r.slug=slugify(r.name);const im=images[r.id];if(im||r.image){r.photo={...(im||{}),url:r.imagePath||r.image||(im&&im.url)}}}
