@@ -104,7 +104,7 @@ for record in eligible:
 # original source page and licence, whether the asset is local or still remote.
 image_map = {}
 for record in records:
-    if record.get("activeOnSite") is not True or record.get("match") != "exact":
+    if record.get("activeOnSite") is not True or record.get("match") not in ("exact", "similar"):
         continue
     rid = str(record["recipeId"])
     url = ("/" + record["filePath"]) if record.get("filePath") else record.get("imageUrl")
@@ -145,19 +145,23 @@ summary.update({
     "recipeCount": len(manifest),
     "activeUniqueExactImages": len(unique_active),
     "uniqueExactImageSources": len(all_exact_sources),
-    "pendingRecipesAfterCleanup": max(0, len(manifest) - len(unique_active)),
-    "generatedThisRun": 0,
-    "sourcedAndIndividuallyVerifiedThisRun": len(mirrored),
-    "validatedThisRun": len(mirrored),
-    "localFilesAddedThisRun": len(mirrored),
-    "lastRunDate": today,
-    "note": (
-        f"{len(mirrored)} individually verified exact-match Wikimedia Commons "
-        "images were mirrored to local WebP assets. Original creators, source "
-        "pages and licence links are retained. No AI-generated images are "
-        "claimed in this run."
-    )
+    "pendingRecipesAfterCleanup": max(0, len(manifest) - len(unique_active))
 })
+if mirrored:
+    summary.update({
+        "generatedThisRun": 0,
+        "sourcedAndIndividuallyVerifiedThisRun": len(mirrored),
+        "validatedThisRun": len(mirrored),
+        "localFilesAddedThisRun": len(mirrored),
+        "lastRunDate": today,
+        "note": (
+            f"{len(mirrored)} individually verified Wikimedia Commons images "
+            "were mirrored to local WebP assets. Exact and explicitly labelled "
+            "similar base-dish matches are distinguished; original creators, "
+            "source pages and licence links are retained. No AI-generated "
+            "images are claimed in this run."
+        )
+    })
 ATTR_PATH.write_text(
     json.dumps(attrs, ensure_ascii=False, indent=2) + "\n",
     encoding="utf-8"
