@@ -41,14 +41,6 @@
       "linkCheck": "loaded-ok"
     },
     {
-      "site": "cookpad.com",
-      "title": "Client Challenge",
-      "url": "https://cookpad.com/eng/in/search/sattu",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
       "site": "milesnmeals.com",
       "title": "Sattu/Sattu Drink recipe/ Sattu Benefits - MilesnMeals",
       "url": "https://milesnmeals.com/sattu-sattu-drink-recipe-sattu-benefits/",
@@ -66,5 +58,6 @@
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
-  "nutritionStatus": "estimate"
+  "nutritionStatus": "estimate",
+  "inspirationStatus": "reviewed; non-recipe search-result link removed"
 }
