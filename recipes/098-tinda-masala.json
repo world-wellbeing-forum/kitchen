@@ -31,9 +31,19 @@
     "Finish with amchur, salt and coriander."
   ],
   "note": "Chickpeas turn a light gourd side dish into a more filling meal.",
-  "inspirationReferences": [],
+  "inspirationReferences": [
+    {
+      "site": "Archana's Kitchen",
+      "title": "Khatti Meethi Tinda Masala Recipe",
+      "url": "https://www.archanaskitchen.com/recipe/khatti-meethi-tinda-masala-recipe",
+      "note": "A North Indian one-pot tinda preparation using ajwain, ginger, tomato, green chilli, amchur and kasuri methi. It informed the sour-spice profile and pressure-cooking approach; the Kitchen recipe's measured ingredients and protein adaptation remain original.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    }
+  ],
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
   "rebalanced": true,
-  "originalDevelopment": true
+  "originalDevelopment": true,
+  "inspirationStatus": "researched-exact-page"
 }
