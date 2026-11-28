@@ -1354,7 +1354,7 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "localFile": true,
-    "match": "exact",
+    "match": "similar",
     "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_Curry_(Kaddu_Ki_Sabzi).JPG",
     "sourceType": "commons",
     "url": "/assets/images/recipes/006.webp"
