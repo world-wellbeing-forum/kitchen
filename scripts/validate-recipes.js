@@ -41,7 +41,7 @@ console.log('missing ids',miss.join(',')||'none');
 console.log(bad.length?bad.join('\n'):'NO ISSUES');
 const R=rs.map(x=>x.r);
 const inspirationPending=R.filter(r=>!Array.isArray(r.inspirationReferences)||!r.inspirationReferences.length).map(r=>r.id+' '+r.name);
-const inspirationInvalid=R.flatMap(r=>(r.inspirationReferences||[]).filter(ref=>!ref.site||!ref.title||!ref.url||!ref.note||/[?&]s=|\\/search(?:\\/|$)/i.test(ref.url||'')).map(ref=>r.id+' '+r.name+' -> '+(ref.url||'missing URL')));
+const inspirationInvalid=R.flatMap(r=>(r.inspirationReferences||[]).filter(ref=>!ref.site||!ref.title||!ref.url||!ref.note||String(ref.url||'').includes('/search/')||/[?&]s=/i.test(String(ref.url||''))).map(ref=>r.id+' '+r.name+' -> '+(ref.url||'missing URL')));
 console.log('inspiration refs pending:',inspirationPending.length,inspirationPending.join('; ')||'none');
 console.log('invalid inspiration refs:',inspirationInvalid.length,inspirationInvalid.join('; ')||'none');
 console.log('P>=15:',R.filter(r=>r.protein>=15).length,' P10-14:',R.filter(r=>r.protein>=10&&r.protein<15).length,' P<10:',R.filter(r=>r.protein<10).map(r=>r.id+' '+r.name+' '+r.protein).join('; ')||0);
