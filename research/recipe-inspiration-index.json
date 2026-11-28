@@ -1005,6 +1005,30 @@
           "relationship": "Starting search link; the individual Sarson Chole Ka Saag page was opened and reviewed for the winter-greens and chickpea combination."
         }
       ]
+    },
+    {
+      "id": "302",
+      "name": "Mooli Bhurji with Soya Granules",
+      "inspirationReferences": [
+        {
+          "site": "Dassana's Veg Recipes",
+          "url": "https://www.vegrecipesofindia.com/?s=mooli+bhurji",
+          "query": "mooli bhurji",
+          "relationship": "Starting search link; the individual Mooli ki Sabji / Mooli Bhurji page was opened and reviewed."
+        },
+        {
+          "site": "Hebbars Kitchen",
+          "url": "https://hebbarskitchen.com/?s=radish+leaves+recipe",
+          "query": "radish leaves recipe",
+          "relationship": "Search checked; the individual Karnataka Soppu Saaru page was reviewed as a regional comparison, not cited as a North Indian bhurji."
+        },
+        {
+          "site": "Archana's Kitchen",
+          "url": "https://www.archanaskitchen.com/?s=mooli+bhurji",
+          "query": "mooli bhurji",
+          "relationship": "Starting search link; the individual North Indian Mooli Bhurji page was opened and reviewed."
+        }
+      ]
     }
   ]
 }
