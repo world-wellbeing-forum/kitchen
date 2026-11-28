@@ -27,36 +27,20 @@
   "note": "A lighter lentil meal with vegetables and fibre.",
   "inspirationReferences": [
     {
-      "site": "recipes.timesofindia.com",
+      "site": "Times of India Recipes",
       "title": "Mooli Moong Dal Recipe: How to Make Mooli Moong Dal Recipe | Homemade Mooli Moong Dal Recipe",
       "url": "https://recipes.timesofindia.com/recipes/mooli-moong-dal/rs58694323.cms",
-      "note": "Radish and mung-dal regional pairing with pressure-cooker method; our ingredient ratios and seasoning are original.",
+      "note": "An individual radish-and-moong-dal recipe page used to compare the root-and-pulse pairing; the World Wellbeing Kitchen ratios and seasoning remain original.",
       "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
+      "linkCheck": "opened-and-reviewed"
     },
     {
-      "site": "nmrecipe.com",
-      "title": "Mooli Aur Moong Dal Sabji Recipe",
-      "url": "https://nmrecipe.com/mooli-aur-moong-dal-sabji-recipe/",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
+      "site": "Archana's Kitchen",
+      "title": "Moong Dal With Radish Greens Recipe",
+      "url": "https://www.archanaskitchen.com/recipe/moong-dal-with-radish-greens-recipe",
+      "note": "A specific radish-greens and moong-dal preparation; it informed the seasonal greens-and-pulse pairing and the idea of cooking the leaves separately before combining, not the quantities or steps.",
       "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
-      "site": "niwi.ai",
-      "title": "Best Mooli And Moong Dal Sabji Recipe (Quick & Delicious)",
-      "url": "https://www.niwi.ai/diet/recipes/mooli-and-moong-dal-sabji",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
-    },
-    {
-      "site": "slurrp.com",
-      "title": "How to make Mooli Moong Dal Recipe",
-      "url": "https://www.slurrp.com/recipes/mooli-moong-dal-3886-1619099095",
-      "note": "Page found in the original recipe research for this dish; used for technique and regional context. Our recipe is an independent adaptation.",
-      "referenceType": "culinary-inspiration",
-      "linkCheck": "loaded-ok"
+      "linkCheck": "opened-and-reviewed"
     }
   ],
   "editorialStatus": "draft-requires-kitchen-testing",
