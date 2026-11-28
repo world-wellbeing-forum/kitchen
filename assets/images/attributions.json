@@ -17,8 +17,10 @@
     "sourcedAndIndividuallyVerifiedThisRun": 5,
     "validatedThisRun": 5,
     "localFilesAddedThisRun": 5,
-    "note": "5 individually verified exact-match Wikimedia Commons images were mirrored to local WebP assets. Original creators, source pages and licence links are retained. No AI-generated images are claimed in this run.",
-    "lastRunDate": "2026-11-28"
+    "note": "Five individually verified Wikimedia Commons images were mirrored to local WebP assets: four exact recipe matches and one similar pumpkin-curry base image explicitly labelled as a similar reference because the recipe's chana dal and soy granules are not visible. Original creators, source pages and licence links are retained. No AI-generated images are claimed in this run.",
+    "lastRunDate": "2026-11-28",
+    "exactLocalFilesAddedThisRun": 4,
+    "similarLocalFilesAddedThisRun": 1
   },
   "records": [
     {
