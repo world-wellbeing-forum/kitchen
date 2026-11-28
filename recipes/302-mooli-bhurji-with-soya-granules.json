@@ -1,0 +1,153 @@
+{
+  "id": 302,
+  "name": "Mooli Bhurji with Soya Granules",
+  "category": "Seasonal Winter Greens · North Indian Home Style",
+  "cuisine": "North Indian; Punjabi-style home cooking",
+  "servings": 4,
+  "vegan": true,
+  "eggFree": true,
+  "nutFree": true,
+  "allergens": [
+    "Contains soy; check packaged textured soy protein for added ingredients and cross-contact."
+  ],
+  "protein": 18,
+  "cal": 179,
+  "carbs": 18,
+  "fiber": 9,
+  "fat": 3.8,
+  "saturatedFat": 0.3,
+  "prep": 20,
+  "cook": 20,
+  "mins": 40,
+  "totalTime": 40,
+  "methodLabel": "Stovetop method",
+  "equipment": [
+    "Wide kadai or heavy skillet with lid",
+    "Fine-mesh sieve",
+    "Box grater",
+    "Knife and chopping board",
+    "Measuring spoons",
+    "Heatproof bowl"
+  ],
+  "ingredients": [
+    "120 g dry textured soy protein (fine soy granules)",
+    "350 g fresh white radish (mooli), peeled and coarsely grated",
+    "250 g tender radish leaves (mooli ke patte), thick stems removed, washed thoroughly and finely chopped",
+    "10 ml (2 tsp) canola oil",
+    "1 tsp mustard seeds",
+    "¾ tsp ajwain (carom seeds)",
+    "⅛ tsp asafoetida (hing)",
+    "¼ tsp ground turmeric",
+    "2 green chillies (about 10 g), finely chopped; adjust to taste",
+    "5 g fresh ginger, finely grated",
+    "1 tsp amchur (dry mango powder), or 1 tbsp lemon juice",
+    "2 tbsp chopped fresh coriander leaves (about 8 g)",
+    "½ tsp fine salt to start, then adjust to taste",
+    "240 ml boiling water to rehydrate the soy granules, plus up to 60 ml water for the pan if needed"
+  ],
+  "steps": [
+    "Put the dry soy granules in a heatproof bowl. Pour over 240 ml boiling water, stir, cover and leave for 8–10 minutes until hydrated. Drain through a fine-mesh sieve, rinse briefly with hot water and squeeze gently to remove excess liquid. Set aside.",
+    "Trim away thick or fibrous radish-leaf stems. Wash the leaves in several changes of water until no grit remains, drain well and chop finely. Peel and coarsely grate the radish root.",
+    "Heat the measured canola oil in a wide kadai over medium heat. Add the mustard seeds; when they begin to pop, add the ajwain, asafoetida and turmeric. Stir for a few seconds, then add the green chillies and ginger and stir briefly until fragrant.",
+    "Add the grated radish root and stir-fry for 2–3 minutes. Add the chopped leaves and salt, mix well, cover and cook over low heat for 4–5 minutes until the leaves wilt and the radish softens. If the pan becomes dry before the vegetables soften, add a splash of the measured water.",
+    "Uncover and cook for another 5–7 minutes, stirring regularly, until most of the moisture released by the radish has evaporated. This keeps the bhurji dry and prevents the soy granules from becoming watery.",
+    "Add the hydrated soy granules and fold them through the radish mixture. Cook uncovered for 6–8 minutes, stirring and breaking up any clumps, until the granules are hot and the flavours are combined. If the mixture begins to catch, add water 1 tablespoon at a time rather than extra oil.",
+    "Turn off the heat. Stir in the amchur (or lemon juice) and coriander. Taste and adjust the salt and sourness. Serve hot.",
+    "For a balanced meal, pair a serving with plenty of non-starchy vegetables. A small whole-wheat phulka or millet roti is optional; count it as a separate carbohydrate portion. The soy granules also contribute carbohydrate as well as protein."
+  ],
+  "note": "A protein-forward adaptation of North Indian/Punjabi-style mooli bhurji, a winter stir-fry built around white radish and its tender leaves. The original adaptation keeps the peppery radish, mustard seed, ajwain, hing and amchur profile while adding hydrated soy granules for more plant protein. It is not presented as a canonical traditional recipe. Vegan, egg-free and nut-free; contains soy. Soy granules contribute carbohydrate as well as protein. No claim is made that this dish treats, prevents or improves any disease.",
+  "servingGuidance": "Use this as the protein-and-vegetable part of a balanced plate: keep non-starchy vegetables plentiful, and if adding a small whole-wheat phulka or millet roti, count it as a separate carbohydrate portion. The soy granules contain carbohydrate too; this dish is not carbohydrate-free.",
+  "calorieCalculation": "standard-atwater",
+  "nutritionMethod": "Approximate per-serving values are based on weighed ingredient quantities. Dry textured soy protein uses USDA FoodData Central FNDDS record 2707451; raw radish leaves and white radish use ICMR-NIN Indian Food Composition Tables 2017 entries C031 and F010; canola oil, ginger, green chilli and coriander use USDA FoodData Central SR Legacy ingredient records. The dry soy weight is the calculation basis; rehydration water adds no nutrients. Small spice and lemon quantities are estimated. Values are rounded, vary by produce and soy brand, and are not a laboratory analysis.",
+  "nutritionStatus": "ingredient-level estimate; not laboratory-tested",
+  "editorialStatus": "draft-requires-kitchen-testing",
+  "testingStatus": "not-kitchen-tested",
+  "image": null,
+  "imagePath": null,
+  "imageStatus": "pending-no-licensed-dish-specific-photo",
+  "imageCredit": null,
+  "inspirationReferences": [
+    {
+      "site": "Dassana's Veg Recipes",
+      "title": "Mooli ki Sabji | Mooli Bhurji | Easy Radish Recipe",
+      "url": "https://www.vegrecipesofindia.com/mooli-ki-bhurji-punjabi-mooli-bhurji/",
+      "note": "A Punjabi-style mooli bhurji page describing the use of tender root and leaves, mustard oil, ajwain and restrained seasoning, with the released moisture cooked off. It informed the flavour profile and dry-stir-fry texture, not the ingredient quantities.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Archana's Kitchen",
+      "title": "Mooli Bhurji Recipe",
+      "url": "https://www.archanaskitchen.com/recipe/mooli-bhurji-recipe",
+      "note": "A North Indian winter stir-fry combining chopped radish and leaves with mustard seed, ajwain, hing and amchur. It informed the regional dish identity and use of the leaves; the soy addition and method here are original.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    },
+    {
+      "site": "Hebbars Kitchen",
+      "title": "soppu saaru recipe | huli soppina saru | mulangi or radish leaves saaru",
+      "url": "https://hebbarskitchen.com/SOPPU-SAARU-RECIPE-RADISH-LEAVES-SAARU/",
+      "note": "This is a distinct Karnataka radish-leaf saaru, not a North Indian bhurji. It was reviewed as a regional comparison for using radish leaves and to keep the dish's regional framing accurate.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    }
+  ],
+  "nutritionReferences": [
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Textured vegetable protein, dry — FDC 2707451 (FNDDS)",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/2707451/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Dry textured vegetable protein values scaled to 120 g; rehydration water is not counted."
+    },
+    {
+      "publisher": "ICMR-National Institute of Nutrition",
+      "title": "Indian Food Composition Tables 2017",
+      "url": "https://www.nin.res.in/ebooks/IFCT2017_16122024.pdf",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Raw radish leaves (food code C031) and elongated white radish (food code F010) values scaled to 250 g and 350 g respectively."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Oil, canola — FDC 172336",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172336/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Canola-oil data scaled to the measured 10 ml."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Ginger root, raw — FDC 169231",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169231/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Raw ginger data scaled to 5 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Peppers, hot chili, green, raw — FDC 170497",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170497/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Green chilli data scaled to approximately 10 g."
+    },
+    {
+      "publisher": "USDA FoodData Central",
+      "title": "Coriander (cilantro) leaves, raw — FDC 169997",
+      "url": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169997/nutrients",
+      "referenceType": "ingredient-nutrition-data",
+      "note": "Fresh coriander data scaled to approximately 8 g."
+    },
+    {
+      "publisher": "American Diabetes Association",
+      "title": "What is the Diabetes Plate?",
+      "url": "https://diabetes.org/sites/default/files/2025-07/Nutrition_DFH_Diabetes-Plate-Flyer.pdf",
+      "referenceType": "dietary-guidance",
+      "note": "Plate proportions and the reminder that plant-based protein foods can also contribute carbohydrate."
+    },
+    {
+      "publisher": "ICMR-National Institute of Nutrition",
+      "title": "Dietary Guidelines for Indians (2024)",
+      "url": "https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf",
+      "referenceType": "dietary-guidance",
+      "note": "Guidance on dietary variety, vegetables and legumes, moderate use of oils and fats, and appropriate food combinations."
+    }
+  ]
+}
