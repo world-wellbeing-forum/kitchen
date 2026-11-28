@@ -32,8 +32,18 @@
     "Mash lightly to a thick, porridge-like texture and season with salt."
   ],
   "note": "A traditional Sindhi dish of mixed greens and chana dal; three greens give iron and fibre.",
-  "inspirationReferences": [],
+  "inspirationReferences": [
+    {
+      "site": "Archana's Kitchen",
+      "title": "Sindhi Sai Bhaji Recipe - Wholesome Sindhi Dal With Vegetables",
+      "url": "https://www.archanaskitchen.com/recipe/sindhi-sai-bhaji-recipe",
+      "note": "An individual Sindhi recipe page documenting sai bhaji as a one-pot combination of chana dal, green moong, leafy greens and seasonal vegetables, cooked and mashed together. It informed the dish's regional identity and greens-plus-pulses structure; the Kitchen adaptation uses its own measured quantities and oil approach.",
+      "referenceType": "culinary-inspiration",
+      "linkCheck": "opened-and-reviewed"
+    }
+  ],
   "editorialStatus": "draft-requires-kitchen-testing",
   "nutritionStatus": "estimate",
-  "originalDevelopment": true
+  "originalDevelopment": true,
+  "inspirationStatus": "researched-exact-page"
 }
