@@ -72,12 +72,13 @@
       "licenseName": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourceTitle": "Pumpkin Curry (Kaddu Ki Sabzi)",
-      "match": "exact",
+      "match": "similar",
       "duplicateSourceRecipeIds": [],
-      "status": "licensed-commons-local-validated",
+      "status": "licensed-commons-local-similar-reference",
       "activeOnSite": true,
       "localCopyDate": "2026-11-28",
-      "localFileSha256": "9c8458186b73e65c286c2f9141eb7392a3d92a6e9441a311714ff8f648bf80d5"
+      "localFileSha256": "9c8458186b73e65c286c2f9141eb7392a3d92a6e9441a311714ff8f648bf80d5",
+      "matchNote": "The photograph shows the pumpkin-curry base; the recipe's chana dal and soy granules are not visible."
     },
     {
       "recipeId": 7,
